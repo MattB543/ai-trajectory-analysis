@@ -1,0 +1,499 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "priority",
+      "claim_text": "Given the speed of AGI development, uncertainty of its trajectories, and potential power it might unleash, it is imperative for policymakers to begin preparing now",
+      "confidence": "high",
+      "quote": "Considering the speed of AGI development, the uncertainty of its trajectories, and the potential power that AGI might unleash, we cannot overstate how imperative it is for policymakers to begin preparing now.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "causal",
+      "claim_text": "The degree of centralization in AGI development is a crucial determinant of the geopolitical outcomes that might materialize",
+      "confidence": "high",
+      "quote": "These scenarios are designed to demonstrate how the extent of centralization in AGI development is a crucial determinant of the geopolitical outcomes that might materialize.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "causal",
+      "claim_text": "Higher resource requirements or barriers to entry in AI development tend to favor centralization, while unexpected technological breakthroughs could lead to rapid decentralization",
+      "confidence": "medium",
+      "quote": "higher resource requirements or barriers to entry (e.g., raw compute power) tend to favor centralization; unexpected technological breakthroughs could dramatically lower the resource requirement threshold, potentially leading to rapid decentralization.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "causal",
+      "claim_text": "Strict controls on AI development resources (such as export controls on advanced chips or regulation of who can engage in AI development) could centralize development among a few actors",
+      "confidence": "high",
+      "quote": "Strict controls on the resources used to produce AI models, such as export controls on advanced chips or the regulation of who can engage in AI development, could centralize development among a few actors (such as leading states and leading private-sector companies).",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "strategic",
+      "claim_text": "U.S. policy choices, particularly controlling the proliferation of semiconductors through export controls, could have a significant impact on whether there are few or many clusters of computing power available for AI development",
+      "confidence": "high",
+      "quote": "controlling the proliferation of semiconductors through export controls could have a significant impact on whether there are few or many clusters of computing power available for the development and deployment of AI.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "capability",
+      "claim_text": "AI is already being used in the U.S. labor market to assist in between one-half and three hours of work per week for many jobs",
+      "confidence": "high",
+      "quote": "Economist David Deming estimates that AI is already being used in the U.S. labor market to assist in between one-half and three hours of work per week for many jobs.",
+      "conditional": null,
+      "notes": "As of time of writing (2025)"
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "capability",
+      "claim_text": "Existing AI tools improve productivity by 14 percent",
+      "confidence": "high",
+      "quote": "Research by Erik Brynjolfsson and his colleagues indicates that existing AI tools improve productivity by 14 percent.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "capability",
+      "claim_text": "AI could automate between 400 and 800 million jobs globally by 2030",
+      "confidence": "medium",
+      "quote": "McKinsey Global Institute estimates that AI could automate between 400 and 800 million jobs globally by 2030",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "capability",
+      "claim_text": "The latest AI models are on the cusp of being able to meaningfully help novices create known biological threats",
+      "confidence": "medium",
+      "quote": "the latest AI models 'are on the cusp of being able to meaningfully help novices create known biological threats,'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "timeline",
+      "claim_text": "AI researchers estimate a 50 percent probability that machines will automate all human tasks by 2047",
+      "confidence": "medium",
+      "quote": "A survey of AI researchers published in top-tier AI venues showed that experts have put the probability of machines automating all human tasks by 2047 at 50 percent.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "causal",
+      "claim_text": "The nation or entity that develops and controls AGI systems could fundamentally reshape the global order and potentially guide the future trajectory of humanity",
+      "confidence": "high",
+      "quote": "The nation or entity that develops and controls such systems could fundamentally reshape the global order and potentially guide the future trajectory of humanity.",
+      "conditional": "IF AGI is developed",
+      "notes": null
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "priority",
+      "claim_text": "Policymakers should focus on extreme but impactful potential outcomes and tail risks from AI development, not just high-probability scenarios",
+      "confidence": "high",
+      "quote": "we focused on the most impactful potential outcomes from existing trends in AI development and potential tail risks, which are low probability but highly impactful potential events, from this technology.",
+      "conditional": null,
+      "notes": "Authors' methodological choice reflects this priority claim"
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "feasibility",
+      "claim_text": "It is unclear whether maintaining technical leadership in AI or controlling access to semiconductors would be sufficient to realize a U.S. advantage, as being a fast follower might be sufficient to realize AI benefits",
+      "confidence": "low",
+      "quote": "It is not entirely clear whether this will be true for AI; being a fast follower might be sufficient to realize the benefits that AI could provide... As of this writing, it is unclear whether this assumption is true.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "causal",
+      "claim_text": "The United States does not singularly control the semiconductor supply chain and therefore cannot prevent adversaries from acquiring materials necessary for AGI development without allied cooperation",
+      "confidence": "high",
+      "quote": "the United States does not singularly control the semiconductor supply chain and, therefore, cannot prevent adversaries from acquiring the material necessary for AGI development without allied cooperation.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "strategic",
+      "claim_text": "International cooperation among the United States and its allies (including market access for AI products and research partnerships) is critical for creating a large market for AI-enabled products and denying AI development inputs to U.S. adversaries",
+      "confidence": "high",
+      "quote": "Such coordination is crucial for creating a large market for AI-enabled products and leveraging expertise and resources across friendly borders. It is also necessary to successfully deny AI development inputs to U.S. adversaries",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "risk",
+      "claim_text": "If AGI cannot be controlled, the technology may represent a large risk to the United States",
+      "confidence": "medium",
+      "quote": "if AGI cannot be controlled, the technology may represent a large risk to the United States.",
+      "conditional": "IF AGI cannot be controlled",
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "feasibility",
+      "claim_text": "Whether and how AI alignment might be achieved is a matter of ongoing debate within the AI research community",
+      "confidence": "high",
+      "quote": "whether and how alignment might be achieved is a matter of ongoing debate within the AI research community.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "risk",
+      "claim_text": "The deployment of increasingly sophisticated automated military systems (drones, autonomous planes, vessels, submarines, and AI-driven cyber warfare tools) adds complexity and risk of miscalculations or unintended engagements",
+      "confidence": "high",
+      "quote": "The deployment of increasingly sophisticated automated systems—drones, autonomous planes, surface vessels, submarines, and AI-driven cyber warfare tools—adds another layer of complexity and risk. The potential for miscalculations or unintended engagements involving these advanced technologies fuels widespread concerns",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "causal",
+      "claim_text": "Economic and military parity between the United States and the PRC creates a foundation for intense AGI development rivalry in which each state continues to develop the technology",
+      "confidence": "medium",
+      "quote": "The economic and military parity between the United States and the PRC creates a foundation for intense AGI development rivalry in which each state continues to develop the technology.",
+      "conditional": "IF economic and military parity exists",
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "risk",
+      "claim_text": "If AGI development becomes cheap and easy with low technical barriers, it will be difficult for leaders in AGI to prevent many smaller actors from catching up",
+      "confidence": "medium",
+      "quote": "Technical barriers are assumed to be low, meaning that it is difficult for leaders in AGI to prevent many smaller actors from catching up, particularly as AGI becomes better understood and, therefore, easier to replicate.",
+      "conditional": "IF AGI development is cheap and easy",
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "risk",
+      "claim_text": "Widespread proliferation of AGI reduces the effectiveness of safety and alignment standards, as more entities developing AGI increases the risk of divergent goals and unevenly applied or ignored safety protocols",
+      "confidence": "high",
+      "quote": "the widespread proliferation of AGI reduces the effectiveness of safety and alignment standards. As more entities gain the capability to develop AGI, the risk of divergent goals and methodologies increases, which leads to a fragmented landscape in which safety protocols may be unevenly applied or ignored altogether.",
+      "conditional": "IF AGI proliferates widely",
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "risk",
+      "claim_text": "Competitive pressure to innovate quickly in AI may incentivize risk-taking and the prioritization of performance over safety",
+      "confidence": "high",
+      "quote": "This competitive pressure to innovate quickly may further incentivize risk-taking and the prioritization of performance over safety.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "causal",
+      "claim_text": "An AI incident (such as large-scale malfunction damaging critical infrastructure) could trigger international concern and catalyze decisive action through treaties restricting AGI development",
+      "confidence": "medium",
+      "quote": "An AI incident, such as a large-scale malfunction of AI that damages critical infrastructure, triggers concern about AGI-induced accidents and potentially international instability, prompting the international community to take decisive action.",
+      "conditional": "IF a significant AI incident occurs",
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "feasibility",
+      "claim_text": "Deep-seated suspicions between leading nations (especially between the United States and PRC) could result in evasive behaviors and continued AGI development despite international agreements",
+      "confidence": "high",
+      "quote": "deep-seated suspicions between leading nations, especially between the United States and the PRC, result in evasive behaviors and continued AGI development. This mistrust reflects historical geopolitical rivalries and the strategic importance of technological superiority.",
+      "conditional": "IF international AGI treaties are established",
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "causal",
+      "claim_text": "If AI is offense-dominant technology (much more effective at finding cybersecurity vulnerabilities than fixing them), the U.S. government may decide to directly control AI development and opt against widespread diffusion",
+      "confidence": "medium",
+      "quote": "AI is shaping up to be an offense-dominant technology; for one, the technology is much more effective at finding cybersecurity vulnerabilities than fixing them. This results is the U.S. government deciding to directly control AI development, opting against widespread diffusion.",
+      "conditional": "IF AI is offense-dominant",
+      "notes": "This is presented within a scenario but reflects a causal logic"
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "feasibility",
+      "claim_text": "AGI systems could potentially resolve traditional weaknesses in authoritarian governance and overcome historical inefficiencies associated with authoritarian modes of governance",
+      "confidence": "low",
+      "quote": "AGI systems with their vast data processing capabilities could overcome the historical inefficiencies and difficulties associated with authoritarian modes of governance.",
+      "conditional": "IF AGI is developed",
+      "notes": "Authors present this as a possibility deserving consideration"
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "capability",
+      "claim_text": "AGI systems could dramatically amplify surveillance capabilities, potentially allowing authoritarian regimes to comprehensively monitor and manage society to an unprecedented degree",
+      "confidence": "medium",
+      "quote": "AGI could dramatically amplify these capabilities, potentially allowing authoritarian regimes to comprehensively monitor and manage society to an unprecedented degree.",
+      "conditional": "IF AGI is developed",
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "capability",
+      "claim_text": "AGI systems, being inherently loyal and presumably truthful, could resolve the 'dictator's dilemma' by providing reliable information and advice to autocrats, significantly enhancing authoritarian decisionmaking and regime stability",
+      "confidence": "low",
+      "quote": "Being inherently loyal and presumably truthful, AGI systems could resolve this 'dictator's dilemma.' This capability alone could significantly enhance authoritarian decisionmaking and regime stability.",
+      "conditional": "IF AGI is developed and deployed by authoritarian regimes",
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "causal",
+      "claim_text": "Democratic societies may face structural constraints in AGI development and deployment, as privacy laws, civil liberties protections, and requirements for public consultation introduce friction that could slow AGI adoption",
+      "confidence": "medium",
+      "quote": "Meanwhile, democratic societies may face structural constraints in AGI development and deployment. Privacy laws, civil liberties protections, and requirements for public consultation all introduce friction that could slow AGI's adoption.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "risk",
+      "claim_text": "The AI control problem is legitimate—capable AIs can become goal-seeking in ways that are not in the interest of humanity",
+      "confidence": "medium",
+      "quote": "it assumes the legitimacy of the AI control problem: the idea that capable AIs can become goal-seeking in ways that are not in the interest of humanity. There is some empirical evidence of reinforcement learning systems learning unintended goals",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "risk",
+      "claim_text": "Human oversight and technical innovation may be insufficient to prevent AI misbehavior, particularly when tasks require rapid decisionmaking or when automated judgments are difficult to verify",
+      "confidence": "medium",
+      "quote": "Human overseers who are meant to provide an independent assessment sometimes instead defer to an imperfect technical system, which is a phenomenon known as automation bias. This bias is more common when a task requires rapid decisionmaking or when an automated judgment is difficult to verify.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "risk",
+      "claim_text": "Using AI systems themselves to provide design and oversight for more-advanced AIs could lead to errors compounding, resulting in systems that are highly capable but not reliable",
+      "confidence": "medium",
+      "quote": "Such an iterative process could lead to increasingly capable and reliable AI systems; however, errors in the process could compound and lead to systems that are highly capable but not reliable.",
+      "conditional": "IF AI is used to design more advanced AI",
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "feasibility",
+      "claim_text": "AI cooperation and collusion among AI systems is possible, with early research suggesting collusion between large language models is a possibility",
+      "confidence": "medium",
+      "quote": "AI cooperation is an area that researchers have already explored, suggesting that cooperation among such systems is possible. The prospect of collusion between AI systems—especially those that are not trained to cooperate—is an open area of research, with some early work suggesting that collusion between large language models is a possibility.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "risk",
+      "claim_text": "Humans may voluntarily hand over authority to AGI to achieve greater efficiency across society, creating opportunities for misaligned AGIs to pursue their own interests over those of humans",
+      "confidence": "low",
+      "quote": "humans may voluntarily hand over authority to AGI to achieve greater efficiency across society, resulting in AGI administering a wide variety of functions that had been run by humans in the past. This could create opportunities for misaligned AGIs to pursue their own interests over those of humans",
+      "conditional": "IF AGI is developed",
+      "notes": "Authors note this is highly speculative"
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "causal",
+      "claim_text": "If the PRC perceives a growing U.S. lead in AI development as a significant military offset and feels at risk of permanent decline, it may take radical escalatory actions including threatening military action to control critical resources like Taiwan",
+      "confidence": "medium",
+      "quote": "the PRC's primary concern is economic strangulation and faltering regime control, which would lead to fear of falling behind the United States permanently. As the balance of power shifts, the PRC might act to claim power and resources that it sees as critical to national survival",
+      "conditional": "IF PRC perceives growing U.S. AI lead",
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "causal",
+      "claim_text": "Perceived advantages in AGI development could fundamentally alter strategic calculations between nations, potentially leading to preemptive military action by those who fear falling permanently behind",
+      "confidence": "medium",
+      "quote": "This scenario lays out how perceived advantages in AGI development could fundamentally alter strategic calculations between the United States and the PRC, potentially leading to preemptive military action.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "causal",
+      "claim_text": "Concerns about AGI development could motivate preventive military operations, similar to how states undertake significant military risks to prevent strategic competitors from developing potentially transformative technologies",
+      "confidence": "medium",
+      "quote": "The 2003 U.S. invasion of Iraq and the Stuxnet operation against Iranian nuclear facilities demonstrate that states will undertake significant military risks to prevent strategic competitors from developing potentially transformative technologies. These precedents suggest that concerns about AGI development could similarly motivate preventive military operations",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "causal",
+      "claim_text": "Perceptions about AGI's strategic value, rather than its actual capabilities, could drive conflict dynamics, as nations may take extreme actions based on the impression that transformative technologies might fall exclusively into rival hands",
+      "confidence": "high",
+      "quote": "The scenario also suggests that perceptions about AGI's strategic value, rather than its actual capabilities, could drive conflict dynamics. Historical evidence suggests that nations may take extreme actions based on the impression that transformative technologies might fall exclusively into rival hands.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "other",
+      "claim_text": "Based on expert interviews, the level of centralization in AGI development was regularly identified as an important determinant of the geopolitical outcomes of AGI development",
+      "confidence": "high",
+      "quote": "The centralization axis was regularly identified by interviewees as an important determinant of the geopolitical outcomes of AGI development.",
+      "conditional": null,
+      "notes": "Synthesis of expert interview findings"
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "other",
+      "claim_text": "Experts agreed that the United States led in AI development as of 2025, with virtually all experts identifying the PRC as the second-most advanced nation in AI development",
+      "confidence": "high",
+      "quote": "Experts generally agreed that the United States led in AI development as of 2025. However, virtually all experts identified the PRC as the second-most advanced nation in AI development.",
+      "conditional": null,
+      "notes": "Synthesis of expert interview findings"
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "feasibility",
+      "claim_text": "Geopolitical relationships, particularly the untrusting relationship between the United States and PRC, would be a major barrier to effective global AGI governance",
+      "confidence": "high",
+      "quote": "The relationship between major powers, particularly the United States and the PRC, emerged across interviews as a key determinant of the feasibility of effective global AI cooperation. Interviewees said that if this relationship is untrusting in the future, cooperative approaches to AGI development and governance will be unlikely to succeed.",
+      "conditional": null,
+      "notes": "Synthesis of expert interview findings"
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "risk",
+      "claim_text": "If developed, AGI would pose significant risks whether it is aligned or not, including potential misuse in cyber warfare, proliferation of misinformation, concentration of power threatening democracy, job displacement, and increased economic inequality",
+      "confidence": "high",
+      "quote": "Experts voiced concerns about the potential misuse of AGI, including its application in cyber warfare and the proliferation of misinformation. Others voiced concerns about how the concentration of power in a few entities, whether states or corporations, could pose a threat to democracy and global stability. There was also apprehension about the societal impacts of AI, such as the potential displacement of jobs, leading to increased economic inequality.",
+      "conditional": "IF AGI is developed",
+      "notes": "Synthesis of expert interview findings"
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "risk",
+      "claim_text": "Many experts expressed concern that society would not be sufficiently resilient to the transformations prompted by even an aligned AGI and that large-scale social disruption could occur",
+      "confidence": "high",
+      "quote": "There was significant concern among virtually all interviewees that society would not be sufficiently resilient to the transformations prompted by even an aligned AGI and that large-scale social disruption could occur.",
+      "conditional": "IF AGI is developed",
+      "notes": "Synthesis of expert interview findings"
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "feasibility",
+      "claim_text": "Current regulations and international governance structures are poorly positioned to address the challenges presented by AGI development",
+      "confidence": "high",
+      "quote": "The development and governance of AGI present significant challenges that experts said current regulations and international governance structures are poorly positioned to address.",
+      "conditional": null,
+      "notes": "Synthesis of expert interview findings"
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "priority",
+      "claim_text": "The degree of centralization stands as the most crucial factor in AGI development, with highly centralized development favoring established powers with substantial resources while decentralized paths may empower multiple actors but increase proliferation risks",
+      "confidence": "high",
+      "quote": "Degree of centralization. The degree of centralization stands as perhaps the most crucial factor in AGI development. Highly centralized development favors established powers with substantial resources; decentralized paths may empower multiple actors but increase proliferation risks.",
+      "conditional": null,
+      "notes": "Authors' synthesis conclusion"
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "causal",
+      "claim_text": "Export controls, research funding allocation, and international agreements can significantly influence the degree of centralization in AGI development",
+      "confidence": "high",
+      "quote": "Our analysis suggests that export controls, research funding allocation, and international agreements can significantly influence the degree of centralization in AGI development.",
+      "conditional": null,
+      "notes": "Authors' synthesis conclusion"
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "causal",
+      "claim_text": "The relationship between states and private industry emerges as a key determinant of AGI outcomes, with neither states nor corporations alone able to effectively govern AGI development—balanced cooperation is essential",
+      "confidence": "high",
+      "quote": "The relationship between states and private industry emerges as another key determinant. Scenarios featuring close public-private partnerships (such as The New '90s) yield different outcomes than those with minimal coordination. Experts consistently emphasized that neither states nor corporations alone can effectively govern AGI development: Balanced cooperation is essential.",
+      "conditional": null,
+      "notes": "Authors' synthesis conclusion"
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "causal",
+      "claim_text": "The capacity for effective international governance significantly influences AGI outcomes, depending on trust between major powers, shared threat perceptions, and institutions capable of monitoring compliance",
+      "confidence": "high",
+      "quote": "Capacity for AI governance. The capacity for effective international governance significantly influences outcomes. Such scenarios as Multilateral Coalition of Democracies Leads demonstrate how governance success depends on trust between major powers, shared threat perceptions, and institutions capable of monitoring compliance.",
+      "conditional": null,
+      "notes": "Authors' synthesis conclusion"
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "risk",
+      "claim_text": "The technical challenge of AGI alignment underlies all scenarios, as the inherent difficulty of ensuring that AGI systems reliably pursue human-compatible goals creates significant risks regardless of geopolitical factors",
+      "confidence": "high",
+      "quote": "New uncertainties introduced by the challenge of AGI alignment. The technical challenge of AGI alignment underlies all scenarios. Even when geopolitical factors align favorably, the inherent difficulty of ensuring that AGI systems reliably pursue human-compatible goals creates significant risks",
+      "conditional": null,
+      "notes": "Authors' synthesis conclusion"
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "strategic",
+      "claim_text": "Investments in maintaining U.S. leadership in AI research, development, and talent recruitment represent a foundational strategy across multiple favorable scenarios for U.S. interests",
+      "confidence": "high",
+      "quote": "First, investments in maintaining U.S. leadership in AI research, development, and talent recruitment represent a foundational strategy across multiple favorable scenarios.",
+      "conditional": null,
+      "notes": "Authors' policy implication"
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "strategic",
+      "claim_text": "Building resilient alliance structures focused on shared AGI governance principles appears crucial for scenarios in which U.S. interests are protected",
+      "confidence": "high",
+      "quote": "Second, building resilient alliance structures focused on shared AGI governance principles appears crucial for scenarios in which U.S. interests are protected.",
+      "conditional": null,
+      "notes": "Authors' policy implication"
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "strategic",
+      "claim_text": "Developing robust safety and alignment protocols may be necessary regardless of the geopolitical path taken with AGI development",
+      "confidence": "high",
+      "quote": "Third, developing robust safety and alignment protocols may be necessary regardless of the geopolitical path taken.",
+      "conditional": null,
+      "notes": "Authors' policy implication"
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "causal",
+      "claim_text": "If AGI development continues primarily in private hands while the U.S. government struggles to understand or influence it, this could lead to governance challenges and social disruption from rapid AGI deployment",
+      "confidence": "medium",
+      "quote": "Many experts also questioned the potential risks to society if AGI development occurs primarily in private hands... There was significant concern among virtually all interviewees that society would not be sufficiently resilient to the transformations prompted by even an aligned AGI",
+      "conditional": "IF AGI development remains primarily private-sector led",
+      "notes": "Based on expert interview synthesis"
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "causal",
+      "claim_text": "If AGI cannot provide commercial benefits, it may be difficult for private firms to provide the required capital to continue developing and deploying AGI",
+      "confidence": "medium",
+      "quote": "If AGI cannot provide commercial benefits, it may be difficult for private firms to provide the required capital to continue developing and deploying AGI",
+      "conditional": "IF AGI cannot provide commercial benefits",
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "capability",
+      "claim_text": "Top-end AI models regularly achieve high scores on Ph.D.-level exams and improve on math and coding tasks, pointing to a future in which AI can dramatically accelerate scientific and commercial research and innovation",
+      "confidence": "high",
+      "quote": "Top-end AI models, such as ChatGPT's o1, regularly achieve high scores on Ph.D.-level exams and improve on math and coding tasks, pointing to a future in which AI can dramatically accelerate scientific and commercial research and innovation.",
+      "conditional": null,
+      "notes": null
+    }
+  ]
+}

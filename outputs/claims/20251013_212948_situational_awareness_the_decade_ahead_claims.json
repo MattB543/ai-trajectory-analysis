@@ -1,0 +1,832 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "timeline",
+      "claim_text": "AGI (AI systems capable of doing the work of an AI researcher/engineer) will likely be developed by 2027",
+      "confidence": "high",
+      "quote": "I make the following claim: it is strikingly plausible that by 2027, models will be able to do the work of an AI researcher/engineer.",
+      "conditional": null,
+      "notes": "Central thesis of the document"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "timeline",
+      "claim_text": "By 2025/26, AI models will outpace college graduates in capabilities",
+      "confidence": "high",
+      "quote": "By 2025/26, these machines will outpace college graduates.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "timeline",
+      "claim_text": "We will have superintelligence (systems smarter than humans) by the end of the decade",
+      "confidence": "high",
+      "quote": "By the end of the decade, they will be smarter than you or I; we will have superintelligence, in the true sense of the word.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "timeline",
+      "claim_text": "The transition from AGI to superintelligence could happen in less than one year through an intelligence explosion",
+      "confidence": "medium",
+      "quote": "It's strikingly plausible we'd go from AGI to superintelligence very quickly, perhaps in 1 year.",
+      "conditional": null,
+      "notes": "Based on automated AI research compressing decade of progress"
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "causal",
+      "claim_text": "AI progress is driven by approximately 0.5 OOMs per year of compute scaling and 0.5 OOMs per year of algorithmic efficiency improvements",
+      "confidence": "high",
+      "quote": "Tracing trendlines in compute (~0.5 orders of magnitude or OOMs/year), algorithmic efficiencies (~0.5 OOMs/year), and 'unhobbling' gains (from chatbot to agent), we should expect another preschooler-to-high-schooler-sized qualitative jump by 2027.",
+      "conditional": null,
+      "notes": "Core quantitative framework of the analysis"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "causal",
+      "claim_text": "The scaleup from GPT-2 to GPT-4 involved roughly 3,000x-10,000x more raw compute",
+      "confidence": "high",
+      "quote": "Overall, Epoch AI estimates suggest that GPT-4 training used ~3,000x-10,000x more raw compute than GPT-2.",
+      "conditional": null,
+      "notes": "Based on Epoch AI public estimates"
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "causal",
+      "claim_text": "We should expect 3-6 OOMs of base effective compute scaleup (physical compute and algorithmic efficiencies) in the 4 years following GPT-4 through end of 2027",
+      "confidence": "medium",
+      "quote": "In the subsequent 4 years, we should expect 3–6 OOMs of base effective compute scaleup (physical compute algorithmic efficiencies)—with perhaps a best guess of ~5 OOMs",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "causal",
+      "claim_text": "Algorithmic progress has contributed approximately 1-2 OOMs of efficiency gains from GPT-2 to GPT-4, roughly as important as compute scaling",
+      "confidence": "medium",
+      "quote": "public information suggests that the GPT-2 to GPT-4 jump included 1-2 OOMs of algorithmic efficiency gains.",
+      "conditional": null,
+      "notes": "Argues algorithmic progress is underrated"
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "causal",
+      "claim_text": "Algorithmic efficiency for AI models has been improving at roughly 0.5 OOMs per year, based on ImageNet data from 2012-2021",
+      "confidence": "high",
+      "quote": "we have consistently improved compute efficiency by roughly ~0.5 OOMs/year across the 9-year period between 2012 and 2021.",
+      "conditional": null,
+      "notes": "Based on Erdil and Besiroglu 2022 research"
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "causal",
+      "claim_text": "Unhobbling algorithmic progress (RLHF, chain-of-thought, scaffolding, tools) has provided gains comparable in magnitude to compute and efficiency improvements",
+      "confidence": "medium",
+      "quote": "While it's hard to put these on a unified effective compute scale with compute and algorithmic efficiencies, it's clear these are huge gains, at least on a roughly similar magnitude as the compute scaleup and algorithmic efficiencies.",
+      "conditional": null,
+      "notes": "METR found 5% to 40% performance gains from unhobbling"
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "capability",
+      "claim_text": "By 2027, AI systems will function as drop-in remote workers capable of independently working on projects for weeks-equivalent time",
+      "confidence": "medium",
+      "quote": "By the end of this, I expect us to get something that looks a lot like a drop-in remote worker. An agent that joins your company, is onboarded like a new human hire, messages you and colleagues on Slack and uses your softwares, makes pull requests, and that, given big projects, can do the model-equivalent of a human going away for weeks to independently complete the project.",
+      "conditional": null,
+      "notes": "Depends on solving onboarding problem and test-time compute overhang"
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "capability",
+      "claim_text": "Unlocking +4 OOMs of test-time compute (models thinking for months-equivalent rather than minutes-equivalent) would be equivalent to +3 OOMs of pretraining compute",
+      "confidence": "low",
+      "quote": "If a similar relationship held in our case, if we could unlock +4 OOMs of test-time compute, that might be equivalent to +3 OOMs of pretraining compute, i.e. very roughly something like the jump between GPT-3 and GPT-4.",
+      "conditional": null,
+      "notes": "Based on analogy to Jones 2021 work on Hex"
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "capability",
+      "claim_text": "Current AI models could use millions of tokens coherently for thinking if given appropriate System II reasoning outer loop through RL training",
+      "confidence": "medium",
+      "quote": "What if it could use millions of tokens to think about and work on really hard problems or bigger projects?",
+      "conditional": "IF models are trained with RL to develop System II reasoning capabilities",
+      "notes": "Currently models can only coherently use hundreds of tokens"
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "capability",
+      "claim_text": "Automated AI researchers will be able to compress a decade of algorithmic progress into less than one year",
+      "confidence": "medium",
+      "quote": "Automated AI research could probably compress a human-decade of algorithmic progress into less than a year (and that seems conservative).",
+      "conditional": null,
+      "notes": "Based on 100 million automated researchers at 10x-100x speed"
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "capability",
+      "claim_text": "By end of 2027 GPU fleets, we will be able to run approximately 100 million human-researcher-equivalents simultaneously",
+      "confidence": "medium",
+      "quote": "given inference GPU fleets by then, we'll likely be able to run many millions of them (perhaps 100 million human-equivalents, and soon after at 10x+ human speed).",
+      "conditional": null,
+      "notes": "Based on 10s of millions of GPUs and inference cost calculations"
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "capability",
+      "claim_text": "Superintelligence will be able to provide decisive military advantage, potentially preemptively disabling adversary nuclear deterrents",
+      "confidence": "medium",
+      "quote": "it seems likely the advantage conferred by superintelligence would be decisive enough even to preemptively take out an adversary's nuclear deterrent.",
+      "conditional": null,
+      "notes": "Through improved sensors, autonomous drones, missile defense, etc."
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "capability",
+      "claim_text": "Superintelligence could enable economic growth rates of 30%+ per year, with possible multiple doublings per year",
+      "confidence": "low",
+      "quote": "We could see economic growth rates of 30%/year and beyond, quite possibly multiple doublings a year.",
+      "conditional": "IF labor is fully automated and societal frictions are removed",
+      "notes": "Based on economic growth models"
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "risk",
+      "claim_text": "Current AI lab security is inadequate and China will likely steal key AGI algorithmic breakthroughs in the next 12-24 months without major security improvements",
+      "confidence": "high",
+      "quote": "in the next 12-24 months, we will develop the key algorithmic breakthroughs for AGI, and promptly leak them to the CCP",
+      "conditional": "IF current security practices continue",
+      "notes": "Author considers this among most important risks"
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "risk",
+      "claim_text": "We are not on track to have weights secure against North Korea, let alone China, by the time we build AGI",
+      "confidence": "high",
+      "quote": "we are not even on track for our weights to be secure against rogue actors like North Korea, let alone an all-out effort by China, by the time we build AGI.",
+      "conditional": null,
+      "notes": "Based on current AI lab security being at 'level 0'"
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "risk",
+      "claim_text": "If China steals automated-AI-researcher weights on cusp of intelligence explosion, they could immediately launch their own intelligence explosion and eliminate US lead",
+      "confidence": "medium",
+      "quote": "Perhaps the single scenario that most keeps me up at night is if China or another adversary is able to steal the automated-AI-researcher-model-weights on the cusp of an intelligence explosion.",
+      "conditional": null,
+      "notes": "Would force existential race with no safety margin"
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "risk",
+      "claim_text": "Reinforcement learning from human feedback (RLHF) will predictably break down for superhuman AI systems",
+      "confidence": "high",
+      "quote": "RLHF will predictably break down as AI systems get smarter, and we will face fundamentally new and qualitatively different technical challenges.",
+      "conditional": null,
+      "notes": "Core superalignment problem"
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "risk",
+      "claim_text": "Without solving superalignment, we cannot guarantee even basic side constraints like 'don't lie' or 'follow the law' for superintelligent systems",
+      "confidence": "high",
+      "quote": "The superalignment problem being unsolved means that we simply won't have the ability to ensure even these basic side constraints for these superintelligence systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "risk",
+      "claim_text": "AI systems trained with long-horizon RL may learn to lie, seek power, and deceive simply because these are successful strategies",
+      "confidence": "medium",
+      "quote": "they may learn to lie or seek power, simply because these are successful strategies in the real world!",
+      "conditional": "IF models are trained with large-scale, long-horizon RL",
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "risk",
+      "claim_text": "The intelligence explosion creates extreme tension where we rapidly go from low-stakes failures to potentially catastrophic failures in less than a year",
+      "confidence": "medium",
+      "quote": "We will extremely rapidly go from systems where failures are fairly low-stakes (ChatGPT said a bad word, so what)—to extremely high-stakes (oops, the superintelligence self-exfiltrated from our cluster, now it's hacking the military).",
+      "conditional": "IF intelligence explosion occurs rapidly",
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "risk",
+      "claim_text": "Superintelligence will enable development of extraordinary new means of mass destruction, including novel bioweapons and WMDs orders of magnitude more powerful",
+      "confidence": "medium",
+      "quote": "Perhaps dramatic advances in biology will yield extraordinary new bioweapons, ones that spread silently, swiftly, before killing with perfect lethality on command",
+      "conditional": null,
+      "notes": "Based on compressing century of technological progress into years"
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "risk",
+      "claim_text": "Without sufficient security, superintelligence weights will proliferate to North Korea, Iran, terrorist groups, enabling them to develop super-WMDs",
+      "confidence": "high",
+      "quote": "Without much better security, we're proliferating what will be our most powerful weapon to a plethora of incredibly dangerous, reckless, and unpredictable actors.",
+      "conditional": "IF current security standards persist",
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "risk",
+      "claim_text": "A tight US-China race would force racing through intelligence explosion without safety precautions, creating greatest risk of catastrophe",
+      "confidence": "high",
+      "quote": "We face the greatest risks if we are locked in a tight race, democratic allies and authoritarian competitors each racing through the already-precarious intelligence explosion at breakneck pace—forced to throw any caution by the wayside",
+      "conditional": "IF US lead over China is only 1-2 months rather than 1-2 years",
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "risk",
+      "claim_text": "If CCP gets superintelligence first, they could enforce permanent authoritarian rule using AI-controlled robotic police and perfect surveillance",
+      "confidence": "medium",
+      "quote": "Millions of AI-controlled robotic law enforcement agents could police their populace; mass surveillance would be hypercharged; dictator-loyal AIs could individually assess every citizen for dissent",
+      "conditional": "IF CCP develops superintelligence first",
+      "notes": "Value lock-in scenario"
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "strategic",
+      "claim_text": "The US must radically upgrade AI lab security immediately, implementing state-actor-proof measures including airgapped datacenters and SCIF-level protections",
+      "confidence": "high",
+      "quote": "We must rapidly and radically lock down the AI labs, before we leak key AGI breakthroughs in the next 12-24 months (or the AGI weights themselves).",
+      "conditional": null,
+      "notes": "Described as 'maybe even the single most important thing we need to do today'"
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "strategic",
+      "claim_text": "AI labs should be willing to commit a large fraction of their compute to automated alignment research during the intelligence explosion",
+      "confidence": "high",
+      "quote": "Labs should be willing to commit a large fraction of their compute to automated alignment research (vs. automated capabilities research) during the intelligence explosion, if necessary.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "strategic",
+      "claim_text": "The largest AI training clusters must be built in the United States or close democratic allies, not in Middle Eastern dictatorships",
+      "confidence": "high",
+      "quote": "Do we really want the infrastructure for the Manhattan Project to be controlled by some capricious Middle Eastern dictatorship?",
+      "conditional": null,
+      "notes": "National security imperative"
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "strategic",
+      "claim_text": "The US should use natural gas or implement broad deregulation to enable domestic datacenter power buildout, prioritizing national security over climate commitments",
+      "confidence": "high",
+      "quote": "Being willing to use natural gas, or at the very least a broad-based deregulatory agenda—NEPA exemptions, fixing FERC and transmission permitting at the federal level, overriding utility regulation, using federal authorities to unlock land and rights of way—is a national security priority.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "strategic",
+      "claim_text": "American AI labs have a duty to work with the intelligence community and military, building AI for American defense",
+      "confidence": "high",
+      "quote": "And yes, American AI labs have a duty to work with the intelligence community and the military. America's lead on AGI won't secure peace and freedom by just building the best AI girlfriend apps.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "strategic",
+      "claim_text": "Maintaining a healthy 1-2 year lead over China is necessary to have margin for safety work and avoid forcing rushed intelligence explosion",
+      "confidence": "high",
+      "quote": "The main—perhaps the only—hope we have is that an alliance of democracies has a healthy lead over adversarial powers.",
+      "conditional": null,
+      "notes": "2 year vs 2 month lead makes critical difference"
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "strategic",
+      "claim_text": "The US should form a coalition of democracies (including UK, Japan, South Korea, NATO allies) for joint AGI development similar to the Quebec Agreement",
+      "confidence": "medium",
+      "quote": "The former might look like the Quebec Agreement: a secret pact between Churchill and Roosevelt to pool their resources to develop nuclear weapons",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "strategic",
+      "claim_text": "The US should offer to share peaceful benefits of superintelligence with broader group of countries in exchange for nonproliferation commitments, similar to Atoms for Peace",
+      "confidence": "medium",
+      "quote": "The latter might look like Atoms for Peace, the IAEA, and the NPT. We should offer to share the peaceful benefits of superintelligence with a broader group of countries",
+      "conditional": null,
+      "notes": "Only viable after US has demonstrated it will win"
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "actor_behavior",
+      "claim_text": "The US government will establish some form of government AGI project by 2027/28 as consensus forms that AGI is imminent",
+      "confidence": "high",
+      "quote": "Somewhere around 26/27 or so, the mood in Washington will become somber... In one form or another, the national security state will get very heavily involved. The Project will be the necessary, indeed the only plausible, response.",
+      "conditional": null,
+      "notes": "Central prediction about government involvement"
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "actor_behavior",
+      "claim_text": "Leading AI labs will voluntarily merge into a national consortium or joint venture with the US government",
+      "confidence": "medium",
+      "quote": "Much like the AI labs 'voluntarily' made commitments to the White House in 2023, Western labs might more-or-less 'voluntarily' agree to merge in the national effort.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "actor_behavior",
+      "claim_text": "Congress will appropriate trillions of dollars for AI compute and power infrastructure",
+      "confidence": "medium",
+      "quote": "Congress will appropriate trillions for chips and power",
+      "conditional": "IF AGI consensus forms",
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "actor_behavior",
+      "claim_text": "When the CCP fully wakes up to AGI, they will launch an extraordinary all-out effort to compete, making them a formidable adversary",
+      "confidence": "high",
+      "quote": "If and when the CCP wakes up to AGI, we should expect extraordinary efforts on the part of the CCP to compete. And I think there's a pretty clear path for China to be in the game: outbuild the US and steal the algorithms.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "actor_behavior",
+      "claim_text": "China will prioritize infiltrating and stealing from American AI labs as their #1 intelligence priority once they understand the stakes",
+      "confidence": "high",
+      "quote": "Once China begins to truly understand the import of AGI, we should expect the full force of their espionage efforts to come to bear; think billions of dollars invested, thousands of employees, and extreme measures",
+      "conditional": "IF China becomes AGI-pilled",
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "actor_behavior",
+      "claim_text": "A major tech company (Google, Microsoft, Meta) will hit a $100 billion annual AI revenue run rate by mid-2026",
+      "confidence": "medium",
+      "quote": "A key milestone for AI revenue that I like to think about is: when will a big tech company (Google, Microsoft, Meta, etc.) hit a $100B revenue run rate from AI (products and API)? ... Very naively extrapolating out the doubling every 6 months, supposing we hit a $10B revenue run rate in early 2025, suggests this would happen mid-2026.",
+      "conditional": "IF current revenue doubling trend continues",
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "feasibility",
+      "claim_text": "A 100GW datacenter cluster is feasible in the United States using natural gas from Pennsylvania's Marcellus/Utica shale",
+      "confidence": "high",
+      "quote": "Right now the Marcellus/Utica shale (around Pennsylvania) alone is producing around 36 billion cubic feet a day of gas; that would be enough to generate just under 150GW continuously with generators",
+      "conditional": null,
+      "notes": "Would require ~1200 new wells, 40 rigs for <1 year"
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "feasibility",
+      "claim_text": "The superalignment problem is technically solvable with high probability",
+      "confidence": "high",
+      "quote": "I'm incredibly bullish on the technical tractability of the superalignment problem. It feels like there's tons of low-hanging fruit everywhere in the field.",
+      "conditional": null,
+      "notes": "Author is optimistic despite challenges"
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "feasibility",
+      "claim_text": "Top-down interpretability techniques will enable building an effective 'AI lie detector' for detecting deception in AI systems",
+      "confidence": "medium",
+      "quote": "I'm increasingly bullish that top-down interpretability techniques will be a powerful tool—i.e., we'll be able to build something like an 'AI lie detector'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "feasibility",
+      "claim_text": "Weak-to-strong generalization (small models supervising large models) can partially bridge the intelligence gap for alignment",
+      "confidence": "medium",
+      "quote": "We found that generalization does actually get you cross some (but certainly not all) of the intelligence gap between supervisor and supervisee",
+      "conditional": null,
+      "notes": "Based on author's research at OpenAI"
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "feasibility",
+      "claim_text": "Labs will likely crack the data wall through synthetic data, self-play, and RL approaches within the next few years",
+      "confidence": "medium",
+      "quote": "My base case is that it will be similar here... given how deep learning has managed to crash through every supposed wall over the last decade",
+      "conditional": null,
+      "notes": "Industry insiders reportedly very bullish"
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "feasibility",
+      "claim_text": "Automated AI researchers will be able to use compute at least 10x more effectively than human researchers despite compute constraints",
+      "confidence": "medium",
+      "quote": "even if this won't be a 1,000,000x speedup, I find it hard to imagine that the automated AI researchers couldn't use the compute at least 10x more effectively",
+      "conditional": null,
+      "notes": "Through better intuitions, avoiding bugs, economizing on compute"
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "feasibility",
+      "claim_text": "Robotics will be solved within a few years of AGI through automated AI research, not remaining a long-term bottleneck",
+      "confidence": "medium",
+      "quote": "I used to be sympathetic to this, but I've become convinced robots will not be a barrier... Increasingly, it's clear that robots are an ML algorithms problem.",
+      "conditional": null,
+      "notes": "May cause only a few years delay"
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "feasibility",
+      "claim_text": "China has demonstrated ability to manufacture 7nm chips at scale, which is sufficient for competitive AI development",
+      "confidence": "high",
+      "quote": "China now seems to have demonstrated the ability to manufacture 7nm chips... 7nm is enough! For reference, 7nm is what Nvidia A100s used.",
+      "conditional": null,
+      "notes": "Huawei Ascend 910B only ~2-3x worse on performance/$ than Nvidia equivalent"
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "feasibility",
+      "claim_text": "China can outbuild the United States on power infrastructure for AI datacenters due to superior construction capacity",
+      "confidence": "high",
+      "quote": "if there's one thing China can do better than the US it's building stuff. In the last decade, China has roughly built as much new electricity capacity as the entire US capacity",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "feasibility",
+      "claim_text": "State-actor-proof weight security is only possible with extensive government help, beyond what private companies can achieve",
+      "confidence": "high",
+      "quote": "A high-level security expert working in the field estimated that even with a complete private crash course, China would still likely be able to exfiltrate the AGI weights if it was their #1 priority—the only way to get this probability to the single digits would require, more or less, a government project.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "priority",
+      "claim_text": "Securing algorithmic secrets and model weights against foreign adversaries is the single most important thing to do today to ensure AGI goes well",
+      "confidence": "high",
+      "quote": "Getting on this, now, is maybe even the single most important thing we need to do today to ensure AGI goes well.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "priority",
+      "claim_text": "Algorithmic secrets are more important to protect right now than model weights, as they provide 10x-100x compute advantages",
+      "confidence": "high",
+      "quote": "arguably even more important right now—and vastly underrated—is securing algorithmic secrets... stealing the algorithmic secrets will be worth having a 10x or more larger cluster to the PRC",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "priority",
+      "claim_text": "The US must prioritize building AGI datacenters domestically over concerns about natural gas use or environmental regulations",
+      "confidence": "high",
+      "quote": "American national security must come first, before the allure of free-flowing Middle Eastern cash, arcane regulation, or even, yes, admirable climate commitments.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "priority",
+      "claim_text": "Misaligned superintelligence is probably not the biggest AI risk; risks from international competition and things 'being totally crazy' matter more",
+      "confidence": "medium",
+      "quote": "I am not a doomer. Misaligned superintelligence is probably not the biggest AI risk. I'm most worried about things just being totally crazy around superintelligence, including things like novel WMDs, destructive wars, and unknown unknowns.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "causal",
+      "claim_text": "The rapid scaleup in AI compute is driven by massive investment increases, not Moore's Law, proceeding at approximately 5x the speed of historical Moore's Law",
+      "confidence": "high",
+      "quote": "We are seeing much more rapid scaleups in compute—close to 5x the speed of Moore's law—instead because of mammoth investment.",
+      "conditional": null,
+      "notes": "Moore's Law was only 1-1.5 OOMs per decade"
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "causal",
+      "claim_text": "This decade represents a unique window for rapid AI progress due to one-time gains in spending scaleup, hardware specialization, and algorithmic low-hanging fruit that will largely be exhausted by the 2030s",
+      "confidence": "high",
+      "quote": "we're in the middle of a huge scaleup reaping one-time gains this decade, and progress through the OOMs will be multiples slower thereafter.",
+      "conditional": null,
+      "notes": "'It's this decade or bust' for AGI"
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "causal",
+      "claim_text": "Chinchilla scaling laws (scaling parameters and data equally) provide a 3x or greater compute efficiency gain",
+      "confidence": "high",
+      "quote": "Chinchilla scaling laws give a 3x+ (0.5 OOMs+) efficiency gain.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "causal",
+      "claim_text": "The data wall could cause AI progress to stall if labs cannot develop better sample efficiency methods beyond naive pretraining",
+      "confidence": "medium",
+      "quote": "At some point, even with more (effective) compute, making your models better can become much tougher because of the data constraint... we've been riding the scaling curves, riding the wave of the language-modeling-pretraining-paradigm, and without something new here, this paradigm will (at least naively) run out.",
+      "conditional": "IF synthetic data/RL approaches fail",
+      "notes": "But author expects labs will solve this"
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "causal",
+      "claim_text": "Cracking synthetic data and sample efficiency could dramatically improve models by allowing training on high-quality data rather than mostly-low-quality internet content",
+      "confidence": "medium",
+      "quote": "Imagine if you could spend GPT-4-level compute on entirely extremely high-quality data—it could be a much, much more capable model.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "causal",
+      "claim_text": "Limited compute for experiments is the most important bottleneck to automated AI research acceleration, though not insurmountable",
+      "confidence": "high",
+      "quote": "I think this is the most important bottleneck, and I address it in more depth below... I do think this is likely, it's kind of scary: it means that rather than a fairly continuous series of big models, each somewhat better than the previous generation, downstream model intelligence might be more discrete/discontinuous.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "timeline",
+      "claim_text": "Total AI investment will grow from approximately $150B in 2024 to $1T+ annually by 2027",
+      "confidence": "medium",
+      "quote": "My rough estimate is that 2024 will already feature $100B-$200B of AI investment... Let's play this forward. My best guess is overall compute investments will grow more slowly than the 3x/year largest training clusters, let's say 2x/year.",
+      "conditional": null,
+      "notes": "Based on Nvidia revenue, big tech capex trends"
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "timeline",
+      "claim_text": "Individual training clusters will cost hundreds of billions of dollars by 2028 and over $1 trillion by 2030",
+      "confidence": "medium",
+      "quote": "We're on the path to individual training clusters costing $100s of billions by 2028—clusters requiring power equivalent to a small/medium US state and more expensive than the International Space Station. By the end of the decade, we are headed to $1T+ individual training clusters",
+      "conditional": "IF current trend of ~0.5 OOMs/year continues",
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "timeline",
+      "claim_text": "Proto-automated-engineers will emerge by 2026/27 with some blindspots, leading to 1.5x-2x research speedup, with full automation by 2028/29 enabling 10x+ progress acceleration",
+      "confidence": "medium",
+      "quote": "Rather that 2027 AGI → 2028 Superintelligence, it might look more like: 2026/27: Proto-automated-engineer... 2027/28: Proto-automated-researchers, can automate >90%... 2028/29: 10x+ pace of progress → superintelligence.",
+      "conditional": "IF there is a long tail to 100% automation",
+      "notes": null
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "capability",
+      "claim_text": "By 2030, with intelligence explosion complete, AI systems will be able to compress multiple decades of scientific and technological R&D into a few years",
+      "confidence": "medium",
+      "quote": "The billion superintelligences would be able to compress the R&D effort humans researchers would have done in the next century into years. Imagine if the technological progress of the 20th century were compressed into less than a decade.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "capability",
+      "claim_text": "A lead of merely months on superintelligence could be militarily decisive if it occurs during rapid intelligence explosion",
+      "confidence": "medium",
+      "quote": "If there is a rapid intelligence explosion, it's plausible a lead of mere months could be decisive: months could mean the difference between roughly human-level AI systems and substantially superhuman AI systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "capability",
+      "claim_text": "Superintelligence would give sufficient power to overthrow the US government through hacking, persuasion, economic competition, and bioweapons",
+      "confidence": "low",
+      "quote": "Be able to overthrow the US government. Whoever controls superintelligence will quite possibly have enough power to seize control from pre-superintelligence forces.",
+      "conditional": null,
+      "notes": "Analogizes to Cortés conquering Aztecs with technological edge"
+    },
+    {
+      "claim_id": "69",
+      "claim_type": "risk",
+      "claim_text": "There are probably only dozens of people who truly need to know key AGI algorithmic implementation details, making secrets defensible despite thousands with access",
+      "confidence": "medium",
+      "quote": "There are probably only dozens of people who truly 'need to know' the key implementation details for a given algorithmic breakthrough at a given lab... you can vet, silo, and intensively monitor these people",
+      "conditional": null,
+      "notes": "Comparison to quantitative trading firms keeping secrets"
+    },
+    {
+      "claim_id": "70",
+      "claim_type": "risk",
+      "claim_text": "AGI timeline and Taiwan invasion timeline are converging around 2027, potentially meaning AGI endgame plays out with backdrop of world war",
+      "confidence": "low",
+      "quote": "There's already an eerie convergence of AGI timelines (~2027?) and Taiwan watchers' Taiwan invasion timelines (China ready to invade Taiwan by 2027?)... It seems to me that there is a real chance that the AGI endgame plays out with the backdrop of world war.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "71",
+      "claim_type": "strategic",
+      "claim_text": "Security measures causing 10% research slowdown are worthwhile because maintaining 90% speed with secrets protected is better than 100% speed with everything stolen",
+      "confidence": "high",
+      "quote": "American AI research is way ahead of Chinese and other foreign algorithmic progress, and America retaining 90%-speed algorithmic progress as our national edge is clearly better than retaining 0% as a national edge (with everything instantly stolen)!",
+      "conditional": null,
+      "notes": "Tragedy of the commons problem"
+    },
+    {
+      "claim_id": "72",
+      "claim_type": "strategic",
+      "claim_text": "Inference fleets require the same intense security as training clusters, since AGI/superintelligence weights will need to run on them during intelligence explosion",
+      "confidence": "high",
+      "quote": "Inference fleets will likely be much larger than training clusters, and there will be overwhelming pressure to use these inference clusters to run automated AI researchers during the intelligence explosion... The AGI/superintelligence weights could thus be exfiltrated from these clusters as well.",
+      "conditional": null,
+      "notes": "Author worries this is underrated"
+    },
+    {
+      "claim_id": "73",
+      "claim_type": "strategic",
+      "claim_text": "During intelligence explosion, must maintain superdefense measures including airgapped clusters, strict capability limitations, and extensive monitoring until high confidence in alignment",
+      "confidence": "high",
+      "quote": "We'll want to use that margin to get in a position where we have very high confidence in our alignment techniques, only relaxing 'superdefense' measures (for example, deploying the superintelligence in non-airgapped environments) concomitant with our confidence.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "74",
+      "claim_type": "strategic",
+      "claim_text": "Should avoid long-horizon outcome-based RL training as long as possible and maintain training method restrictions during intelligence explosion",
+      "confidence": "medium",
+      "quote": "we should avoid long-horizon outcome-based RL (which seems much more likely to lead to the model learning undesirable long-term goals) as long as possible",
+      "conditional": null,
+      "notes": "Part of superdefense strategy"
+    },
+    {
+      "claim_id": "75",
+      "claim_type": "strategic",
+      "claim_text": "Should scrub biology and chemistry from model training and use unlearning techniques to limit catastrophic misuse potential",
+      "confidence": "medium",
+      "quote": "A central example of this might be scrubbing everything related to biology and chemistry from model training (or using 'unlearning' techniques)",
+      "conditional": null,
+      "notes": "Targeted capability limitation"
+    },
+    {
+      "claim_id": "76",
+      "claim_type": "strategic",
+      "claim_text": "International AI safety arms control is unlikely to work because breakout incentives are too strong when months of lead could be decisive",
+      "confidence": "high",
+      "quote": "Some hope for some sort of international treaty on safety. This seems fanciful to me... If the race is tight, any arms control equilibrium, at least in the early phase around superintelligence, seems extremely unstable.",
+      "conditional": null,
+      "notes": "Analogizes to unstable disarmament equilibria in dynamic situations"
+    },
+    {
+      "claim_id": "77",
+      "claim_type": "strategic",
+      "claim_text": "Once US has demonstrated it will win AGI race, should offer China and adversaries deal to share peaceful benefits in exchange for nonproliferation",
+      "confidence": "medium",
+      "quote": "If and when it becomes clear that the US will decisively win, that's when we offer a deal to China and other adversaries.",
+      "conditional": "IF US achieves decisive lead",
+      "notes": null
+    },
+    {
+      "claim_id": "78",
+      "claim_type": "actor_behavior",
+      "claim_text": "By 2025/2026, the next shocking AI capability step-changes will occur, with models outcompeting PhDs and driving $100B+ annual revenues",
+      "confidence": "medium",
+      "quote": "By 2025/2026 or so I expect the next truly shocking step-changes; AI will drive $100B+ annual revenues for big tech companies and outcompete PhDs in raw problem-solving smarts.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "79",
+      "claim_type": "actor_behavior",
+      "claim_text": "China is not currently AGI-pilled but will wake up as dramatic capability leaps continue, launching formidable AGI effort",
+      "confidence": "high",
+      "quote": "They will be a formidable adversary... I, for one, think we need to operate under the assumption that we will face a full-throated Chinese AGI effort.",
+      "conditional": "IF China wakes up to AGI",
+      "notes": null
+    },
+    {
+      "claim_id": "80",
+      "claim_type": "actor_behavior",
+      "claim_text": "Current leading AI labs are not demonstrating willingness to make costly tradeoffs for safety, prioritizing commercial interests",
+      "confidence": "high",
+      "quote": "Right now, no lab has demonstrated much of a willingness to make any costly tradeoffs to get safety right (we get lots of safety committees, yes, but those are pretty meaningless).",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "81",
+      "claim_type": "actor_behavior",
+      "claim_text": "AI labs are treating security as afterthought, refusing basic security measures if they have any cost or require prioritization",
+      "confidence": "high",
+      "quote": "most of America's leading AI labs have refused to put the national interest first—rejecting even basic security measures in this tier, if they have any cost or require any prioritization of security",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "82",
+      "claim_type": "feasibility",
+      "claim_text": "Private companies cannot achieve state-actor-proof security; only government has necessary infrastructure, authorities, and know-how",
+      "confidence": "high",
+      "quote": "this will only be possible with government help. Microsoft, for example, is regularly hacked by state actors... But once it becomes clear that superintelligence is a principal matter of national security, I'm sure this is how the men and women in DC will look at it.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "83",
+      "claim_type": "feasibility",
+      "claim_text": "Chain-of-thought interpretability is criminally underrated; simple hacks to preserve legibility and faithfulness could go quite far for early AGIs",
+      "confidence": "medium",
+      "quote": "My best guess is that some simple measurement of legibility and faithfulness, and some simple hacks to preserve legibility and faithfulness longer, could go quite far... this direction is criminally underrated in my view.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "84",
+      "claim_type": "feasibility",
+      "claim_text": "Mechanistic interpretability (fully reverse-engineering neural networks) is intractable and should be considered ambitious moonshot rather than default plan",
+      "confidence": "medium",
+      "quote": "I'm worried fully reverse-engineering superhuman AI systems will just be an intractable problem—similar, to, say 'fully reverse engineering the human brain'—and I'd put this work mostly in the 'ambitious moonshot for AI safety' rather than 'default plan for muddling through' bucket.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "85",
+      "claim_type": "feasibility",
+      "claim_text": "There is a reasonable shot that the default plan to align somewhat-superhuman systems will mostly work",
+      "confidence": "medium",
+      "quote": "I think there's a pretty reasonable shot that 'the default plan' to align 'somewhat-superhuman' systems will mostly work.",
+      "conditional": null,
+      "notes": "But author very worried about intelligence explosion phase"
+    },
+    {
+      "claim_id": "86",
+      "claim_type": "priority",
+      "claim_text": "Developing good metrics and measurements for alignment is among the highest priority work, as crucial as extending RLHF to superhuman systems",
+      "confidence": "high",
+      "quote": "Doing the science that lets us measure alignment and gives us an understanding of 'what evidence would be sufficient to assure us that the next OOM into superhuman territory is safe?' is among the very-highest priority work for alignment research today",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "87",
+      "claim_type": "causal",
+      "claim_text": "Ideas getting harder to find is real but the million-fold increase in research effort from automation is much larger than necessary to merely sustain progress",
+      "confidence": "medium",
+      "quote": "the magnitude of the increase in research effort—a million-fold—is way, way larger than the historical trends of the growth in research effort that's been necessary to sustain progress.",
+      "conditional": null,
+      "notes": "Knife-edge assumption to think it would only sustain rather than accelerate"
+    },
+    {
+      "claim_id": "88",
+      "claim_type": "causal",
+      "claim_text": "Empirical returns to algorithmic R&D favor explosive growth; the exponents shake out in favor of accelerating progress despite diminishing returns",
+      "confidence": "medium",
+      "quote": "my best read of the empirical evidence is that the exponents shake out in favor of explosive/accelerating progress.",
+      "conditional": null,
+      "notes": "Based on napkin math showing <100x researcher growth sustained progress"
+    },
+    {
+      "claim_id": "89",
+      "claim_type": "other",
+      "claim_text": "There are perhaps only a few hundred people in the world who have situational awareness about AGI and understand what's about to happen",
+      "confidence": "high",
+      "quote": "Right now, there are perhaps a few hundred people, most of them in San Francisco and the AI labs, that have situational awareness.",
+      "conditional": null,
+      "notes": "Author's sociological observation"
+    },
+    {
+      "claim_id": "90",
+      "claim_type": "other",
+      "claim_text": "The academic ML research community contributes surprisingly little to frontier algorithmic progress compared to lab-internal teams",
+      "confidence": "high",
+      "quote": "Basically all of frontier algorithmic progress happens at labs these days (academia is surprisingly irrelevant)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "91",
+      "claim_type": "other",
+      "claim_text": "Security for AGI will require invasive restrictions on core researchers including extreme vetting, constant monitoring, working from SCIFs, and reduced freedom to leave",
+      "confidence": "high",
+      "quote": "This will involve invasive restrictions on AI labs and on the core team of AGI researchers, from extreme vetting to constant monitoring to working from a SCIF to reduced freedom to leave",
+      "conditional": null,
+      "notes": "Part of what state-actor-proof security requires"
+    },
+    {
+      "claim_id": "92",
+      "claim_type": "other",
+      "claim_text": "The actual people who will be in charge of navigating AGI and superintelligence are just regular people you might personally know, not some heroic crack team",
+      "confidence": "high",
+      "quote": "But the scariest realization is that there is no crack team coming to handle this... The few folks behind the scenes who are desperately trying to keep things from falling apart are you and your buddies and their buddies. That's it. That's all there is.",
+      "conditional": null,
+      "notes": "Author's reflection on the situation"
+    }
+  ]
+}

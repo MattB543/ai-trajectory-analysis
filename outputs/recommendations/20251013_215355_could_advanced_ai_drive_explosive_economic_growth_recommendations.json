@@ -1,0 +1,169 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Investigate why experts rule out explosive growth and assess whether the arguments in this report change expert views",
+      "actor": "Growth economists and forecasting researchers",
+      "target_timeline": "unclear",
+      "urgency": "high",
+      "goal": "understand the basis for expert skepticism about explosive growth and improve forecasting accuracy",
+      "conditions": "unconditional",
+      "rationale_summary": "The report argues that explosive growth is plausible (~30% probability by 2100), but experts assign much lower probabilities (<1%). Understanding this disagreement could improve both expert forecasts and the arguments in the report.",
+      "quote": "Why do experts rule out explosive growth? This report argues that one should not confidently rule out explosive growth. In particular, I suggest assigning > 10% to explosive growth this century. Experts seem to assign much lower probabilities to explosive growth. Why is this? What do they make of the arguments of the report?"
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Conduct deeper assessment of Kremer's rank-correlation argument about population size and technological development",
+      "actor": "Economic historians and growth researchers",
+      "target_timeline": "unclear",
+      "urgency": "medium",
+      "goal": "determine whether the 'more people → more innovation' mechanism truly explains historical technological development patterns",
+      "conditions": "unconditional",
+      "rationale_summary": "Kremer's finding that isolated regions' 1500 technology levels perfectly rank-correlate with initial populations provides evidence for endogenous growth mechanisms, but alternative explanations haven't been fully explored.",
+      "quote": "Assess Kremer's rank-correlation argument. Does the 'more people → more innovation' story actually explain the rank correlation, or are there other better explanations?"
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Investigate the relative importance of the increasing returns mechanism versus structural transitions in explaining long-run growth",
+      "actor": "Growth theorists and economic historians",
+      "target_timeline": "unclear",
+      "urgency": "medium",
+      "goal": "understand the fundamental drivers of historical growth acceleration to improve future growth forecasts",
+      "conditions": "unconditional",
+      "rationale_summary": "The report identifies two competing explanations for historical growth patterns - smooth increases via increasing returns versus step-changes around the industrial revolution. Understanding which is correct affects predictions about future growth.",
+      "quote": "Investigate theories of long-run growth. How important is the increasing returns mechanism compared to other mechanisms in explaining the increase in long-run growth?"
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Conduct systematic empirical investigation to distinguish between competing growth theories using 20th century data",
+      "actor": "Econometricians and growth researchers",
+      "target_timeline": "unclear",
+      "urgency": "medium",
+      "goal": "empirically test which growth theories best explain observed patterns",
+      "conditions": "unconditional",
+      "rationale_summary": "Different growth theories have different implications for future growth, but empirical evidence hasn't painted a clear picture about which theories best fit the data.",
+      "quote": "Empirical evidence on different growth theories. What can 20th century empirical evidence tell us about the plausibility of various growth theories? I looked into this briefly and it seemed as if the evidence did not paint a clear picture."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Monitor current economic indicators for early signs of explosive GDP growth, particularly in AI and machine learning sectors",
+      "actor": "Economists and AI researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "detect whether explosive growth is beginning before it appears in aggregate statistics",
+      "conditions": "unconditional",
+      "rationale_summary": "If explosive growth is coming, there should be leading indicators in specific sectors before it appears in GDP statistics. Early detection would provide crucial warning and preparation time.",
+      "quote": "Are we currently seeing the early signs of explosive GDP growth? How long before explosive growth of GDP would we see signs of it in some sector of the economy? What exactly would these signs look like? Does the fast growth of current machine learning resemble these signs?"
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Research whether returns to technological R&D vary over time and if the technological landscape is uneven",
+      "actor": "Innovation economists and historians of technology",
+      "target_timeline": "unclear",
+      "urgency": "medium",
+      "goal": "understand whether periods of difficult progress alternate with easier progress, which would affect growth forecasts",
+      "conditions": "unconditional",
+      "rationale_summary": "If R&D returns vary significantly over time with long periods of difficulty punctuated by easier periods, this could explain historical growth patterns and suggest future growth might accelerate again.",
+      "quote": "Do returns to technological R&D change over time? How uneven has the technological landscape been in the past? Is it common to have long periods where R&D progress is difficult punctuated by periods where it is easier?"
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Search for or develop economic theories that predict exponential growth without problematic knife-edge conditions",
+      "actor": "Growth theorists",
+      "target_timeline": "unclear",
+      "urgency": "low",
+      "goal": "find robust theoretical explanations for why frontier GDP/capita growth might continue exponentially",
+      "conditions": "IF we want to predict continued exponential growth",
+      "rationale_summary": "Most endogenous growth models require knife-edge conditions for exponential growth, making predictions fragile. A robust theory would strengthen confidence in exponential growth forecasts.",
+      "quote": "Are there plausible theories that predict exponential growth? Is there a satisfactory explanation for the constancy of frontier per capita growth in the 20th century that implies that this trend will continue even if population growth slows?"
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Conduct detailed historical analysis to determine whether super-exponential growth occurred before the industrial revolution",
+      "actor": "Economic historians",
+      "target_timeline": "unclear",
+      "urgency": "medium",
+      "goal": "resolve uncertainty about whether historical growth was smooth super-exponential or involved step-changes",
+      "conditions": "unconditional",
+      "rationale_summary": "Pre-modern data uncertainty makes it unclear whether growth increased smoothly or via discrete transitions. This affects whether we should expect future increases and which models to trust.",
+      "quote": "Is there evidence of super-exponential growth before the industrial revolution? My sensitivity analysis suggested that there is, but Ben Garfinkel did a longer analysis and reached a different conclusion. Dig into this apparent disagreement."
+    },
+    {
+      "rec_id": "rec_9",
+      "action": "Investigate potential bottlenecks that could prevent AI-driven explosive growth, including regulatory, physical, and organizational constraints",
+      "actor": "Interdisciplinary research teams (economists, AI researchers, policy experts)",
+      "target_timeline": "unclear",
+      "urgency": "high",
+      "goal": "understand whether explosive growth is feasible even with advanced AI, or if bottlenecks would prevent it",
+      "conditions": "IF advanced AI is developed",
+      "rationale_summary": "Even if AI enables automation, various bottlenecks might prevent 30% annual growth. Understanding these constraints is crucial for accurate forecasting and would be a fascinating research project.",
+      "quote": "How likely is a bottleneck to prevent an AI-driven growth explosion? This would be a fascinating research project in its own right."
+    },
+    {
+      "rec_id": "rec_10",
+      "action": "Assign non-negligible probability (>10%) to explosive growth occurring by 2100 in long-term economic forecasts",
+      "actor": "Economic forecasters and institutions making long-run projections",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "ensure forecasts adequately account for tail risks and opportunities from transformative AI",
+      "conditions": "unconditional",
+      "rationale_summary": "Current expert forecasts assign very low probability to explosive growth, but the report argues this is plausible. Forecasters should not confidently rule out this scenario given historical precedent for growth increases.",
+      "quote": "Overall, I assign > 10% probability to explosive growth occurring this century. This is based on > 30% that we develop sufficiently advanced AI in time, and > 1/3 that explosive growth actually occurs conditional on this level of AI being developed."
+    },
+    {
+      "rec_id": "rec_11",
+      "action": "Design future expert surveys on long-run growth to include prompts about long-run super-exponential trends and AI-driven growth scenarios",
+      "actor": "Survey designers and forecasting researchers",
+      "target_timeline": "before next major expert survey",
+      "urgency": "medium",
+      "goal": "elicit more accurate expert views that account for all relevant considerations",
+      "conditions": "unconditional",
+      "rationale_summary": "Previous surveys didn't present experts with information about super-exponential historical trends or mechanisms for explosive growth. Better-designed surveys might reveal higher expert probabilities for explosive growth.",
+      "quote": "The respondents may have assigned higher probabilities to explosive growth by 2100 if they'd been presented with this information [about long-run super-exponential trends and possible mechanisms like advanced AI]."
+    },
+    {
+      "rec_id": "rec_12",
+      "action": "Use both long-run GWP data and recent frontier growth data when constructing economic models and forecasts, rather than exclusively post-1900 data",
+      "actor": "Economic modelers and forecasters",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "incorporate broader historical perspective while not over-weighting uncertain ancient data",
+      "conditions": "unconditional",
+      "rationale_summary": "Models using only post-1900 data capture constant growth but miss the longer pattern of super-exponential growth. A balanced approach using longer timeframes with appropriate discounting provides better forecasts.",
+      "quote": "The papers I've seen exclusively use post-1900 data, and often only post-1950 data. While reasonable for short-term growth forecasts, this becomes more questionable when you forecast over longer horizons."
+    },
+    {
+      "rec_id": "rec_13",
+      "action": "Consider semi-endogenous growth models that predict sub-exponential 21st century growth given slowing population growth",
+      "actor": "Economic forecasters and policy planners",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "prepare for the possibility that growth slows significantly this century",
+      "conditions": "IF advanced AI is not developed or does not drive explosive growth",
+      "rationale_summary": "Semi-endogenous models offer the best explanation of recent exponential growth and predict slowing growth given UN population projections. This scenario deserves significant probability weight (~40%).",
+      "quote": "I put ~75% weight in semi-endogenous growth models... These models imply that 21st century growth will be sub-exponential given the projected slowing population growth."
+    },
+    {
+      "rec_id": "rec_14",
+      "action": "Take seriously the possibility that sufficiently advanced AI could drive explosive economic growth when setting AI policy and research priorities",
+      "actor": "AI researchers, policymakers, and philanthropic organizations focused on AI",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "ensure AI development timelines and risk assessments account for transformative economic impacts",
+      "conditions": "unconditional",
+      "rationale_summary": "If AI enables capital to substitute for labor across wide-ranging tasks, many growth models predict explosive growth. This has major implications for AI governance, safety research, and cause prioritization.",
+      "quote": "There is a plausible economic perspective from which sufficiently advanced AI systems are expected to cause explosive growth... This is based on > 30% that we develop sufficiently advanced AI in time."
+    },
+    {
+      "rec_id": "rec_15",
+      "action": "Maintain wide probability distributions over future growth outcomes, avoiding confident predictions of either continued exponential growth or explosive growth",
+      "actor": "All forecasters and institutions making long-term projections",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "accurately represent genuine uncertainty about future economic trajectories",
+      "conditions": "unconditional",
+      "rationale_summary": "Deep uncertainty about growth mechanisms, combined with both theories and data pointing in different directions, justifies substantial probability on explosive growth, exponential growth, and sub-exponential growth.",
+      "quote": "Thus I conclude that the possibilities for long-run growth are wide open. Both explosive growth and stagnation are plausible... What is robust is that I assign non-negligible probability (>10%) to explosive growth, exponential growth, and sub-exponential growth."
+    }
+  ]
+}

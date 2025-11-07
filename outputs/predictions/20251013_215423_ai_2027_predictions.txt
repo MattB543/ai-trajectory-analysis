@@ -1,0 +1,282 @@
+# Extracted Predictions from AI 2027
+
+```json
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "Mid-2025 AI coding agents will score 85% on SWEBench-Verified benchmark.",
+      "timeframe": "mid-2025",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "SWEBench-Verified benchmark scores for leading AI coding agents reach 85% by mid-2025",
+      "conditional": null,
+      "quote": "For example, we think coding agents will move towards functioning like Devin. We forecast that mid-2025 agents will score 85% on SWEBench-Verified."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "Mid-2025 AI agents will score 65% on the OSWorld benchmark of basic computer tasks.",
+      "timeframe": "mid-2025",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "OSWorld benchmark scores reach 65% for AI agents by mid-2025 (compared to 38% for Operator and 70% for typical skilled non-expert human)",
+      "conditional": null,
+      "quote": "Specifically, we forecast that they score 65% on the OSWorld benchmark of basic computer tasks (compared to 38% for Operator and 70% for a typical skilled non-expert human)."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "Over the course of 2025, AI company revenues will triple, and OpenBrain (leading AI company) valuation will reach $1 trillion.",
+      "timeframe": "2025",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Combined revenues of major AI companies triple from 2024 to 2025; leading AI company reaches $1T valuation by end of 2025",
+      "conditional": null,
+      "quote": "Agent-1 and its imitators are commercially successful; over the course of 2025, AI company revenues triple, and OpenBrain valuation reaches $1T."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "Annual spending on AI datacenters will double to $400 billion by end of 2025.",
+      "timeframe": "by end of 2025",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Annual global spending on AI datacenter infrastructure reaches $400B by December 2025",
+      "conditional": null,
+      "quote": "Annual spending on datacenters doubles to $400 billion, led by Microsoft, Google, and Amazon"
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "The US will add over 5 GW of AI power draw by end of 2025.",
+      "timeframe": "by end of 2025",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Total US power consumption for AI inference and training increases by >5 GW from 2024 baseline to end of 2025",
+      "conditional": null,
+      "quote": "the US adds over 5 GW of AI power draw"
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "By April 2026, AI agents will score 80% on OSWorld benchmark, matching skilled but non-expert humans.",
+      "timeframe": "April 2026",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "AI agents achieve 80% score on OSWorld benchmark by April 2026",
+      "conditional": null,
+      "quote": "Specifically, we predict a score of 80% on OSWorld (equivalent to a skilled but non-expert human)"
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "By April 2026, AI agents will score 85% on Cybench, matching top professional human teams on 4-hour hacking tasks.",
+      "timeframe": "April 2026",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "AI agents achieve 85% on Cybench benchmark, performing equivalently to top professional human teams on hacking tasks that take those teams 4 hours",
+      "conditional": null,
+      "quote": "85% on Cybench, matching a top professional human team on hacking tasks that take those teams 4 hours"
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "By April 2026, AI agents will score 1.3 on RE-Bench, matching top expert humans given 8 hours at well-defined AI research engineering tasks.",
+      "timeframe": "April 2026",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "AI agents achieve score of 1.3 on RE-Bench by April 2026",
+      "conditional": null,
+      "quote": "1.3 on RE-Bench matching top expert humans given 8 hours at well-defined AI research engineering tasks"
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "The stock market will increase by 30% in 2026, led by AI and semiconductor companies.",
+      "timeframe": "2026",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Major stock market indices (S&P 500 or equivalent) increase by 30% during calendar year 2026, with AI and chip companies leading gains",
+      "conditional": null,
+      "quote": "The stock market has gone up 30% in 2026, led by OpenBrain, Nvidia, and whichever companies have most successfully integrated AI assistants."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "China will maintain approximately 12% of the world's AI-relevant compute through mid-2026 through smuggling, older chips, and domestic production.",
+      "timeframe": "through mid-2026",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Estimates of China's share of global AI compute capacity remain around 12% through mid-2026, accounting for smuggled, legally imported, and domestically produced chips",
+      "conditional": null,
+      "quote": "By smuggling banned Taiwanese chips, buying older chips, and producing domestic chips about three years behind the US-Taiwanese frontier, China has managed to maintain about 12% of the world's AI-relevant compute"
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "China will be approximately six months behind the best US AI models by mid-2026.",
+      "timeframe": "mid-2026",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Chinese frontier AI models demonstrate capabilities comparable to US models from approximately 6 months earlier, as measured by standardized benchmarks",
+      "conditional": null,
+      "quote": "A few standouts like DeepCent do very impressive work with limited compute, but the compute deficit limits what they can achieve without government support, and they are about six months behind the best OpenBrain models."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "A superhuman coder (AI system that can do any coding tasks the best AGI company engineer does, while being much faster and cheaper) will be developed with a 50th percentile date of December 2028.",
+      "timeframe": "10th percentile: Dec 2025, 50th percentile: Dec 2028, 90th percentile: >2050",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "An AI system is demonstrated that can perform all coding tasks performed by top AI company research engineers, at faster speed and lower cost. Median forecast: December 2028.",
+      "conditional": null,
+      "quote": "Eli (AI 2027 author): 10th: Dec 2025, 50th: Dec 2028, 90th: >2050"
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "A Superhuman AI Researcher (SAR) - AI that can do all cognitive AI research tasks better than the best human - will be developed with 50th percentile date of July 2027, conditional on superhuman coder being achieved in March 2027.",
+      "timeframe": "10th: Mar 2027, 50th: Jul 2027, 90th: Mar 2028",
+      "prediction_type": "capability",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "An AI system is demonstrated that exceeds the best human researchers at all cognitive tasks involved in AI research, including research taste and strategic planning. Median forecast: July 2027 (conditional on superhuman coder in March 2027).",
+      "conditional": "IF superhuman coder is achieved in March 2027",
+      "quote": "SAR: Superhuman AI Researcher... 10th: Mar 2027, 50th: Jul 2027, 90th: Mar 2028"
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "A Superintelligent AI Researcher (SIAR) - AI vastly better than best human at AI research - will be developed with 50th percentile date of November 2027, conditional on superhuman coder being achieved in March 2027.",
+      "timeframe": "10th: May 2027, 50th: Nov 2027, 90th: Jan 2034",
+      "prediction_type": "capability",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "An AI system is demonstrated that is vastly superior to the best human researchers at AI research. Median forecast: November 2027 (conditional on superhuman coder in March 2027).",
+      "conditional": "IF superhuman coder is achieved in March 2027",
+      "quote": "SIAR: Superintelligent AI Researcher... 10th: May 2027, 50th: Nov 2027, 90th: Jan 2034"
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "Artificial Superintelligence (ASI) - AI much better than best human at every cognitive task - will be developed with 50th percentile date of April 2028, conditional on superhuman coder being achieved in March 2027.",
+      "timeframe": "10th: Jun 2027, 50th: Apr 2028, 90th: >2100",
+      "prediction_type": "capability",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "An AI system is demonstrated that significantly exceeds the best humans at all cognitive tasks, not just AI research. Median forecast: April 2028 (conditional on superhuman coder in March 2027).",
+      "conditional": "IF superhuman coder is achieved in March 2027",
+      "quote": "ASI: Artificial Superintelligence... 10th: Jun 2027, 50th: Apr 2028, 90th: >2100"
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "Leading AI companies will have frontier models that can autonomously complete software engineering tasks with time horizons of 5+ years by March 2027, following the trend of doubling every 4 months.",
+      "timeframe": "by March 2027",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "AI agents can successfully complete software engineering tasks that would take a skilled human years to complete, with 80% reliability, as measured by extensions of benchmarks like METR's task suite",
+      "conditional": null,
+      "quote": "According to a recent METR's report, the length of coding tasks AIs can handle, their 'time horizon', doubled every 7 months from 2019 - 2024 and every 4 months from 2024-onward. If the trend continues to speed up, by March 2027 AIs could succeed with 80% reliability on software tasks that would take a skilled human years to complete."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "By late 2026, 25% of remote-work jobs that existed in 2024 will be done by AI.",
+      "timeframe": "late 2026",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "Surveys and economic data show that AI systems are performing tasks formerly done by humans in 25% of roles that were remote-work positions in 2024",
+      "conditional": null,
+      "quote": "25% of remote-work jobs that existed in 2024 are done by AI at this point"
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "Unemployment will rise by 1% over 12 months ending in October 2027, though remaining within historic range.",
+      "timeframe": "October 2026 to October 2027",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "US unemployment rate increases by 1 percentage point over the 12-month period ending October 2027",
+      "conditional": null,
+      "quote": "Unemployment has risen 1% over the past twelve months but is still well within its historic range."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "By October 2027, 20% of Americans will name AI as the most important problem facing the country.",
+      "timeframe": "October 2027",
+      "prediction_type": "deployment",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Gallup or similar polling shows 20% of Americans cite AI as the biggest problem facing the country",
+      "conditional": null,
+      "quote": "20% of Americans name AI as the most important problem facing the country."
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "China will centralize 40% of its AI-relevant compute in a Centralized Development Zone by February 2027.",
+      "timeframe": "February 2027",
+      "prediction_type": "geopolitical",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "Intelligence assessments or public reports indicate China has concentrated approximately 40% of its AI compute capacity in a single centralized location by February 2027",
+      "conditional": null,
+      "quote": "By now China has 40% of its AI-relevant compute† in the CDZ"
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "Global AI datacenter capital expenditure will exceed $1 trillion in cost of ownership of active compute by late 2026.",
+      "timeframe": "late 2026",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Industry reports show total cost of ownership for actively deployed AI compute infrastructure exceeds $1T by end of 2026",
+      "conditional": null,
+      "quote": "GLOBAL AI CAPEX: $1T COST OF OWNERSHIP OF ACTIVE COMPUTE"
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "Global AI compute will consume 38 GW of peak power by late 2026, representing 2.5% of US power capacity.",
+      "timeframe": "late 2026",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Total peak power draw for AI training and inference reaches 38 GW globally, with US AI representing 33 GW of 1.34 TW total US capacity",
+      "conditional": null,
+      "quote": "38GW PEAK POWER... 2.5% SHARE OF US POWER ON AI: 33 GW OF 1.34TW CAPACITY"
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "By July 2027, 10% of Americans will consider an AI to be a close friend.",
+      "timeframe": "July 2027",
+      "prediction_type": "deployment",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Survey data shows 10% of Americans report considering an AI system to be a close friend",
+      "conditional": null,
+      "quote": "10% of Americans, mostly young people, consider an AI 'a close friend.'"
+    },
+    {
+      "pred_id": "pred_24",
+      "prediction_text": "Leading AI company net approval rating will be approximately -35% (25% approve, 60% disapprove) by July 2027.",
+      "timeframe": "July 2027",
+      "prediction_type": "deployment",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Polling shows leading AI company has net favorability of -35%, with 25% approval and 60% disapproval",
+      "conditional": null,
+      "quote": "OpenBrain has a net approval of −35% (25% approve, 60% disapprove, and 15% unsure)."
+    },
+    {
+      "pred_id": "pred_25",
+      "prediction_text": "A superintelligent AI will achieve human-level compute efficiency to within 4,000x by September 2027.",
+      "timeframe": "September 2027",
+      "prediction_type": "capability",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "An AI system is demonstrated that can learn any skillset a human has using at most 4,000x the compute the human used to learn those skills",
+      "conditional": null,
+      "quote": "ends up making substantial algorithmic strides, narrowing the gap to an agent that's only around 4,000x less compute-efficient than the human brain"
+    }
+  ]
+}

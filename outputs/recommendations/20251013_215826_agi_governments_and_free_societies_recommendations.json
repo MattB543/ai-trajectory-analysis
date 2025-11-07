@@ -1,0 +1,301 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Adopt a creative 'futurist' mindset in AI policy that anticipates near-AGI capabilities within the next decade",
+      "actor": "Governments",
+      "target_timeline": "now",
+      "urgency": "high",
+      "goal": "enable proactive policy development that reimagines governance for AGI-enabled screen-based work",
+      "conditions": "unconditional",
+      "rationale_summary": "Many researchers now anticipate AGI within years rather than decades. Governments must move beyond reactive regulation to proactively reimagine governance structures before AGI systems can perform most screen-based tasks currently done by humans.",
+      "quote": "Governments grappling with AI policy should therefore think beyond regulation, embracing a creative 'futurist' mindset that anticipates near-AGI capabilities within the next decade. This involves reimagining governance and policy prescriptions in light of AI agents potentially undertaking many (if not most) screen-based tasks currently performed by humans."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Develop and deploy advanced privacy-enhancing technologies (PETs) powered by AGI",
+      "actor": "Governments",
+      "target_timeline": "before AGI",
+      "urgency": "critical",
+      "goal": "counterbalance surveillance capabilities of AGI and enable individuals to maintain autonomy and privacy",
+      "conditions": "unconditional",
+      "rationale_summary": "As AGI amplifies surveillance capabilities and potential negative externalities of unchecked information flow, PETs become critical for preserving individual freedom. Advanced PETs can provide robust protections against unauthorized data access while allowing beneficial uses of data.",
+      "quote": "On the technological front, privacy-enhancing technologies (PETs) can play a vital role in counterbalancing the surveillance capabilities of AGI. Advanced PETs could enable individuals to maintain autonomy and privacy in the face of increasingly pervasive state monitoring."
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Invest in explainable AI and mechanistic interpretability research",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "ensure AGI systems operate transparently and remain accountable for their decisions",
+      "conditions": "unconditional",
+      "rationale_summary": "Without understanding how AGI systems make decisions, it is impossible to ensure accountability or detect failures. Mechanistic interpretability and explainable AI research can bridge the gap between AGI's computational processes and human oversight, fostering trust.",
+      "quote": "Simultaneously, investments in explainable AI and mechanistic interpretability are essential to ensuring that AGI systems operate transparently and remain accountable for their decisions. These technologies can help bridge the gap between AGI's computational processes and human oversight, fostering trust in their deployment."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Embrace hybrid AI-human governance structures that combine AGI computational power with human judgment and accountability",
+      "actor": "Governments",
+      "target_timeline": "before AGI",
+      "urgency": "critical",
+      "goal": "preserve democratic values and accountability while leveraging AGI capabilities",
+      "conditions": "unconditional",
+      "rationale_summary": "Pure AGI governance risks losing human accountability and moral judgment, while pure human governance cannot match AGI capabilities. Hybrid structures allow governments to harness AGI's power while maintaining the nuanced judgment and democratic accountability that only humans can provide.",
+      "quote": "Institutional adaptations are equally important. Governments must embrace hybrid AI-human governance structures that combine AGI's computational power with the nuanced judgment and accountability that human administrators provide."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Evolve bureaucratic models to maintain flexibility and adaptability while leveraging AGI capabilities",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "retain oversight mechanisms that align with democratic values while using AGI effectively",
+      "conditions": "unconditional",
+      "rationale_summary": "Rigid, centralized AGI systems risk creating despotic control, while maintaining flexible, adaptive bureaucratic structures allows agencies to adjust to AGI's rapid evolution and ensures democratic values remain embedded in governance processes.",
+      "quote": "Bureaucratic models must also evolve to maintain flexibility and adaptability, allowing agencies to leverage AGI's capabilities while retaining oversight mechanisms that align with democratic values."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Adapt regulatory and legal frameworks to account for AGI use by non-state actors",
+      "actor": "Governments",
+      "target_timeline": "before widespread AGI diffusion",
+      "urgency": "high",
+      "goal": "prevent erosion of state legitimacy and maintain governability as AGI diffuses to non-state actors",
+      "conditions": "IF AGI diffuses rapidly to individuals and civil society",
+      "rationale_summary": "If AGI capabilities spread to non-state actors faster than governments can regulate them, the result could be an 'absent Leviathan' scenario where state capacity and legitimacy are undermined. Proactive regulatory adaptation is needed to maintain governance while AGI empowers individuals.",
+      "quote": "At the same time, policymakers will need to adapt regulatory and legal frameworks to account for the increasing use of AGI by non-state actors, whether in setting and enforcing standards or modernizing antitrust paradigms to address market concentration risks."
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Modernize antitrust paradigms to address AI-related market concentration risks",
+      "actor": "Governments",
+      "target_timeline": "before AGI",
+      "urgency": "high",
+      "goal": "prevent excessive market concentration that could destabilize liberal democratic institutions",
+      "conditions": "unconditional",
+      "rationale_summary": "AGI development is likely to favor companies with massive compute resources, potentially creating unprecedented market concentration. Updated antitrust frameworks are needed to ensure competitive markets remain a pillar of free societies in the AGI era.",
+      "quote": "At the same time, policymakers will need to adapt regulatory and legal frameworks to account for the increasing use of AGI by non-state actors, whether in setting and enforcing standards or modernizing antitrust paradigms to address market concentration risks."
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Enable large-scale deliberative platforms using AGI to enhance participatory governance",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "revitalize democratic engagement and strengthen feedback between citizens and representatives",
+      "conditions": "ONLY IF designed with robust safeguards",
+      "rationale_summary": "AGI can facilitate meaningful input from millions of citizens in policy-making, potentially overcoming the limitations of representative democracy. However, this requires careful design to prevent manipulation and ensure genuine democratic enhancement rather than erosion of accountability.",
+      "quote": "Reinforcing democratic processes is another critical pillar of securing the narrow corridor. AGI systems offer unique opportunities to enhance participatory governance, such as enabling large-scale deliberative platforms, real-time citizen feedback systems, and representative digital twins."
+    },
+    {
+      "rec_id": "rec_9",
+      "action": "Create real-time citizen feedback systems powered by AGI",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "make governance more responsive to citizen needs and preferences",
+      "conditions": "ONLY IF designed with safeguards against manipulation",
+      "rationale_summary": "Real-time feedback systems can help overcome the lag and information asymmetries in current democratic processes, making government more responsive. However, they must be designed to prevent manipulation by malicious actors using AGI to orchestrate artificial consensus.",
+      "quote": "AGI systems offer unique opportunities to enhance participatory governance, such as enabling large-scale deliberative platforms, real-time citizen feedback systems, and representative digital twins."
+    },
+    {
+      "rec_id": "rec_10",
+      "action": "Develop representative digital twins for democratic participation",
+      "actor": "AI labs",
+      "target_timeline": "next 5 years",
+      "urgency": "medium",
+      "goal": "enable more direct democracy by allowing AI agents to represent individual citizen preferences",
+      "conditions": "IF high-fidelity simulation proves reliable and citizens retain control",
+      "rationale_summary": "Digital twins that accurately represent individual preferences could dramatically increase citizen participation in governance by delegating routine democratic input to trustworthy AI agents. This requires careful development to ensure fidelity, user control, and protection against manipulation.",
+      "quote": "This work stops far short of the creation of actual 'digital twins' for political representation purposes. However, one can imagine personalized LLMs with long-term memory capable of a high-quality simulation (that is, after an extended conversation with the subject and appropriate background information)."
+    },
+    {
+      "rec_id": "rec_11",
+      "action": "Design robust safeguards to prevent misuse of democratic AGI systems",
+      "actor": "Governments",
+      "target_timeline": "before deployment",
+      "urgency": "critical",
+      "goal": "ensure AGI-enhanced democracy genuinely strengthens rather than undermines democratic accountability",
+      "conditions": "unconditional",
+      "rationale_summary": "Without safeguards, AGI-powered democratic tools could be manipulated to manufacture consent, suppress dissent, or enable authoritarianism. Robust technical and institutional safeguards must be built in from the start to prevent these failure modes.",
+      "quote": "However, these systems must be designed with robust safeguards to prevent misuse and ensure that they genuinely enhance, rather than undermine, democratic accountability."
+    },
+    {
+      "rec_id": "rec_12",
+      "action": "Establish clear frameworks for democratic oversight of AGI systems in government",
+      "actor": "Governments",
+      "target_timeline": "before widespread AGI deployment",
+      "urgency": "critical",
+      "goal": "ensure artificial bureaucrats remain accountable to elected officials and the public",
+      "conditions": "unconditional",
+      "rationale_summary": "As AGI takes on more government functions, there is a risk of creating unaccountable 'black box' governance. Clear oversight frameworks ensure that AGI systems remain tools of democratic governance rather than autonomous decision-makers beyond public control.",
+      "quote": "Establishing clear frameworks for democratic oversight of AGI systems will also be essential, ensuring that artificial bureaucrats remain accountable to elected officials and the public."
+    },
+    {
+      "rec_id": "rec_13",
+      "action": "Cultivate capacity for anticipatory governance that proactively stress-tests institutions in expectation of AGI",
+      "actor": "Governments",
+      "target_timeline": "now",
+      "urgency": "critical",
+      "goal": "enable proactive institutional adaptation rather than reactive crisis management",
+      "conditions": "unconditional",
+      "rationale_summary": "The rapid pace of AGI development means reactive governance will be too slow. Cultivating anticipatory governance capabilities allows institutions to identify failure modes and develop solutions before crises occur, maintaining stability through the transition.",
+      "quote": "Perhaps most importantly, securing the narrow corridor in an age of AGI will require an epistemic shift in how we approach the governance of emerging technologies. Rather than passively reacting to technological disruptions, policymakers and publics alike must cultivate a greater capacity for anticipatory governance––proactively imagining and stress-testing institutional paradigms in expectation of AGI's transformative potential."
+    },
+    {
+      "rec_id": "rec_14",
+      "action": "Deploy scenario planning, threat modeling, and forecasting to explore AGI failure modes and policy options",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "identify and prepare for potential failure modes before they occur",
+      "conditions": "unconditional",
+      "rationale_summary": "AGI's transformative potential creates numerous possible failure modes that could destabilize liberal institutions. Systematic exploration of these scenarios through established analytical frameworks enables better preparation and more robust policy development.",
+      "quote": "Intellectual frameworks like scenario planning, threat modeling, and forecasting should be deployed, in a serious exploration of failure modes and policy options for their mitigation."
+    },
+    {
+      "rec_id": "rec_15",
+      "action": "Conduct governance experimentation across scales from local sandboxes to international norm-setting",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "surface gaps in existing frameworks and prototype AGI-robust governance alternatives",
+      "conditions": "unconditional",
+      "rationale_summary": "No one knows what governance structures will work best with AGI. Experimentation at multiple scales allows rapid learning and iteration, surfacing problems early when they're smaller and more manageable, while prototyping solutions that can scale up if successful.",
+      "quote": "Governance experimentation across scales––from local sandboxes to international norm-setting––will also be needed to surface gaps in existing governance frameworks and prototype more AGI-robust alternatives."
+    },
+    {
+      "rec_id": "rec_16",
+      "action": "Foster greater collaboration between AI researchers, social scientists, and policymakers",
+      "actor": "Academia",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "ensure AGI development incorporates understanding of societal implications",
+      "conditions": "unconditional",
+      "rationale_summary": "AGI's societal implications span technical, social, and political domains. Effective governance requires bridging disciplinary silos so that technical development is informed by social science understanding and policy needs, while policy is informed by technical realities.",
+      "quote": "It also demands greater collaboration between AI researchers, social scientists, and policymakers in exploring the societal implications of AGI."
+    },
+    {
+      "rec_id": "rec_17",
+      "action": "Develop new social technologies that balance societal legibility with privacy and individual autonomy",
+      "actor": "Governments",
+      "target_timeline": "before AGI",
+      "urgency": "high",
+      "goal": "maintain social order and effective governance while preserving spaces for privacy",
+      "conditions": "unconditional",
+      "rationale_summary": "AGI dramatically increases state capacity for surveillance and control. New social technologies are needed to preserve the balance between necessary government visibility for public goods provision and individual privacy that is essential to freedom, preventing a slide toward despotic Leviathan.",
+      "quote": "The key to preserving freedom in this context lies in striking a delicate balance. While some degree of societal legibility is necessary for effective governance and public goods provision, excessive legibility can lead to oppressive control. As such, we may need to develop new social technologies that allow for sufficient legibility to maintain social order and address collective challenges, while also preserving spaces for privacy and individual autonomy."
+    },
+    {
+      "rec_id": "rec_18",
+      "action": "Reform outdated laws exposed by AGI-enabled automated enforcement",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "align letter of law with contemporary values and practical realities",
+      "conditions": "IF automated enforcement reveals laws dependent on lenient enforcement",
+      "rationale_summary": "Many laws rely on imperfect enforcement and human discretion. AGI-powered automation makes every violation legible, which could lead to draconian outcomes if laws aren't updated. This creates an opportunity to reform outdated regulations that were only acceptable because of inconsistent enforcement.",
+      "quote": "A silver lining might be that the shift towards automated enforcement will likely expose outdated or poorly crafted laws reliant on lenient enforcement or human discretion, demanding proactive legal reform to align the letter of the law with contemporary values and practical realities."
+    },
+    {
+      "rec_id": "rec_19",
+      "action": "Create hybrid systems combining AGI capabilities with human judgment for scalable governance",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "achieve scalability while maintaining transparency, contestability, and alignment with human values",
+      "conditions": "unconditional",
+      "rationale_summary": "Pure AGI systems risk becoming opaque black boxes that erode public trust, while pure human systems cannot scale to meet governance needs in an AGI world. Hybrid systems capture the benefits of both approaches while mitigating their respective weaknesses.",
+      "quote": "As such, we need to develop scalable solutions that are also transparent, contestable, and aligned with human values. This might involve creating hybrid systems that combine AGI capabilities with human judgment, or new forms of algorithmic accountability that allow for meaningful scrutiny of AGI-driven governance processes."
+    },
+    {
+      "rec_id": "rec_20",
+      "action": "Develop new forms of algorithmic accountability that allow meaningful scrutiny of AGI-driven governance",
+      "actor": "Governments",
+      "target_timeline": "before AGI",
+      "urgency": "high",
+      "goal": "prevent erosion of public trust and democratic control from opaque AGI governance",
+      "conditions": "unconditional",
+      "rationale_summary": "Traditional accountability mechanisms assume human decision-makers who can be questioned and held responsible. AGI systems require new accountability frameworks that make their decisions contestable and scrutable while operating at scale, preserving democratic legitimacy.",
+      "quote": "This might involve creating hybrid systems that combine AGI capabilities with human judgment, or new forms of algorithmic accountability that allow for meaningful scrutiny of AGI-driven governance processes. The ultimate goal should be to use scalability to enhance, rather than replace, human agency in democratic governance."
+    },
+    {
+      "rec_id": "rec_21",
+      "action": "Experiment with AGI-enabled democratic systems at local level alongside current systems",
+      "actor": "Governments",
+      "target_timeline": "now",
+      "urgency": "medium",
+      "goal": "determine best socio-technical arrangements for AGI-enhanced democracy",
+      "conditions": "unconditional",
+      "rationale_summary": "The optimal design of AGI-enhanced democratic systems is unknown. Local experimentation running in parallel with existing systems provides low-risk testing grounds to learn what works, allowing iterative refinement before broader deployment.",
+      "quote": "Finally, depending on the technological trajectory of AGI, a high volume of experimentation, ideally at the local level or alongside other current systems, would help illustrate the best socio-technical arrangement of these new democratic capabilities."
+    },
+    {
+      "rec_id": "rec_22",
+      "action": "Develop new legal and technical frameworks for authorized privacy piercing under specific circumstances",
+      "actor": "Governments",
+      "target_timeline": "before AGI",
+      "urgency": "medium",
+      "goal": "balance privacy protections with legitimate governance and public safety needs",
+      "conditions": "unconditional",
+      "rationale_summary": "While strong privacy protections are essential for freedom, complete opacity can prevent legitimate governance functions. Carefully designed frameworks for authorized privacy piercing under narrow, well-defined circumstances preserve both privacy and governability.",
+      "quote": "This might involve developing new legal and technical frameworks for 'authorized privacy piercing' under specific, well-defined circumstances, or creating AGI-mediated systems for secure information sharing between individuals, corporations, and government entities."
+    },
+    {
+      "rec_id": "rec_23",
+      "action": "Create AGI-mediated systems for secure information sharing between individuals, corporations, and government",
+      "actor": "AI labs",
+      "target_timeline": "before AGI",
+      "urgency": "medium",
+      "goal": "enable necessary transparency and accountability while maintaining strong privacy guarantees",
+      "conditions": "unconditional",
+      "rationale_summary": "AGI can act as a trusted intermediary that allows information sharing for legitimate purposes without exposing underlying private data. This enables cooperation and accountability without sacrificing privacy, using AGI to enhance both simultaneously rather than treating them as mutually exclusive.",
+      "quote": "The goal should be to use AGI to enhance both privacy and necessary forms of transparency, rather than viewing them as mutually exclusive. For example, Trask and colleagues demonstrate how structured transparency, in practical terms, offers concrete methods to share specific data attributes without revealing the entire dataset, ensure data hasn't been altered during collaboration, and establish verifiable control mechanisms over its subsequent use."
+    },
+    {
+      "rec_id": "rec_24",
+      "action": "Design identity verification systems that give individuals control over their identity information",
+      "actor": "Governments",
+      "target_timeline": "before AGI",
+      "urgency": "high",
+      "goal": "prevent oppressive surveillance while ensuring sufficient verification for critical functions",
+      "conditions": "unconditional",
+      "rationale_summary": "AGI enables both highly convincing deepfakes and unprecedented identity tracking. Robust identity verification is needed to maintain social trust, but centralized systems risk creating oppressive surveillance. User-controlled systems allow selective identity revelation, balancing security with privacy.",
+      "quote": "Preserving freedom in this context will require carefully designed systems that give individuals control over their identity information and limit its use to necessary contexts."
+    },
+    {
+      "rec_id": "rec_25",
+      "action": "Develop new social and legal norms around identity and pseudonymity appropriate for AGI era",
+      "actor": "Society",
+      "target_timeline": "before AGI",
+      "urgency": "medium",
+      "goal": "balance security needs with privacy and anonymity values in AGI-enabled world",
+      "conditions": "unconditional",
+      "rationale_summary": "Current norms around identity, anonymity, and pseudonymity were developed for a pre-AGI world. New norms are needed that recognize both the increased importance of verification in an age of deepfakes and the continued value of privacy and anonymity in maintaining individual freedom.",
+      "quote": "We may need to develop new social and legal norms around identity and pseudonymity, recognizing the value of privacy and anonymity in certain domains while ensuring sufficient verification for critical functions."
+    },
+    {
+      "rec_id": "rec_26",
+      "action": "Carefully navigate AGI's 'jagged frontier' when assigning tasks to AI systems versus humans",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "maximize benefits of AI assistance while avoiding performance degradation on tasks outside AI capabilities",
+      "conditions": "unconditional",
+      "rationale_summary": "Research shows AI can significantly improve performance on tasks within its capabilities but decrease performance on tasks outside them. Careful task allocation based on understanding AGI's specific strengths and limitations ensures positive outcomes while avoiding harmful failures.",
+      "quote": "A recent field experiment with over 750 management consultants found that AI assistance increased task completion rates by 12.2% on average and improved output quality by over 40% compared to a control group. However, the study also revealed that AI can decrease performance on tasks outside its current capabilities, highlighting the importance of carefully navigating AI's 'jagged frontier' of abilities."
+    },
+    {
+      "rec_id": "rec_27",
+      "action": "Ensure AGI deployment strengthens rather than subverts democratic values through deliberate institutional innovation",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "maintain free societies in age of AGI by preserving narrow corridor between despotic and absent Leviathan",
+      "conditions": "unconditional",
+      "rationale_summary": "AGI's transformative power could push societies toward either authoritarianism or institutional collapse. Maintaining free societies requires deliberate effort to harness AGI's benefits while guarding against concentration of power and loss of human agency, preserving the delicate balance that sustains liberty.",
+      "quote": "We conclude that maintaining free societies in an age of AGI requires deliberate institutional innovation to harness its benefits while guarding against both centralized control and institutional collapse."
+    }
+  ]
+}

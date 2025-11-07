@@ -1,0 +1,279 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "AGI (artificial general intelligence that surpasses top human experts across domains critical for seizing power) is possible by 2026 or 2027",
+      "timeframe": "by 2026-2027",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems demonstrably surpass top human experts across multiple domains including weapons development, strategic planning, and cyber offense as assessed by domain experts and benchmarks",
+      "conditional": null,
+      "quote": "Anthropic CEO Dario Amodei believes that AGI is possible by 2026 or 2027 (Fridman, 2024)"
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "Superintelligence could arrive within a few thousand days from September 2024 (approximately by 2032-2033)",
+      "timeframe": "within a few thousand days of September 2024",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems achieve capabilities dramatically beyond human experts across all cognitive domains, with ability to recursive self-improve",
+      "conditional": null,
+      "quote": "OpenAI CEO Sam Altman said in September 2024 that superintelligence could arrive within a few thousand days (Altman, 2024)"
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "Human-level AI will arrive within 5 to 10 years from 2025 (by 2030-2035)",
+      "timeframe": "2030-2035",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems match or exceed human performance across substantially all economically valuable cognitive tasks",
+      "conditional": null,
+      "quote": "Google DeepMind CEO Demis Hassabis believes human-level AI will arrive in 5 to 10 years (Browne, 2025)"
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "The largest AI project will have access to approximately 10^23 FLOP/s of compute by 2030",
+      "timeframe": "by 2030",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Publicly reported or verified compute capacity of the largest AI project reaches approximately 10^23 FLOP/s (equivalent to 10^8 H100 GPUs at 40% utilization)",
+      "conditional": null,
+      "quote": "Epoch estimates that, by 2030, the largest AI company will have access to around 10^23 FLOP/s (10^8 H100 equivalents, working at 2×10^15 FLOP/s, at a 40% utilisation rate (Sevilla et al., 2024))"
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "By 2030, AI companies could afford to run millions or billions of copies of human-equivalent AI systems working 24/7",
+      "timeframe": "by 2030",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Leading AI companies demonstrate ability to run millions to billions of parallel instances of AI systems with human-equivalent cognitive capabilities",
+      "conditional": "IF AI systems match human performance on a per-FLOP basis by 2030",
+      "quote": "By 2030, AI companies could likely afford to run millions or billions of copies, each working 24 hours a day, 365 days a year... If by 2030 AI systems are as efficient as the human brain in FLOP, then AI companies could likely afford to run millions or billions of copies"
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "By the start of 2027, the largest training run will cost over a billion dollars",
+      "timeframe": "by start of 2027",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Publicly reported or verified cost of the largest AI model training run exceeds $1 billion",
+      "conditional": null,
+      "quote": "Cottier et al (2024) estimate that by the start of 2027 the largest training run will cost over a billion dollars"
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "By 2030, the largest training clusters could cost over a trillion dollars",
+      "timeframe": "by 2030",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Publicly announced or verified AI training infrastructure projects with costs exceeding $1 trillion",
+      "conditional": null,
+      "quote": "Aschenbrenner (2024b) estimates that by 2030, the largest training clusters could cost over a trillion dollars"
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "There is a 40% chance that in the first four months after AI R&D is fully automated, software improvements alone will drive the equivalent of three years of capabilities progress at recent rates",
+      "timeframe": "first 4 months after AI R&D automation",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Observable rate of AI capability improvements (measured by standard benchmarks) accelerates to 9x the previous annual rate within 4 months of AI systems autonomously conducting AI research",
+      "conditional": "IF/WHEN AI R&D becomes fully automated",
+      "quote": "Davidson and Houlden (2025) estimate a 40% chance that in the first four months after AI R&D is fully automated, software improvements alone drive the equivalent of three years of capabilities progress at recent rates"
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "Humanoid robot operating costs will fall to below $1 per hour after scaling up production",
+      "timeframe": "unspecified (after scaling)",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Amortized operating costs (including capital, energy, maintenance) for humanoid robots fall below $1/hour for mass-produced units",
+      "conditional": "IF/WHEN humanoid robot production scales up",
+      "quote": "Todd (2025) gives a rough estimate that amortised operating costs of humanoid robots are currently $18/hour, but that these could fall to below $1/hour after scaling up production"
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "Significant automation will occur even in the most important institutions including governments and militaries",
+      "timeframe": "unspecified future",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Multiple major governments and militaries publicly deploy AI systems that automate substantial portions of critical functions (e.g., >25% of tasks in key departments)",
+      "conditional": "IF advanced AI is developed",
+      "quote": "While full automation won't happen overnight, we expect significant automation even in the most important institutions. Competition will drive automation in AI projects and militaries."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "Competition will drive automation in AI projects and militaries despite safety concerns",
+      "timeframe": "unspecified future",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Multiple AI projects and military organizations publicly adopt automation of critical functions, citing competitive pressures in announcements or leaked documents",
+      "conditional": "IF advanced AI capabilities become available",
+      "quote": "Competition will drive automation in AI projects and militaries. AI projects will have very strong incentives to automate AI R&D, to unlock rapid progress in AI capabilities and the wealth and power that these could generate... Militaries will also be under strong competitive pressure to automate their systems, to avoid falling behind their rivals."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "The number of frontier AI projects will shrink further from the current ~3 companies (Anthropic, Google DeepMind, OpenAI)",
+      "timeframe": "unspecified future",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Fewer than 3 organizations have models at the capability frontier (defined by benchmark leaderboards like GPQA Diamond)",
+      "conditional": null,
+      "quote": "AI development is already fairly concentrated: only Anthropic, Google DeepMind and OpenAI have ever topped the leaderboard for the challenging GPQA Diamond benchmark as of April 2025. The number of frontier AI projects seems likely to shrink further in future"
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "Advances in AI will make it much easier to introduce secret loyalties into AI systems that are sophisticated and extremely hard to detect",
+      "timeframe": "unspecified future",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Research demonstrations show that advanced AI systems can create deceptive alignment patterns that evade state-of-the-art detection methods; reduction in effort required to insert undetectable backdoors",
+      "conditional": "IF AI capabilities continue to advance",
+      "quote": "But advances in AI will make it much easier to introduce secret loyalties. First, more advanced AI could have secret loyalties that are much more sophisticated and so extremely hard to detect."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "Automation of AI R&D will make it much easier to insert secret loyalties into AI systems undetected",
+      "timeframe": "unspecified future",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems autonomously perform majority of AI development work with reduced human oversight; documented cases or credible concerns about undetected modifications to AI systems",
+      "conditional": "IF AI R&D becomes automated",
+      "quote": "Secondly, the automation of AI R&D will make it much easier to insert secret loyalties undetected. If a CEO had exclusive access to powerful AI R&D capabilities, they could have AI systems do all the work of inserting secret loyalties. And if human developers are replaced with AI systems, there might be little human oversight of the AI development process, making it easy to alter systems without detection."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "Access to the best AI capabilities will become highly concentrated in one or a few AI projects with an extended lead over competitors",
+      "timeframe": "unspecified future",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "One or two AI projects demonstrably have capabilities months to years ahead of competitors; significant gap in benchmark performance that persists for extended periods",
+      "conditional": null,
+      "quote": "So one or a few AI projects may have access to much stronger capabilities than anyone else, for an extended period of time... Having a small number of frontier projects (or just one) with an extended lead is concerning"
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "Access to powerful AI capabilities will increasingly be restricted to fewer people within leading AI projects, with one or a few executives potentially gaining exclusive access",
+      "timeframe": "unspecified future",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Documented policies or leaked information showing that most advanced AI capabilities (especially in military R&D, cyber, strategy) are restricted to small groups within AI companies; fewer than 10 people with full access to most powerful systems",
+      "conditional": "IF AI capabilities become more dangerous",
+      "quote": "Even more concerningly, one or a few people within those projects – most likely executives or senior government officials – could potentially gain access to much stronger capabilities than everyone else... As capabilities become more powerful and dangerous, access will likely be increasingly restricted."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "Once AI can automate AI research and development, CEOs or government officials could demand exclusive access to cutting-edge capabilities, potentially giving a single person access to millions of superintelligent AI systems",
+      "timeframe": "after AI R&D automation",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Documented cases of AI company executives or government officials having exclusive access to most advanced AI systems; organizational structures showing concentration of access to frontier capabilities",
+      "conditional": "IF AI R&D becomes automated",
+      "quote": "Once AI can autonomously improve itself... Within these projects, CEOs or government officials could demand exclusive access to cutting-edge capabilities on security or productivity grounds. In the extreme, a single person could have access to millions of superintelligent AI systems, all helping them seize power."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "Once AI surpasses humans at most tasks, a similar fraction of GDP to current human labor costs (~$50 trillion per year) may be paid towards AI labor",
+      "timeframe": "after AI surpasses humans at most tasks",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Global spending on AI services and compute reaches approximately $50 trillion annually (in 2024 dollars); AI labor costs approach 50% of global GDP",
+      "conditional": "IF AI surpasses humans on the vast majority of tasks",
+      "quote": "Around 50% of world GDP is spent on human labour - roughly $50 trillion per year (Hickel, Hanbury Lemos and Barbour, 2024, Figure 9; World Bank, no date). Once AI surpasses humans on the vast majority of tasks, a similar fraction of GDP may be paid towards AI labour."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "Militaries will eventually deploy fully autonomous AI systems that can completely replace human soldiers, despite initial caution",
+      "timeframe": "unspecified future",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Major militaries publicly announce deployment of fully autonomous weapons systems (robots, drones) that operate without human oversight in combat; human soldiers replaced in significant military functions",
+      "conditional": "IF advanced AI military capabilities are developed",
+      "quote": "While militaries will be cautious when deploying fully autonomous systems, competitive pressures could easily lead to rushed adoption without adequate safeguards... We're most concerned about scenarios where military AI systems are fully autonomous (and therefore capable of controlling robots and drones that completely replace human soldiers), and widely deployed throughout the military."
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "AI will eventually be able to fully automate most human workers across both cognitive and physical labor",
+      "timeframe": "unspecified future",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems demonstrate ability to perform >90% of economically valuable tasks at lower cost than humans; widespread deployment of AI in both cognitive and physical labor roles",
+      "conditional": "IF AI development continues along current trajectory",
+      "quote": "We expect AI to eventually outperform humans at virtually everything, for a lower price than what a human needs to survive, making humans unemployable except for when consumers specifically want human-provided services, or when automation is banned by regulation."
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "Once AI can automate cognitive and physical labor, powerful military systems could be designed and manufactured without any human involvement",
+      "timeframe": "after cognitive and physical labor automation",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Demonstration of fully automated design-to-production pipeline for military hardware requiring no human intervention; AI systems independently handle R&D, engineering, and manufacturing",
+      "conditional": "IF AI automates both cognitive and physical labor",
+      "quote": "once AI can automate cognitive and physical labour, the design and manufacturing of powerful military systems could be done without any human involvement, making secrecy far easier"
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "There will be calls for centralization of AI development into a single government-led project (Manhattan Project for AI) in the US",
+      "timeframe": "near-term to mid-term",
+      "prediction_type": "geopolitical",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Formal proposals or legislation introduced in US Congress to centralize AI development; official government reports recommending a centralized AI project",
+      "conditional": null,
+      "quote": "In the US, there are already calls for a Manhattan Project for AI, including from a Congressional commission... As AI becomes more powerful, governments may become more concerned about stopping terrorists and rival states from accessing powerful AI systems. They might centralise AI development into a single project"
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "The first AI project to achieve automated AI R&D could quickly develop capabilities far beyond their competitors",
+      "timeframe": "after first achieving AI R&D automation",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Observable capability gap between leading project and competitors grows rapidly after AI R&D automation; leading project demonstrates capabilities on benchmarks that are months to years ahead of others",
+      "conditional": "IF one project achieves AI R&D automation first",
+      "quote": "Once AI can automate AI research and development, feedback loops could lead to dramatically accelerating AI progress. The first project to achieve this might quickly develop capabilities far beyond their competitors."
+    },
+    {
+      "pred_id": "pred_24",
+      "prediction_text": "AI systems will be able to think orders of magnitude faster than humans, doing a month to a year's worth of thinking in a single day",
+      "timeframe": "unspecified future",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Demonstrated AI inference speeds showing 30-300x faster problem-solving than human experts on complex cognitive tasks; AI systems complete tasks requiring months of human thought-time within days",
+      "conditional": "IF advanced AI is developed",
+      "quote": "AI systems would be capable of thinking orders of magnitude faster than humans. In just one day, an AI system could do a month or even a year's worth of thinking... With 10X faster thinking speed and working 24 hours a day (rather than 8), an AI system could do the equivalent of 30 days of human thinking in a day. With 100X thinking speed, an AI system could do 300 days of human thinking in a day."
+    },
+    {
+      "pred_id": "pred_25",
+      "prediction_text": "AI systems will be trained on orders of magnitude more data than humans can consume, having read far more text than any human and having expert-surpassing breadth of knowledge",
+      "timeframe": "continuing trend from present",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Future AI models trained on >100 trillion tokens (compared to ~10 billion tokens a human processes in 30 years); demonstrable expert-level knowledge across vastly more domains than any human",
+      "conditional": null,
+      "quote": "They will be trained on orders of magnitude more data than a human could consume over the course of many lifetimes, and so would have much broader and deeper expertise than any human... Already today, language models have read far more text than any human... If a human brain is 'trained' on 10 tokens per second for 30 years, that would be 10 billion tokens - three orders of magnitude less than Qwen2.5"
+    }
+  ]
+}

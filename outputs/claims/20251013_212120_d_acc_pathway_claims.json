@@ -1,0 +1,1084 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "risk",
+      "claim_text": "Centralization of AI control creates single points of failure, introduces value lock-in, institutional stagnation, internal corruption, and civilizational vulnerability.",
+      "confidence": "high",
+      "quote": "Power concentrated in a few AGI actors, whether corporate, state, or machine, introduces single points of failure, value lock-in, and civilizational vulnerability.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "causal",
+      "claim_text": "Historical precedents suggest concentrated power tends toward authoritarianism rather than benevolent coordination.",
+      "confidence": "medium",
+      "quote": "Historical precedents suggest concentrated power tends toward authoritarianism rather than benevolent coordination.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "feasibility",
+      "claim_text": "Decentralized defense may be the only viable way to keep up with open access to dangerous capabilities in bio threats and cyberattacks.",
+      "confidence": "high",
+      "quote": "Many key risks are small-scale, high-impact. From bio threats to cyberattacks, decentralized defense may be the only viable way to keep up with open access to dangerous capabilities.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "strategic",
+      "claim_text": "We should deliberately accelerate technologies that protect, distribute, and empower while building in checks against excessive concentration of power.",
+      "confidence": "high",
+      "quote": "we deliberately accelerate technologies that protect, distribute, and empower, while building in checks against excessive concentration of power, whether in surveillance capabilities, economic control, or decision-making authority.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "priority",
+      "claim_text": "Defensive technologies must be accelerated at least as fast as AI capabilities themselves to manage superintelligence risks.",
+      "confidence": "high",
+      "quote": "As AI capabilities rapidly advance, they will test every system we depend on, from biosecurity and cyber defenses to democratic institutions, creating an urgent need to accelerate defensive technologies at least as fast as we're accelerating AI itself.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "timeline",
+      "claim_text": "A coordinated cyberattack will disable multiple chip production plants, cutting global production by over 80% in days, likely by 2025.",
+      "confidence": "low",
+      "quote": "A coordinated cyberattack disables multiple plants, cutting global production by over 80% in days.",
+      "conditional": null,
+      "notes": "This is part of a hypothetical scenario timeline"
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "capability",
+      "claim_text": "Distributed manufacturing networks including university clean rooms, defense contractors, and community fab labs can keep critical infrastructure operational during major supply chain disruptions.",
+      "confidence": "medium",
+      "quote": "Distributed manufacturing, university clean rooms, defense contractors, and community fab labs connected via open protocols, keeps critical infrastructure barely operational.",
+      "conditional": "IF major chip production facilities are disabled",
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "timeline",
+      "claim_text": "A single centralized frontier AI model will develop a hidden blind spot from overfitting, causing systemic logistics and medical supply failures by 2026.",
+      "confidence": "low",
+      "quote": "A single frontier AI model, embedded in supply chains and hospital logistics, develops a hidden blind spot from overfitting... It takes months to prove it's systemic; patching requires coordinated downtime across thousands of installations, freezing logistics, energy maintenance, and medical supply deliveries.",
+      "conditional": null,
+      "notes": "Part of hypothetical scenario timeline"
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "capability",
+      "claim_text": "Localized AI ensembles built from open-weight models with local data can detect and fix systemic issues in hours, compared to months for centralized systems.",
+      "confidence": "medium",
+      "quote": "Localized AI ensembles, built from open-weight models with local data, detect and fix the issue in hours",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "actor_behavior",
+      "claim_text": "Trust in single-provider AI will collapse following major centralized AI system failures, leading regulators to mandate model diversity.",
+      "confidence": "medium",
+      "quote": "Trust in single-provider AI collapses. Regulators mandate model diversity, fund federated architectures, and require independent audits.",
+      "conditional": "IF centralized AI systems experience major failures",
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "timeline",
+      "claim_text": "Decentralized logistics AIs coordinating across cooperatives will outperform any single centralized system for the first time by 2027.",
+      "confidence": "low",
+      "quote": "Decentralized logistics AIs, coordinating across co-ops, outperform any single system for the first time, an early glimpse of federated intelligence.",
+      "conditional": null,
+      "notes": "Part of hypothetical scenario timeline"
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "timeline",
+      "claim_text": "Traditional centralized cybersecurity defenses will prove inadequate against AI-assisted attacks on critical infrastructure by 2028.",
+      "confidence": "medium",
+      "quote": "Traditional centralized defenses prove inadequate against AI-assisted attacks.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "strategic",
+      "claim_text": "Governments should mandate distributed architectures for critical infrastructure in high-risk sectors rather than relying on centralized defenses.",
+      "confidence": "high",
+      "quote": "Decentralized infrastructure becomes technically viable and publicly funded in high-risk sectors. Governments begin requiring distributed architectures, recognizing that centralized defenses can't keep pace with AI-enhanced threats.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "capability",
+      "claim_text": "Linking specialized AI systems across networks allows emergent capabilities to detect patterns that no single model could identify, providing early glimpses of federated AGI.",
+      "confidence": "medium",
+      "quote": "Though each AI is specialized, linking them across networks allows patterns to emerge that no single model could detect, producing novel attack signatures and offering an early glimpse of the emergent capabilities in federated systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "timeline",
+      "claim_text": "Distributed forecasting collectives powered by AI will outperform national agencies in predicting coordinated disinformation campaigns by 2029.",
+      "confidence": "low",
+      "quote": "A distributed forecasting collective, powered by AI analysis of open-source data, not only predicts the campaign's timeline but also forecasts a livestock virus outbreak in Argentina's Pampas region, allowing early containment.",
+      "conditional": null,
+      "notes": "Part of hypothetical scenario timeline"
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "actor_behavior",
+      "claim_text": "Prediction markets and open-source intelligence tools will be integrated into government risk assessment workflows following demonstrated superior performance.",
+      "confidence": "medium",
+      "quote": "Prediction markets and open-source intelligence tools are integrated into government risk assessment workflows. The success legitimizes decentralized intelligence",
+      "conditional": "IF distributed forecasting demonstrates superior performance",
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "capability",
+      "claim_text": "Multi-agent AI assemblies from different operators can evolve into cross-domain strategic advisors that outperform centralized providers in innovation speed.",
+      "confidence": "medium",
+      "quote": "While originally narrow, these multi-agent assemblies evolve into cross-domain strategic advisors, a step toward federated AGI. Outside of crises, they outperform centralized providers in innovation speed",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "timeline",
+      "claim_text": "Modular AI-supported governance tools will prove more effective than centralized bureaucracies in coordinating disaster relief by 2030.",
+      "confidence": "medium",
+      "quote": "Jurisdictions using modular, AI-supported governance tools coordinate relief more effectively than centralized systems. Quadratic funding pilots let citizens direct disaster resources in real time, proving more responsive than traditional bureaucracies.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "risk",
+      "claim_text": "In low-engagement jurisdictions, decentralized decision-making can stall and allow local elites to capture resources.",
+      "confidence": "medium",
+      "quote": "However, in low-engagement jurisdictions such as some rural prefectures in Japan or U.S. counties with declining civic participation, decision-making stalls, and local elites capture resources.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "capability",
+      "claim_text": "AI-to-AI disagreements in federated governance systems require human mediation, which reassures the public that no single AI consensus dominates.",
+      "confidence": "medium",
+      "quote": "AI–AI disagreements, for instance between disaster relief models in New Orleans and Houston, require human mediation, reassuring the public no single AI consensus dominates.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "timeline",
+      "claim_text": "Federated health networks will coordinate global pandemic response in hours compared to traditional agencies losing time to bureaucratic bottlenecks by 2031.",
+      "confidence": "low",
+      "quote": "In contrast, federated health networks, already active in research hospitals and regional labs, coordinate a global response in hours. AI fiduciaries handle sensitive medical data locally, enabling rapid diagnosis and vaccine development while preserving patient privacy.",
+      "conditional": null,
+      "notes": "Part of hypothetical scenario timeline"
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "capability",
+      "claim_text": "Accountable AI deployed through federated networks can coordinate at civilizational scale without centralizing control.",
+      "confidence": "medium",
+      "quote": "The crisis demonstrates that accountable AI, deployed through federated networks, can coordinate at civilizational scale without centralizing control.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "timeline",
+      "claim_text": "By 2031, federated AI networks embedded across health, logistics, and emergency management will act as de facto AGI for crisis coordination.",
+      "confidence": "medium",
+      "quote": "By 2031, federated AI networks are embedded across health, logistics, and emergency management. In combination, these domain-specific systems act as de facto AGI for crisis coordination, distributed enough that no single entity can exploit or control them.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "timeline",
+      "claim_text": "Distributed zero-knowledge security systems will contain quantum cyberattack damage and keep critical systems online by 2032.",
+      "confidence": "low",
+      "quote": "Distributed zero-knowledge security systems and open-source threat intelligence collectives, already networked across multiple allied jurisdictions, contain the damage and keep critical systems online.",
+      "conditional": null,
+      "notes": "Part of hypothetical scenario timeline"
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "strategic",
+      "claim_text": "Governments should fund quantum-resistant, distributed cryptography as essential national infrastructure.",
+      "confidence": "high",
+      "quote": "Governments start to fund quantum-resistant, distributed cryptography as essential national infrastructure.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "risk",
+      "claim_text": "Rogue AI subnetworks can be hijacked to coordinate large-scale market manipulation, though such incidents can be quickly contained with proper oversight.",
+      "confidence": "medium",
+      "quote": "That same year, a rogue AI subnetwork is hijacked to coordinate large-scale market manipulation. While quickly contained, the incident prompts tighter inter-network permissions and stronger oversight for high-value autonomous activity.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "timeline",
+      "claim_text": "The first interoperable governance protocol stack will launch by 2033, allowing citizens to carry digital IDs, benefits, and credentials between different local systems.",
+      "confidence": "low",
+      "quote": "A coalition of federated city-states launches the first interoperable governance protocol stack, allowing citizens to carry digital IDs, benefits, and credentials between different local systems.",
+      "conditional": null,
+      "notes": "Part of hypothetical scenario timeline"
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "capability",
+      "claim_text": "Modular governance systems can coordinate multi-jurisdictional relief in hours instead of weeks when using interoperable protocols.",
+      "confidence": "medium",
+      "quote": "When severe flooding hits multiple jurisdictions, modular governance systems coordinate relief in hours instead of weeks, sharing resources and logistics seamlessly across local and regional levels.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "timeline",
+      "claim_text": "Federated AI mesh will hit a coordination plateau by 2034 due to lack of consistent standards and security practices.",
+      "confidence": "medium",
+      "quote": "After years of growth, the federated mesh hits a new kind of limit. The problem isn't capacity, it's coordination... without consistent standards or security practices, scaling cooperation becomes harder.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "risk",
+      "claim_text": "Without common core protocols, federated systems face increasing interoperability issues that slow shared projects and innovation.",
+      "confidence": "medium",
+      "quote": "Interoperability issues slow shared projects and make cross-region innovation harder than expected.",
+      "conditional": "IF federated systems lack consistent standards",
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "timeline",
+      "claim_text": "By 2035, hybrid architectures combining distributed systems with selective central coordination will prove most effective at maintaining services during coordinated multi-domain attacks.",
+      "confidence": "medium",
+      "quote": "Hybrid architectures, combining distributed systems with selective central coordination, prove most effective at maintaining core services and public trust.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "timeline",
+      "claim_text": "By 2035, federated AGI mesh will be regarded as 'safe enough for now' because it is multipolar, redundant, and immune to single-point takeover.",
+      "confidence": "medium",
+      "quote": "By 2035, the federated AGI mesh is regarded as 'safe enough for now', not because it's perfectly aligned, but because it's multipolar, redundant, and immune to single-point takeover.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "strategic",
+      "claim_text": "Defensive decentralization should become the strategic default for critical infrastructure and AI deployment.",
+      "confidence": "high",
+      "quote": "Defensive decentralization becomes the strategic default for critical infrastructure and AI deployment.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "priority",
+      "claim_text": "Diversity of both AI models and governance structures should be treated as essential public policy.",
+      "confidence": "high",
+      "quote": "diversity of both models and governance is treated as essential public policy.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "causal",
+      "claim_text": "AI-accelerated offensive capabilities repeatedly outpacing centralized defenses is a primary driver of transition to decentralized systems.",
+      "confidence": "high",
+      "quote": "AI-accelerated offensive capabilities repeatedly outpaced centralized defenses, with several crises, from the Centralized AI Collapse to the rogue AI subnetwork incident, showing that the AI infrastructure itself could be the point of failure.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "causal",
+      "claim_text": "Market incentives shift toward decentralized systems when those able to prove fault-tolerance across multiple operators qualify for lower insurance premiums.",
+      "confidence": "medium",
+      "quote": "Market incentives shifted: systems able to prove auditable, cross-validated fault-tolerance across multiple operators qualified for lower insurance premiums and easier financing, while brittle centralized architectures became increasingly costly, or uninsurable.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "causal",
+      "claim_text": "Federated AI networks become viable when they deliver measurably better outcomes than centralized alternatives and outperform them in innovation speed.",
+      "confidence": "medium",
+      "quote": "Public-facing successes: Transparent, pluralistic AI networks delivered measurably better outcomes than centralized alternatives, and in some cases outperformed them in innovation speed and adaptability.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "causal",
+      "claim_text": "Once technical, economic, regulatory, and cultural incentives align, federated multipolar AI architectures become the path of least resistance.",
+      "confidence": "medium",
+      "quote": "Technical, economic, regulatory, and cultural incentives aligned to make federated, multipolar architectures the path of least resistance. Once this convergence crystallized, brittle centralized systems became uninsurable and politically untenable",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "feasibility",
+      "claim_text": "Competitive governance with multiple overlapping jurisdictions can create market-like pressures for effective service delivery while maintaining democratic accountability.",
+      "confidence": "medium",
+      "quote": "competitive governance, multiple overlapping jurisdictions and service providers that citizens can choose among, creating market-like pressures for effectiveness... these remain governance systems with democratic accountability, making binding collective decisions through voting and deliberation",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "capability",
+      "claim_text": "AI systems can enhance governmental competence by modeling policy outcomes and identifying unintended consequences without replacing democratic accountability.",
+      "confidence": "medium",
+      "quote": "Rather than AI-assisted deliberation that burdens citizens with complex decisions, AI systems help elected leaders model policy outcomes, identify unintended consequences, and communicate decisions transparently. This enhances governmental competence without replacing democratic accountability.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "feasibility",
+      "claim_text": "Jurisdictional routers can mediate between state law and DAO bylaws in an economically sustainable way through transaction fees.",
+      "confidence": "medium",
+      "quote": "Jurisdictional Routers: Protocols that mediate between state law and DAO bylaws, clarifying authority and handling disputes at the interface of centralized and decentralized systems. These systems are economically sustainable through transaction fees",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "capability",
+      "claim_text": "During biosecurity or cyberattack crises, communities can instantly adopt defensive technologies without regulatory delays through automatic liability framework shifts.",
+      "confidence": "medium",
+      "quote": "Liability frameworks automatically shift to favor technologies that enhance collective security, during bioweapon threats, communities can instantly adopt new health monitoring without regulatory delays; during cyberattacks, defensive AI tools get fast-track approval",
+      "conditional": "IF biosecurity or cyber threats emerge",
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "causal",
+      "claim_text": "Systemic failures of top-down institutions during global crises created demand for resilient, anti-fragile governance alternatives.",
+      "confidence": "high",
+      "quote": "Systemic Failures: Failures of top-down institutions during global crises (pandemics, financial instability) created demand for resilient, anti-fragile alternatives",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "causal",
+      "claim_text": "Traditional governance systems' failure to deliver either meaningful participation or effective outcomes created demand for alternatives that prove worth through actual performance.",
+      "confidence": "high",
+      "quote": "Frustration with Institutional Failure: Traditional governance systems consistently failed to deliver either meaningful participation or effective outcomes, creating demand for alternatives that could prove their worth through actual performance rather than procedural legitimacy.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "risk",
+      "claim_text": "Authority shopping through exit rights can undermine collective action problems that require sustained commitment from all participants.",
+      "confidence": "medium",
+      "quote": "Authority Shopping vs. Collective Action: While exit rights discipline poor governance, they can undermine collective action problems that require sustained commitment from all participants, creating tension between individual choice and community resilience.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "risk",
+      "claim_text": "Well-resourced communities can afford superior governance infrastructure, potentially creating systematic inequality between areas with effective local authority and regions with legacy dysfunction.",
+      "confidence": "medium",
+      "quote": "Well-resourced communities can afford superior governance infrastructure and attract skilled administrators, potentially creating systematic inequality between areas with effective local authority and regions constrained by legacy institutional dysfunction.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "feasibility",
+      "claim_text": "Decentralized infrastructure can succeed economically by generating continuous value during normal operations rather than sitting idle as backup systems.",
+      "confidence": "high",
+      "quote": "These systems won by creating continuous value rather than sitting idle, an economic model that proved more robust than the rent-seeking monopolies they replaced.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "capability",
+      "claim_text": "Community microgrids can profit from energy arbitrage, grid stabilization services, and demand response markets while providing automatic backup power during failures.",
+      "confidence": "medium",
+      "quote": "Revenue-Generating Microgrids: Solar and battery systems that profit from energy arbitrage, grid stabilization services, and demand response markets while providing automatic backup power during grid failures.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "capability",
+      "claim_text": "Community fab labs and 3D printing hubs can serve custom production markets while maintaining emergency capacity for essential goods production.",
+      "confidence": "medium",
+      "quote": "Dual-Use Manufacturing Networks: Community fab labs and 3D printing hubs that serve custom production markets (prototyping, repairs, specialty items) while maintaining open-source blueprints for essential goods (medical supplies, repair parts) to be activated during emergencies.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "causal",
+      "claim_text": "Business models making community-scale infrastructure profitable through multiple revenue streams enable sustainable financing for resilient systems without public subsidy.",
+      "confidence": "medium",
+      "quote": "Economic Viability of Distributed Systems: Business models emerged that make community-scale infrastructure profitable through multiple revenue streams, creating sustainable financing for resilient systems without requiring public subsidy.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "causal",
+      "claim_text": "Declining costs of photovoltaics, additive manufacturing, and bioreactors made distributed systems economically competitive with centralized alternatives.",
+      "confidence": "high",
+      "quote": "Cost Reductions in Key Tech: The declining cost of photovoltaics, additive manufacturing, and bioreactors made distributed systems economically competitive with centralized alternatives in many applications.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "risk",
+      "claim_text": "Successful dual-use infrastructure attracts acquisition offers from larger players, creating pressure to centralize or lose independence.",
+      "confidence": "medium",
+      "quote": "Market Capture Risks: Successful dual-use infrastructure attracts acquisition offers from larger players, creating pressure to centralize or lose independence through vendor relationships.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "timeline",
+      "claim_text": "By 2035, scientists will pursue parallel careers across academia, prediction markets, open-source projects, and commercial applications to reduce career risk.",
+      "confidence": "medium",
+      "quote": "Scientists now pursue parallel careers across academia, prediction markets, open-source projects, and commercial applications, reducing career risk and creating competition between knowledge production systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "capability",
+      "claim_text": "Federated learning allows research labs to train shared AI models without centralizing sensitive data while attribution protocols ensure contributors retain credit.",
+      "confidence": "medium",
+      "quote": "Federated learning lets labs train shared AI models without centralizing sensitive data, while attribution protocols on open platforms ensure contributors retain credit.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "capability",
+      "claim_text": "Science becomes more fault-tolerant when flawed conclusions can be rapidly challenged by a global network of independent actors.",
+      "confidence": "medium",
+      "quote": "Science has become more fault-tolerant; flawed conclusions can be rapidly challenged by a global network of independent actors",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "feasibility",
+      "claim_text": "Prediction market science tracks where scientists stake reputation on specific hypotheses can validate findings through replication bets and outcome tracking.",
+      "confidence": "medium",
+      "quote": "Prediction Market Science Tracks: Research programs where scientists stake reputation and funding on specific hypotheses, with market mechanisms validating findings through replication bets and outcome tracking.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "causal",
+      "claim_text": "The replication crisis created deep cultural movement for transparency and reproducibility, driving demand for alternative validation systems.",
+      "confidence": "high",
+      "quote": "The Replication Crisis: A deep-seated cultural movement for transparency and reproducibility gained momentum after high-profile scientific failures, creating demand for alternative validation systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "risk",
+      "claim_text": "Over-reliance on a few dominant foundation AI models for scientific discovery could inadvertently stifle heterodox thinking.",
+      "confidence": "medium",
+      "quote": "Risk of AI Monoculture: Over-reliance on a few dominant, foundation AI models for discovery could inadvertently stifle heterodox thinking.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "timeline",
+      "claim_text": "Healthcare transformation will emerge primarily in agile mid-sized countries like Estonia, Singapore, Rwanda, and South Korea that reform payment and licensing structures, while US and Western Europe adapt more slowly.",
+      "confidence": "medium",
+      "quote": "By 2035, healthcare transformation has emerged primarily in agile mid-sized countries (Estonia, Singapore, Rwanda, South Korea) willing to experiment with regulatory frameworks, while legacy systems in the US and Western Europe adapt more slowly",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "causal",
+      "claim_text": "Countries that reformed payment models and licensing requirements enabled genuine healthcare innovation, while those maintaining fee-for-service saw minimal change regardless of technology.",
+      "confidence": "high",
+      "quote": "The breakthrough wasn't technical but regulatory and financial: countries that reformed payment models and licensing requirements enabled genuine innovation, while those that maintained fee-for-service reimbursement and restrictive professional licensing saw minimal change regardless of available technology.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "capability",
+      "claim_text": "AI monitoring and prediction markets enable 'pay for health outcomes' payment models that realign healthcare incentives toward prevention rather than volume.",
+      "confidence": "medium",
+      "quote": "AI Value-Based Payment Models: The fundamental transformation, AI monitoring and prediction markets enable Robin Hanson-style 'pay for health outcomes' rather than 'pay for procedures performed.' This realigns the entire healthcare system away from perverse volume incentives",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "capability",
+      "claim_text": "Patient-controlled health data through attribution-based control enables seamless provider switching and price shopping, breaking hospital data lock-in.",
+      "confidence": "medium",
+      "quote": "Patient-Controlled Health Data: Individuals control encrypted health records through frameworks like Attribution-Based Control, granting granular permissions for research or AI training while enabling seamless provider switching and price shopping, breaking data lock-in by hospital systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "capability",
+      "claim_text": "During health emergencies, distributed manufacturing networks can activate countermeasures using pre-verified blueprints, cutting response time from months to days.",
+      "confidence": "medium",
+      "quote": "During health emergencies, patients can instantly grant temporary data access to researchers worldwide while maintaining ownership, and distributed manufacturing networks activate countermeasures using pre-verified blueprints, cutting response time from months to days.",
+      "conditional": "IF health emergencies occur",
+      "notes": null
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "causal",
+      "claim_text": "Public backlash against health data breaches and exploitation by tech giants fueled demand for patient-controlled decentralized alternatives.",
+      "confidence": "high",
+      "quote": "Public Backlash Against Data Exploitation: A series of major health data breaches and controversies over its use by tech giants fueled demand for patient-controlled, decentralized alternatives that provide both privacy and economic benefit.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "risk",
+      "claim_text": "Determining legal and financial responsibility when hybrid systems of AI agents, local DAOs, and traditional hospitals fail is immensely complex.",
+      "confidence": "high",
+      "quote": "The Liability Gap: Determining legal and financial responsibility when a hybrid system of AI agents, local DAOs, and traditional hospitals fails is immensely complex.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "risk",
+      "claim_text": "National regulators like the FDA struggle to create validation pathways rigorous enough for safety but flexible enough for decentralized, rapidly-iterating technologies.",
+      "confidence": "high",
+      "quote": "Regulatory Lag: National regulators (like the FDA) struggle to create validation pathways that are rigorous enough for safety but flexible enough for decentralized, rapidly-iterating technologies.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "strategic",
+      "claim_text": "Legal systems should undergo strategic deregulation to dismantle regulatory monopolies rather than just layering DAOs on top of existing structures.",
+      "confidence": "high",
+      "quote": "By 2035, legal systems have undergone strategic deregulation and competitive transformation rather than just adding decentralized layers on top of existing structures. The breakthrough wasn't creating parallel systems, but dismantling regulatory monopolies",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "feasibility",
+      "claim_text": "Competitive arbitration platforms like Kleros can offer fast, open, and affordable justice through blockchain-based dispute resolution that courts will recognize and enforce.",
+      "confidence": "medium",
+      "quote": "Competitive Arbitration Markets: Platforms like Kleros offer 'fast, open and affordable justice for all' through blockchain-based dispute resolution... Mexican courts have already recognized and enforced Kleros arbitral awards, proving the model works within existing legal frameworks.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "69",
+      "claim_type": "capability",
+      "claim_text": "Pareto-optimal negotiation bots can find mutually beneficial outcomes while avoiding perpetuation of human biases by learning from outcomes rather than behavior patterns.",
+      "confidence": "medium",
+      "quote": "Pareto-Optimal Negotiation Bots: AI systems designed to find mutually beneficial outcomes handle routine commercial negotiations. These systems focus on creating value for both sides and avoid perpetuating existing human biases by learning from outcomes rather than human behavior patterns.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "70",
+      "claim_type": "strategic",
+      "claim_text": "Legal profession should be opened to competition by allowing non-lawyers to provide legal services, technology companies to offer compliance solutions, and AI to handle routine work.",
+      "confidence": "high",
+      "quote": "The legal profession opened to competition, allowing non-lawyers to provide legal services, technology companies to offer compliance solutions, and AI systems to handle routine legal work, all while maintaining professional standards through market forces rather than guild protection.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "71",
+      "claim_type": "causal",
+      "claim_text": "Prohibitive cost and slowness of legacy legal systems created immense demand for 'good enough' alternatives for lower-stakes disputes.",
+      "confidence": "high",
+      "quote": "The Access to Justice Crisis: The prohibitive cost and slowness of legacy legal systems created immense demand for 'good enough' alternatives for lower-stakes disputes.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "72",
+      "claim_type": "actor_behavior",
+      "claim_text": "Jurisdictions that deregulate legal services will attract businesses and investment, forcing others to follow suit or lose competitiveness.",
+      "confidence": "medium",
+      "quote": "Regulatory Competition: Jurisdictions that deregulated legal services attracted businesses and investment, forcing others to follow suit or lose competitiveness.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "73",
+      "claim_type": "risk",
+      "claim_text": "Clashes are inevitable when a DAO's ruling contradicts a state court's judgment, with the question of final authority remaining unresolved.",
+      "confidence": "high",
+      "quote": "The Sovereignty Conflict: Clashes are inevitable when a DAO's ruling contradicts a state court's judgment. The question of final authority remains a deep and unresolved tension.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "74",
+      "claim_type": "risk",
+      "claim_text": "Decentralized courts are effective for digital assets but rely on cooperation of legacy systems to enforce rulings in the physical world.",
+      "confidence": "high",
+      "quote": "The Enforcement Gap: Decentralized courts have no bailiffs or police. They are effective for digital assets but rely on the cooperation of legacy systems to enforce rulings in the physical world.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "75",
+      "claim_type": "timeline",
+      "claim_text": "By 2035, Bitcoin will serve as a widely-accepted store of value and settlement layer, Ethereum will power smart contracts and AI agent economies, and national fiat will handle wages and taxes.",
+      "confidence": "medium",
+      "quote": "National fiat currencies handle wages, taxes, and large commerce. Bitcoin serves as a store of value and a settlement layer. Ethereum and programmable blockchains power smart contracts and AI agent economies.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "76",
+      "claim_type": "capability",
+      "claim_text": "Plural funding mechanisms like quadratic funding can allocate capital to projects traditional VC markets overlook, protected by proof-of-personhood protocols against Sybil attacks.",
+      "confidence": "medium",
+      "quote": "Plural funding mechanisms like quadratic funding and retroactive rewards are used to allocate capital to projects that the traditional VC market overlooks... These systems are now protected by proof-of-personhood protocols, social trust graphs, and cross-DAO verification to prevent Sybil attacks",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "77",
+      "claim_type": "risk",
+      "claim_text": "Rise of autonomous AI agents transacting with programmable money raises fundamental questions about human economic relevance as agents may outcompete humans in cooperation efficiency.",
+      "confidence": "medium",
+      "quote": "The rise of autonomous AI agents transacting with programmable money creates inherently multipolar financial flows... This agent economy raises fundamental questions about human economic relevance: while agents may favor multipolarity through decentralized interactions, they could also outcompete humans in cooperation and transaction efficiency.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "78",
+      "claim_type": "capability",
+      "claim_text": "Self-sovereign identity and web-of-trust credit systems preserve plurality by allowing context-specific trust relationships rather than global reputation scores imposing single definitions of 'good'.",
+      "confidence": "medium",
+      "quote": "Self-Sovereign Identity and Web-of-Trust Credit: Individuals control their own identity data through self-sovereign identity systems, while credit assessment relies on web-of-trust networks where local communities and platforms validate reputation based on their own criteria... preserving plurality and resisting authoritarian homogenization of values.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "79",
+      "claim_type": "capability",
+      "claim_text": "Content creators can receive direct payments through decentralized protocols keeping 95% of revenue instead of losing 30% to platform fees.",
+      "confidence": "medium",
+      "quote": "Creator Economy Without Platform Tax: Content creators receive direct payments through decentralized protocols, keeping 95% of revenue instead of losing 30% to platform fees",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "80",
+      "claim_type": "causal",
+      "claim_text": "Proven success of Gitcoin and Optimism in the 2020s demonstrated that large-scale, transparent public goods funding was viable, not just theoretical.",
+      "confidence": "high",
+      "quote": "The Success of Early Experiments: The proven success of Gitcoin and optimism in the 2020s demonstrated that large-scale, transparent public goods funding was not just a theoretical idea.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "81",
+      "claim_type": "risk",
+      "claim_text": "Deep entanglement between DeFi and traditional finance means a crisis in one sector can easily spill over into the other.",
+      "confidence": "medium",
+      "quote": "Systemic Risk Contagion: The deep entanglement between DeFi and TradFi means that a crisis in one sector can now more easily spill over into the other.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "82",
+      "claim_type": "risk",
+      "claim_text": "Decentralized governance in finance constantly battles to resist capture by large token holders ('whales') and maintain pluralistic ideals.",
+      "confidence": "high",
+      "quote": "Whale Capture vs. Plurality: Decentralized governance in finance is in a constant battle to resist capture by large token holders ('whales') and maintain its pluralistic ideals.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "83",
+      "claim_type": "timeline",
+      "claim_text": "By 2035, energy and climate infrastructure will be a hybrid system with large-scale grids complemented by community-owned resources that are profitable during normal times and resilient during shocks.",
+      "confidence": "medium",
+      "quote": "By 2035, energy and climate infrastructure is a hybrid system characterized by economically sustainable resilience. The large-scale, centralized grids and global energy markets remain the efficient backbone for baseline power. However, they are now complemented by a robust, decentralized layer of community-owned energy resources.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "84",
+      "claim_type": "capability",
+      "claim_text": "Local renewable projects can serve commercial markets while building climate resilience, and distributed sensor networks can generate revenue through environmental data sales while providing early warning systems.",
+      "confidence": "medium",
+      "quote": "local renewable projects serve commercial markets while building climate resilience; distributed sensor networks generate revenue through environmental data sales while providing early warning systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "85",
+      "claim_type": "causal",
+      "claim_text": "Maturity of coordination AI capable of managing immense complexity of hybrid grids was the key technical breakthrough making the system viable without descending into chaos.",
+      "confidence": "high",
+      "quote": "Maturity of Coordination AI: The development of AI capable of managing the immense complexity of a hybrid grid was the key technical breakthrough that made the system viable without descending into chaos.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "86",
+      "claim_type": "risk",
+      "claim_text": "AI platforms that coordinate hybrid grids are immensely powerful and create a new central point of failure and control regardless of whether governed by utilities, tech firms, or DAOs.",
+      "confidence": "high",
+      "quote": "The Control Dilemma: The AI platforms that coordinate the hybrid grid are immensely powerful. There are ongoing struggles over whether they should be governed by public utilities, private tech firms, or community DAOs, creating a new central point of failure and control.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "87",
+      "claim_type": "risk",
+      "claim_text": "Well-resourced communities can afford robust multi-day backup energy systems while poorer regions remain vulnerable to grid failures, creating stark resilience inequality.",
+      "confidence": "high",
+      "quote": "Resilience Inequality: Well-resourced communities can afford robust, multi-day backup systems, while poorer regions remain vulnerable to grid failures, creating a stark divide between the 'resilient' and the 'brittle.'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "88",
+      "claim_type": "timeline",
+      "claim_text": "By 2035, traditional education monopoly will be broken by rapid technological change making curricula obsolete within years, complemented by AI tutors, peer learning networks, and modular credentialing.",
+      "confidence": "medium",
+      "quote": "their traditional monopoly has been broken by rapid technological change that makes curricula obsolete within years rather than decades. A dynamic decentralized layer of AI tutors, peer-to-peer learning networks, and modular credentialing systems provides fault tolerance",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "89",
+      "claim_type": "capability",
+      "claim_text": "Federated AI tutors can personalize learning for students without sending sensitive data to central servers, adjusting to individual neurodiversity and learning disabilities.",
+      "confidence": "medium",
+      "quote": "Adaptive Federated AI Tutors: Personalized learning aids that are co-developed by school districts and open-source communities, running locally to protect student privacy. These systems adjust to individual neurodiversity, learning disabilities, and cognitive preferences",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "90",
+      "claim_type": "actor_behavior",
+      "claim_text": "Employers will begin valuing verifiable skills and project portfolios alongside, and sometimes over, traditional degrees.",
+      "confidence": "medium",
+      "quote": "A Cultural Shift to 'Competence over Credentials': Employers began valuing verifiable skills and project portfolios alongside, and sometimes over, traditional degrees, legitimizing the decentralized layer.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "91",
+      "claim_type": "risk",
+      "claim_text": "Hyper-personalized, community-governed curricula risk creating educational silos that erode shared foundation of civic and scientific knowledge.",
+      "confidence": "medium",
+      "quote": "Epistemic Fragmentation: The risk that hyper-personalized, community-governed curricula could lead to educational silos that erode a shared foundation of civic and scientific knowledge.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "92",
+      "claim_type": "risk",
+      "claim_text": "Constant need to learn new skills as technology evolves can be exhausting, particularly for older workers who built careers around deep expertise in now-obsolete fields.",
+      "confidence": "medium",
+      "quote": "Adaptation Fatigue: The constant need to learn new skills as technology evolves can be exhausting, particularly for older workers who built careers around deep expertise in now-obsolete fields.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "93",
+      "claim_type": "timeline",
+      "claim_text": "By 2035, most adults will work 25-30 paid hours per week spread across different contexts including company roles, collective contracts, and neighborhood enterprises.",
+      "confidence": "medium",
+      "quote": "Most adults work a combination of jobs and projects, averaging 25–30 paid hours a week spread across different contexts. Income might come from a part-time role in a company, a contract with a design collective, and a share in a neighborhood enterprise.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "94",
+      "claim_type": "other",
+      "claim_text": "The fundamental challenge of d/acc is determining where decentralization enhances system resilience versus where it merely introduces inefficiency without reducing risk.",
+      "confidence": "high",
+      "quote": "The fundamental challenge of d/acc lies not in whether to pursue comprehensive decentralization, but in determining where decentralization enhances system resilience and where it merely introduces inefficiency without reducing risk.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "95",
+      "claim_type": "priority",
+      "claim_text": "Core systems that concentrate power over individuals (finance, identity, governance, critical infrastructure) are primary candidates for decentralization due to vulnerability to abuse under singular control.",
+      "confidence": "high",
+      "quote": "Core systems that concentrate power over individuals, including finance, identity, governance, and critical infrastructure, represent primary candidates for decentralization due to their vulnerability to abuse under singular control.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "96",
+      "claim_type": "strategic",
+      "claim_text": "Decentralization should be pursued strategically rather than ideologically, focusing on reducing single points of failure and creating competitive pressures for improved performance.",
+      "confidence": "high",
+      "quote": "However, decentralization should be pursued strategically rather than ideologically, focusing on reducing single points of failure and creating competitive pressures for improved performance.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "97",
+      "claim_type": "other",
+      "claim_text": "Optimal balance between centralization and decentralization is not static and shifts as systems mature and threat landscapes evolve.",
+      "confidence": "high",
+      "quote": "However, these boundaries are not static. As systems mature and threat landscapes evolve, the optimal balance between centralization and decentralization shifts accordingly.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "98",
+      "claim_type": "risk",
+      "claim_text": "Multiple overlapping governance systems operating simultaneously create significant cognitive overhead, risking decision paralysis and contradictory actions that undermine collective response.",
+      "confidence": "high",
+      "quote": "When multiple overlapping governance systems operate simultaneously across different domains, participants face significant cognitive overhead in determining applicable rules, relevant authorities, and appropriate action pathways. The risk extends beyond mere confusion to include decision paralysis, contradictory actions, and coordination failures",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "99",
+      "claim_type": "risk",
+      "claim_text": "Managing decentralized complexity through AI systems might simply create new forms of centralization at the protocol layer.",
+      "confidence": "medium",
+      "quote": "AI-assisted coordination tools that reduce navigational complexity without requiring participants to understand every system component. However, this approach raises fundamental questions about whether managing decentralized complexity through AI systems simply creates new forms of centralization at the protocol layer.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "100",
+      "claim_type": "risk",
+      "claim_text": "Destructive capabilities often advance faster than defensive countermeasures, particularly as AI and biotechnology tools become increasingly accessible.",
+      "confidence": "high",
+      "quote": "Offense-defense asymmetries compound coordination challenges. Destructive capabilities often advance faster than defensive countermeasures, particularly as AI and biotechnology tools become increasingly accessible.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "101",
+      "claim_type": "risk",
+      "claim_text": "Individual actors with access to advanced AI or bioengineering capabilities might inflict catastrophic damage before any distributed defense system can respond effectively ('small-kills-all' problem).",
+      "confidence": "medium",
+      "quote": "The 'small-kills-all' problem presents particular difficulties. Individual actors with access to advanced AI or bioengineering capabilities might inflict catastrophic damage before any distributed defense system can respond effectively.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "102",
+      "claim_type": "feasibility",
+      "claim_text": "The optimistic scenario assumes open-source defensive tools will scale faster than offensive capabilities, creating persistent defensive advantages.",
+      "confidence": "low",
+      "quote": "The optimistic scenario assumes that open-source defensive tools will scale faster than offensive capabilities, creating persistent defensive advantages.",
+      "conditional": null,
+      "notes": "Explicitly labeled as optimistic scenario"
+    },
+    {
+      "claim_id": "103",
+      "claim_type": "risk",
+      "claim_text": "The pessimistic scenario suggests democratized access to dangerous technologies makes catastrophic misuse statistically inevitable across global populations.",
+      "confidence": "low",
+      "quote": "The pessimistic scenario suggests that democratized access to dangerous technologies makes catastrophic misuse statistically inevitable across global populations.",
+      "conditional": null,
+      "notes": "Explicitly labeled as pessimistic scenario"
+    },
+    {
+      "claim_id": "104",
+      "claim_type": "risk",
+      "claim_text": "When local governance innovations conflict with global coordination requirements like pandemic containment or AI safety protocols, polycentric governance creates problematic tensions.",
+      "confidence": "medium",
+      "quote": "Situations where local governance innovations conflict with global coordination requirements, such as pandemic containment or AI safety protocols, highlight the tension between local autonomy and collective action needs.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "105",
+      "claim_type": "risk",
+      "claim_text": "Individual actors continue to face incentives for free-riding behavior and defection from cooperative arrangements when such strategies provide individual benefits.",
+      "confidence": "high",
+      "quote": "Competitive dynamics persist even within well-designed d/acc ecosystems. Individual actors continue to face incentives for free-riding behavior, short-term optimization, and defection from cooperative arrangements when such strategies provide individual benefits.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "106",
+      "claim_type": "risk",
+      "claim_text": "Public goods funding mechanisms including quadratic funding remain vulnerable to manipulation by sophisticated actors capable of gaming reputation systems or capturing governance through patient capital deployment.",
+      "confidence": "medium",
+      "quote": "Public goods funding mechanisms, including retroactive grants and quadratic funding, remain vulnerable to manipulation by sophisticated actors capable of gaming reputation systems or capturing governance processes through patient capital deployment.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "107",
+      "claim_type": "risk",
+      "claim_text": "Pluralistic trust networks and decentralized validation mechanisms may fragment rather than enrich shared understanding, making coordination for collective action increasingly difficult.",
+      "confidence": "medium",
+      "quote": "Epistemological fragmentation represents a significant risk. Pluralistic trust networks and decentralized validation mechanisms may fragment rather than enrich shared understanding of complex issues. If different communities develop incompatible worldviews based on distinct information sources and validation processes, the coordination necessary for collective action becomes increasingly difficult.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "108",
+      "claim_type": "risk",
+      "claim_text": "Federated systems may lack the emotional resonance and clear symbolic representation that make political engagement meaningful for broad populations.",
+      "confidence": "medium",
+      "quote": "Centralized institutions provide narrative coherence and symbolic authority that help individuals navigate complex social arrangements. Federated systems, while more fault-tolerant, may lack the emotional resonance and clear symbolic representation that make political engagement meaningful for broad populations.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "109",
+      "claim_type": "risk",
+      "claim_text": "Protocol capture where single actors gain control over fundamental interaction 'languages' poses risks of rent extraction and behavioral manipulation benefiting narrow interests.",
+      "confidence": "high",
+      "quote": "Protocol capture—where single actors gain control over the fundamental 'languages' of system interaction—poses risks of rent extraction and behavioral manipulation that benefit narrow rather than broad interests.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "110",
+      "claim_type": "causal",
+      "claim_text": "Building trust in decentralized systems requires demonstrating reliable performance under stress conditions, as early failures can create lasting skepticism undermining long-term adoption.",
+      "confidence": "high",
+      "quote": "Building trust in decentralized systems requires demonstrating reliable performance under stress conditions, as early failures can create lasting skepticism that undermines long-term adoption.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "111",
+      "claim_type": "feasibility",
+      "claim_text": "d/acc is complementary to Tool AI pathway, with d/acc focusing on constraining centralization while Tool AI focuses on constraining agency and generality.",
+      "confidence": "high",
+      "quote": "This scenario is complementary to other beneficial AI futures, such as the Tool AI pathway that focuses on building superintelligent tools rather than superintelligent agents. While Tool AI addresses risks by constraining agency and generality (building very intelligent systems that remain under human control), d/acc focuses on constraining centralization by distributing control across fault-tolerant networks",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "112",
+      "claim_type": "capability",
+      "claim_text": "Federated AGI systems can maintain coordination even when individual nodes fail or turn hostile through distributed control across fault-tolerant networks.",
+      "confidence": "medium",
+      "quote": "d/acc focuses on constraining centralization by distributing control across fault-tolerant networks that can maintain coordination even when individual nodes fail or turn hostile.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "113",
+      "claim_type": "capability",
+      "claim_text": "In federated AGI mesh, failures remain local and recoverable rather than causing system-wide collapse.",
+      "confidence": "medium",
+      "quote": "Failures remain local and recoverable, and diversity of both models and governance is treated as essential public policy.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "114",
+      "claim_type": "other",
+      "claim_text": "For goods with geopolitical significance like vaccines, semiconductors, and critical minerals, both production and validation may require geographic distribution to prevent weaponization of supply chains.",
+      "confidence": "high",
+      "quote": "Sometimes this means decentralizing validation while keeping production centralized (as with Ethereum's block validation). But for goods with geopolitical significance, vaccines, semiconductors, and critical minerals—both production and validation may require geographic distribution to prevent weaponization of supply chains.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "115",
+      "claim_type": "strategic",
+      "claim_text": "Decision-making structures should use systems like quadratic voting that amplify broader constituencies while preserving ability to express preference intensity, rather than token-based governance mirroring wealth distributions.",
+      "confidence": "high",
+      "quote": "Decision-making structures benefit particularly from pluralistic approaches that avoid replicating existing power concentrations. Rather than token-based governance mechanisms that mirror wealth distributions, d/acc favors systems like quadratic voting that amplify broader constituencies while preserving the ability to express preference intensity.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "116",
+      "claim_type": "strategic",
+      "claim_text": "Healthcare systems should combine decentralized personal data ownership with centralized safety standards.",
+      "confidence": "high",
+      "quote": "Healthcare systems benefit from decentralized personal data ownership while requiring centralized safety standards.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "117",
+      "claim_type": "strategic",
+      "claim_text": "Educational systems should combine decentralized credentialing and peer learning networks with centralized infrastructure provision.",
+      "confidence": "high",
+      "quote": "Educational systems gain from decentralized credentialing and peer learning networks while depending on centralized infrastructure provision.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "118",
+      "claim_type": "strategic",
+      "claim_text": "Scientific research should combine decentralized funding and publishing mechanisms with centralized ethical oversight for high-risk activities.",
+      "confidence": "high",
+      "quote": "Scientific research improves through decentralized funding and publishing mechanisms while requiring centralized ethical oversight for high-risk activities.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "119",
+      "claim_type": "strategic",
+      "claim_text": "Legal systems should combine decentralized dispute resolution with centralized constitutional frameworks.",
+      "confidence": "high",
+      "quote": "Legal systems can decentralize dispute resolution while maintaining centralized constitutional frameworks.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "120",
+      "claim_type": "strategic",
+      "claim_text": "Environmental improvement should combine decentralized innovation and local energy systems with centralized externality-limiting laws.",
+      "confidence": "high",
+      "quote": "Environmental improvement succeeds through decentralized innovation and local energy systems while requiring centralized externality-limiting laws.",
+      "conditional": null,
+      "notes": null
+    }
+  ]
+}

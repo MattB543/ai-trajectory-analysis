@@ -1,0 +1,257 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "Training runs of up to 2e29 FLOP (10,000-fold scale-up from current models) will be feasible",
+      "timeframe": "by 2030",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Documented successful training runs reaching 2e29 FLOP or credible technical assessments confirming feasibility of such training runs by end of 2030",
+      "conditional": null,
+      "quote": "Their findings suggest that training runs of up to 2e29 FLOP will likely be feasible by 2030, representing a 10,000-fold scale-up from current models."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "Near-AGI capabilities will be achieved, requiring governments to adapt policy frameworks accordingly",
+      "timeframe": "within the next decade (by ~2033-2034)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems achieving Expert AGI level (90th percentile of skilled adults across wide range of cognitive tasks) as defined by Morris et al. framework, or major AI labs and research community consensus on near-AGI achievement",
+      "conditional": null,
+      "quote": "Governments grappling with AI policy should therefore think beyond regulation, embracing a creative 'futurist' mindset that anticipates near-AGI capabilities within the next decade."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "AI advances by decade's end will be as substantial as all progress from AI's beginning to present",
+      "timeframe": "by 2030",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Benchmark improvements from 2024-2030 matching or exceeding cumulative improvements from AI field's inception to 2024, measured across standardized benchmarks like MMLU, HumanEval, MATH, GSM8K",
+      "conditional": "IF training compute scaling continues as projected",
+      "quote": "They also note that these scales could enable AI advances by decade's end as substantial as those seen since its beginning, potentially attracting hundreds of billions in investment."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "AI development will attract hundreds of billions of dollars in investment",
+      "timeframe": "by 2030",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Cumulative AI investment from 2024-2030 exceeding $100 billion, measured through disclosed funding rounds, company reports, and industry analyses",
+      "conditional": "IF projected compute scaling enables anticipated AI advances",
+      "quote": "They also note that these scales could enable AI advances by decade's end as substantial as those seen since its beginning, potentially attracting hundreds of billions in investment."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "Progress toward AGI will not slow materially in the near term",
+      "timeframe": "near-term (next 2-3 years implied)",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Continued improvements on major AI benchmarks at rates comparable to 2020-2024 period; no extended plateaus in capability gains across multiple domains",
+      "conditional": null,
+      "quote": "So far, however, there are few signs of a slowdown, and compelling reasons to believe that progress towards AGI is unlikely to slow materially."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "Power supply and chip manufacturing will emerge as the most immediate constraints to AI scaling, though significant scope for further scaling will remain",
+      "timeframe": "by 2030",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Industry reports and lab statements identifying power and chip constraints as primary bottlenecks; evidence of delayed training runs or reduced scale due to these factors rather than algorithmic or data limitations",
+      "conditional": null,
+      "quote": "While power supply and chip manufacturing emerge as the most immediate constraints, they conclude that there is still significant scope for further training and scaling."
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "Leading AI researchers view AGI arrival as a matter of 'when' not 'if'",
+      "timeframe": "current trend continuing",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Survey data of AI researchers showing majority assign high probability to AGI within specific timeframes; public statements from leading researchers and lab heads expressing certainty of eventual AGI",
+      "conditional": null,
+      "quote": "While leading AI researchers may now consider the advent of human-level AI systems less a matter of 'if' than 'when,' there is still enormous uncertainty about the trajectory of AI capabilities over the medium term."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "AI agents will be capable of undertaking many (if not most) screen-based government tasks currently performed by humans",
+      "timeframe": "within next decade (post-AGI)",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "AI systems demonstrating capability to perform >50% of screen-based administrative tasks (document processing, analysis, decision support, communication) at or above human performance levels",
+      "conditional": "IF near-AGI capabilities are achieved",
+      "quote": "This involves reimagining governance and policy prescriptions in light of AI agents potentially undertaking many (if not most) screen-based tasks currently performed by humans."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "AGI will be deeply integrated into government decision-making within agencies, affecting operations, organizational structure, and democratic feedback mechanisms",
+      "timeframe": "post-AGI era (conditional on AGI arrival)",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Government agencies at federal level deploying AGI systems for autonomous decision-making in multiple domains; official policy documents describing AGI integration strategies",
+      "conditional": "IF AGI is achieved",
+      "quote": "We suggest AGI will affect governance and public administration in at least three significant ways: (1) Deep integration within government decision-making... (2) Restructuring the machinery of government... (3) Reinforcing democratic feedback loops."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "Government bureaucracies will transition from street-level and screen-level to system-level architectures where AI agents make autonomous decisions",
+      "timeframe": "post-AGI deployment",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Documented shift in government agency structures toward centralized, algorithm-driven decision systems; reduction in street-level bureaucrats; increased automation of discretionary functions",
+      "conditional": "IF AGI is deployed in government agencies",
+      "quote": "AI may accelerate the transition from street- and screen-level to system-level bureaucracies, even if organizations previously resisted such changes."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "Monitoring and enforcement of laws will increase along intensive and extensive margins, moving toward 'perfect enforcement' where even minor infractions become subject to consistent punishment",
+      "timeframe": "post-AGI deployment",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Statistical increase in enforcement actions for minor violations; reduction in enforcement discretion; documentation of automated monitoring systems achieving near-complete coverage",
+      "conditional": "IF AGI-powered monitoring systems are deployed",
+      "quote": "As monitoring becomes easier and cheaper, it is likely to increase along both intensive and extensive margins. On the intensive margin, we may see a shift towards more stringent enforcement of existing laws and regulations. This could lead to a form of 'perfect enforcement,' where even minor infractions, previously overlooked due to practical constraints, become subject to consistent punishment."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "The role of elected representatives will shift from constituent representation toward oversight of AGI systems",
+      "timeframe": "post-AGI with digital twin deployment",
+      "prediction_type": "deployment",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "Changes in job descriptions and activities of elected officials; surveys showing representatives spending more time on AI oversight than direct constituent engagement; emergence of new oversight bodies focused on AGI systems",
+      "conditional": "IF high-fidelity digital twins are deployed for democratic representation",
+      "quote": "This circumstance would increase the amount of citizen feedback expressed directly to the government, to such a degree that the role of 'elected representative' may come to suggest oversight of the AGI system rather representation of human constituents."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "'AI-native' organizations leveraging hundreds or thousands of AI agents will emerge and potentially outcompete traditional hierarchical institutions",
+      "timeframe": "post-AGI",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Formation of organizations that primarily coordinate through AI agents rather than human managers; market performance or efficiency metrics showing AI-native orgs outperforming traditional structures",
+      "conditional": "IF AGI enables effective coordination of large numbers of AI agents",
+      "quote": "This could include the rise of 'AI-native' organizations that leverage hundreds or thousands of AI agents to coordinate complex networks of human and artificial agents towards shared goals, potentially outcompeting traditional hierarchical institutions."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "AI agents will significantly lower barriers to resolving Coasean bargains by autonomously handling information gathering, negotiation, and enforcement",
+      "timeframe": "post-AGI",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Documented increase in private resolution of externalities; reduction in transaction costs for complex negotiations; measurable shift from regulatory to market-based solutions",
+      "conditional": "IF AGI achieves capability for autonomous negotiation and contract enforcement",
+      "quote": "By autonomously handling information gathering, negotiation, and enforcement, these agents could overcome traditional transaction costs, information asymmetries, and commitment challenges that often prevent mutually beneficial agreements."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "A 'legibility arms race' will develop between state actors using AGI for surveillance and individuals using AGI to obfuscate their activities",
+      "timeframe": "post-AGI",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Evidence of both enhanced state surveillance capabilities and counter-measures (privacy tools, obfuscation techniques); documentation of iterative improvements on both sides; policy debates around surveillance vs privacy",
+      "conditional": "IF AGI is accessible to both state and non-state actors",
+      "quote": "This dynamic creates a sort of 'legibility arms race' between those seeking to make society more transparent and those leveraging AI to maintain opacity, suggesting a future where the rules governing society may indeed become more intricate."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "AGI-powered tax systems will be more context-sensitive and reduce disparities in audit rates between low-income and high-income taxpayers",
+      "timeframe": "post-AGI deployment in tax enforcement",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "IRS or equivalent agency audit rate statistics showing reduced disparate impact on EITC recipients or other low-income groups; increased audit rates or enforcement actions against high-income taxpayers with complex returns",
+      "conditional": "IF AGI systems are deployed in tax enforcement",
+      "quote": "Augmented with powerful AI systems, future tax automations have the potential to be much more context-sensitive and thus less liable to trigger audits over minor discrepancies. Moreover, generally intelligent AI systems will be able to grapple with the complexities and idiosyncracies of the taxes filed by high-income individuals, potentially reducing disparities in enforcement."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "Automated enforcement will expose outdated or poorly crafted laws that rely on lenient enforcement, demanding proactive legal reform",
+      "timeframe": "post-AGI deployment in law enforcement",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Documented cases of automated enforcement revealing problematic laws; legislative efforts to modernize legal frameworks in response to automated enforcement; public debates about laws that require discretionary enforcement",
+      "conditional": "IF AGI-powered automated enforcement systems are deployed",
+      "quote": "A silver lining might be that the shift towards automated enforcement will likely expose outdated or poorly crafted laws reliant on lenient enforcement or human discretion, demanding proactive legal reform to align the letter of the law with contemporary values and practical realities."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "Enhanced state capacity through AGI could enable unprecedented surveillance and control, pushing societies toward a 'despotic Leviathan'",
+      "timeframe": "post-AGI (if not constrained)",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Documented expansion of state surveillance capabilities; restrictions on civil liberties justified by AI-enabled monitoring; decline in democracy indices or freedom scores in countries deploying AGI for state control",
+      "conditional": "IF AGI enhances state capacity without appropriate constitutional constraints",
+      "quote": "An AGI-empowered state could wield unprecedented surveillance and control over its citizens, stifling dissent and entrenching existing power structures. The increasing automation of administrative decision-making could also erode human agency and democratic accountability, as bureaucracies evolve towards more centralized, 'system-level' architectures."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "Rapid diffusion of AGI to non-state actors could undermine state legitimacy and capacity, pushing societies toward an 'absent Leviathan'",
+      "timeframe": "post-AGI",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Evidence of state capacity declining relative to non-state actors; increased difficulty in governance and policy implementation; rise in extra-legal or parallel governance structures; decline in tax compliance or state authority",
+      "conditional": "IF AGI diffuses more rapidly to individuals and civil society than to governments",
+      "quote": "if AGI diffuses more rapidly among individuals and civil society groups than governments, it could instead weaken the legitimacy and capacity of the state relative to non-state actors. In this scenario, the 'absent Leviathan,' the risk is not despotism but a hollowing out of the governability and social cohesion that liberal democracies depend upon."
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "Malicious actors will exploit AGI to coordinate large-scale unwitting participation in harmful activities, including undermining elections and manipulating public opinion",
+      "timeframe": "post-AGI with widespread access",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Documented cases of AGI-coordinated manipulation campaigns; evidence of AI-assisted election interference; reports of large-scale coordination of unwitting participants toward harmful ends",
+      "conditional": "IF AGI becomes widely accessible without appropriate safeguards",
+      "quote": "Malicious actors could potentially use AGI to orchestrate large-scale coordination of unwitting participants towards harmful ends (e.g., AI-assisted coup d'etats)... Malicious actors could also exploit widely accessible AGI to undermine elections, manipulate public opinion, or coordinate insurgencies, further eroding the stability of democratic institutions."
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "Digital twin AGI systems will be experimented with at local government levels to determine optimal socio-technical arrangements for democratic participation",
+      "timeframe": "near-AGI era / early post-AGI",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Documented pilot programs at city or regional level testing digital twin voting or representation systems; published results from such experiments; adoption or rejection decisions based on experimental outcomes",
+      "conditional": "IF digital twin technology reaches sufficient fidelity",
+      "quote": "a high volume of experimentation, ideally at the local level or alongside other current systems, would help illustrate the best socio-technical arrangement of these new democratic capabilities."
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "Hybrid AI-human governance structures will be necessary to maintain meaningful human oversight while leveraging AGI capabilities",
+      "timeframe": "post-AGI deployment",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Emergence of documented governance frameworks combining AGI systems with human decision-makers; policy requirements for human-in-the-loop oversight; organizational structures showing integrated AI-human decision chains",
+      "conditional": "IF free societies seek to maintain democratic accountability with AGI",
+      "quote": "To preserve the narrow corridor of liberty, we propose a governance framework emphasizing robust technical safeguards, hybrid institutional designs that maintain meaningful human oversight, and adaptive regulatory mechanisms."
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "The question of who controls advanced AI coordination capabilities will become paramount, potentially requiring regulatory limitations similar to other dangerous technologies",
+      "timeframe": "post-AGI",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Emergence of regulations governing access to advanced AI coordination systems; policy debates and legislation around AI capability access; establishment of licensing or permission frameworks for certain AI applications",
+      "conditional": "IF AGI enables powerful coordination capabilities",
+      "quote": "Consequently, the question of who possesses and controls these advanced coordination capabilities, and under what conditions, becomes paramount. Legitimate public safety and security interests may necessitate carefully considered limitations on their availability and use, analogous to the regulated access protocols governing potentially dangerous technologies in fields like advanced biotechnology."
+    }
+  ]
+}

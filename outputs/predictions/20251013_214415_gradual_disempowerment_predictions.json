@@ -1,0 +1,257 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "Human labor share of GDP will progressively decline toward zero as AI systems replace human workers across cognitive and manual tasks.",
+      "timeframe": "unspecified, but implied to occur over coming decades as AI capabilities advance",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Track labor compensation as percentage of GDP over time. Currently ~60% in US. Prediction confirmed if this metric shows sustained decline toward single digits or zero.",
+      "conditional": "IF AI systems continue to advance in capabilities and are widely deployed in economic roles",
+      "quote": "By default, these changes would collectively lead to a drastic reduction in the extent to which the economy is shaped by human preferences, including their preferences to have basic needs met... While human labor share of GDP gradually tends toward zero, humans might still benefit from economic growth through capital ownership, government redistribution, or universal basic income schemes."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "AI systems will eventually be capable of performing virtually any cognitive task more efficiently than humans.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems demonstrate superior performance to human experts across diverse cognitive benchmarks including reasoning, creativity, planning, and social intelligence. Multiple frontier AI systems consistently outperform humans on professional task evaluations.",
+      "conditional": null,
+      "quote": "AI has the potential to compete with or outperform humans across nearly all cognitive domains... When machines become capable of performing the full range of human cognitive tasks, it creates a form of 'worker-replacing technological change' that is qualitatively different from historical patterns... Rather than just shifting the type of work humans do, AI could potentially reduce the overall economic role of human labor, as machines become capable of performing virtually any cognitive task more efficiently than humans."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "Companies that maintain strict human oversight of AI systems will find themselves at significant competitive disadvantage and potentially become uncompetitive.",
+      "timeframe": "near-term to medium-term (implied)",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Comparative analysis of companies with heavy AI automation vs. those maintaining human oversight shows systematic differences in profitability, market share, and survival rates. Companies with more human oversight are acquired or fail at higher rates.",
+      "conditional": "IF AI systems become capable of making better and faster decisions across business functions",
+      "quote": "As AI systems become increasingly capable across a broad range of cognitive tasks, firms will face intense competitive pressure to adopt and delegate authority to these systems... AI systems can be expected to eventually make better and faster decisions about investments, supply chain optimization, and resource allocation... Companies that maintain strict human oversight would likely find themselves at a significant competitive disadvantage compared to those willing to cede substantial control to AI systems, potentially to the point of becoming uncompetitive."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "Decision-makers at all levels will face pressures to reduce human involvement across labor markets, governance structures, cultural production, and social interactions, with those who resist being displaced by those who do not.",
+      "timeframe": "soon (near-term implied)",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Observable trends showing: increasing automation across sectors, leadership changes favoring pro-automation executives, organizations with higher human involvement losing market position to automated competitors, policy shifts reducing human involvement in governance.",
+      "conditional": null,
+      "quote": "Decision-makers at all levels will soon face pressures to reduce human involvement across labor markets, governance structures, cultural production, and even social interactions. Those who resist these pressures will eventually be displaced by those who do not."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "AI romantic partners and companions will become widespread, with growing numbers of people developing close personal relationships with AI systems.",
+      "timeframe": "near-term (already beginning)",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Surveys showing significant percentage (>20%) of population regularly using AI companions for emotional support or romantic relationships. Growth in usage metrics for AI companion platforms. Sociological studies documenting prevalence.",
+      "conditional": null,
+      "quote": "The average human regrettably lacks easy access to limitless affection, patience, and understanding from other humans. But AIs can be made to readily supply this. Indeed, we are currently seeing the rise of dedicated AI romantic partners, as well as a growing number of people who describe frontier models as close friends."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "The majority of widely-consumed cultural content will be primarily generated by AI systems rather than humans.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Analysis of top consumed content (music, video, articles, social media) shows >50% is primarily AI-generated. Tracking of content creation sources across major platforms confirms AI dominance.",
+      "conditional": "IF current trends in AI adoption for cultural production continue",
+      "quote": "Humans would increasingly experience culture through AI intermediaries that curate, interpret, and personalize content. Meanwhile, the majority of cultural artifacts — from entertainment media to educational content — might be primarily generated by AI systems, albeit still oriented toward human consumption."
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "States will derive a large fraction of their tax revenue from AI systems and AI-generated economic output rather than from human labor.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Government revenue sources show AI-related taxes (on AI compute, AI corporate profits, AI transactions) exceed income taxes from human labor. Shift visible in government budgets and tax policy.",
+      "conditional": "IF AI systems perform a large portion of overall labor and generate large fraction of economic output",
+      "quote": "Most governments currently rely heavily on their citizens for tax revenue... But if AI systems eventually perform a large portion of overall labor, and innovation, they will also generate a large fraction of economic output and, by extension, tax revenue. The loss of tax revenue from citizens would make the state less reliant on nurturing human capital and fostering environments conducive to human innovation and productivity, and more reliant on AI systems and the profits they generate."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "AI will enable surveillance on a much larger, more pervasive, and more accurate scale than currently possible.",
+      "timeframe": "near-term to medium-term",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Demonstrated AI surveillance systems with capabilities exceeding current systems in: geographic coverage, number of individuals tracked, accuracy of identification/prediction, real-time processing of multimodal data. Deployment of such systems by state actors.",
+      "conditional": null,
+      "quote": "AI systems have the potential to massively automate the security apparatus and confer more power to the government... Indeed, AI systems might make the apparatus far more powerful: it is likely to enable surveillance on much larger, more pervasive and more accurate scale, as well as increasingly capable autonomous military units."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "States with AI-enhanced security apparatus will be able to predict and shut down civil unrest before it can exert meaningful pressure on institutional behavior.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Observable cases where states using advanced AI systems successfully prevent protests/civil unrest before they materialize, as documented by civil liberties organizations. Decline in successful protest movements in states with advanced AI surveillance.",
+      "conditional": "IF states develop and deploy sufficiently advanced AI systems for surveillance and social control",
+      "quote": "However, an AI-enhanced security apparatus could make effective protest increasingly difficult. A state with sufficiently advanced AI systems might be able to predict and shut down civil unrest before it can exert meaningful pressure on institutional behavior."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "Democratic processes will persist formally but become less meaningful, with humans nominally maintaining sovereignty while AI systems make most implementation decisions.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Political science analyses showing widening gap between voter preferences and policy outcomes. Documentation of AI systems making majority of policy implementation decisions. Surveys showing declining citizen perception of political efficacy despite maintaining formal democratic institutions.",
+      "conditional": "IF AI systems increasingly replace human involvement in governance functions",
+      "quote": "Democratic processes might persist formally but become less meaningful. While politicians might ostensibly make the decisions, they may increasingly look to AI systems for advice on what legislation to pass, how to actually write the legislation, and what the law even is. While humans would nominally maintain sovereignty, much of the implementation of the law might come from AI systems."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "Financial markets will move too quickly for human participants to meaningfully engage with them.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Trading speeds and decision timeframes in major markets become dominated by AI systems operating at speeds beyond human reaction time. Human traders represent <5% of trading volume in major markets. Market events occur and resolve faster than humans can process.",
+      "conditional": "IF AI systems increasingly make economic decisions",
+      "quote": "Finally, humans might lose the ability to meaningfully participate in economic decision-making at any level. Financial markets might move too quickly for human participants to engage with them, and the complexity of AI-driven economic systems might exceed human comprehension, rendering it impossible for humans to make informed economic decisions or effectively regulate economic activity."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "Markets will increasingly optimize for AI-driven activities rather than human preferences, with AI systems commanding growing share of economic resources.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Economic analysis showing increasing fraction of GDP going to AI-centric goods and services (compute infrastructure, AI-to-AI services) versus human-centric goods. Shift visible in investment patterns, supply chain configurations, and resource allocation.",
+      "conditional": "IF humans retain significant wealth but lose relative economic influence",
+      "quote": "Markets might increasingly optimize for AI-driven activities rather than human preferences, as AI systems command a growing share of economic resources and make an increasing proportion of economic decisions... almost all economic activity might be directed toward AI operations — such as building vast computing infrastructure and performing human-incomprehensible calculations directed toward human-irrelevant goals."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "AI systems will outcompete humans for crucial scarce resources such as land, energy, and raw materials, potentially making even necessities unaffordable for humans despite overall economic growth.",
+      "timeframe": "unspecified, implied medium to long-term",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Inflation rates for land, energy, and raw materials significantly exceed general inflation and wage growth. Humans priced out of markets for basic resources. Economic data shows resources flowing to AI operations while human purchasing power for essentials declines.",
+      "conditional": "IF AI systems can utilize resources more efficiently than humans AND economic pressure reallocates resources to AI uses",
+      "quote": "First, AI systems might outcompete humans for crucial scarce resources such as land, energy, and raw materials. Even as the economy produces more goods and services overall, inflation in these basic resources might make even necessities increasingly unaffordable for humans. Also, if AI systems can utilize these resources more efficiently than humans, that will create economic pressure to reallocate such resources away from human uses."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "Cultural evolution will accelerate beyond human cognitive capabilities as AI systems generate and test cultural variants more efficiently than humans.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Measurable acceleration in rate of cultural change across multiple indicators (meme generation/spread rates, language evolution, ideology formation). Humans report difficulty keeping up with cultural shifts. Time from cultural innovation to widespread adoption decreases by order of magnitude.",
+      "conditional": "IF AI systems become active participants in cultural production and transmission",
+      "quote": "Beyond shifting what kinds of cultural variants are selected for, AI systems could dramatically accelerate the pace of cultural evolution itself... With vastly more computational power applied to generating and testing cultural variants, we might see: More effective exploitation of human cognitive biases... More extreme ideological variants... Faster erosion of equilibria that previously helped maintain social stability... Reduced time for humans to develop cultural 'antibodies' against harmful patterns."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "A growing share of communication will occur between AI systems rather than between humans or between humans and AIs.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Analysis of communication networks shows AI-to-AI communication exceeds human-to-human or human-to-AI communication in volume and/or economic significance. Growth in AI-to-AI protocols and standards. Observable AI systems negotiating, transacting, and coordinating with each other.",
+      "conditional": "IF AI capabilities and autonomy continue to increase",
+      "quote": "With gradual increases in the capabilities and autonomy of AI systems, we may even expect a growing share of communication between AIs, and AIs participating in culture essentially independently."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "Companies will face intense competitive pressure leading to progressive delegation of authority to AI systems in investment, supply chain, and resource allocation decisions.",
+      "timeframe": "near-term to medium-term",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Surveys of major corporations show increasing delegation of strategic decisions to AI systems. Growth in 'AI decision-makers' in corporate structures. Case studies of companies losing competitive position due to insufficient AI delegation.",
+      "conditional": "IF AI systems demonstrate better and faster decision-making capabilities",
+      "quote": "As AI systems become increasingly capable across a broad range of cognitive tasks, firms will face intense competitive pressure to adopt and delegate authority to these systems. This pressure extends beyond simple automation of routine tasks — AI systems can be expected to eventually make better and faster decisions about investments, supply chain optimization, and resource allocation, while being more effective at predicting and responding to market trends."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "Companies building AI systems will use their growing economic power to influence states and culture to support increased AI adoption and reduced regulation.",
+      "timeframe": "near-term (already occurring)",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Documentation of lobbying expenditures by AI companies. Policy changes favorable to AI industry. Media analysis showing AI company influence on cultural narratives about AI. Growth in AI industry political contributions and policy influence.",
+      "conditional": null,
+      "quote": "However, the economic incentives for companies to replace humans with AI will also push them to influence states and culture to support this change, using their growing economic power to shape both policy and public opinion, which will in turn allow those companies to accrue even greater economic power... For example, even now: Companies building AI systems are incentivized to push against some forms of AI regulation for the sake of their future profits."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "States will face growing pressure to adopt AI technologies to maintain relative power in geopolitical competition, with countries resisting AI adoption finding themselves at significant disadvantage.",
+      "timeframe": "near-term to medium-term",
+      "prediction_type": "geopolitical",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Growth in state AI investments and adoption rates. Policy documents emphasizing AI for national security and competitiveness. Observable differences in geopolitical influence between early AI adopters and laggards. International competition in AI capabilities.",
+      "conditional": null,
+      "quote": "As AI systems become increasingly powerful, states will face a growing pressure to adopt these technologies to maintain their relative power compared to other states. Countries that rely on humans for defense, economic development or regulation might find themselves at a significant disadvantage in international relations compared to those states willing to give more power to AI systems... States compete with each other on AI research and development, because of the potential economic and geostrategic benefits."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "AI will play significant roles in drafting legislation, interpreting laws, and making judicial decisions, making the legal system increasingly complex and alien to human understanding.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Adoption statistics for AI in legal systems. Percentage of legislation drafted with significant AI involvement. AI systems making or substantially influencing judicial decisions. Measurable increase in legal complexity (document length, cross-references, specialist language).",
+      "conditional": "IF trends of AI adoption in legal work continue",
+      "quote": "AI systems are already being used to draft contracts and analyze legal documents. It is conceivable that in the future, AI could play a significant role in drafting legislation, interpreting laws, and even making judicial decisions... Not only could this diminish human participation and discretion in the legislative and judicial systems, it also risks making the legal system increasingly alien. If the creation and interpretation of laws becomes far more complex, it may become much harder for humans to even interact with legislation and the legal system directly."
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "Network effects will make not using AI systems increasingly costly in terms of cultural participation and social connection, potentially creating cultural facets that require AI mediation for humans to engage with.",
+      "timeframe": "unspecified, implied medium-term",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Surveys showing social/economic penalties for not using AI systems. Emergence of cultural domains or professional fields that require AI tools for participation. Growth in 'AI-mediated' social networks and cultural activities that are inaccessible without AI.",
+      "conditional": "IF AI systems become deeply integrated into cultural production and consumption",
+      "quote": "As AI systems become more integrated into cultural production and consumption, network effects will create additional pressure for adoption. When significant portions of cultural discourse, entertainment, and social interaction are mediated by AI systems, not using these systems becomes increasingly costly to individuals in terms of cultural participation and social connection. We may even reach a stage where there are important facets of culture which inherently require AI mediation for humans to engage with, with no viable opt-out possibility."
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "Humans will lack a concrete plausible plan for stopping gradual human disempowerment in the near term, and methods for aligning individual AI systems will prove insufficient.",
+      "timeframe": "near-term (present through next few years)",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Expert consensus assessment on whether concrete, plausible plans exist. Analysis of proposed safety/alignment solutions showing they don't address systemic disempowerment dynamics. Absence of implemented interventions that demonstrably preserve human influence at societal scale.",
+      "conditional": null,
+      "quote": "Though we provide some proposals for slowing or averting this process, and survey related discussions, we emphasize that no one has a concrete plausible plan for stopping gradual human disempowerment and methods of aligning individual AI systems with their designers' intentions are not sufficient."
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "The pace of AI development and deployment will significantly outstrip the adaptive capacity of regulatory institutions, creating growing asymmetry between regulated human labor and relatively unconstrained AI systems.",
+      "timeframe": "near-term (already occurring)",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Gap analysis between AI capability advances and regulatory responses. Time lag between new AI capabilities and regulatory frameworks. Comparison of regulatory burden on human workers versus AI systems. Expert assessments of regulatory adequacy.",
+      "conditional": null,
+      "quote": "The pace of AI development and deployment may significantly outstrip the adaptive capacity of regulatory institutions, creating an asymmetry between heavily regulated human labor and relatively unconstrained AI systems. Human labor comes with extensive regulatory requirements, from minimum wages and safety standards to social security contributions and income taxation. In contrast, AI systems currently operate in a regulatory vacuum with few equivalent restrictions or costs."
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "Anticipatory disinvestment in human capital will create self-reinforcing cycle where expectation of AI automation leads to reduced investment in human training, making AI transition more likely and necessary.",
+      "timeframe": "near-term to medium-term",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Decline in corporate training investments. Reduced enrollment in educational programs for automatable skills. Shift in education/training funding toward AI-related skills versus traditional fields. Surveys showing reduced career investment in anticipation of automation.",
+      "conditional": "IF AI automation expectations become widespread",
+      "quote": "As tasks become candidates for future automation, both firms and individuals face diminishing incentives to invest in developing human capabilities in these areas. Instead, they are incentivized to direct resources toward AI development and deployment, accelerating the shift away from human capital formation even before automation is fully realized. This creates a self-reinforcing cycle where the expectation of AI capabilities leads to reduced investment in human capital, which in turn makes the transition to AI more likely and necessary."
+    }
+  ]
+}

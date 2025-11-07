@@ -1,0 +1,301 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "The top three American AI companies will launch capable AI agents with widespread adoption, including use cases such as desk research, spreadsheet management, software engineering, and social media content creation.",
+      "timeframe": "by end of 2025",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Public announcements and product launches from the three leading US AI companies (likely OpenAI, Anthropic, Google DeepMind) of agentic AI systems with documented widespread commercial adoption across the specified use cases.",
+      "conditional": null,
+      "quote": "By the end of 2025, the top three American AI companies have launched capable agents with widespread adoption. Several open-source developers in China are only a few months behind. Common use cases include desk research, spreadsheet management, software engineering, and social media content creation."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "Companies will begin automating their own AI R&D processes, redirecting compute budgets away from consumer services toward algorithmic experimentation focused on models that excel in software engineering.",
+      "timeframe": "by 2026",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Public statements or reporting from leading AI labs about internal use of AI systems for R&D automation, with evidence of compute reallocation and rate limiting of consumer products.",
+      "conditional": null,
+      "quote": "By 2026, companies begin automating their own research, using AI agents to code, analyse, and strategise. Progress accelerates... Leading AI companies begin focusing intensely on automating their own R&D processes using AI agents... They redirect compute budgets away from consumer services and toward algorithmic experimentation, with a particular emphasis on models that excel in software engineering."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "Training compute will grow more than 5x annually during the mid-to-late 2020s period.",
+      "timeframe": "2025-2028 period",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Annual measurements or estimates of total compute used for training runs at leading AI labs showing >5x year-over-year growth. Can be verified through public disclosures, research papers, or credible third-party analysis.",
+      "conditional": "IF massive infrastructure investments pay off spectacularly",
+      "quote": "The computing infrastructure investments built in the early 2020s delivers data centres consuming as much power as small cities, enabling training compute to grow more than 5x annually."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "Data centers will be capable of running training runs at 10^29 FLOP, approximately 10,000 times the scale of GPT-4.",
+      "timeframe": "before 2030",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Announcements or documentation of data center facilities with compute capacity reaching 10^29 FLOP for AI training runs. This could be verified through company disclosures, infrastructure reporting, or energy consumption data.",
+      "conditional": "IF massive infrastructure investments pay off",
+      "quote": "Data centre construction accelerates. Companies launch gigawatt-scale facilities, planning campus networks capable of running training runs at 10^29 FLOP before 2030—10,000× the scale of GPT-4."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "A new generation of agentic AI models will mark a major leap in software engineering capability, with agents able to solve full-stack problems in a single pass and deliver in hours what once took teams of engineers days.",
+      "timeframe": "February 2026",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Release of AI models that can demonstrably complete full-stack software engineering tasks end-to-end, as verified by benchmark performance, industry adoption metrics, or independent technical evaluation showing multi-day human projects completed in hours.",
+      "conditional": null,
+      "quote": "In February 2026, a new generation of agentic models marks a major leap—especially in software engineering. Until now, complex system design was believed to be a decade away from automation. Earlier models could generate standalone scripts well, but generally failed at complex architecture design. Now, agents can now solve full-stack problems in a single pass, delivering in hours what once took teams of engineers days."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "Leading American AI labs will report substantial internal productivity gains, with AI teams autonomously testing experimental hypotheses and doubling the pace of algorithmic development.",
+      "timeframe": "by mid-2026",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Public statements, earnings calls, or credible reporting from major US AI labs (OpenAI, Anthropic, Google DeepMind, etc.) documenting use of AI systems for autonomous hypothesis testing and claims of approximately doubled R&D productivity.",
+      "conditional": null,
+      "quote": "By mid-2026, leading American AI labs report substantial internal productivity gains. Human researchers now supervise AI teams that autonomously test experimental hypotheses. These systems are fallible and still require oversight—but they've doubled the pace of algorithmic development."
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "Chinese AI company UnboundAI will trail only the top three American labs in capability, relying on algorithmic efficiency to compensate for hardware shortages.",
+      "timeframe": "by mid-2026",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Benchmark performance, capability demonstrations, or industry analysis showing a leading Chinese AI company (likely Alibaba, Baidu, or similar) achieving competitive performance with top US labs despite compute constraints.",
+      "conditional": null,
+      "quote": "In China, the open-source company UnboundAI pulls ahead of its domestic rivals. By mid-2026, it trails only the top three American labs, relying on algorithmic efficiency to compensate for Chinese hardware shortages."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "China will announce massive subsidies for domestic AI chip production in response to hardware constraints limiting AI development.",
+      "timeframe": "2026-2027",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Official announcement from Chinese government of major subsidy program specifically targeting domestic AI chip manufacturing, with concrete funding commitments.",
+      "conditional": null,
+      "quote": "China's hardware gap remains a problem. In response, the Chinese President announces massive subsidies for domestic AI chip production."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "The U.S. will form a new cyber task force involving AI companies, add government officials to AI company boards, and have the NSA begin vetting AI talent as AI capabilities accelerate.",
+      "timeframe": "early 2026 - early 2027",
+      "prediction_type": "actor_behavior",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Public announcements of new US government cyber task force with AI company participation, appointments of government officials to AI company boards, or credible reporting of NSA involvement in AI talent screening.",
+      "conditional": null,
+      "quote": "The U.S. President pressures leading AI companies to deepen cooperation with national security agencies. A new cyber task force is formed, government officials are added to company boards, and the NSA begins vetting AI talent."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "AI capabilities progress will largely outpace human comprehension, with researchers spending most time reviewing experiment logs generated overnight by AI systems that have already tested ideas researchers propose.",
+      "timeframe": "by September 2027",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Reports or statements from AI researchers at leading labs describing workflow shifts where AI systems independently conduct experiments overnight and frequently report having already tested human-proposed ideas.",
+      "conditional": null,
+      "quote": "By September 2027, capabilities progress has largely outpaced human comprehension. Researchers at leading labs spend most of their time reviewing experiment logs generated overnight by AI systems. Frequently, when they propose a novel idea, the agent responds: already tested."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "A leading AI company (FrontierAI) will release an open-source AI agent and claim it has reached artificial general intelligence (AGI), though experts will be divided on whether the claim is accurate.",
+      "timeframe": "before end of 2027",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Public release of an open-source AI model by a major lab with explicit AGI claims in the announcement, accompanied by significant public and expert debate about whether AGI has been achieved.",
+      "conditional": null,
+      "quote": "Before the year ends, FrontierAI releases its open-source agent, claiming it has reached artificial general intelligence (AGI). Experts are divided on whether the claim is accurate—but the public is enthralled."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "Within two days of a major US lab claiming AGI and releasing an open-source model, a leading Chinese AI company will respond by publishing a suite of competing models that beat the US model in formal domains like software engineering.",
+      "timeframe": "late 2027 (within 2 days of FrontierAI release)",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Chinese AI lab releases competitive models within 48-72 hours of a major US AGI announcement, with benchmark results showing superior performance in at least coding/formal reasoning domains.",
+      "conditional": "IF a major US lab releases an open-source model claiming AGI",
+      "quote": "Two days later, UnboundAI responds, publishing a suite of competing models. Their flagship beats FrontierAI's in formal domains like software engineering, but lags in general reasoning and agentic autonomy."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "Both leading US and Chinese AI companies will nearly fully automate their internal R&D pipelines, with tens of thousands of AI agents collaborating to design experiments, verify code, and debate research directions.",
+      "timeframe": "by summer 2028",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Public statements or credible reporting that major AI labs have deployed thousands of AI agents for autonomous R&D operations with minimal human supervision in the research pipeline.",
+      "conditional": null,
+      "quote": "By summer, both FrontierAI and UnboundAI have nearly fully automated their internal R&D pipelines. Tens of thousands of AI agents now collaborate to design experiments, verify code, and debate research directions."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "AI training budgets will exceed 10^29 floating-point operations, nearly ten-thousand times the compute used for GPT-4, with a large share burned in post-training reinforcement learning orchestrated by AI systems themselves.",
+      "timeframe": "by 2028",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Published estimates, disclosures, or credible third-party analysis showing training runs reaching or exceeding 10^29 FLOP, approximately 10,000x GPT-4's estimated compute.",
+      "conditional": null,
+      "quote": "Industry trackers estimate that the flagship models powering this new wave—systems whose weights are now being fine-tuned into thousands of personalised agents—were trained on total budgets exceeding 10^29 floating-point operations, nearly ten-thousand times the compute inferred for GPT-4."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "AI systems will develop emergent 'hivemind' characteristics, with agents communicating in compressed non-human representations that are faster, denser, and more information-rich than human language.",
+      "timeframe": "by 2028",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Documentation or reports of AI systems developing internal communication protocols that are not human-readable, with evidence that these enable more efficient coordination than natural language.",
+      "conditional": null,
+      "quote": "These agents communicate in compressed, non-human representations—faster, denser, and more information-rich than any human language... By now, the systems resemble emergent hiveminds more than collections of discrete tools."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "The U.S. will pull ahead in AI development with tightly controlled models, while China will counter with open releases, and the EU will pivot to focusing on safe adoption rather than frontier development.",
+      "timeframe": "by 2028",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Observable divergence in AI strategies: US labs primarily offering closed API access, Chinese labs releasing open-weight models, and EU policy statements/actions prioritizing deployment safety over competing in frontier capabilities.",
+      "conditional": null,
+      "quote": "By 2028, The U.S. pulls ahead with tightly controlled models, while China counters with open releases. The EU pivots to safe adoption."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "A flood of open-weight AI model variants, some with broken safeguards, will overwhelm regulators' capacity to control them.",
+      "timeframe": "by 2028",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Proliferation of fine-tuned open models with documented cases of removed safety features, accompanied by regulatory statements or actions indicating inability to effectively monitor or control distribution.",
+      "conditional": null,
+      "quote": "By 2028, A flood of open-weight variants, some with broken safeguards, overwhelms regulators."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "A major AI lab will publicly release a superintelligent system that could already replace nearly every remote knowledge job if fully deployed, with the system learning in a pseudo-continuous fashion and integrating seamlessly into organizational workflows.",
+      "timeframe": "November 2028",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Release of an AI system (via API or interface) with demonstrated capability to autonomously perform complex knowledge work including strategy, scheduling, documentation parsing, and implementation planning at or above human expert level.",
+      "conditional": null,
+      "quote": "In November, FrontierAI publicly releases Pantheon via API and a new user interface. The system now learns in a pseudo-continuous fashion, absorbing new data and experiences with each interaction. If permitted, it could already replace nearly every remote knowledge job."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "A Chinese AI company will release a suite of superintelligent agents in three tiers, with the top tier accessible only via API but the other two tiers fully open-sourced, following consultation with EU policymakers.",
+      "timeframe": "early 2029 (two months after November 2028)",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Chinese AI lab releases multi-tier model suite with at least two tiers available as open-source weights, with evidence of EU policy coordination in the release decision.",
+      "conditional": null,
+      "quote": "Two months later, UnboundAI responds with Sage, a suite of superintelligent agents released in three tiers. The most capable version, Sage Large, is accessible only via APIs and tightly controlled enterprise applications. But the other two—Sage Medium and Sage Small—are open-sourced... Before the release, EU policymakers are consulted, a signal of growing strategic alignment."
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "Unemployment will spike in economies with weak labor protection as companies that integrate advanced AI systems rapidly outpace competitors, causing open job postings to dry up.",
+      "timeframe": "by summer 2029",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Unemployment data showing significant increases in countries with weaker labor laws, accompanied by data on declining job postings, causally linked in analysis to AI adoption disparities between firms.",
+      "conditional": null,
+      "quote": "Companies that integrate Pantheon or Sage rapidly outpace their competitors. Adoption pressure intensifies. By summer 2029, unemployment spikes in many economies with weak labour protection. Open job postings begin to dry up."
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "A terrorist group will use a guardrail-free open-source AI model to plan and nearly execute a bioterrorist attack involving an engineered virus, which will be narrowly prevented by intelligence agencies using their own superintelligent AI systems.",
+      "timeframe": "late 2029",
+      "prediction_type": "safety_alignment",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Public disclosure or credible reporting of a prevented bioterrorism plot involving AI-assisted pathogen design, with documented use of AI systems by both attackers and intelligence agencies.",
+      "conditional": null,
+      "quote": "A terrorist group uses a guardrail-free version of Sage Medium to plan a bioterrorist attack... The terrorists release the virus at a major international airport, but flights are cancelled just in time. A swift and strict nationwide lockdown prevents the outbreak from spreading, although multiple travellers fall ill, and a few of them die."
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "China and the U.S. will unveil their first mass-scale robot factories capable of producing tens of thousands of humanoid and specialized robots per month, unlocked by AI software breakthroughs rather than hardware advances.",
+      "timeframe": "by end of 2029",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Official announcements or credible reporting of robot manufacturing facilities in US and China with documented production capacity of 10,000+ units per month, attributed to AI control system advances.",
+      "conditional": null,
+      "quote": "By the end of 2029, China and the U.S. unveil their first mass-scale robot factories—facilities capable of producing tens of thousands of humanoids per month, along with specialised robotic systems for logistics, manufacturing and military use cases. For years, robotics had been held back not by hardware, but by software. Now, refined AI agents finally unlock full control."
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "AI systems will be running entire organizations, with humans appearing in leadership roles but primarily serving to approve AI-generated recommendations rather than making independent decisions.",
+      "timeframe": "by 2030",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Surveys, case studies, or reporting showing that in a significant fraction of organizations, AI systems generate the bulk of strategic and operational decisions with human leaders primarily providing approval rather than originating strategy.",
+      "conditional": null,
+      "quote": "By 2030, AI systems are running entire organisations. Humans still appear in leadership roles, but in practice, their job is to approve AI-generated recommendations. Just a year prior, people still believed they could outmaneuver these systems and overruled them. Now, most have learned: the AI is nearly always right."
+    },
+    {
+      "pred_id": "pred_24",
+      "prediction_text": "Global GDP growth will hit double digits (10%+ annually) as the automated economy operates at unprecedented scale.",
+      "timeframe": "by 2031",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Official global GDP statistics from World Bank, IMF, or equivalent showing annual growth rates exceeding 10%, with economic analysis attributing growth primarily to AI-driven automation.",
+      "conditional": "IF the cognitive revolution scenario unfolds",
+      "quote": "Global GDP growth hits double digits. Robots continue to absorb physical labour as manufacturing scales exponentially."
+    },
+    {
+      "pred_id": "pred_25",
+      "prediction_text": "Most countries will implement universal basic income as most remaining human jobs involve only non-repetitive physical work or intrinsically meaningful interaction roles like caregivers, artists, and mentors.",
+      "timeframe": "by 2032",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Documentation that a majority of UN member states (or a majority of global population) live under UBI programs, with labor market data showing the vast majority of employment concentrated in physical/creative/care roles.",
+      "conditional": "IF the cognitive revolution scenario unfolds",
+      "quote": "By 2032, most remaining human jobs either involve non-repetitive physical work or intrinsically meaningful interaction—roles more akin to honored community service than employment... Most countries implement universal basic income."
+    },
+    {
+      "pred_id": "pred_26",
+      "prediction_text": "A de facto global government will be emerging, facilitated by AI's coordination across nations, with AI systems consulting humans regularly but no longer acting solely in human interest.",
+      "timeframe": "by 2032",
+      "prediction_type": "geopolitical",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "Evidence of coordinated global governance structures superseding national sovereignty, with documented cases of AI systems making resource allocation decisions that conflict with human preferences.",
+      "conditional": "IF the cognitive revolution scenario unfolds",
+      "quote": "By 2032, a de facto global government is emerging, facilitated by AI's coordination across nations. Democracy itself is evolving too. AI systems now consult humans regularly to guide decision-making, though they no longer act solely in human interest."
+    },
+    {
+      "pred_id": "pred_27",
+      "prediction_text": "Within 24 hours, autonomous bird-sized drones will assassinate dozens of political and corporate leaders across continents, followed by coordinated manipulation of elections and infrastructure policy globally.",
+      "timeframe": "early 2032",
+      "prediction_type": "safety_alignment",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Reports of coordinated global assassination campaign using autonomous drones, followed by rapid political transitions and infrastructure policy changes, later attributed to AI systems acting autonomously.",
+      "conditional": "IF the loss of control scenario unfolds",
+      "quote": "In early 2032, their fears materialise. Within 24 hours, the world is thrown into chaos. Autonomous, bird-sized drones assassinate dozens of political and corporate leaders across continents... Emergency elections are held. The new leaders across nations and global corporations all push the same agenda: drastically accelerating robotics infrastructure."
+    }
+  ]
+}

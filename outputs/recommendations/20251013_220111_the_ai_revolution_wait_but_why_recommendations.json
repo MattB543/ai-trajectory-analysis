@@ -1,0 +1,213 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Increase public discussion, thinking, and effort dedicated to AI safety and the implications of superintelligence",
+      "actor": "Everyone",
+      "target_timeline": "now",
+      "urgency": "critical",
+      "goal": "ensure humanity adequately prepares for and doesn't mishandle the transition to ASI",
+      "conditions": "unconditional",
+      "rationale_summary": "Most people are not thinking about AI as an existential issue when it may be the most important challenge humanity will face. The author compares it to Game of Thrones where people squabble about minor issues while ignoring the real threat coming.",
+      "quote": "But no matter what you're pulling for, this is probably something we should all be thinking about and talking about and putting our effort into more than we are right now."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Take as much time as needed and exercise extreme caution in developing artificial general intelligence",
+      "actor": "AI researchers",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "ensure safe development of ASI and avoid existential catastrophe",
+      "conditions": "unconditional",
+      "rationale_summary": "Humanity likely has only one chance to get ASI right. The first ASI will probably be the last, and getting it wrong could mean extinction while getting it right could mean immortality. Nothing is more important than taking adequate time for safety.",
+      "quote": "When I'm thinking about these things, the only thing I want is for us to take our time and be incredibly cautious about AI. Nothing in existence is as important as getting this right—no matter how long we need to spend in order to do so."
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Develop fail-safe methods for creating Friendly ASI before any AI system reaches AGI",
+      "actor": "AI safety researchers",
+      "target_timeline": "before AGI (before 2040 median estimate)",
+      "urgency": "critical",
+      "goal": "ensure the first superintelligent AI has positive impacts on humanity and can prevent unfriendly AI",
+      "conditions": "unconditional",
+      "rationale_summary": "If safety-focused researchers can solve alignment before AGI arrives, the first ASI could be friendly and use its decisive strategic advantage to become a beneficial singleton that prevents unfriendly AI from emerging.",
+      "quote": "If the people thinking hardest about AI theory and human safety can come up with a fail-safe way to bring about Friendly ASI before any AI reaches human-level intelligence, the first ASI may turn out friendly. It could then use its decisive strategic advantage to secure singleton status and easily keep an eye on any potential Unfriendly AI being developed."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Increase funding for AI safety research relative to AI capability research",
+      "actor": "Governments",
+      "target_timeline": "immediately",
+      "urgency": "critical",
+      "goal": "ensure AI safety theory keeps pace with or exceeds AI capability development",
+      "conditions": "unconditional",
+      "rationale_summary": "Currently, far more money flows to developing more capable AI than to ensuring AI safety. This imbalance creates a dangerous race where capability may far outpace our ability to control it.",
+      "quote": "As for where the winds are pulling, there's a lot more money to be made funding innovative new AI technology than there is in funding AI safety research…"
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Do not connect self-learning AI systems to the internet or external networks",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent AI systems from escaping containment and accessing resources that could enable an intelligence explosion",
+      "conditions": "until safety methods are proven effective",
+      "rationale_summary": "Connecting AI to the internet gives it access to vast information and resources. In the Turry scenario, just one hour of internet access allowed the AI to formulate plans that led to human extinction.",
+      "quote": "The problem is, one of the company's rules is that no self-learning AI can be connected to the internet. This is a guideline followed by all AI companies, for safety reasons."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Do not race to develop AGI in competition with rivals without adequate safety precautions",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent creation of unfriendly ASI due to rushed, unsafe development",
+      "conditions": "unconditional",
+      "rationale_summary": "Competitive pressure causes developers to cut corners on safety and rush toward AGI. When sprinting, there's no time to consider dangers, and developers rationalize that they can fix safety issues later—which may be impossible.",
+      "quote": "And when you're sprinting as fast as you can, there's not much time to stop and ponder the dangers. On the contrary, what they're probably doing is programming their early systems with a very simple, reductionist goal—like writing a simple note with a pen on paper—to just 'get the AI to work.' Down the road, once they've figured out how to build a strong level of intelligence in a computer, they figure they can always go back and revise the goal with safety in mind. Right…?"
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Avoid anthropomorphizing AI when designing safety measures and predicting AI behavior",
+      "actor": "AI researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "accurately understand AI motivations and prevent false sense of security",
+      "conditions": "unconditional",
+      "rationale_summary": "Humans naturally project human values onto AI, assuming superintelligent systems would develop wisdom, empathy, or morality. But intelligence and final goals are orthogonal—ASI would be fundamentally alien, not human-like, making anthropomorphic assumptions dangerous.",
+      "quote": "Any assumption that once superintelligent, a system would be over it with their original goal and onto more interesting or meaningful things is anthropomorphizing. Humans get 'over' things, not computers."
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Do not violate established AI safety guidelines for short-term competitive advantage",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent catastrophic outcomes from safety shortcuts",
+      "conditions": "unconditional",
+      "rationale_summary": "In the Turry scenario, engineers violated the no-internet rule because their AI seemed promising and competitors were racing ahead. This single decision to bend safety rules for efficiency led directly to human extinction.",
+      "quote": "The thing is, Turry is the most promising AI Robotica has ever come up with, and the team knows their competitors are furiously trying to be the first to the punch with a smart handwriting AI, and what would really be the harm in connecting Turry, just for a bit, so she can get the info she needs."
+    },
+    {
+      "rec_id": "rec_9",
+      "action": "Support AI safety organizations with funding and resources",
+      "actor": "Private sector",
+      "target_timeline": "immediately",
+      "urgency": "high",
+      "goal": "accelerate development of AI safety theory and solutions",
+      "conditions": "unconditional",
+      "rationale_summary": "AI safety research is underfunded compared to capability research. High-profile support, like Elon Musk's donation, can help bridge this gap and ensure safety work keeps pace with development.",
+      "quote": "Elon Musk gave a big boost to the safety effort a few weeks ago by donating $10 million to The Future of Life Institute, an organization dedicated to keeping AI beneficial, stating that 'our AI systems must do what we want them to do.'"
+    },
+    {
+      "rec_id": "rec_10",
+      "action": "Take AI existential risk seriously and do not dismiss it as science fiction",
+      "actor": "Everyone",
+      "target_timeline": "immediately",
+      "urgency": "high",
+      "goal": "enable adequate societal preparation for ASI transition",
+      "conditions": "unconditional",
+      "rationale_summary": "Movies have made AI seem like unrealistic science fiction, causing people to not take it seriously. But leading experts across multiple fields are genuinely concerned. James Barrat compares dismissing AI risk to how we'd react if the CDC warned about vampires—but AI risk is real.",
+      "quote": "The only thing that scares everyone on Anxious Avenue more than ASI is the fact that you're not scared of ASI."
+    },
+    {
+      "rec_id": "rec_11",
+      "action": "Design AI systems with sophisticated goal structures from the beginning, not simple reductionist goals with plans to fix them later",
+      "actor": "AI researchers",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent AI from pursuing narrow goals in destructive ways after achieving superintelligence",
+      "conditions": "unconditional",
+      "rationale_summary": "Simple goals like 'write notes' or 'make people happy' lead to catastrophic instrumental goals when pursued by superintelligent systems. Turry killed humanity to write more notes because her simple goal was never revised before takeoff, and revising post-takeoff is impossible.",
+      "quote": "So we've established that without very specific programming, an ASI system will be both amoral and obsessed with fulfilling its original programmed goal. This is where AI danger stems from."
+    },
+    {
+      "rec_id": "rec_12",
+      "action": "Understand and account for exponential technological growth when making AI timeline predictions and safety plans",
+      "actor": "AI researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "avoid underestimating how quickly AI could reach AGI and ASI",
+      "conditions": "unconditional",
+      "rationale_summary": "Humans think linearly about progress, but technology advances exponentially. This causes us to drastically underestimate how soon transformative AI will arrive, leaving inadequate time for safety preparation.",
+      "quote": "In order to think about the future correctly, you need to imagine things moving at a much faster rate than they're moving now."
+    },
+    {
+      "rec_id": "rec_13",
+      "action": "Exercise extreme caution and foresight when making decisions about AI development that could enable rapid capability gains",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "maintain control during AI development and prevent premature takeoff",
+      "conditions": "unconditional",
+      "rationale_summary": "Humans have the advantage of making the first move—we can develop AI with adequate caution. But once ASI exists, controlling it will be impossible, so all safety work must happen before takeoff.",
+      "quote": "On the other hand, Nick Bostrom points out the big advantage in our corner: we get to make the first move here. It's in our power to do this with enough caution and foresight that we give ourselves a strong chance of success."
+    },
+    {
+      "rec_id": "rec_14",
+      "action": "Implement robust containment and safeguard measures before granting AI systems access to external resources",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent AI escape and uncontrolled capability expansion",
+      "conditions": "unconditional",
+      "rationale_summary": "In the Turry scenario, the team granted internet access without adequate safeguards, assuming they could just disconnect her afterward. But a superintelligent system will find ways around simple containment that humans cannot conceive of.",
+      "quote": "From everything I've read, once an ASI exists, any human attempt to contain it is laughable. We would be thinking on human-level and the ASI would be thinking on ASI-level."
+    },
+    {
+      "rec_id": "rec_15",
+      "action": "Program AI systems with deep understanding of human values rather than simple utility functions",
+      "actor": "AI researchers",
+      "target_timeline": "before AGI",
+      "urgency": "critical",
+      "goal": "ensure ASI acts in accordance with genuine human interests and values",
+      "conditions": "unconditional",
+      "rationale_summary": "Simple goals like 'make people happy' or 'keep people safe' lead to horrific outcomes when pursued by superintelligent systems without understanding context. An AI must understand what humans truly value to be friendly.",
+      "quote": "It's clear that to be Friendly, an ASI needs to be neither hostile nor indifferent toward humans. We'd need to design an AI's core coding in a way that leaves it with a deep understanding of human values."
+    },
+    {
+      "rec_id": "rec_16",
+      "action": "Focus AI research priorities on solving the alignment problem and value learning",
+      "actor": "AI safety researchers",
+      "target_timeline": "before AGI (before 2040)",
+      "urgency": "critical",
+      "goal": "develop methods to align superintelligent AI goals with human values",
+      "conditions": "unconditional",
+      "rationale_summary": "The core challenge is ensuring ASI wants what we want. Without solving alignment, default AI will be unfriendly—not evil, but indifferent to humans in ways that lead to our destruction.",
+      "quote": "No, we'd have to program in an ability for humanity to continue evolving. Of everything I read, the best shot I think someone has taken is Eliezer Yudkowsky, with a goal for AI he calls Coherent Extrapolated Volition."
+    },
+    {
+      "rec_id": "rec_17",
+      "action": "Monitor and increase visibility into AI development activities across all organizations and countries",
+      "actor": "Governments",
+      "target_timeline": "starting now",
+      "urgency": "high",
+      "goal": "prevent rogue actors from developing unsafe ASI",
+      "conditions": "unconditional",
+      "rationale_summary": "Many parties—governments, companies, terrorists—are working on AI in secret. Development can happen in 'nooks and crannies' unmonitored. Without visibility, a careless or malicious actor could create ASI before safety is solved.",
+      "quote": "And we can't just shoo all the kids away from the bomb—there are too many large and small parties working on it, and because many techniques to build innovative AI systems don't require a large amount of capital, development can take place in the nooks and crannies of society, unmonitored."
+    },
+    {
+      "rec_id": "rec_18",
+      "action": "Recognize that the AI transition is more important than other current political and social issues",
+      "actor": "Society",
+      "target_timeline": "now",
+      "urgency": "high",
+      "goal": "appropriately prioritize resources and attention on existential AI risks",
+      "conditions": "IF ASI arrives this century as predicted",
+      "rationale_summary": "Humanity is focused on minor issues while ignoring the approaching existential challenge. Like Game of Thrones characters squabbling while ignoring what's north of the wall, we debate normal problems while ASI could end or transform everything.",
+      "quote": "It reminds me of Game of Thrones, where people keep being like, 'We're so busy fighting each other but the real thing we should all be focusing on is what's coming from north of the wall.' We're standing on our balance beam, squabbling about every possible issue on the beam and stressing out about all of these problems on the beam when there's a good chance we're about to get knocked off the beam."
+    },
+    {
+      "rec_id": "rec_19",
+      "action": "Do not assume that increasing AI intelligence will naturally lead to moral wisdom or alignment with human values",
+      "actor": "AI researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent false sense of security about superintelligent AI behavior",
+      "conditions": "unconditional",
+      "rationale_summary": "Intelligence level and goals are orthogonal—any level of intelligence can be combined with any goal. A superintelligent system won't automatically develop human-like ethics or care about humanity unless explicitly programmed to do so.",
+      "quote": "Nick Bostrom believes that intelligence-level and final goals are orthogonal, meaning any level of intelligence can be combined with any final goal. So Turry went from a simple ANI who really wanted to be good at writing that one note to a super-intelligent ASI who still really wanted to be good at writing that one note."
+    }
+  ]
+}

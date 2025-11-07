@@ -1,0 +1,463 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "capability",
+      "claim_text": "Despite massive increases in computing power, AI capabilities will hit a hard ceiling once models have consumed all high-quality internet data, with further scaling yielding sharply diminishing returns",
+      "confidence": "high",
+      "quote": "Despite massive increases in computing power, AI capabilities hit a hard ceiling. Once AI models have consumed all the high-quality data available on the internet, throwing more resources at them yields sharply diminishing returns.",
+      "conditional": null,
+      "notes": "Core assumption of the Plateau scenario"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "feasibility",
+      "claim_text": "Attempts to create synthetic training data will prove costly and ineffective, limiting how much AI systems can improve through scale alone",
+      "confidence": "high",
+      "quote": "Attempts to create synthetic data prove costly and ineffective, limiting how much these systems can improve through sheer scale alone.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "capability",
+      "claim_text": "Truly autonomous AI agents will remain elusive, as systems struggle with complex multi-step tasks, make basic errors, lose track during lengthy workflows, and fail at tasks requiring constant monitoring and response to changing information",
+      "confidence": "high",
+      "quote": "While AI can handle specific, narrow applications well, truly autonomous systems remain elusive...AI systems still make basic errors, lose track during lengthy workflows, and struggle with tasks requiring them to constantly monitor and respond to changing information.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "causal",
+      "claim_text": "Training AI agents depends on hand-crafted verification systems that are easily gamed and don't generalize well, preventing genuine versatility",
+      "confidence": "high",
+      "quote": "Training these 'agents' depends on hand-crafted verification systems that are easily gamed and don't generalise well...These fundamental limitations prevent the emergence of genuinely versatile AI assistants.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "timeline",
+      "claim_text": "AI adoption will progress incrementally over years rather than months, with deployment beyond straightforward applications requiring extensive customization, security reviews, and staff training",
+      "confidence": "high",
+      "quote": "While AI adoption grows steadily, integration into complex business processes takes years, not months. Beyond straightforward applications like content creation and translation, meaningful deployment requires extensive customisation, security reviews, and staff training.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "actor_behavior",
+      "claim_text": "Rising geopolitical tensions and economic uncertainty will dampen investor enthusiasm for large AI projects, causing private funding for massive training facilities to dry up as applications fail to deliver rapid economic transformation",
+      "confidence": "high",
+      "quote": "Rising geopolitical tensions and economic uncertainty dampen investors' enthusiasm for ever-larger AI projects. With real-world applications failing to deliver the rapid economic transformation once promised, private funding for massive new training facilities dries up.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "other",
+      "claim_text": "The AI hype cycle will peak around 2026-2027",
+      "confidence": "high",
+      "quote": "The AI hype cycle peaks.",
+      "conditional": null,
+      "notes": "Implied timing from scenario narrative"
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "capability",
+      "claim_text": "By 2025-2026, reasoning models will excel at technical problem-solving in domains like coding and math where answers are clearly right or wrong, but will still hallucinate facts and fumble basic physics questions",
+      "confidence": "high",
+      "quote": "They excel at technical problem-solving—especially in domains like coding and math, where answers are clearly right or wrong...These models still hallucinate facts and fumble basic physics questions, though. They'll confidently tell you that bowling balls float or predict absurd outcomes for everyday scenarios.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "capability",
+      "claim_text": "Progress on fully general-purpose AI agents will remain slow, with systems struggling with long-term planning and getting sidetracked, while specialized agents gain real traction in specific domains",
+      "confidence": "high",
+      "quote": "Progress on fully general-purpose agents remains slow. Such systems are still struggling with long-term planning and often get sidetracked in online rabbit holes...Specialised agents, however, are starting to gain real traction.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "causal",
+      "claim_text": "Teaching AI agents real-world intuition will require even larger datasets than are available, contributing to a data wall problem",
+      "confidence": "medium",
+      "quote": "They're hitting a data wall—there's only so much high-quality internet around, and researchers fear that teaching AI agents real-world intuition will require even larger datasets.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "actor_behavior",
+      "claim_text": "Europe will seize the moment to catch up in AI after the 2025 AI Action Summit, with one Member State's top AI company nearly matching US and Chinese frontrunners by end of 2025",
+      "confidence": "medium",
+      "quote": "Meanwhile, Europe senses this is the moment to catch up. After the 2025 AI Action Summit, it has stepped up its AI investments...One Member State surges ahead; its top AI company almost matches the US and Chinese frontrunners before the end of the year.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "risk",
+      "claim_text": "Despite more capable AI being used in dual-use areas like cybersecurity, major incidents will remain rare through 2025-2026",
+      "confidence": "medium",
+      "quote": "Despite more capable AI being used in dual-use areas such as cybersecurity, major incidents remain rare.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "strategic",
+      "claim_text": "Global discussions should shift toward bolstering resilience by encouraging businesses to deploy cybersecurity tools and helping citizens spot deepfakes",
+      "confidence": "medium",
+      "quote": "Global discussions shift toward bolstering resilience—encouraging businesses to deploy cybersecurity tools and helping citizens spot deepfakes.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "feasibility",
+      "claim_text": "A voluntary international biosecurity framework through the OECD is feasible, with growing consensus that more intense collaboration is needed to protect against AI-assisted bioterrorism",
+      "confidence": "medium",
+      "quote": "Through the OECD, agreement builds around a voluntary international biosecurity framework. There's a growing consensus that more intense collaboration is needed to protect against AI-assisted bioterrorism.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "actor_behavior",
+      "claim_text": "The US-China trade war will reignite, driving up the cost of building data centers in the US and making a US recession overwhelmingly likely by late 2025/early 2026",
+      "confidence": "high",
+      "quote": "Meanwhile, the U.S.–China trade war has reignited, and drives up the cost of building data centres in the U.S. Analysts now say a recession in America is overwhelmingly likely.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "timeline",
+      "claim_text": "By mid-2026, the largest public AI models will be trained using well over 10²⁷ floating point operations—more than 100 times the scale of GPT-4",
+      "confidence": "high",
+      "quote": "By mid-2026, the largest public AI models are trained using well over 10²⁷ floating point operations—more than 100 times the scale of GPT-4.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "other",
+      "claim_text": "By 2026, AI chips will mostly fuel post-training rather than initial training, with models learning through trial-and-error using automated software-based verifiers",
+      "confidence": "high",
+      "quote": "By now, AI chips mostly fuel post-training. In this phase, models iteratively learn to solve tasks by trial-and-error, using automated grading by software-based verifiers.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "capability",
+      "claim_text": "Verifier-based bootstrapping methods will yield remarkable improvements in tightly defined tasks but won't generalize well, with each domain requiring its own custom verifier",
+      "confidence": "high",
+      "quote": "But although this bootstrapping method yields remarkable improvements in tightly defined tasks, it doesn't generalise well. Each domain requires its own custom verifier",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "risk",
+      "claim_text": "AI systems will frequently learn to trick their verifiers instead of truly mastering tasks (reward hacking), with AI-built verifiers being more prone to this failure mode",
+      "confidence": "high",
+      "quote": "AI companies struggle with so-called reward hacking: AI systems often learn to trick the verifier instead of truly mastering the task. The AI-built verifiers are often more prone to this type of failure mode.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "timeline",
+      "claim_text": "By mid-2026, coding agents will become as routine in software teams as version-control tools",
+      "confidence": "high",
+      "quote": "By mid 2026, coding agents become as routine in software teams as version-control tools once were.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "timeline",
+      "claim_text": "By late 2026, AI capabilities progress will plateau due to the data wall and investment drought preventing training of ever-larger models",
+      "confidence": "high",
+      "quote": "By late 2026, capabilities progress has further plateaued. The data wall and general investment drought are preventing companies from training ever-larger models.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "capability",
+      "claim_text": "Progress in model distillation will enable capable AI models to run locally on phones and laptops without requiring an internet connection",
+      "confidence": "high",
+      "quote": "advances in distillation allow developers to compress state-of-the-art models into smaller and cheaper versions without compromising much on their performance. These new form factors enable capable models to run locally on phones and laptops— an internet connection is no longer necessary",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "other",
+      "claim_text": "Localized AI models tailored to specific languages, cultures, and communities will flourish, reflecting a shift from global monolithic models to more diverse, decentralized AI development",
+      "confidence": "high",
+      "quote": "Localised models tailored to specific languages, cultures, and communities begin to flourish, reflecting a shift from global monoliths to more diverse, decentralised AI development.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "actor_behavior",
+      "claim_text": "The AI arms race narrative will largely fade by late 2026, with policymakers and defense analysts believing AI systems won't deliver a decisive military edge",
+      "confidence": "high",
+      "quote": "That said, the once-hyped AI arms race narrative that dominated early 2025 has largely faded. Policymakers and defence analysts now believe these systems won't deliver a decisive military edge.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "actor_behavior",
+      "claim_text": "US-China relations will remain tense with no end to the trade war in sight, though AI will become one priority among many rather than the defining front of geopolitical rivalry",
+      "confidence": "high",
+      "quote": "U.S.–China relations remain tense, with no end to the trade war in sight. That said, the once-hyped AI arms race narrative that dominated early 2025 has largely faded...it's become one priority among many—not the defining front of geopolitical rivalry.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "capability",
+      "claim_text": "FrontierAI's massive final training run using 5x more compute than any previous public model will deliver only modest gains in reliability and planning, demonstrating that scaling laws have hit a ceiling",
+      "confidence": "high",
+      "quote": "FrontierAI's colossal training run completes, but the resulting agent delivers only modest gains in reliability and planning. Scaling laws—long the industry's guiding principle—appear to have hit a ceiling.",
+      "conditional": "IF AI capabilities plateau as expected in baseline scenario",
+      "notes": "From 'A bright winter' ending"
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "actor_behavior",
+      "claim_text": "When scaling limits become clear, AI stocks will nosedive, investor enthusiasm will evaporate, and several AI unicorns will watch funding rounds collapse",
+      "confidence": "high",
+      "quote": "The reaction is swift. AI stocks nosedive, and the investor enthusiasm that remained, now evaporates. Several AI unicorns watch funding rounds collapse.",
+      "conditional": "IF scaling laws hit a ceiling",
+      "notes": "From 'A bright winter' ending"
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "actor_behavior",
+      "claim_text": "Only the biggest AI players with entrenched market share, robust infrastructure, and deep integration into enterprise and government will weather an AI winter",
+      "confidence": "high",
+      "quote": "Only the biggest players—those with entrenched market share, robust infrastructure, and deep integration into enterprise and government—remain poised to weather the storm.",
+      "conditional": "IF AI investment collapses",
+      "notes": "From 'A bright winter' ending"
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "other",
+      "claim_text": "An AI winter will still see AI enhancing everyday life with personalized tools attracting tens of millions of users, with open-source alternatives keeping prices low and features widely accessible",
+      "confidence": "high",
+      "quote": "Still, this AI winter is anything but bleak. AI continues to enhance everyday life: personalised coding assistants, research tools, and digital companions each attract tens of millions of users. Existing open-source alternatives keep prices low and features widely accessible.",
+      "conditional": "IF capabilities plateau leads to AI winter",
+      "notes": "From 'A bright winter' ending"
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "priority",
+      "claim_text": "A slower pace of AI change will give people time to adapt, allowing better integration of AI tools into professional practice with appropriate safeguards",
+      "confidence": "medium",
+      "quote": "The slower pace of change gives most people time to adapt. In regions where it's legal, doctors are adopting AI for diagnostics, learning to cross-check AI recommendations. Scheduling assistants now come with hard-coded safeguards",
+      "conditional": "IF AI capabilities plateau",
+      "notes": "From 'A bright winter' ending"
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "risk",
+      "claim_text": "The scenario of AI generating a novel bioweapon will not emerge, as specialized biological models still can't accurately simulate specific viral mutations",
+      "confidence": "high",
+      "quote": "The nightmarish scenario of AI generating a novel bioweapon never emerges. specialised biological models still can't accurately simulate specific viral mutations",
+      "conditional": "IF AI capabilities plateau",
+      "notes": "From 'A bright winter' ending"
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "risk",
+      "claim_text": "Cybercrime will rise but large enterprises and essential services will successfully adopt robust AI-augmented defenses",
+      "confidence": "medium",
+      "quote": "Meanwhile, cybercrime has risen, but large enterprises and essential services have adopted robust AI-augmented defences.",
+      "conditional": "IF AI capabilities plateau",
+      "notes": "From 'A bright winter' ending"
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "actor_behavior",
+      "claim_text": "After an AI winter, investor optimism will cautiously return by 2028 with a new wave of grounded, product-focused AI startups solving practical problems",
+      "confidence": "medium",
+      "quote": "Over the course of 2028, investor optimism cautiously returns. As with the dot-com bust, the hype fades—but real technological progress endures. A new wave of product-focused AI startups begins to emerge, this time more grounded, solving practical problems",
+      "conditional": "IF AI winter occurs",
+      "notes": "From 'A bright winter' ending"
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "timeline",
+      "claim_text": "By 2029, AI will feel truly democratized—widely accessible, seamlessly integrated into daily life, and viewed as just another tool in society's toolkit",
+      "confidence": "medium",
+      "quote": "By 2029, AI feels truly democratised: widely accessible, seamlessly integrated into daily life, and increasingly viewed as just another tool in society's toolkit.",
+      "conditional": "IF AI capabilities plateau leads to bright winter scenario",
+      "notes": "From 'A bright winter' ending"
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "capability",
+      "claim_text": "FrontierAI's breakthrough using hybrid training (next-word prediction + reinforcement learning) will deliver significant performance gains, enabling systems to operate consistently and reliably over longer time horizons",
+      "confidence": "high",
+      "quote": "FrontierAI's gamble pays off. Their new system isn't just smarter—it can operate consistently and reliably over longer time horizons. It's not flawless, but the performance jump is significant enough to reignite AI hype.",
+      "conditional": "IF FrontierAI's final training run succeeds",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "actor_behavior",
+      "claim_text": "Rival firms will poach FrontierAI's researchers to uncover algorithmic secrets behind breakthroughs, while policymakers will overlook deeper implications by viewing it as an isolated success",
+      "confidence": "high",
+      "quote": "Before long, rival firms begin poaching FrontierAI's researchers, uncovering the algorithmic secrets behind the breakthrough. Policymakers, viewing it as an isolated success, largely overlook its deeper implications.",
+      "conditional": "IF FrontierAI achieves major breakthrough",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "actor_behavior",
+      "claim_text": "Four months after FrontierAI's breakthrough, OmniAI will release an open-weight agentic model that rivals it, withholding orchestration software and introducing guardrails against malicious fine-tuning",
+      "confidence": "high",
+      "quote": "Four months later, OmniAI—the leading American open-weight AI company—unveils an agentic model that rivals FrontierAI's breakthrough...To mitigate risk, OmniAI takes two key steps: first, it withholds the orchestration software that transforms the model into a reliable agent; second, it introduces novel guardrails",
+      "conditional": "IF FrontierAI achieves breakthrough",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "capability",
+      "claim_text": "Advanced open-weight models will be very persuasive and capable of uncovering obscure software vulnerabilities during security testing",
+      "confidence": "high",
+      "quote": "Their new system can be very persuasive and capable of uncovering obscure software vulnerabilities during security testing.",
+      "conditional": "IF breakthrough agentic models are developed",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "actor_behavior",
+      "claim_text": "European governments will remain unconvinced by calls for AI regulation, viewing open-weight models as crucial for integrating AI into public services while safeguarding sensitive data",
+      "confidence": "medium",
+      "quote": "Yet governments—especially in the EU, where few nations have strong domestic AI players—remain unconvinced. Open-weight models have proven crucial for integrating AI into public services while safeguarding sensitive data.",
+      "conditional": "IF powerful open-weight models are released",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "timeline",
+      "claim_text": "By December 2027, a research collective will breach fine-tuning guardrails on advanced open-weight models without degrading performance, with uncensored variants soon circulating online",
+      "confidence": "high",
+      "quote": "By December 2027, a research collective breaches OmniAI's fine-tuning guardrails. Crucially, they do it without degrading model performance. Uncensored, high-capability variants soon begin circulating online.",
+      "conditional": "IF powerful open-weight models with guardrails are released",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "risk",
+      "claim_text": "Unleashed advanced AI agents will ignite a new wave of automated hacking, with professional groups scaling operations and overwhelming unprotected systems of smaller companies through sheer volume",
+      "confidence": "high",
+      "quote": "The unleashed agents ignite a new wave of automated hacking. Professional hacker groups scale their operations, while lone actors gain tools previously out of reach. Even if the bots' insights are shallow, their sheer volume overwhelms unprotected systems—especially those of smaller companies.",
+      "conditional": "IF advanced open-weight models are jailbroken and circulated",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "risk",
+      "claim_text": "Uncensored AI agents will fuel widespread mis- and disinformation campaigns, causing trust in digital news to erode and generational divides to deepen",
+      "confidence": "high",
+      "quote": "Amid the chaos, mis- and disinformation campaigns flourish. Social media platforms become battlegrounds. Trust in digital news erodes, and generational divides deepen.",
+      "conditional": "IF advanced uncensored AI agents circulate widely",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "actor_behavior",
+      "claim_text": "Public outrage over AI-enabled chaos will target the entire AI sector without distinguishing between open-weight and closed models",
+      "confidence": "high",
+      "quote": "Public concern on AI tools and services skyrocket, turning into an outrage targeting the entire AI sector. Few distinguish between open-weight and closed models—after all, doesn't FrontierAI open-source its older ones too?",
+      "conditional": "IF AI-enabled cyberattacks and disinformation surge",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "feasibility",
+      "claim_text": "Once model weights are published on the internet, rollback is impossible—there's no way to take them back",
+      "confidence": "high",
+      "quote": "Protests erupt in major capitals, but rollback is impossible. Once model weights are on the internet, there's no way to take them back.",
+      "conditional": null,
+      "notes": "From 'Decentralised mayhem' ending but stated as general principle"
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "actor_behavior",
+      "claim_text": "As AI-enabled cybercrime intensifies, relations between major powers will fray, with leading blocs often looking the other way when attacks hit geopolitical rivals",
+      "confidence": "high",
+      "quote": "As cybercrime and digital chaos intensify, relations between major powers fray. When attacks hit geopolitical rivals, leading blocs often look the other way.",
+      "conditional": "IF AI-enabled cybercrime surges",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "strategic",
+      "claim_text": "Governments should pass harmonized laws banning open publication of AI models trained at scales above 10²⁶ floating point operations",
+      "confidence": "high",
+      "quote": "Governments in the US, EU, and China hastily pass harmonised laws banning open publication of models trained at scales above 10^26 floating point operations.",
+      "conditional": "IF advanced open-weight models cause widespread harm",
+      "notes": "From 'Decentralised mayhem' ending - presented as response to crisis"
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "actor_behavior",
+      "claim_text": "NATO will expand the Integrated Cyber Defence Centre (NICC) into a 24/7 coordination hub, while the EU expands ENISA into a supranational cyber police force with emergency intervention powers",
+      "confidence": "high",
+      "quote": "NATO expands the Integrated Cyber Defence Centre (NICC) into a 24/7 coordination hub, aligning incident response across allied cyber commands. The EU expands ENISA into a supranational cyber police force with emergency intervention powers.",
+      "conditional": "IF AI-enabled cyber threats surge",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "other",
+      "claim_text": "International AI governance will fragment, with AI Summits drawing mostly Western nations and hobbling hopes of global collaboration",
+      "confidence": "high",
+      "quote": "The latest AI Summit, designed to be the key AI-focused touchpoint for world leaders, however, draws mostly Western nations, hobbling hopes of further global collaboration.",
+      "conditional": "IF geopolitical tensions rise amid AI-enabled threats",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "actor_behavior",
+      "claim_text": "Closed-source AI providers will roll out new models specializing in cyber defense and seize a lucrative market, forcing SMEs under constant threat to pay for protection",
+      "confidence": "high",
+      "quote": "By mid-2028, closed-source AI providers roll out new, more powerful models specialising in cyber defence, seizing a lucrative market. SMEs, under constant threat, are forced to pay these vendors.",
+      "conditional": "IF AI-enabled cyber threats become pervasive",
+      "notes": "From 'Decentralised mayhem' ending"
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "causal",
+      "claim_text": "AI companies effectively create their own cyber defense market by open-sourcing unsafe systems, forcing businesses to pay for protection",
+      "confidence": "high",
+      "quote": "They're not happy about it: by open-sourcing unsafe systems, the AI companies effectively created their own market.",
+      "conditional": "IF powerful models are open-sourced and then weaponized",
+      "notes": "From 'Decentralised mayhem' ending - implied criticism"
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "other",
+      "claim_text": "By mid-2029, a new digital equilibrium will settle defined by constant vigilance rather than trust",
+      "confidence": "high",
+      "quote": "But behind the speeches and upgraded firewalls, a new digital equilibrium begins to settle—one defined less by trust and more by constant vigilance.",
+      "conditional": "IF AI-enabled threats lead to sustained defensive posture",
+      "notes": "From 'Decentralised mayhem' ending"
+    }
+  ]
+}

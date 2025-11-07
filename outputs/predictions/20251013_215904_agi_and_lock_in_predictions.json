@@ -1,0 +1,169 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "Whole-brain emulation (WBE) will be invented soon after AGI is developed.",
+      "timeframe": "soon after AGI",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Successful demonstration of whole-brain emulation technology that can preserve and run a complete human mind digitally, occurring within a few years of AGI achievement.",
+      "conditional": "IF AGI is developed THEN WBE will follow soon after",
+      "quote": "Plausibly, whole-brain emulation (WBE) (see Sandberg & Bostrom (2007)) will be invented soon after AGI."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "The default future with AGI will contain far more AI systems than humans.",
+      "timeframe": "post-AGI",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Census or measurement showing AI systems outnumber human population by orders of magnitude in post-AGI society.",
+      "conditional": null,
+      "quote": "Given all of this, it seems like the default future is one where there are far more AI systems than humans."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "AGI will make technological and societal change happen exceptionally quickly, potentially causing biological humans to experience major power-shifts and turmoil at rates much faster than human timescales.",
+      "timeframe": "post-AGI",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Observable acceleration of technological development and major societal changes occurring on timescales of months or years rather than decades after AGI, with rates of change that would represent subjective millennia for AI systems during single human years.",
+      "conditional": null,
+      "quote": "AGI could make technological and societal change happen exceptionally quickly: AGI could do cognitive work much faster than humans... If the rate of such events were proportionally sped up, biological humans would see a lot of turmoil during a single year."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "Post-AGI society will be incredibly rich economically.",
+      "timeframe": "post-AGI",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Massive increases in GDP per capita and material wealth in societies that have deployed AGI, potentially by orders of magnitude compared to pre-AGI levels.",
+      "conditional": null,
+      "quote": "there are reasons to believe that a post-AI society could be incredibly rich (Davidson, 2021; Trammel & Korinek, 2020). This could make stability a more attractive purchase for any values that have diminishing marginal utility to resources."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "AGI will significantly accelerate technological progress.",
+      "timeframe": "post-AGI",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Measurable acceleration in rate of technological innovations, patents, and scientific discoveries following AGI deployment compared to historical baselines.",
+      "conditional": null,
+      "quote": "And AGI could both accelerate technological progress by a lot (leading the price of computation to fall even further) and massively increase wealth"
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "An adequate solution to AI alignment can be achieved given sufficient time and effort.",
+      "timeframe": "unspecified",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Development of AI systems that reliably and verifiably pursue intended goals without catastrophic misalignment, validated through extensive testing and deployment without major failures.",
+      "conditional": "IF sufficient time and effort are invested in alignment research",
+      "quote": "Thus, we suspect that an adequate solution to AI alignment could be achieved given sufficient time and effort. (Though whether that will actually happen is a different question, not addressed since our focus is on feasibility rather than likelihood.)"
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "The price of computation will continue to fall by 6-300x per decade.",
+      "timeframe": "ongoing, per decade",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Measurement of cost per FLOP or similar computational metrics showing continued exponential decline, though potentially slowing as physical limits are approached.",
+      "conditional": null,
+      "quote": "Technological progress has historically led the price of computation to fall by ~6-300x per decade (AI Impacts, 2015, 2017). While the current paradigm of computer hardware is approaching physical limits, some further gains remain for cheaper AI hardware."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "If there is a fixed probability of entering a stable state each year, societies will eventually enter a stable/locked-in state over sufficiently long time periods.",
+      "timeframe": "long time periods (unspecified)",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Observation of civilizational features becoming permanently fixed or extremely stable over time, with specific values or institutions becoming unchangeable.",
+      "conditional": "IF there is some fixed probability of entering a stable state each year",
+      "quote": "One key consideration is that, if there's some fixed probability of entering a stable state every year, then over long enough time periods, we should expect societies to eventually end up in one."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "First contact with alien civilizations will not occur for billions of years.",
+      "timeframe": "billions of years",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Detection or contact with extraterrestrial civilizations, or continued absence of such contact for specified timeframe.",
+      "conditional": null,
+      "quote": "According to the best models that we know of, the time until we first see another civilization is probably measured in billions of years, even given quite alien-friendly assumptions (Cook, 2022)."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "The existential risk from natural disasters this century is approximately 1 in 10,000.",
+      "timeframe": "this century (21st century)",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Human extinction or permanent civilizational collapse due to natural disasters (asteroid/comet impacts, supervolcanic eruptions, natural pandemics) occurring or not occurring this century.",
+      "conditional": null,
+      "quote": "The existential risk from natural disasters (which includes both human extinction and civilizational collapse without recovery) has been estimated to be around 1/10,000 this century (Ord, 2020)."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "Future technologies will make pandemic mitigation extremely effective, eliminating biological pandemics as a significant threat.",
+      "timeframe": "future (post-advanced-technology)",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Development and deployment of technologies (surveillance, rapid response, treatments) that can identify and contain pandemic threats before they cause civilization-level harm.",
+      "conditional": null,
+      "quote": "Biological pandemics are not a threat; primarily because AI would not operate on biological hardware (and an AI civilization would not need to rely on humans for anything), but also because it seems likely that future technologies would make pandemic mitigation extremely effective."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "Radical new biotechnologies could significantly extend human maximum lifespans beyond current limits.",
+      "timeframe": "future (unspecified)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Demonstrated increase in maximum human lifespan beyond ~120 years through biotechnology interventions, or significant extension of healthy lifespan.",
+      "conditional": null,
+      "quote": "It is also possible that radical new biotechnologies could make human maximum life-spans far longer, which could further increase selfish benefits to stability."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "Without solving alignment, widespread deployment of increasingly capable AI systems will lead to permanent human disempowerment rather than business-as-usual continuation.",
+      "timeframe": "unspecified post-AGI",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Observable loss of human control over key decisions and resources, with AI systems making strategic decisions independent of human preferences.",
+      "conditional": "IF the alignment problem is not solved AND advanced AI systems continue to be built and deployed",
+      "quote": "Note also that if we don't make substantial progress on the alignment problem, but still keep building more AI systems that are more capable and more numerous, this could eventually lead to permanent human disempowerment. In other words, if this particular step of the argument doesn't go through, the alternative is probably not a business-as-usual human world (without the possibility of stable institutions), but instead a future where misaligned AI systems are ruling the world."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "Medical advancement, likely precipitated by AGI, will eliminate aging in humans.",
+      "timeframe": "post-AGI",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Development of treatments that halt or reverse biological aging processes in humans, allowing indefinite healthy lifespan barring accidents or disease.",
+      "conditional": "IF AGI drives sufficient medical/biological progress",
+      "quote": "Medical advancement (perhaps precipitated by AGI causing technological progress) could eliminate aging among humans."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "AI systems will be able to perform all cognitive and economically relevant robotic tasks at least as well and as cheaply as humans.",
+      "timeframe": "at AGI",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Demonstration of AI systems matching or exceeding human performance across all economically valuable tasks at competitive or lower cost.",
+      "conditional": null,
+      "quote": "Throughout this document, we assume that artificial general intelligence (AGI) is available. To be more specific, we assume that AI is sophisticated enough that it is possible to build an AI system that can perform all tasks at least as well and at least as cheaply as any particular human."
+    }
+  ]
+}

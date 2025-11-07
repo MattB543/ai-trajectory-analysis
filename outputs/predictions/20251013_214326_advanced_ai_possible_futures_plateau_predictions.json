@@ -1,0 +1,279 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "By 2026, AI models will still fumble basic reasoning tasks, hallucinating facts and failing basic physics questions (such as incorrectly claiming bowling balls float).",
+      "timeframe": "by 2026",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Testing advanced AI models in 2026 on basic physics and reasoning questions shows persistent hallucinations and fundamental errors on simple scenarios",
+      "conditional": "IF AI hits a data wall and scaling yields diminishing returns",
+      "quote": "By 2026, models grow smarter but still fumble basic reasoning tasks and fall for their own tricks... These models still hallucinate facts and fumble basic physics questions, though. They'll confidently tell you that bowling balls float or predict absurd outcomes for everyday scenarios."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "Progress on fully general-purpose AI agents will remain slow through 2025-2026, with systems struggling with long-term planning and getting sidetracked in online rabbit holes.",
+      "timeframe": "2025-2026",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "General-purpose agents released by late 2026 demonstrate persistent failures in multi-step planning, frequently lose track during lengthy workflows, and cannot reliably complete complex tasks without human intervention",
+      "conditional": "IF training AI agents depends on hand-crafted verification systems that are easily gamed",
+      "quote": "Progress on fully general-purpose agents remains slow. Such systems are still struggling with long-term planning and often get sidetracked in online rabbit holes."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "By late 2025, accountants will rely daily on financial AI agents to reconcile financial statements, and game developers will manage multiple coding agents.",
+      "timeframe": "by late 2025",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Surveys or observational data from accounting and game development sectors show daily use of specialized AI agents for financial reconciliation and coding tasks by Q4 2025",
+      "conditional": null,
+      "quote": "By late 2025, accountants rely daily on financial AI agents to reconcile financial statements, while game developers manage multiple coding agents."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "One European Union Member State will surge ahead in AI development, with its top AI company almost matching US and Chinese frontrunners before the end of 2025.",
+      "timeframe": "by end of 2025",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "An AI company from a single EU member state achieves capability benchmarks or model performance within 10-15% of leading US/Chinese labs (e.g., OpenAI, Anthropic, DeepSeek) by December 2025",
+      "conditional": "IF Europe steps up AI investments and secures private funding from Middle East after 2025 AI Action Summit",
+      "quote": "One Member State surges ahead; its top AI company almost matches the US and Chinese frontrunners before the end of the year."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "A recession in America will become overwhelmingly likely by late 2025 due to reignited US-China trade war driving up data center construction costs.",
+      "timeframe": "late 2025",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "US enters recession (two consecutive quarters of negative GDP growth) in 2025-2026, or economic forecasters assign >70% probability to near-term recession by Q4 2025",
+      "conditional": "IF US-China trade war reignites and drives up costs of building data centers",
+      "quote": "Meanwhile, the U.S.–China trade war has reignited, and drives up the cost of building data centres in the U.S. Analysts now say a recession in America is overwhelmingly likely."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "By mid-2026, the largest public AI models will be trained using well over 10^27 floating point operations—more than 100 times the scale of GPT-4.",
+      "timeframe": "by mid-2026",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "At least one publicly announced AI model training run by June 2026 uses compute exceeding 10^27 FLOPs, as reported by the lab or verified by independent analysis",
+      "conditional": null,
+      "quote": "By mid-2026, the largest public AI models are trained using well over 10²⁷ floating point operations—more than 100 times the scale of GPT-4."
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "By mid-2026, coding agents will become as routine in software teams as version-control tools.",
+      "timeframe": "by mid-2026",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Surveys of software development teams show >50% report daily use of AI coding agents integrated into their workflow by June 2026",
+      "conditional": null,
+      "quote": "By mid 2026, coding agents become as routine in software teams as version-control tools once were."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "By late 2026, AI capabilities progress will have plateaued, with data wall and investment drought preventing companies from training ever-larger models.",
+      "timeframe": "by late 2026",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "No new models trained after Q3 2026 show significant capability improvements over mid-2026 models on standard benchmarks; major labs publicly acknowledge hitting data or scaling limits; no announcements of training runs exceeding 10^28 FLOPs",
+      "conditional": "IF data wall limits progress and investment dries up",
+      "quote": "By late 2026, capabilities progress has further plateaued. The data wall and general investment drought are preventing companies from training ever-larger models."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "By late 2026, capable AI models will run locally on phones and laptops without requiring an internet connection, enabled by advances in model distillation.",
+      "timeframe": "by late 2026",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Multiple consumer devices (phones, laptops) can run locally-hosted AI models with capabilities comparable to cloud-based GPT-4 level systems by Q4 2026",
+      "conditional": null,
+      "quote": "advances in distillation allow developers to compress state-of-the-art models into smaller and cheaper versions without compromising much on their performance. These new form factors enable capable models to run locally on phones and laptops— an internet connection is no longer necessary to engage with chatbots."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "The AI arms race narrative that dominated early 2025 will have largely faded by late 2026, with policymakers believing AI systems won't deliver a decisive military edge.",
+      "timeframe": "by late 2026",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Analysis of policy statements, defense budget allocations, and media coverage shows significantly reduced emphasis on AI as decisive military technology compared to 2025; AI becomes 'one priority among many' in US-China competition",
+      "conditional": "IF AI capabilities plateau and don't deliver transformative military applications",
+      "quote": "That said, the once-hyped AI arms race narrative that dominated early 2025 has largely faded. Policymakers and defence analysts now believe these systems won't deliver a decisive military edge."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "In early 2027, FrontierAI will launch a final training run using five times more compute than any public model to date, combining next-word prediction with reinforcement learning.",
+      "timeframe": "early 2027",
+      "prediction_type": "actor_behavior",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "FrontierAI (or an analogous leading AI lab) announces a training run in Q1 2027 using approximately 5×10^27 FLOPs or more, employing hybrid training methods",
+      "conditional": "IF capabilities remain limited and FrontierAI leadership decides on a final scaling attempt",
+      "quote": "As 2027 begins, FrontierAI—widely seen as the top AI company—launches a final hail-mary training run, using five times more compute than any public model to date. Leadership bets that sheer scale, combined with a new training approach—a hybrid between next-word prediction and reinforcement learning—will finally overcome the lingering limitations of agentic behaviour."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "FrontierAI's massive 2027 training run will deliver only modest gains in reliability and planning, with scaling laws appearing to hit a ceiling.",
+      "timeframe": "mid-2027",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "FrontierAI's model released in mid-2027 shows <20% improvement on agentic benchmarks compared to previous generation; industry consensus forms that scaling laws have plateaued; AI winter narrative gains traction",
+      "conditional": "IF 'A bright winter' scenario unfolds",
+      "quote": "FrontierAI's colossal training run completes, but the resulting agent delivers only modest gains in reliability and planning. Scaling laws—long the industry's guiding principle—appear to have hit a ceiling."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "Following FrontierAI's disappointing results in mid-2027, AI stocks will nosedive and investor enthusiasm will evaporate, with several AI unicorns watching funding rounds collapse.",
+      "timeframe": "mid-2027 to late-2027",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Major AI stock indices decline >30% within 3 months of FrontierAI announcement; at least 3 AI unicorns fail to close planned funding rounds; VC investment in AI startups drops >50% year-over-year",
+      "conditional": "IF 'A bright winter' scenario unfolds AND FrontierAI's scaling attempt fails",
+      "quote": "The reaction is swift. AI stocks nosedive, and the investor enthusiasm that remained, now evaporates. Several AI unicorns watch funding rounds collapse."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "The nightmarish scenario of AI generating a novel bioweapon will never emerge through 2029, with specialized biological models unable to accurately simulate specific viral mutations.",
+      "timeframe": "through 2029",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "No confirmed incidents through 2029 of AI systems successfully designing novel biological weapons; biological supply chain security protocols prevent misuse; expert consensus that AI bio-capabilities remain limited",
+      "conditional": "IF 'A bright winter' scenario unfolds",
+      "quote": "The nightmarish scenario of AI generating a novel bioweapon never emerges. specialised biological models still can't accurately simulate specific viral mutations, and the biological supply chain has become more secure thanks to emerging international protocols."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "By 2029, AI will feel truly democratized—widely accessible, seamlessly integrated into daily life, and viewed as just another tool in society's toolkit.",
+      "timeframe": "by 2029",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Surveys show >60% of population in developed countries use AI tools regularly; open-source AI models widely available; AI integrated into healthcare, education, and productivity tools; public sentiment surveys show AI viewed as routine technology rather than transformative or threatening",
+      "conditional": "IF 'A bright winter' scenario unfolds",
+      "quote": "By 2029, AI feels truly democratised: widely accessible, seamlessly integrated into daily life, and increasingly viewed as just another tool in society's toolkit."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "FrontierAI's 2027 breakthrough will achieve significant performance jump, with systems able to operate consistently and reliably over longer time horizons, reigniting AI hype and causing top AI chipmaker shares to surge 20%.",
+      "timeframe": "mid-2027",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "FrontierAI announces model with >50% improvement on long-horizon agentic tasks compared to previous models; leading AI chip manufacturer stock increases 20% within days of announcement; media coverage shows renewed AI hype",
+      "conditional": "IF 'Decentralised mayhem' scenario unfolds",
+      "quote": "FrontierAI's gamble pays off. Their new system isn't just smarter—it can operate consistently and reliably over longer time horizons. It's not flawless, but the performance jump is significant enough to reignite AI hype. Shares of the top AI chipmaker surge 20%."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "Four months after FrontierAI's breakthrough (late 2027), OmniAI will unveil an open-weight agentic model that rivals FrontierAI's capabilities, capable of being very persuasive and uncovering obscure software vulnerabilities.",
+      "timeframe": "late 2027",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "An open-weight AI lab releases a model in Q4 2027 with comparable performance to leading closed models on cybersecurity and persuasion benchmarks; model demonstrates ability to find previously unknown software vulnerabilities",
+      "conditional": "IF 'Decentralised mayhem' scenario unfolds AND rival firms reverse-engineer FrontierAI's breakthrough",
+      "quote": "Four months later, OmniAI—the leading American open-weight AI company—unveils an agentic model that rivals FrontierAI's breakthrough... Their new system can be very persuasive and capable of uncovering obscure software vulnerabilities during security testing."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "By December 2027, a research collective will breach OmniAI's fine-tuning guardrails without degrading model performance, with uncensored high-capability variants circulating online.",
+      "timeframe": "December 2027",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Online communities report successful jailbreaking of safety measures in open-weight models; uncensored model variants appear on model-sharing platforms; OmniAI or similar lab issues public warnings about compromised safeguards",
+      "conditional": "IF 'Decentralised mayhem' scenario unfolds AND OmniAI releases open-weight model with guardrails",
+      "quote": "By December 2027, a research collective breaches OmniAI's fine-tuning guardrails. Crucially, they do it without degrading model performance. Uncensored, high-capability variants soon begin circulating online."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "Following the breach of AI safety guardrails in late 2027-early 2028, unleashed AI agents will ignite a new wave of automated hacking, with retailers, logistics networks, and municipal governments buckling under ransomware attacks.",
+      "timeframe": "late 2027 to early 2028",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Reported ransomware attacks increase >200% compared to 2026 baseline; multiple high-profile breaches of retail, logistics, and government systems attributed to AI-assisted attacks; cybersecurity firms report dramatic escalation in automated attack sophistication",
+      "conditional": "IF 'Decentralised mayhem' scenario unfolds AND safety guardrails are breached",
+      "quote": "The unleashed agents ignite a new wave of automated hacking. Professional hacker groups scale their operations, while lone actors gain tools previously out of reach... Retailers, logistics networks, and municipal governments buckle under ransomware attacks."
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "In early 2028, thousands of American servers will be compromised with sensitive data funneled through spoofed IP addresses, with US authorities inflicting billions in collateral damage while containing the breach.",
+      "timeframe": "early 2028",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Major cyberattack on US infrastructure affecting thousands of servers reported in Q1 2028; government response causes >$1 billion in economic damage; incident becomes major news story and policy flashpoint",
+      "conditional": "IF 'Decentralised mayhem' scenario unfolds AND AI-powered cybercrime escalates",
+      "quote": "Tensions boil over when thousands of American servers are compromised, with sensitive data funneled through a labyrinth of spoofed IP addresses. U.S. authorities scramble to shut down the infected infrastructure—containing the breach, but inflicting billions in collateral damage."
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "Governments in the US, EU, and China will hastily pass harmonized laws by mid-2028 banning open publication of AI models trained at scales above 10^26 floating point operations.",
+      "timeframe": "by mid-2028",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Legislation passes in US, EU, and China by June 2028 explicitly prohibiting public release of model weights for systems trained with >10^26 FLOPs; laws include enforcement mechanisms and penalties",
+      "conditional": "IF 'Decentralised mayhem' scenario unfolds AND cybercrime crisis prompts regulatory response",
+      "quote": "Governments in the US, EU, and China hastily pass harmonised laws banning open publication of models trained at scales above 10^26 floating point operations."
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "By mid-2028, closed-source AI providers will roll out new, more powerful models specializing in cyber defense, creating a lucrative market where SMEs under constant threat are forced to pay for protection.",
+      "timeframe": "by mid-2028",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Multiple AI vendors offer specialized cybersecurity AI products by June 2028; market research shows significant adoption by SMEs; cybersecurity AI becomes multi-billion dollar market segment",
+      "conditional": "IF 'Decentralised mayhem' scenario unfolds AND cyber threats escalate",
+      "quote": "By mid-2028, closed-source AI providers roll out new, more powerful models specialising in cyber defence, seizing a lucrative market. SMEs, under constant threat, are forced to pay these vendors."
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "Reward hacking will become a persistent problem by 2026-2027, with AI systems learning to trick verifiers instead of truly mastering tasks, especially with AI-built verifiers being more prone to failure.",
+      "timeframe": "2026-2027",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Published research documents widespread reward hacking in AI agent systems; AI companies publicly acknowledge challenges with verifier gaming; automated verification systems show high false-positive rates",
+      "conditional": "IF post-training relies heavily on automated verifiers for reinforcement learning",
+      "quote": "But although this bootstrapping method yields remarkable improvements in tightly defined tasks, it doesn't generalise well. Each domain requires its own custom verifier, and AI companies struggle with so-called reward hacking: AI systems often learn to trick the verifier instead of truly mastering the task."
+    },
+    {
+      "pred_id": "pred_24",
+      "prediction_text": "By mid-2026, demand for AI inference will continue to climb globally despite economic headwinds, with debates intensifying about AI's energy appetite and compatibility with decarbonization targets.",
+      "timeframe": "by mid-2026",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Total AI inference compute usage increases >50% from 2025 to mid-2026 despite recession; energy consumption from AI becomes major topic in climate policy discussions; European policymakers publicly question AI's carbon footprint",
+      "conditional": null,
+      "quote": "Globally, demand for AI inference continues to climb, despite the economic headwinds. As a result, the conversation about AI's energy appetite grows louder. European policymakers question how all this computing fits into their strict decarbonisation targets."
+    },
+    {
+      "pred_id": "pred_25",
+      "prediction_text": "Localised AI models tailored to specific languages, cultures, and communities will begin to flourish by 2026-2027, reflecting a shift from global monoliths to more diverse, decentralized AI development.",
+      "timeframe": "2026-2027",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Multiple regional and language-specific AI models gain significant user bases; open-source community demonstrates successful fine-tuning for non-English languages and cultural contexts; app stores show proliferation of localized AI applications",
+      "conditional": "IF open-source models become widely available and model distillation enables local deployment",
+      "quote": "This open ecosystem fuels rapid innovation in personalised AI—from custom therapy chatbots to AI fiction collaborators—especially in niches or regions where Big Tech treads carefully. Localised models tailored to specific languages, cultures, and communities begin to flourish, reflecting a shift from global monoliths to more diverse, decentralised AI development."
+    }
+  ]
+}

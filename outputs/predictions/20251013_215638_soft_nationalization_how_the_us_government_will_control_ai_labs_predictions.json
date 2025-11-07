@@ -1,0 +1,136 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "AI nationalization will manifest as an evolving, incremental application of US government control over frontier AI labs, rather than a consolidated government-led project like a 'Manhattan Project for AI.'",
+      "timeframe": "near-term to medium-term (ongoing process)",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Observe whether US government control over AI labs increases through incremental policy measures (regulations, oversight, security requirements) rather than through a single comprehensive nationalization event or creation of a unified government AI agency.",
+      "conditional": null,
+      "quote": "We expect that AI nationalization won't look like a consolidated government-led 'Project', but rather like an evolving application of US government control over frontier AI labs."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "The US government will use soft nationalization (combining multiple policy levers) to satisfy its national security concerns in nearly all scenarios, turning to total nationalization only as a last resort.",
+      "timeframe": "near-term to medium-term (ongoing)",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Track US government interventions in AI labs to determine if they involve partial control measures (oversight, security requirements, board representation, etc.) versus complete government ownership and control. Total nationalization would involve full equity acquisition and direct government management.",
+      "conditional": null,
+      "quote": "we believe the US government can and will satisfy its national security concerns in nearly all scenarios by combining sets of these policy levers, and would only turn to total nationalization as a last resort."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "US government control over frontier AI labs will progressively escalate over time as national security concerns grow and frontier capabilities advance.",
+      "timeframe": "ongoing and increasing",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Monitor the number, scope, and invasiveness of government control mechanisms applied to frontier AI labs over time. Evidence would include new regulations, security requirements, oversight bodies, government liaisons, or operational restrictions.",
+      "conditional": "IF national security concerns grow and frontier capabilities advance THEN government control will escalate",
+      "quote": "Government control of AI labs will likely escalate as concerns over national security grow... This process has already begun, and it will only escalate as frontier capabilities advance."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "The US government will not choose to unilaterally slow or pause frontier AI development absent international agreement that includes geopolitical adversaries like China.",
+      "timeframe": "near-term to medium-term (ongoing policy stance)",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Observe US policy decisions regarding AI development pace. A pause or significant slowdown would contradict this prediction unless accompanied by international agreement including China. Evidence includes absence of policies that significantly restrict compute usage, mandate development delays, or ban large training runs.",
+      "conditional": null,
+      "quote": "A key takeaway from this observation is that the US government will not choose to slow the pace of frontier AI development absent international agreement that includes geopolitical adversaries like China."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "The US will by default avoid actions that inhibit American AI R&D, though it may choose to moderate certain aspects of AI that demonstrate substantial risk with little advantage.",
+      "timeframe": "near-term to medium-term (ongoing policy pattern)",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Track US policies for their impact on AI R&D investment, training run frequency, and research activity. Policies that maintain or increase R&D activity would confirm this prediction. Limited exceptions for high-risk, low-advantage applications (like certain bioweapons research) would be consistent.",
+      "conditional": null,
+      "quote": "The US may choose to moderate certain aspects of AI that demonstrate substantial risk with little advantage, but by default it will avoid actions that inhibit American R&D in AI."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "Private US AI labs (such as OpenAI, Anthropic, Google, and Meta) will be among the first organizations to develop AI with transformative capabilities.",
+      "timeframe": "near-term to medium-term (before other actors)",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Track which organizations first achieve major capability milestones that constitute 'transformative capabilities' (e.g., autonomous AI R&D, advanced autonomous weapons, superhuman performance across economically valuable tasks). If US private labs achieve these milestones first or among the first globally, this prediction is confirmed.",
+      "conditional": null,
+      "quote": "Private US AI labs are currently the leading organizations pushing the frontier of AI development, and will be among the first to develop AI with transformative capabilities."
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "The boundary between 'regulation' and 'nationalization' of frontier AI will become unclear and hazy as government control increases.",
+      "timeframe": "near-term to medium-term (as control mechanisms are applied)",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "vague",
+      "verification_criteria": "Subjective assessment of whether government interventions in AI labs can be clearly categorized as either 'regulation' or 'nationalization,' or whether they represent a gray area. Evidence would include policies that combine regulatory elements with significant government control over operations, strategy, or ownership.",
+      "conditional": null,
+      "quote": "The boundary between 'regulation' and 'nationalization' will become hazy."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "Nation-states will race to develop military AI technologies to gain geopolitical advantages, increasing the likelihood of international destabilization and conflict.",
+      "timeframe": "near-term to medium-term (ongoing and intensifying)",
+      "prediction_type": "geopolitical",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Track military AI investments, deployments, and announced programs across major nations (US, China, Russia, etc.). Evidence includes increased defense budgets for AI, deployment of autonomous weapons systems, competitive military AI demonstrations, and policy statements emphasizing AI for military superiority.",
+      "conditional": null,
+      "quote": "It's likely that nation-states will race to develop military AI technologies to gain geopolitical advantages, which may increase the likelihood of international destabilization and conflict."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "The US will progressively apply policy levers to control frontier AI labs in response to geopolitical circumstances, particularly those related to national security.",
+      "timeframe": "ongoing and progressive",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Monitor the timing and nature of new US government policies affecting AI labs. Progressive application would show: (1) policies introduced over time rather than all at once, (2) policies responding to specific geopolitical events or capability demonstrations, (3) increasing invasiveness of policies over time.",
+      "conditional": "IF geopolitical circumstances particularly around national security seem to demand it THEN US will apply policy levers",
+      "quote": "The US government can select from many different policy levers to gain influence over these labs, and will progressively pull these levers as geopolitical circumstances, particularly around national security, seem to demand it."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "The US government will begin to exert greater control and influence over the shape, ownership, and direction of frontier AI labs specifically in national security use-cases.",
+      "timeframe": "near-term (beginning now/soon)",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Observe US government actions that increase its influence over: (1) the organizational structure and governance of AI labs, (2) ownership stakes or equity arrangements, and (3) strategic direction particularly for national security applications. Evidence includes government board seats, joint projects with defense agencies, security clearance requirements, or use-case restrictions.",
+      "conditional": null,
+      "quote": "Hence, the US government will begin to exert greater control and influence over the shape, ownership, and direction of frontier AI labs in national security use-cases."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "Chinese AI chip development will lag 5-10 years behind US chip development, and this lag will become a critical factor if the US effectively enforces export controls on AI chips.",
+      "timeframe": "current and ongoing (lag exists now)",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Track Chinese AI chip capabilities (measured by performance benchmarks, transistor size, efficiency) compared to leading US chips. The lag becoming 'critical' would be evidenced by Chinese AI labs being unable to train frontier models or China falling significantly behind in AI capabilities race.",
+      "conditional": "IF the US effectively enforces export controls on AI chips THEN this lag will become a critical factor",
+      "quote": "Chinese AI chip development is estimated to be between 5 - 10 years behind US-driven chip development. This lag will become a critical factor if the US effectively enforces export controls on AI chips."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "Chinese AI models will remain approximately 18 months behind US AI models in terms of capabilities.",
+      "timeframe": "current and near-term",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Compare performance of leading Chinese AI models (from labs like Alibaba, Baidu, Tencent) against leading US models on standardized benchmarks. Track when Chinese models achieve capability milestones reached by US models approximately 18 months earlier.",
+      "conditional": null,
+      "quote": "Paul Scharre estimates that Chinese AI models are 18 months behind US AI models."
+    }
+  ]
+}

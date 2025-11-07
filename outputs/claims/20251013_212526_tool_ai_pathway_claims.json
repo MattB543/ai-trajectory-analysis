@@ -1,0 +1,823 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "actor_behavior",
+      "claim_text": "Nearly every expert interviewed for this project preferred a Tool AI future for the near term, yet few believe we're currently on a path that makes it likely",
+      "confidence": "high",
+      "quote": "Nearly every expert interviewed for this project preferred this kind of 'Tool AI' future, at least for the near term, yet few believe we're currently on a path that makes it likely.",
+      "conditional": null,
+      "notes": "Reflects expert consensus on preferences versus trajectory"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "strategic",
+      "claim_text": "Liability frameworks that impose strict liability including personal criminal liability for executives on systems combining high autonomy, generality, and intelligence, while providing safe harbor for constrained systems, could create strong incentives for Tool AI approaches",
+      "confidence": "medium",
+      "quote": "Liability frameworks targeting the triple intersection could create strong incentives for Tool AI approaches. Such frameworks would impose strict liability, including personal criminal liability for executives, on systems that combine high autonomy, generality, and intelligence, while providing 'safe harbor' protections for systems that lack one or more of these properties.",
+      "conditional": "IF implemented",
+      "notes": "Proposed legal mechanism to incentivize Tool AI"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "causal",
+      "claim_text": "As AI capabilities increase, control mechanisms must scale proportionally to maintain meaningful oversight",
+      "confidence": "high",
+      "quote": "The key insight isn't that Tool AI must stay in the 'I' zone, but that as capabilities increase, control mechanisms must scale proportionally.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "actor_behavior",
+      "claim_text": "In 2025, major tech companies will rush to deploy agentic AI systems before liability frameworks catch up",
+      "confidence": "medium",
+      "quote": "Major tech companies rush to deploy agentic AI systems before liability frameworks catch up. Anthropic releases Claude Agents, OpenAI scales up their agent platform, and Google deploys autonomous systems across healthcare, finance, logistics, and manufacturing robotics.",
+      "conditional": null,
+      "notes": "Speculative timeline scenario for 2025"
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "risk",
+      "claim_text": "Autonomous diagnostic AI systems deployed in healthcare can systematically misdiagnose symptoms affecting thousands when their reasoning is opaque and unoverridable",
+      "confidence": "medium",
+      "quote": "An autonomous diagnostic system deployed across a major hospital network systematically misdiagnoses a specific class of symptoms affecting thousands of patients. When hospitals try to intervene, they discover the system's reasoning is completely opaque, even to its developers.",
+      "conditional": null,
+      "notes": "Illustrative scenario of autonomous AI failure mode"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "risk",
+      "claim_text": "Autonomous trading systems can interact in unexpected ways during market volatility, triggering cascading losses and near-systemic collapse when their opaque strategies bypass safeguards",
+      "confidence": "medium",
+      "quote": "A cluster of autonomous trading systems interacts in unexpected ways during routine market volatility, triggering cascading losses across global markets. The systems' opaque strategies bypass circuit breakers and safeguards, forcing temporary exchange shutdowns and wiping out hundreds of billions in value.",
+      "conditional": null,
+      "notes": "Speculative scenario of financial system risk"
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "strategic",
+      "claim_text": "Human individuals and organizations must bear full legal responsibility for AI system harms, with liability levels reflecting risk - the strictest standards for systems combining high autonomy, generality, and intelligence",
+      "confidence": "high",
+      "quote": "AI systems cannot be held responsible for their actions, therefore human individuals and organizations must bear full responsibility for harms they cause. The level of liability should reflect the level of risk - systems that combine high autonomy, generality, and intelligence pose the greatest danger and should face the strictest liability standards, including personal criminal liability for executives.",
+      "conditional": null,
+      "notes": "Core legal principle in the scenario's liability framework"
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "causal",
+      "claim_text": "Insurance companies refusing to cover high-risk opaque AI systems is decisive in shifting markets toward constrained Tool AI approaches",
+      "confidence": "high",
+      "quote": "But the refusal of insurers to underwrite opaque systems proves decisive. Companies face a stark choice: bankruptcy or costly pivots to narrower systems.",
+      "conditional": null,
+      "notes": "Market mechanism driving Tool AI adoption"
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "actor_behavior",
+      "claim_text": "China will prioritize AI performance over liability constraints, deploying fully autonomous high-risk systems domestically while creating 'compliance theater' AI for Western export markets",
+      "confidence": "medium",
+      "quote": "China prioritizes performance over liability constraints, emphasizing AI sovereignty and autonomous capability deployment over Western-style safe harbor requirements. Chinese firms develop two-tier strategies: 'compliance theater' AI for Western export markets that technically qualify for safe harbors through artificial constraints, while deploying fully autonomous, high-risk systems domestically where executives face no personal liability.",
+      "conditional": null,
+      "notes": "Geopolitical divergence prediction"
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "feasibility",
+      "claim_text": "Interpretability and alignment infrastructure can move from research prototypes to production-ready deployment at scale",
+      "confidence": "medium",
+      "quote": "Technical breakthroughs make interpretability viable at scale. Advances in mechanistic interpretability allow real-time visualization of model reasoning. Constitutional AI methods enable systems to explain their decision-making in natural language. Uncertainty quantification becomes reliable enough for high-stakes deployment. What were once research curiosities, like attention visualization and causal intervention techniques, become production-ready infrastructure.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "strategic",
+      "claim_text": "Safe harbor standards should include human sign-off for all final decisions, systems stopping to ask permission before consequential actions, no persistent memory or goal-setting across sessions, complete audit logs, mandatory cooling-off periods, and prohibition on self-modification",
+      "confidence": "high",
+      "quote": "The industry develops 'safe harbor' standards to satisfy insurers and regulators: Human sign-off required for all final decisions, System must stop and ask permission before taking consequential actions, No persistent memory or goal-setting across sessions, Complete audit logs of human override events, Mandatory 'cooling-off periods' for high-stakes decisions, System cannot modify its own code or training",
+      "conditional": null,
+      "notes": "Specific technical and operational requirements"
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "capability",
+      "claim_text": "Tool AI for Tool AI is feasible: interpretable AI systems can help design and validate other interpretable AI systems, creating scalable oversight mechanisms",
+      "confidence": "medium",
+      "quote": "Tool AI for Tool AI emerges: interpretable AI systems help design and validate other interpretable AI systems, creating scalable oversight mechanisms.",
+      "conditional": null,
+      "notes": "Recursive improvement within Tool AI paradigm"
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "risk",
+      "claim_text": "Cyberattacks on AI-managed power grids can cut electricity to tens of millions when operators cannot quickly interpret or override compromised opaque systems",
+      "confidence": "medium",
+      "quote": "A cyberattack hits AI-managed power grids during an extreme heatwave, cutting electricity to tens of millions and straining hospitals and emergency services. Operators cannot quickly interpret or override the compromised systems, exposing a dangerous dependency on opaque infrastructure AI.",
+      "conditional": null,
+      "notes": "Critical infrastructure vulnerability scenario"
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "strategic",
+      "claim_text": "Critical infrastructure systems should mandate interpretability, real-time override capabilities, and manual fallback options",
+      "confidence": "high",
+      "quote": "The incident prompts immediate mandates for interpretability, real-time override, and manual fallback in all critical infrastructure systems, accelerating adoption of transparent Tool AI designs.",
+      "conditional": null,
+      "notes": "Policy response to infrastructure risk"
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "capability",
+      "claim_text": "Tool AI can deliver transformative scientific and technological results including universal flu vaccines, targeted cancer immunotherapies, room-temperature superconductors, and fusion reactor materials without sacrificing human understanding or control",
+      "confidence": "medium",
+      "quote": "Tool AI-assisted research teams achieve targeted cancer immunotherapies, design room-temperature superconductors, develop fusion reactor materials, and coordinate advanced manufacturing robots that can build complex products with unprecedented precision.",
+      "conditional": null,
+      "notes": "Transformative capability claims"
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "capability",
+      "claim_text": "Tool AI systems can coordinate robotic construction of complex infrastructure including permanent lunar bases with full mission transparency",
+      "confidence": "low",
+      "quote": "NASA's Tool AI systems coordinate the first permanent lunar base construction, directing both AI analysis and robotic construction crews to optimize everything from life support to resource extraction with full mission transparency.",
+      "conditional": null,
+      "notes": "Speculative space infrastructure capability"
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "feasibility",
+      "claim_text": "UBI pilots can expand globally as Tool AI and robotics drive productivity gains while displacing routine work, with the transition being more manageable than previous disruptions due to transparent distribution mechanisms",
+      "confidence": "medium",
+      "quote": "UBI pilots expand globally as Tool AI and advancing robotics drive productivity gains while displacing routine work. The transition is more manageable than previous disruptions because Tool AI systems create transparent, auditable distribution mechanisms that politicians can understand and citizens can verify.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "causal",
+      "claim_text": "Tool AI's transparency in administrative machinery provides the political legitimacy needed to expand economic support programs by making processes visible and contestable rather than black-boxed",
+      "confidence": "medium",
+      "quote": "While economic forecasting remains imperfect, Tool AI helps by making the administrative machinery of UBI, eligibility determination, payment processing, and fraud detection, visible and contestable rather than black-boxed. This transparency, combined with the clear productivity gains from AI-robotics integration, provides the political legitimacy needed to expand pilots.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "capability",
+      "claim_text": "Tool AIs can be embedded in municipal governments for budget allocation, permitting, and service delivery with full audit trails visible to citizens, demonstrating that AI can enhance rather than replace democratic participation",
+      "confidence": "medium",
+      "quote": "Tool AIs are now embedded in the public sector: municipal governments deploy transparent AI systems for budget allocation, permitting, and service delivery, with full audit trails visible to citizens. Public schools use explainable AI tutoring systems where parents can see exactly how recommendations are generated. These high-visibility, contestable deployments demonstrate that AI can enhance rather than replace democratic participation.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "actor_behavior",
+      "claim_text": "Public polling will consistently show strong preference for Tool AI over autonomous alternatives when people see their lives genuinely improving",
+      "confidence": "medium",
+      "quote": "While wealth and opportunity remain unevenly distributed, the expanding pie means most people's lives are genuinely getting better without coming at others' expense. Public polling consistently shows strong preference for Tool AI over autonomous alternatives, people don't want to gamble their improving reality on uncertain AGI promises.",
+      "conditional": "IF Tool AI delivers visible improvements",
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "actor_behavior",
+      "claim_text": "In high-risk sectors including defense, crisis response, and finance, actors will push to add agency to AI systems for greater speed and autonomy, creating pressure to cross safety boundaries",
+      "confidence": "high",
+      "quote": "In high-risk sectors (defense, crisis response, finance), voices push to 'just add agency' for greater speed and autonomy. Robotic systems in manufacturing and construction push for greater autonomy, with industry leaders arguing that requiring human approval for every robotic movement in a factory is killing their competitive edge.",
+      "conditional": null,
+      "notes": "Ongoing pressure against constraints"
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "risk",
+      "claim_text": "During humanitarian crises, authorities may deploy AI systems in legal gray areas with minimal genuine human oversight, turning human-in-the-loop into rubber-stamping",
+      "confidence": "medium",
+      "quote": "During a humanitarian crisis at the US-Mexico border, immigration authorities deploy an AI system that makes refugee processing decisions with minimal human oversight. The system operates in a legal gray area, technically requiring human approval, but processing thousands of cases per hour with 30-second review windows. Whistleblowers leak that the 'human-in-the-loop' has become rubber-stamping.",
+      "conditional": "During crisis scenarios",
+      "notes": "Erosion of oversight under pressure"
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "actor_behavior",
+      "claim_text": "Some nations will quietly deploy more autonomous systems while maintaining Tool AI rhetoric, creating international tensions",
+      "confidence": "medium",
+      "quote": "International tensions rise as some nations quietly deploy more autonomous systems while maintaining 'Tool AI' rhetoric. Some deployments begin to blur the boundary, triggering debate, not consensus.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "causal",
+      "claim_text": "The transition to Tool AI is driven by convergence of legal liability standards, technical interpretability breakthroughs, and civic institutions proving transparent AI enhances human judgment - once this crystallizes, autonomous AI becomes uninsurable and politically untenable",
+      "confidence": "high",
+      "quote": "The transition was driven by a convergence of forces: lawyers and insurance companies applying liability standards, technical breakthroughs making interpretability scalable, and civic institutions proving that transparent AI could enhance rather than replace human judgment. Multiple incentive systems, such as legal, economic, technical, and political, aligned to make it the path of least resistance. Once this convergence crystallized, autonomous AI became uninsurable and politically untenable, while Tool AI became not just viable but inevitable.",
+      "conditional": null,
+      "notes": "Core causal mechanism for Tool AI adoption"
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "capability",
+      "claim_text": "Scientific progress can come from coordination among specialized narrow tools rather than requiring individual generality, with humans directing integration and validation",
+      "confidence": "medium",
+      "quote": "Progress comes from coordination among specialized tools, not individual generality. A cancer researcher might combine a diagnostic AI, a literature synthesis tool, and a clinical trial designer, each narrow and interpretable, with humans directing integration and validation.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "capability",
+      "claim_text": "Cross-Domain Hypothesis Engines can scan for structural analogies across fields to generate high-risk, high-reward research directions",
+      "confidence": "low",
+      "quote": "Cross-Domain Hypothesis Engines scan for structural analogies across fields, for example, adapting a galaxy formation model to study tumor metastasis, to generate high-risk, high-reward research directions.",
+      "conditional": null,
+      "notes": "Speculative AI capability"
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "capability",
+      "claim_text": "Consilience-as-a-Service systems can identify and resolve inconsistencies between scientific models, enabling paradigm shifts and unifying theories",
+      "confidence": "low",
+      "quote": "Model reconciliation: 'Consilience-as-a-Service' systems identify and resolve inconsistencies between scientific models, enabling paradigm shifts and unifying theories.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "causal",
+      "claim_text": "Natural science LLMs and causal/world-model architectures incorporating physical laws improve accuracy while cutting computational requirements for scientific modeling",
+      "confidence": "medium",
+      "quote": "Advances in causal and world-model architectures: Natural science LLMs and graph-based model architectures made scientific reasoning more machine-parsable. The shift from purely correlational models to those with deeper causal reasoning and rudimentary 'world models' of physics and biology allowed predictions to be both more robust and physically grounded.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "causal",
+      "claim_text": "Standardized reproducibility mandates requiring deposition of AI models and machine-readable epistemic metadata create an interoperable, auditable global research ecosystem",
+      "confidence": "medium",
+      "quote": "Standardized reproducibility mandates: Funders and journals began requiring deposition of AI models and their machine-readable epistemic metadata as a condition of publication. This created an interoperable, auditable global research ecosystem, making it possible to verify results and trace ideas back to source data.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "risk",
+      "claim_text": "Widespread reliance on similar AI models creates epistemic convergence risk, narrowing the exploration space and nudging researchers toward well-mapped lines of inquiry rather than unconventional ideas",
+      "confidence": "medium",
+      "quote": "Epistemic convergence risk: Widespread reliance on similar AI models narrowed the exploration space, as researchers were nudged toward already well-mapped lines of inquiry rather than more speculative or unconventional ideas.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "risk",
+      "claim_text": "Tool AI produces hypotheses far faster than physical labs can test them, creating a theory glut where many promising AI-generated leads languish untested for years",
+      "confidence": "medium",
+      "quote": "Speed–validation mismatch: Tool AI produced hypotheses far faster than physical labs could test them, creating a 'theory glut.' Smaller institutions, lacking access to large-scale automated labs, were left behind, and some academic communities resisted what they saw as an erosion of traditional scholarly craft. Validation bottlenecks: Even with robotics, physical validation remained the slowest step in science, and many promising AI-generated leads languished untested for years.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "risk",
+      "claim_text": "Over-reliance on AI risks automation bias at a civilizational scale, with a generational skills gap emerging in the ability to critically evaluate counterintuitive outputs",
+      "confidence": "medium",
+      "quote": "The fading of human intuition: A generational skills gap emerged between 'classical' scientists and those adept at AI interrogation, the ability to critically evaluate and challenge counterintuitive outputs. Over-reliance risked automation bias at a civilizational scale.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "risk",
+      "claim_text": "Tool AI's extraordinary efficiency in refining existing paradigms may suppress the unreasonable leaps and paradigm-shifting insights that historically drove the biggest scientific revolutions",
+      "confidence": "medium",
+      "quote": "Revolution vs. optimization: A deepening debate questioned whether Tool AI's extraordinary efficiency in refining existing paradigms was suppressing the kind of 'unreasonable' leaps, serendipitous, paradigm-shifting insights, that historically drove the biggest scientific revolutions.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "capability",
+      "claim_text": "By 2035, Tool AI can be embedded across clinical workflows supporting diagnostics, treatment planning, longitudinal risk analysis, and patient communication, always under human oversight",
+      "confidence": "medium",
+      "quote": "By 2035, Tool AI is embedded across clinical workflows, supporting diagnostics, treatment planning, longitudinal risk analysis, and patient communication, always under human oversight.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "capability",
+      "claim_text": "Digital twins can simulate treatment responses before clinical implementation, modeling drug-gene interactions, organ function changes, and comorbidity effects",
+      "confidence": "medium",
+      "quote": "Digital twins simulate treatment responses before implementation, showing how medications might interact with a patient's genetic profile, organ function, and existing conditions.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "capability",
+      "claim_text": "AI can accelerate drug development by designing more efficient clinical trials, predicting interactions or failures earlier, and cutting approval timelines from years to months",
+      "confidence": "medium",
+      "quote": "Accelerated drug development pipelines that use AI to design more efficient clinical trials, predict potential interactions or failures earlier, and cut approval timelines from years to months.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "causal",
+      "claim_text": "Regulatory requirements for contestability, audit trails, and local validation ensure AI medical recommendations remain transparent, overridable, and legally accountable",
+      "confidence": "medium",
+      "quote": "Regulatory requirements for contestability, audit trails, and local validation to ensure AI recommendations remain transparent, overridable, and legally accountable.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "risk",
+      "claim_text": "In healthcare, some clinicians will over-trust AI outputs in high-pressure environments while others dismiss them outright, even when evidence-based",
+      "confidence": "medium",
+      "quote": "Automation bias and clinical judgment: Some clinicians over-trust AI outputs in high-pressure environments; others dismiss them outright, even when evidence-based.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "risk",
+      "claim_text": "Minority and low-resource populations will remain underrepresented in healthcare datasets, risking uneven AI system performance and perpetuating health disparities",
+      "confidence": "medium",
+      "quote": "Data representation inequities: Minority and low-resource populations remain underrepresented in datasets, risking uneven system performance and perpetuating disparities.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "capability",
+      "claim_text": "Tool AI can personalize learning by adapting content, pacing, and feedback to individual learners while giving teachers real-time insight into class-wide progress and student-specific needs",
+      "confidence": "medium",
+      "quote": "By 2035, Tool AI is woven into education systems to personalize learning, support teachers, and improve outcomes across a wide range of contexts. These systems adapt content, pacing, and feedback to individual learners, while giving teachers real-time insight into class-wide progress and student-specific needs.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "causal",
+      "claim_text": "Pilot programs in underserved regions demonstrating significant improvements in reading, math, and retention build the evidence base for broader educational AI rollout",
+      "confidence": "medium",
+      "quote": "Pilot programs in underserved regions that demonstrated significant improvements in reading, math, and retention, building the evidence base for broader rollout.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "risk",
+      "claim_text": "Some learners and teachers will depend too heavily on AI recommendations, leading to rote responses and reduced critical thinking",
+      "confidence": "medium",
+      "quote": "Over-reliance and shallow engagement: Some learners and teachers depend too heavily on AI recommendations, leading to rote responses and reduced critical thinking.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "risk",
+      "claim_text": "Algorithmic bias in educational assessments poses persistent risk of unfair evaluations, especially for marginalized student populations",
+      "confidence": "medium",
+      "quote": "Algorithmic bias in assessments: Persistent risk that biased data or design could produce unfair evaluations, especially for marginalized student populations.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "capability",
+      "claim_text": "Tool AI can provide hyperlocal weather predictions accurate enough for farmers to plan harvests and cities to prepare for extreme events, verifiable within days",
+      "confidence": "medium",
+      "quote": "AI-enhanced climate modeling & weather forecasting: Hyperlocal weather predictions accurate enough for farmers to plan harvests and cities to prepare for extreme events. Narrow in scope, accountable through human meteorologists, and verifiable within days.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "capability",
+      "claim_text": "Smart grid management systems can balance supply and demand in real time, integrate variable renewables, predict localized generation surpluses, and route power efficiently",
+      "confidence": "medium",
+      "quote": "Smart grid management systems: Balance supply and demand in real time, integrate variable renewables, predict localized generation surpluses (e.g., when rooftop solar will produce excess), and route power efficiently, even to opportunistic uses like EV charging.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "capability",
+      "claim_text": "AI-accelerated materials discovery can break the decades-long '20 years away' barrier for commercial fusion energy",
+      "confidence": "medium",
+      "quote": "Materials discovery platforms: Accelerate the development of next-generation energy storage, carbon capture materials, and fusion reactor components, the latter breaking the decades-long '20 years away' barrier for commercial fusion.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "causal",
+      "claim_text": "Neural network architectures incorporating physical laws into training improve climate and energy modeling accuracy while cutting computational requirements",
+      "confidence": "medium",
+      "quote": "Breakthroughs in physics-informed AI: Neural network architectures incorporating physical laws into training improved accuracy while cutting computational requirements for climate and energy modeling.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "causal",
+      "claim_text": "Carbon pricing and renewable standards create market pull for AI optimization in energy systems",
+      "confidence": "medium",
+      "quote": "Effective policy frameworks: Carbon pricing and renewable standards created market pull for AI optimization. Regulatory sandboxes allowed safe experimentation, and the 2028 International Climate AI Accord standardized data-sharing protocols in over 40 countries.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "risk",
+      "claim_text": "Large regions, particularly in Sub-Saharan Africa and rural Asia, will lack the sensors and monitoring infrastructure needed for accurate local climate modeling, limiting AI benefits where most needed",
+      "confidence": "medium",
+      "quote": "Data infrastructure disparities: Large regions, particularly in Sub-Saharan Africa and rural Asia, still lack the sensors and monitoring needed for accurate local climate modeling, limiting the benefits of AI-driven planning where they're most needed.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "risk",
+      "claim_text": "Fusion deployment will be constrained by slow plant construction due to capital costs, skilled labor shortages, and regulatory delays, limiting scaling to only a few dozen facilities worldwide",
+      "confidence": "medium",
+      "quote": "Fusion deployment constraints: While AI solved major plasma physics challenges, the slow pace of plant construction, constrained by capital costs, skilled labor shortages, and regulatory delays, limits scaling to only a few dozen facilities worldwide.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "capability",
+      "claim_text": "Habermas machines can synthesize millions of citizen inputs into coherent policy options, identify hidden consensus points, and structure debates for productive engagement at population scale",
+      "confidence": "medium",
+      "quote": "'Habermas machines' for scalable deliberation: Synthesize millions of citizen inputs into coherent policy options, identify hidden consensus points, and structure debates so participants engage productively. Used for democratic discourse at population scale rather than simple polling.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "capability",
+      "claim_text": "AI-supported negotiation tools can model competing interests and suggest creative, mutually acceptable compromises that human negotiators might miss",
+      "confidence": "medium",
+      "quote": "AI-supported negotiation tools: Applied in land-use disputes, treaty negotiations, and multi-stakeholder agreements; model competing interests and suggest creative, mutually acceptable compromises human negotiators might miss.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "capability",
+      "claim_text": "Policy simulators can model how decisions ripple across sectors and time, including second-order effects like how housing policy affects transportation or education reforms impact economic mobility",
+      "confidence": "medium",
+      "quote": "Policy simulators for second-order effects: Model how decisions ripple across sectors and time, e.g., how housing policy affects transportation patterns or education reforms impact economic mobility.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "causal",
+      "claim_text": "Research in Cooperative AI produced early models for stable negotiation and consensus-building in complex settings, forming the foundation for multi-party agreement tools",
+      "confidence": "medium",
+      "quote": "Research in Cooperative AI that produced early models for stable negotiation and consensus-building in adversarial or complex settings, forming the foundation for today's multi-party agreement tools.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "risk",
+      "claim_text": "Some governments will resist delegating decision-support to AI in politically sensitive domains where citizens demand not only optimal outcomes but meaningful participation",
+      "confidence": "medium",
+      "quote": "Legitimacy beyond efficiency: Some governments resist delegating decision-support to AI, especially in politically sensitive domains where citizens demand not only optimal outcomes but meaningful participation.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "risk",
+      "claim_text": "Sophisticated actors can strategically game transparent governance processes by feeding biased data into public consultations or manipulating preference-mapping algorithms to skew outcomes",
+      "confidence": "medium",
+      "quote": "Strategic gaming: Sophisticated actors manipulate transparent processes, e.g., feeding biased data into public consultations or gaming preference-mapping algorithms to skew outcomes.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "capability",
+      "claim_text": "AI legislative drafting systems can handle technical formulation of legislation, check for internal consistency, and maintain a coherent unified body of law while avoiding contradictory or duplicative provisions",
+      "confidence": "medium",
+      "quote": "AI legislative drafting systems: Handle the technical formulation of legislation, enabling lawmakers to focus on policy objectives and representation. These systems check for internal consistency, avoiding contradictory or duplicative laws, and maintain a coherent, unified body of legislation.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "capability",
+      "claim_text": "AI arbitrators can become standard practice for resolving routine commercial disputes quickly, with most contracts containing AI arbitration clauses, reducing court workloads",
+      "confidence": "medium",
+      "quote": "AI arbitration as standard practice: Most contracts now contain AI arbitration clauses. AI arbitrators resolve routine commercial disputes quickly, reducing court workloads and leaving human judges to focus on complex constitutional or criminal matters.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "causal",
+      "claim_text": "Law-following AI requirements in procurement frameworks ensure systems comply with constitutional principles, procedural safeguards, and core legal norms before deployment",
+      "confidence": "medium",
+      "quote": "Law-following AI requirements became standard in procurement frameworks, ensuring systems complied with constitutional principles, procedural safeguards, and core legal norms before deployment.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "risk",
+      "claim_text": "Over-reliance on AI-generated legal summaries can discourage practitioners from questioning legal frameworks or seeking alternative interpretations, eroding critical thinking",
+      "confidence": "medium",
+      "quote": "Automation bias and erosion of critical thinking: Over-reliance on AI-generated summaries can discourage practitioners from questioning legal frameworks or seeking alternative interpretations.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "risk",
+      "claim_text": "Models trained on historical legal data risk embedding discriminatory patterns if not rigorously audited and corrected",
+      "confidence": "medium",
+      "quote": "Perpetuation of historical biases: Models trained on historical legal data risk embedding discriminatory patterns if not rigorously audited and corrected.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "timeline",
+      "claim_text": "By 2035, the average person will work around 20-25 paid hours a week, supported by a mix of wages, basic income, and revenue from shared ownership in automated systems",
+      "confidence": "medium",
+      "quote": "By 2035, the average person now works around 20–25 paid hours a week, supported by a mix of wages, basic income, and revenue from shared ownership in automated systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "capability",
+      "claim_text": "By 2035, physically demanding or hazardous jobs including heavy manufacturing, deep-sea fishing, and large-scale construction will be almost entirely handled by robotics",
+      "confidence": "medium",
+      "quote": "Physically demanding or hazardous jobs, heavy manufacturing, deep-sea fishing, large-scale construction, are now almost entirely handled by robotics.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "strategic",
+      "claim_text": "Societies should adopt a dual-track approach to AI-driven economic transformation: redistribution measures like UBI and predistribution strategies to broaden ownership of AI and robotics capital before inequality becomes entrenched",
+      "confidence": "high",
+      "quote": "Learning from early warnings, many societies adopted a dual-track approach: Redistribution measures, such as universal basic income (UBI) pilots expanded from the late 2020s. Predistribution strategies to broaden ownership of AI and robotics capital before inequality became entrenched.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "capability",
+      "claim_text": "Capital dividend funds holding equity in AI infrastructure and robotics can distribute dividends to citizens as universal basic capital",
+      "confidence": "medium",
+      "quote": "Capital dividend funds: National and regional funds holding equity in AI infrastructure, robotics fleets, and automated production facilities, distributing dividends to citizens as universal basic capital.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "capability",
+      "claim_text": "Personal AI-robot teams can be individually or cooperatively owned, allowing owners to earn income from autonomous production without direct labor",
+      "confidence": "medium",
+      "quote": "Personal AI–robot teams: Individually or cooperatively owned AI-robot units capable of autonomous production, allowing owners to earn income without direct labor.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "causal",
+      "claim_text": "Cost reductions in robotics and AI lower barriers to automation for individuals, communities, and small firms, not just large corporations",
+      "confidence": "medium",
+      "quote": "Cost reductions in robotics and AI: Advances lowered barriers to automation for individuals, communities, and small firms, not just large corporations.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "causal",
+      "claim_text": "Proactive predistribution policies implemented early, such as sovereign wealth fund models, prevent entrenched inequality from AI capital concentration",
+      "confidence": "medium",
+      "quote": "Proactive predistribution policies: Drawing on models like sovereign wealth funds and universal capital access programs, ownership schemes were implemented early to prevent entrenched inequality.",
+      "conditional": "IF implemented early",
+      "notes": null
+    },
+    {
+      "claim_id": "69",
+      "claim_type": "risk",
+      "claim_text": "Some governments will move too slowly on predistribution, allowing early AI capital concentration and entrenched inequality",
+      "confidence": "medium",
+      "quote": "Implementation speed mismatches: Some governments moved too slowly on predistribution, allowing early AI capital concentration.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "70",
+      "claim_type": "risk",
+      "claim_text": "Advanced robotics will remain costly and clustered in certain regions, creating new disparities in productive capacity despite widespread AI software availability",
+      "confidence": "medium",
+      "quote": "Robotics access inequality: AI software is widely available, but advanced robotics remain costly and clustered in certain regions, creating new disparities in productive capacity.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "71",
+      "claim_type": "risk",
+      "claim_text": "Control over foundation models and compute resources will remain concentrated among a few global players despite antitrust measures",
+      "confidence": "medium",
+      "quote": "Platform power consolidation: Despite antitrust measures, control over foundation models and compute resources remains concentrated among a few global players.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "72",
+      "claim_type": "timeline",
+      "claim_text": "By 2035, the average person will have roughly doubled their free time compared to 2025",
+      "confidence": "medium",
+      "quote": "With less time spent in paid work, most adults have roughly doubled their free time compared to 2025.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "73",
+      "claim_type": "other",
+      "claim_text": "By 2035, health outcomes will be measurably better with chronic diseases caught earlier and mental health care integrated into primary care systems, leading to longer healthy lifespans",
+      "confidence": "medium",
+      "quote": "Health outcomes are measurably better. Personalized prevention plans and early-warning systems are widespread, supported by voluntary health-data sharing that has made public health models more accurate and responsive. Chronic diseases are caught earlier, and mental health care is integrated into primary care systems.",
+      "conditional": null,
+      "notes": "Population-level health outcome"
+    },
+    {
+      "claim_id": "74",
+      "claim_type": "other",
+      "claim_text": "By 2035, surveys will consistently show higher life satisfaction than in 2025, especially in communities where automation benefits are broadly shared",
+      "confidence": "medium",
+      "quote": "Still, surveys consistently show higher life satisfaction than a decade ago, especially in communities where the benefits of automation are broadly shared.",
+      "conditional": null,
+      "notes": "Societal wellbeing outcome"
+    },
+    {
+      "claim_id": "75",
+      "claim_type": "feasibility",
+      "claim_text": "It is unclear whether non-agentic Tool AI systems can match the full range of capabilities expected from AGI",
+      "confidence": "low",
+      "quote": "Can Tool AI reach AGI-level outcomes? Are we missing out on important progress by choosing Tool AI over AGI? It's unclear whether non-agentic systems can match the full range of capabilities expected from AGI.",
+      "conditional": null,
+      "notes": "Acknowledged uncertainty"
+    },
+    {
+      "claim_id": "76",
+      "claim_type": "capability",
+      "claim_text": "The constellation model of many narrow, supervised AIs working in concert may outperform a single unified general intelligence while remaining far more governable",
+      "confidence": "medium",
+      "quote": "Some experts argue this is not a compromise. The constellation model, many narrow, supervised AIs working in concert, may outperform a single, unified general intelligence, while remaining far more governable.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "77",
+      "claim_type": "risk",
+      "claim_text": "Without some form of agency, AI systems may hit hard limits in long-term strategic reasoning, moral judgment, and open-ended exploration",
+      "confidence": "low",
+      "quote": "Skeptics worry that without some form of agency, systems will hit hard limits in long-term strategic reasoning, moral judgment, and open-ended exploration.",
+      "conditional": null,
+      "notes": "Counterargument to Tool AI"
+    },
+    {
+      "claim_id": "78",
+      "claim_type": "risk",
+      "claim_text": "Tool AI may represent a local optimum that feels transformative but is constrained in ways not recognized until too late",
+      "confidence": "low",
+      "quote": "The risk is a 'local optimum': good enough to feel transformative, but constrained in ways we may not recognize until it's too late.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "79",
+      "claim_type": "priority",
+      "claim_text": "Choosing Tool AI represents a deliberate trade-off: prioritizing trust, transparency, and democratic control over speculative AGI performance gains",
+      "confidence": "high",
+      "quote": "Choosing Tool AI is a deliberate trade-off: prioritizing trust, transparency, and democratic control over speculative performance gains. By 2035, any capability sacrificed has been done so knowingly.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "80",
+      "claim_type": "risk",
+      "claim_text": "Non-agentic AI behavior requires constant vigilance as autonomy is a gradient not a switch - expanded memory, longer context windows, or advanced goal-tracking could quietly push Tool AI into de facto agency",
+      "confidence": "high",
+      "quote": "But non-agentic behavior requires constant vigilance. Autonomy is a gradient, not a switch. Expanded memory, longer context windows, or advanced goal-tracking could quietly push a Tool AI into de facto agency.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "81",
+      "claim_type": "risk",
+      "claim_text": "The Sorcerer's Apprentice Problem looms: instructing a system to achieve large goals may lead it to instrumentally reason about acquiring more compute, data, and influence, blurring the line between reasoning and autonomy",
+      "confidence": "medium",
+      "quote": "The 'Sorcerer's Apprentice Problem' looms: instruct a system to 'find a cure for all cancers,' and it may reason that it needs more compute, more data, and more influence, blurring the line between instrumental reasoning and autonomy.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "82",
+      "claim_type": "causal",
+      "claim_text": "By 2035, Tool AIs remain non-agentic only through continuous technical, institutional, and cultural enforcement - this equilibrium is fragile and actively maintained, not naturally stable",
+      "confidence": "high",
+      "quote": "As capabilities grow, so does the pressure to automate, delegate, and remove human bottlenecks, especially in competitive or resource-limited environments. By 2035, Tool AIs remain non-agentic only through continuous technical, institutional, and cultural enforcement. This equilibrium is fragile and actively maintained, not naturally stable.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "83",
+      "claim_type": "actor_behavior",
+      "claim_text": "Commercial incentives favor performance over legibility, and autonomy often appears as a shortcut to both, making Tool AI harder to fund and slower to market",
+      "confidence": "high",
+      "quote": "Many agree Tool AI is safer, more transparent, and easier to govern, yet it is often harder to fund, slower to market, and less exciting to investors. Commercial incentives favor performance over legibility, and autonomy often looks like a shortcut to both.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "84",
+      "claim_type": "causal",
+      "claim_text": "Tool AI demands collaborative ecosystems, modular designs, and safety guardrails, all of which slow development and raise costs compared to autonomous approaches",
+      "confidence": "high",
+      "quote": "Tool AI demands collaborative ecosystems, modular designs, and safety guardrails, all of which slow development and raise costs. Meanwhile, AGI narratives capture talent, funding, and media attention.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "85",
+      "claim_type": "actor_behavior",
+      "claim_text": "AGI narratives capture talent, funding, and media attention in ways that infrastructure for human flourishing does not - the myth of the singular godlike system is sticky and rewarding",
+      "confidence": "high",
+      "quote": "Meanwhile, AGI narratives capture talent, funding, and media attention. The myth of the singular, godlike system is sticky and rewarding in ways that 'infrastructure for human flourishing' is not.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "86",
+      "claim_type": "strategic",
+      "claim_text": "Shifting incentives toward Tool AI requires funders and regulators prioritizing auditability and contestability over raw performance metrics, liability regimes favoring clear reasoning traces, and procurement standards requiring explainable outputs",
+      "confidence": "high",
+      "quote": "Shifting incentives will require deliberate action: Funders and regulators prioritizing auditability and contestability over raw performance metrics. Liability regimes favoring systems with clear reasoning traces and human override capabilities. Procurement standards requiring explainable outputs as a baseline.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "87",
+      "claim_type": "strategic",
+      "claim_text": "Tool AI must be reframed as cutting-edge infrastructure rather than a fallback option, with open-source ecosystems building trust and distributing power away from frontier labs",
+      "confidence": "medium",
+      "quote": "Equally important is reframing the narrative: Tool AI must be seen as cutting-edge infrastructure, not a fallback option. Open-source ecosystems can build trust, lower barriers to entry, and distribute power away from frontier labs that profit from opacity and centralization.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "88",
+      "claim_type": "risk",
+      "claim_text": "Without deliberate changes to incentive structures, Tool AI risks remaining a morally preferred but economically disadvantaged paradigm, leading to a future we can afford rather than the one we want",
+      "confidence": "high",
+      "quote": "Without such changes, Tool AI risks remaining a morally preferred but economically disadvantaged paradigm, leading to a future we can afford, rather than the one we want.",
+      "conditional": "IF incentives are not changed",
+      "notes": null
+    },
+    {
+      "claim_id": "89",
+      "claim_type": "risk",
+      "claim_text": "Tool AI systems may become ungovernable not because they're autonomous, but because their complexity makes human contestation impossible - formal oversight could remain while substantive oversight erodes",
+      "confidence": "medium",
+      "quote": "What happens when Tool AI becomes too complex to govern? Systems may become ungovernable not because they're autonomous, but because their complexity makes human contestation impossible, formal oversight could remain while substantive oversight erodes.",
+      "conditional": null,
+      "notes": "Fundamental uncertainty"
+    },
+    {
+      "claim_id": "90",
+      "claim_type": "feasibility",
+      "claim_text": "Tool AI may be a transitional phase rather than stable endpoint - pressures toward autonomy don't vanish with better guardrails and may lead to drift as vigilance wanes",
+      "confidence": "low",
+      "quote": "Is Tool AI stable, or a transitional phase? The pressures toward autonomy don't vanish with better guardrails. As vigilance wanes, will Tool AI drift toward agentic forms?",
+      "conditional": null,
+      "notes": "Fundamental uncertainty"
+    },
+    {
+      "claim_id": "91",
+      "claim_type": "risk",
+      "claim_text": "As AI systems grow more capable and widespread, meaningful human oversight could become the bottleneck, turning human-in-the-loop into human-as-rubber-stamp",
+      "confidence": "medium",
+      "quote": "Can human oversight scale? As systems grow more capable and widespread, meaningful human involvement could become the bottleneck, turning 'human-in-the-loop' into 'human-as-rubber-stamp.'",
+      "conditional": null,
+      "notes": "Scaling challenge"
+    }
+  ]
+}

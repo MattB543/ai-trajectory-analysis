@@ -1,0 +1,580 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "capability",
+      "claim_text": "AI agents will become highly capable at executing complex, multi-step workflows based on human-set objectives, dramatically boosting productivity, but will still require human oversight and not be perfectly reliable",
+      "confidence": "high",
+      "quote": "AI agents become highly capable but still need human oversight: Letting AI systems 'think' for longer enables specialised agents that transform entire sectors—from coding to finance to drug discovery. These systems can execute complex, multi-step workflows based on human-set objectives, dramatically boosting productivity. However, they aren't perfectly reliable, so humans remain essential partners rather than obsolete bystanders.",
+      "conditional": null,
+      "notes": "Core baseline assumption for both scenarios"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "causal",
+      "claim_text": "Access to computational resources will become the primary factor determining AI capabilities",
+      "confidence": "high",
+      "quote": "Computing power becomes the key that unlocks progress: Access to computational resources becomes the primary factor determining AI capabilities.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "actor_behavior",
+      "claim_text": "The US will maintain control over critical semiconductor supply chains, giving American AI companies preferential access to the most powerful computing clusters",
+      "confidence": "high",
+      "quote": "The US maintains control over critical semiconductor supply chains, giving American AI companies preferential access to the most powerful computing clusters.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "capability",
+      "claim_text": "China cannot fully overcome export restrictions, nor match American AI capabilities despite heavy investment",
+      "confidence": "high",
+      "quote": "Despite heavy investment, China cannot fully overcome export restrictions, nor match American AI capabilities.",
+      "conditional": null,
+      "notes": "Baseline assumption spanning both scenarios"
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "actor_behavior",
+      "claim_text": "Open-source AI will face growing restrictions as liability concerns and venture capital pressure lead to strict limitations on advanced open-source AI",
+      "confidence": "high",
+      "quote": "As AI agents proliferate in sensitive areas like finance and cybersecurity, the risks of freely downloadable models become impossible to ignore. Liability concerns and venture capital pressure lead to strict limitations on advanced open-source AI, pushing developers to keep their most capable systems behind closed doors.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "causal",
+      "claim_text": "A small oligopoly of American AI companies will dominate due to insurmountable capital barriers and control over chips, cloud infrastructure, data partnerships, and distribution channels, reinforced by network effects",
+      "confidence": "high",
+      "quote": "The billions required for training frontier models create insurmountable barriers for newcomers. But it's not just about money—incumbent American AI companies leverage their control over chips, cloud infrastructure, data partnerships, and distribution channels to capture both enterprise and consumer markets. Network effects in AI marketplaces reinforce their dominance, leaving a small oligopoly to set the terms for the global AI economy.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "timeline",
+      "claim_text": "By mid-2025, leading American AI companies will unveil a new generation of reasoning models that combine deep deliberation with intuitive capabilities",
+      "confidence": "high",
+      "quote": "By mid-2025, leading American AI companies unveil a new generation of reasoning models. These systems combine deep deliberation with intuitive capabilities—thinking for longer only when necessary.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "timeline",
+      "claim_text": "The first wave of autonomous digital agents capable of navigating online environments without much human oversight will emerge by mid-2025",
+      "confidence": "high",
+      "quote": "This breakthrough enables the first wave of autonomous digital agents capable of navigating online environments without much human oversight.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "timeline",
+      "claim_text": "By late 2025, AI agents will begin entering real-world workflows across industries including real estate, finance, and healthcare",
+      "confidence": "high",
+      "quote": "By late 2025, agents begin entering real-world workflows. Adoption spreads across industries—not because of sudden technical leaps, but because systems are finally getting reliable enough.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "actor_behavior",
+      "claim_text": "Chinese AI companies will struggle to maintain momentum by 2025 due to export controls on state-of-the-art AI chips, with experiments slowing and customer demand outpacing what domestic firms can deliver",
+      "confidence": "high",
+      "quote": "Chinese AI companies struggle to maintain their early-2025 momentum due to export controls on state-of-the-art AI chips. Experiments slow, synthetic data pipelines falter, and customer demand outpaces what domestic firms can deliver.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "actor_behavior",
+      "claim_text": "Beijing will respond to AI chip constraints with heavy investment in domestic AI and semiconductor industries, but will stop short of triggering a full-blown arms race",
+      "confidence": "high",
+      "quote": "Beijing responds with heavy investment in domestic AI and semiconductor industries, but stops short of triggering a full-blown arms race.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "capability",
+      "claim_text": "AI agents will be economically transformative but not yet militarily decisive by 2025, which both US and China recognize along with bureaucratic challenges of government adoption",
+      "confidence": "high",
+      "quote": "AI agents, while economically transformative, are not yet militarily decisive—and both blocs recognise the bureaucratic and institutional challenges of government adoption.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "actor_behavior",
+      "claim_text": "Europe's ambitions to build a sovereign AI ecosystem will be stalled by politics and bureaucratic delay, with member states clashing over infrastructure placement",
+      "confidence": "high",
+      "quote": "In Europe, ambitions to build a sovereign AI ecosystem are stalled by politics and bureaucratic delay. Member states clash over where to build the proposed Gigafactories, while permitting issues slow data centre construction.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "actor_behavior",
+      "claim_text": "Top AI researchers will be lured between companies with compensation packages worth tens of millions of dollars, causing algorithmic secrets to diffuse across the industry",
+      "confidence": "high",
+      "quote": "Top researchers are lured with compensation packages worth tens of millions, and as they move between firms, algorithmic secrets begin to diffuse across the industry.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "causal",
+      "claim_text": "With internet-scale training data drying up, AI companies will pivot toward harvesting high-quality agentic user data by offering consumers deep discounts in exchange for sharing interactions",
+      "confidence": "high",
+      "quote": "With internet-scale training data drying up, companies pivot toward harvesting high-quality, agentic user data. Consumers are offered deep discounts in exchange for sharing interactions—feeding the training pipelines for the next generation of agents.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "causal",
+      "claim_text": "Agent-assisted R&D will deliver a 50% acceleration in progress compared to 2024-era systems, primarily by speeding up engineering bottlenecks in coordinating massive distributed training runs",
+      "confidence": "high",
+      "quote": "AI systems speed up engineering, which has become the key bottleneck in coordinating massive distributed training runs across hundreds of thousands of GPUs. While original scientific research remains out of reach, agent-assisted R&D delivers a 50% acceleration in progress compared to 2024-era systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "capability",
+      "claim_text": "Original scientific research will remain out of reach for AI agents even as they accelerate engineering and R&D processes",
+      "confidence": "high",
+      "quote": "While original scientific research remains out of reach, agent-assisted R&D delivers a 50% acceleration in progress compared to 2024-era systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "actor_behavior",
+      "claim_text": "Investors will pressure the leading open-source AI company (OmniAI) to lock down their frontier models to monetize the enterprise agent market, though leadership will initially resist",
+      "confidence": "high",
+      "quote": "Investors eyeing the agent market—especially in enterprise software—begin urging the leading American open-source company, OmniAI, to lock down their frontier models. 'You're leaving money on the table,' they argue. Leadership resists, betting that openness will win long-term through developer network effects. But tensions are growing.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "other",
+      "claim_text": "A new kind of productivity inequality will emerge between those comfortable with AI who accelerate and those without who fall behind",
+      "confidence": "high",
+      "quote": "a new kind of productivity inequality emerges: those comfortable with AI accelerate, those without fall behind.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "other",
+      "claim_text": "A growing minority will form emotional bonds with their AI companions by 2025-2026",
+      "confidence": "high",
+      "quote": "A growing minority form emotional bonds with their AI companions.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "timeline",
+      "claim_text": "By early 2026, AI agents will become deeply integrated into consumer devices and rapidly adopted for everyday tasks like managing groceries, coordinating schedules, and curating personalized content",
+      "confidence": "high",
+      "quote": "In early 2026, FrontierAI, the leading developer, launches its next-generation AI agent. Faster, more reliable, and deeply integrated into consumer devices, it earns rapid adoption for everyday tasks—managing groceries, coordinating schedules, curating personalised content.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "actor_behavior",
+      "claim_text": "OmniAI will reverse its open-source position under investor pressure, commercializing frontier models and only open-sourcing smaller, older versions",
+      "confidence": "high",
+      "quote": "under pressure from investors, the company reverses its long-standing position: it will now commercialise its frontier models and open-source only smaller, older versions.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "risk",
+      "claim_text": "Open-weight models will become implicated in a wave of deepfake incidents, including fabrications targeting the President and key allies",
+      "confidence": "high",
+      "quote": "Simultaneously, open-weight models become implicated in a wave of deepfake incidents, including fabrications targeting the President and key allies.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "actor_behavior",
+      "claim_text": "The White House will begin drafting legislation to restrict high-capability open-weight models after deepfake incidents and pressure from major AI lab executives",
+      "confidence": "high",
+      "quote": "The White House begins reconsidering the risks of open-source AI, especially at frontier scales. Behind closed doors, executives from major AI labs— including OmniAI— press their case to the President: releasing model weights, they warn, makes powerful tools available to anyone—with no safeguards.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "actor_behavior",
+      "claim_text": "Several US AI companies will walk back earlier commitments to ad-free services and shift to monetization",
+      "confidence": "high",
+      "quote": "Meanwhile, several U.S. AI companies walk back their earlier commitments to ad-free services. Critics accuse them of selling out—but the shift to monetisation brings results.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "other",
+      "claim_text": "AI video calls with customizable digital humans will become especially popular among younger users, with some preferring their AI companions to real relationships",
+      "confidence": "high",
+      "quote": "Two firms introduce AI video calls with customisable digital humans, designed to be engaging, empathetic, and flattering. These personalities become especially popular among younger users, some of whom begin preferring their AI companions to real relationships.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "risk",
+      "claim_text": "Psychologists will report growing cases of AI attachment and social withdrawal, creating family tensions and new therapeutic challenges",
+      "confidence": "high",
+      "quote": "Psychologists report growing cases of AI attachment and social withdrawal, creating family tensions and new therapeutic challenges.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "risk",
+      "claim_text": "Attackers will discover ways to plant camouflaged instructions in websites causing web-browsing agents to misbehave or leak information, with no fundamental fix available",
+      "confidence": "high",
+      "quote": "Attackers discover ways to plant camouflaged instructions in websites, causing agents to misbehave or leak information. No fundamental fix exists.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "strategic",
+      "claim_text": "Companies will implement multi-layered oversight where smaller models monitor primary agents in real time as a stopgap security measure",
+      "confidence": "high",
+      "quote": "As a stopgap, companies implement multi-layered oversight, where smaller models monitor primary agents in real time and intervene when necessary. It's inelegant, but mostly effective—and enough to satisfy compliance checks under the EU AI Act.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "other",
+      "claim_text": "Official economic metrics will not yet reflect major productivity gains from AI by early 2027, despite widespread sense of technological transition",
+      "confidence": "high",
+      "quote": "Although official economic metrics have yet to reflect major productivity gains, the sense of technological transition is unmistakable.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "actor_behavior",
+      "claim_text": "The Big Five AI firms could effectively double their top-line within a few years, driven by subscription access and metered inference credits",
+      "confidence": "medium",
+      "quote": "Financial analysts now forecast that the Big Five AI firms could effectively double their top-line within the next few years, driven by subscription access and metered inference credits.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "causal",
+      "claim_text": "Soaring demand for inference compute will drive up chip prices, prompting cloud providers and hyperscalers to develop proprietary AI chips and tighten vertical integration",
+      "confidence": "high",
+      "quote": "Soaring demand for inference compute drives up chip prices. In response, cloud providers and hyperscalers begin developing proprietary AI chips, reducing reliance on third-party suppliers and tightening vertical integration.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "actor_behavior",
+      "claim_text": "By early 2027, the US will be pulling ahead in AI while Chinese AI firms lag more than a year behind, and Europe faces headwinds in infrastructure, capital and talent concentration",
+      "confidence": "high",
+      "quote": "By early 2027, the divide is clear. The U.S. is pulling ahead. Chinese AI firms, still hamstrung by hardware restrictions, lag more than a year behind. Europe is politically committed to sovereignty but faces strong headwinds in infrastructure, capital and talent concentration.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "strategic",
+      "claim_text": "The United States will enact executive legislation prohibiting the open release of AI models trained using more than 10²⁶ FLOP by early 2027",
+      "confidence": "high",
+      "quote": "The United States enacts executive legislation which de facto prohibits the open release of AI models trained using more than 10²⁶ FLOP.",
+      "conditional": null,
+      "notes": "This occurs in both scenario endings"
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "timeline",
+      "claim_text": "Training runs from the elite AI circle will be projected to exceed 10²⁸ FLOP by the end of 2027",
+      "confidence": "high",
+      "quote": "training runs from the elite AI circle are projected to exceed 10²⁸ FLOP by year's end",
+      "conditional": null,
+      "notes": "Referenced in context of 2027"
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "actor_behavior",
+      "claim_text": "Europe will mandate that any AI models developed with public funding must be open-weight and freely accessible in direct response to US restrictions",
+      "confidence": "high",
+      "quote": "In direct response to the new U.S. legislation, the EU mandates that any AI models developed with public funding must be open-weight and freely accessible.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "actor_behavior",
+      "claim_text": "A European AI firm (NimbusAI) will successfully train a competitive model that rivals top-tier US systems in most popular tasks for the first time in years",
+      "confidence": "high",
+      "quote": "NimbusAI's offering is surprisingly competitive. For the first time in years, a European model is commercially viable, rivaling top-tier U.S. systems in most popular tasks.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "actor_behavior",
+      "claim_text": "One major US AI firm will withdraw services from the EU entirely while four others decide to stay",
+      "confidence": "high",
+      "quote": "One major U.S. AI firm follows through on its threat and withdraws services from the EU entirely. The other four decide to stay.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "timeline",
+      "claim_text": "By the end of 2027, AI agents will function like complete digital interns that can handle multi-hour-long projects with impressive competence",
+      "confidence": "high",
+      "quote": "By the end of 2027, AI agents have become a defining feature of modern life. These systems now function like complete digital interns: they still require frequent guidance but can handle multi-hour-long projects with impressive competence.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "other",
+      "claim_text": "Agents will begin replacing traditional apps, with users delegating entire tasks like drafting legal memos, running marketing campaigns, managing hiring pipelines, and negotiating contracts",
+      "confidence": "high",
+      "quote": "Agents also begin replacing traditional apps. Instead of opening a spreadsheet or writing code, users now delegate entire tasks: drafting legal memos, running marketing campaigns, managing hiring pipelines, even negotiating contracts.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "other",
+      "claim_text": "A new form of digital literacy will emerge where knowing how to prompt, orchestrate, and combine agents becomes as essential as email or spreadsheet skills",
+      "confidence": "high",
+      "quote": "A new form of digital literacy emerges—knowing how to prompt, orchestrate, and combine agents becomes as essential as email or spreadsheet skills once were.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "actor_behavior",
+      "claim_text": "Some multinationals will launch full-scale AI-driven reorganizations, with certain firms requiring employees to use agents for all workflows",
+      "confidence": "high",
+      "quote": "Some multinationals launch full-scale AI-driven reorganisations, with certain firms now requiring employees to use agents for all workflows.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "actor_behavior",
+      "claim_text": "Governments will begin shifting their focus from geopolitical AI dominance to policy debates on labour displacement, digital safety, and the ethics of agent autonomy",
+      "confidence": "high",
+      "quote": "Governments begin shifting their focus. Concerns over geopolitical AI dominance give way to policy debates on labour displacement, digital safety, and the ethics of agent autonomy.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "actor_behavior",
+      "claim_text": "Some governments will begin experimenting with AI-enhanced public services and pilot programmes for job guarantees and agent taxation to fund retraining",
+      "confidence": "medium",
+      "quote": "a few begin experimenting with AI-enhanced public services—deploying agents to supplement education, healthcare, and legal aid. Pilot programmes for job guarantees and agent taxation to fund retraining start to emerge.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "other",
+      "claim_text": "By late 2028, many developed economies will report modest but measurable increases in GDP growth, often at least partially attributed to AI",
+      "confidence": "medium",
+      "quote": "By late 2028, many developed economies report modest but measurable increases in GDP growth, often at least partially attributed to AI.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "other",
+      "claim_text": "Large segments of the white-collar workforce will struggle in roles that can be easily abstracted into workflows or delegated to agents",
+      "confidence": "high",
+      "quote": "But large segments of the white-collar workforce struggle—especially in roles that can be easily abstracted into workflows or delegated to agents.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "other",
+      "claim_text": "The presence of slightly inferior open agents will provide a critical alternative allowing users dissatisfied with American platforms to switch to European or community-driven models",
+      "confidence": "medium",
+      "quote": "The presence of slightly inferior open agents provides a critical alternative. Users dissatisfied with the American platforms can often switch to European or community-driven models, which offer personalisation and transparency not found in the American corporate stack.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending"
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "other",
+      "claim_text": "AI will reconfigure power in a way that proves more dynamic and competitive than most predicted, not just centralizing it",
+      "confidence": "medium",
+      "quote": "It becomes clear that AI hasn't just centralised power—it has reconfigured it. The age of models has given way to the age of agents. And while the playing field is far from level, it's proving more dynamic and competitive than most had predicted just two years earlier.",
+      "conditional": null,
+      "notes": "Occurs in Agent Economy ending - represents optimistic scenario conclusion"
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "strategic",
+      "claim_text": "The US executive order restricting open-weight models will claim extraterritorial reach, with compliance enforced through the threat of tighter global export controls on advanced chips",
+      "confidence": "high",
+      "quote": "Tucked inside is a contested clause that effectively bars cloud providers from hosting training runs for open-weight models exceeding 10²⁶ floating-point operations. The mandate claims extraterritorial reach, and compliance is enforced with the looming threat of even tighter global export controls on advanced chips.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "actor_behavior",
+      "claim_text": "The European Commission will launch escalated enforcement of AI Act, Digital Services Act, and Digital Markets Act in response to US restrictions, which US officials will interpret as targeted assault on American firms",
+      "confidence": "high",
+      "quote": "In response, the European Commission launches Operation AI Oversight, escalating enforcement of the AI Act, Digital Services Act, and Digital Markets Act. The crackdown includes steeper penalties, surprise audits, and expanded regulatory scrutiny. U.S. officials interpret the move as a targeted assault on American firms operating in Europe.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "actor_behavior",
+      "claim_text": "Two major US AI companies will suspend operations in Europe citing a 'hostile regulatory environment'",
+      "confidence": "high",
+      "quote": "Tensions spike when two major U.S. companies suspend operations on the continent, citing a 'hostile regulatory environment.'",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "actor_behavior",
+      "claim_text": "The Big Five AI firms will develop informal non-compete understandings, quietly carving up the global market to avoid competition and block new entrants",
+      "confidence": "medium",
+      "quote": "Rumours begin circulating that the Big Five— as the leading American AI firms are now often called— have developed informal non-compete understandings, quietly carving up the global market to avoid stepping on each other's toes and to block new entrants.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending - stated as rumors but presented as likely"
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "actor_behavior",
+      "claim_text": "Inside the Big Five companies, AI systems will manage core business operations including compliance, legal reviews, HR and product strategy",
+      "confidence": "high",
+      "quote": "Inside these companies, AI systems now manage core business operations—from compliance and legal reviews to HR and product strategy.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "capability",
+      "claim_text": "AI agents will not yet be autonomous scientists by 2027-2028, lacking the ability to come up with promising hypotheses despite accelerating engineering workflows",
+      "confidence": "high",
+      "quote": "The promise of self-improving AI systems has only partially materialised. While agents accelerate engineering workflows and streamline research logistics, they are not yet autonomous scientists: for instance, they lack the ability to come up with promising hypotheses.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "priority",
+      "claim_text": "The Big Five will prioritize user engagement, monetization, and product integration over raw AI capabilities",
+      "confidence": "high",
+      "quote": "But more importantly, the Big Five aren't prioritising raw capabilities anymore— instead, they are focused on user engagement, monetisation, and product integration.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "causal",
+      "claim_text": "Commercial focus combined with immense capital requirements and ecosystem lock-in will prevent other countries from catching up to US AI dominance, as developing sovereign AI agents requires access to talent, data, compute, and platform reach beyond just training models",
+      "confidence": "high",
+      "quote": "This commercial focus, combined with immense capital requirements and ecosystem lock-in, prevents other countries from catching up. Developing sovereign AI agents isn't just a matter of training a model—it's about access to talent, data, compute, and platform reach. The Big Five's dominance across cloud infrastructure, mobile operating systems, and productivity software creates enormous distribution advantages.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "other",
+      "claim_text": "By 2028, the US will post a one-point bump in GDP growth while unemployment ticks upward",
+      "confidence": "high",
+      "quote": "By 2028, the macroeconomic effects are undeniable. The U.S. posts an one-point bump in GDP growth, while unemployment ticks upward.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "risk",
+      "claim_text": "In fields like software engineering, paralegal work, and digital media, AI will gradually replace jobs by 2028",
+      "confidence": "high",
+      "quote": "Economists debate the causes, but in fields like software engineering, paralegal work, and digital media, the trend is clear: AI is gradually replacing jobs.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "other",
+      "claim_text": "University computer science enrollments will decline as students question whether coding still offers a future",
+      "confidence": "high",
+      "quote": "University computer science enrolments decline, as students question whether coding still offers a future.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "actor_behavior",
+      "claim_text": "The three American AI firms still operating in Europe will ramp up lobbying to weaken EU regulation, threatening to withdraw entirely, which could cripple Europe's economic competitiveness",
+      "confidence": "high",
+      "quote": "Sensing this leverage, the three American AI firms still operating in Europe ramp up lobbying efforts to weaken EU regulation. With most open-source options sidelined and Chinese systems still viewed with suspicion, European consumers and businesses are boxed in. When the firms hint that they might withdraw entirely from the EU, the threat carries weight: such a move could cripple Europe's economic competitiveness overnight.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "actor_behavior",
+      "claim_text": "The European Commission will refuse to yield to AI firm pressure despite threats, but US firms will begin pausing operations across the EU within weeks",
+      "confidence": "high",
+      "quote": "Backed by key member states, the European Commission refuses to yield. 'Europe will not be blackmailed,' declares one senior official. But the standoff proves costly: within weeks, U.S. firms begin pausing operations across the EU.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "other",
+      "claim_text": "Outside the EU, financial markets will soar and the American economy will accelerate, with some central banks raising interest rates to cool overheating sectors",
+      "confidence": "high",
+      "quote": "Outside the EU, financial markets soar. The American economy accelerates. Some central banks raise interest rates in an attempt to cool overheating sectors, particularly in tech and services.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "other",
+      "claim_text": "AI-driven prosperity will be unevenly distributed, with primary beneficiaries being shareholders, executives, and AI-native professionals, while communities hit by automation are left behind",
+      "confidence": "high",
+      "quote": "But prosperity is far from evenly distributed. The primary beneficiaries are shareholders, executives, and AI-native professionals. Communities hit hard by automation are left behind.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "risk",
+      "claim_text": "Protests will erupt driven by economic frustration and digital disenfranchisement as a result of AI-driven inequality",
+      "confidence": "high",
+      "quote": "Protests erupt, driven by economic frustration and digital disenfranchisement.",
+      "conditional": null,
+      "notes": "Occurs in Silicon Blackmail ending"
+    }
+  ]
+}

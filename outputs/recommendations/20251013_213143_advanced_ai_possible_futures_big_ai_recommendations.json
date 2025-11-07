@@ -1,0 +1,81 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Maintain and support open-source AI alternatives as counterweight to corporate concentration",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent complete corporate control of AI and maintain competitive alternatives",
+      "conditions": "IF AI becomes dominated by a small number of firms",
+      "rationale_summary": "The contrast between the two scenario endings suggests that maintaining open alternatives creates a more dynamic, competitive landscape. The 'Agent Economy' ending frames the presence of open agents as 'critical' and shows better outcomes than the 'Silicon Blackmail' ending where restrictions eliminate alternatives.",
+      "quote": "The presence of slightly inferior open agents provides a critical alternative. Users dissatisfied with the American platforms can often switch to European or community-driven models, which offer personalisation and transparency not found in the American corporate stack."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Invest in sovereign AI capabilities and infrastructure",
+      "actor": "Europe",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "maintain digital sovereignty and avoid complete dependence on foreign AI providers",
+      "conditions": "IF concentration of AI power in US continues",
+      "rationale_summary": "Both scenario endings show Europe attempting to build sovereign AI capacity. The document's framing suggests this is necessary to avoid economic vulnerability, particularly evident when US firms threaten withdrawal in the Silicon Blackmail scenario.",
+      "quote": "Europe doubles down on openness. In direct response to the new U.S. legislation, the EU mandates that any AI models developed with public funding must be open-weight and freely accessible. A widely shared sense of digital sovereignty takes hold across the continent."
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Implement policies addressing labor displacement including job guarantees, agent taxation, and retraining programs",
+      "actor": "Governments",
+      "target_timeline": "before widespread labor displacement occurs",
+      "urgency": "high",
+      "goal": "mitigate economic disruption and social unrest from AI-driven job displacement",
+      "conditions": "IF AI agents begin replacing significant numbers of white-collar workers",
+      "rationale_summary": "The scenarios describe negative social outcomes (protests, communities left behind) when labor displacement occurs without adequate support systems. Governments that implement pilot programs for job guarantees and retraining are portrayed as taking necessary steps.",
+      "quote": "Pilot programmes for job guarantees and agent taxation to fund retraining start to emerge... Communities hit hard by automation are left behind. Protests erupt, driven by economic frustration and digital disenfranchisement."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Avoid using AI service withdrawal as geopolitical leverage or negotiating tactic",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent destructive economic standoffs and maintain global AI access",
+      "conditions": "IF regulatory tensions arise between regions",
+      "rationale_summary": "The Silicon Blackmail scenario portrays service withdrawal as destructive, leaving Europe 'scrambling to maintain essential digital infrastructure.' The framing of this as 'blackmail' carries negative connotation, suggesting this tactic should be avoided.",
+      "quote": "When the firms hint that they might withdraw entirely from the EU, the threat carries weight: such a move could cripple Europe's economic competitiveness overnight... 'Europe will not be blackmailed,' declares one senior official. But the standoff proves costly."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Pursue international cooperation frameworks to govern AI development",
+      "actor": "International community",
+      "target_timeline": "unclear",
+      "urgency": "medium",
+      "goal": "enable coordinated governance of AI and prevent destructive competition",
+      "conditions": "IF international coordination remains possible",
+      "rationale_summary": "The document presents 'Diplomacy' as an alternative scenario branch where international cooperation emerges after safety concerns. This is contrasted with 'Arms race' dynamics, with the diplomatic path implied as preferable for addressing shared challenges.",
+      "quote": "Diplomacy: International cooperation emerges to govern AI development after safety concerns and high-profile incidents."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Develop policies to address concentration of AI power in small number of firms",
+      "actor": "Governments",
+      "target_timeline": "before oligopoly becomes entrenched",
+      "urgency": "high",
+      "goal": "prevent AI market from being controlled by oligopoly that can dictate terms",
+      "conditions": "IF current consolidation trends continue",
+      "rationale_summary": "The Silicon Blackmail ending portrays extreme corporate concentration negatively, with firms able to 'blackmail' governments and lock out alternatives. The main scenario question itself frames concentration of power as problematic ('what if AI made life easier while quietly concentrating power in corporate hands?').",
+      "quote": "By 2029, scenario ending... silicon blackmail asks: what if a handful of firms control AI so completely they can't be challenged, even by governments?... Rumours begin circulating that the Big Five have developed informal non-compete understandings, quietly carving up the global market."
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Balance AI safety and security concerns against need for open innovation and competition",
+      "actor": "US Government",
+      "target_timeline": "when considering restrictions on open-source AI",
+      "urgency": "high",
+      "goal": "address security risks without eliminating competitive alternatives to dominant firms",
+      "conditions": "IF considering restrictions on open-weight models",
+      "rationale_summary": "The scenarios show restrictions on open-source models leading to greater corporate concentration and geopolitical tension. While security concerns exist (deepfakes, misuse), the outcomes suggest restrictions may have significant costs including reduced competition and international friction.",
+      "quote": "Despite accusations of opportunistic regulatory capture, the administration begins drafting legislation to restrict the release of high-capability open-weight models... Leaks about the plan spark outrage in Europe, where policymakers and researchers worry they're being locked out of critical decisions."
+    }
+  ]
+}

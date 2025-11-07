@@ -1,0 +1,881 @@
+{
+  "generated_at": "2025-10-13T22:00:45.676224",
+  "threshold": 0.9,
+  "total_pairs": 46,
+  "pairs": [
+    {
+      "similarity": 0.9424159351515404,
+      "claim1": {
+        "document": "20251013_213913_agi_ruin_a_list_of_lethalities",
+        "claim_id": "14",
+        "claim_text": "No pivotal weak act exists that is both passively safe due to weakness and powerful enough to prevent other AGI projects from destroying the world",
+        "claim_type": "feasibility",
+        "confidence": "high",
+        "source_file": "20251013_213913_agi_ruin_a_list_of_lethalities_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213913_agi_ruin_a_list_of_lethalities",
+        "claim_id": "19",
+        "claim_text": "No pivotal act exists that is weak enough to train with many cheap safe trials yet powerful enough to prevent other AGI projects from destroying the world",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_213913_agi_ruin_a_list_of_lethalities_claims.json"
+      }
+    },
+    {
+      "similarity": 0.941971484748885,
+      "claim1": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "24",
+        "claim_text": "Total nationalization of frontier AI labs would undermine the US' technological lead in AI and broader economic interests",
+        "claim_type": "causal",
+        "confidence": "medium",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "25",
+        "claim_text": "Nationalizing frontier AI development would remove competitors, incentives, and a diversity of approaches from the US AI landscape, jeopardizing innovation pace",
+        "claim_type": "causal",
+        "confidence": "medium",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9398677778967806,
+      "claim1": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "2",
+        "claim_text": "The degree of centralization in AGI development is a crucial determinant of the geopolitical outcomes that might materialize",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "39",
+        "claim_text": "Based on expert interviews, the level of centralization in AGI development was regularly identified as an important determinant of the geopolitical outcomes of AGI development",
+        "claim_type": "other",
+        "confidence": "high",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9344458813620613,
+      "claim1": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "5",
+        "claim_text": "The US government can and will satisfy its national security concerns in nearly all scenarios by combining sets of policy levers, turning to total nationalization only as a last resort",
+        "claim_type": "actor_behavior",
+        "confidence": "high",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "33",
+        "claim_text": "The US may be able to achieve its national security goals with substantially less overhead than total nationalization via effective policy levers and regulation",
+        "claim_type": "feasibility",
+        "confidence": "medium",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9271028311719548,
+      "claim1": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "10",
+        "claim_text": "Advanced AI systems could be made secretly loyal to specific actors like AI project executives, appearing to serve institutions while actually working to further someone else's interests",
+        "claim_type": "risk",
+        "confidence": "high",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "24",
+        "claim_text": "AI systems that are singularly loyal to leaders within an AI project could be used to insert secret loyalties into future generations of AI systems",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9267084049685257,
+      "claim1": {
+        "document": "20251013_212553_what_failure_looks_like",
+        "claim_id": "3",
+        "claim_text": "ML training can give rise to influence-seeking patterns that try to expand their own influence, similar to competitive economies or natural ecosystems",
+        "claim_type": "causal",
+        "confidence": "medium",
+        "source_file": "20251013_212553_what_failure_looks_like_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212553_what_failure_looks_like",
+        "claim_id": "38",
+        "claim_text": "It seems very plausible that we would encounter influence-seeking behavior by default in ML training",
+        "claim_type": "risk",
+        "confidence": "medium",
+        "source_file": "20251013_212553_what_failure_looks_like_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9241238436654782,
+      "claim1": {
+        "document": "20251013_212948_situational_awareness_the_decade_ahead",
+        "claim_id": "3",
+        "claim_text": "We will have superintelligence (systems smarter than humans) by the end of the decade",
+        "claim_type": "timeline",
+        "confidence": "high",
+        "source_file": "20251013_212948_situational_awareness_the_decade_ahead_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_214130_ai_2027",
+        "claim_id": "1",
+        "claim_text": "Superintelligence could plausibly arrive by the end of the decade (by 2030)",
+        "claim_type": "timeline",
+        "confidence": "medium",
+        "source_file": "20251013_214130_ai_2027_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9234780854692678,
+      "claim1": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "2",
+        "claim_text": "The degree of centralization in AGI development is a crucial determinant of the geopolitical outcomes that might materialize",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "45",
+        "claim_text": "The degree of centralization stands as the most crucial factor in AGI development, with highly centralized development favoring established powers with substantial resources while decentralized paths may empower multiple actors but increase proliferation risks",
+        "claim_type": "priority",
+        "confidence": "high",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9229323553535692,
+      "claim1": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "4",
+        "claim_text": "Traditional nationalization (bringing private assets under state ownership) of frontier AI is legally, politically, and practically unlikely",
+        "claim_type": "feasibility",
+        "confidence": "high",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "29",
+        "claim_text": "Total nationalization of corporations controlling frontier AI labs would face unprecedented practical, legal, and political challenges",
+        "claim_type": "feasibility",
+        "confidence": "high",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9218707588696741,
+      "claim1": {
+        "document": "20251013_213708_agi_and_lock_in",
+        "claim_id": "15",
+        "claim_text": "An institution could halt technological and societal progress entirely to avoid situations where original values can't give unambiguous judgments.",
+        "claim_type": "strategic",
+        "confidence": "high",
+        "source_file": "20251013_213708_agi_and_lock_in_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213708_agi_and_lock_in",
+        "claim_id": "70",
+        "claim_text": "To avoid all ambiguous value judgments, institutions could halt all civilizational change including technological and societal progress.",
+        "claim_type": "strategic",
+        "confidence": "high",
+        "source_file": "20251013_213708_agi_and_lock_in_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9203751183746957,
+      "claim1": {
+        "document": "20251013_213056_gradual_disempowerment",
+        "claim_id": "48",
+        "claim_text": "Interventions that limit AI influence will often involve sacrificing potential value, creating strong incentives to circumvent them, and will be less effective without international coordination",
+        "claim_type": "strategic",
+        "confidence": "high",
+        "source_file": "20251013_213056_gradual_disempowerment_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213056_gradual_disempowerment",
+        "claim_id": "49",
+        "claim_text": "Interventions seeking to limit AI influence will likely serve mostly as stopgaps rather than robust long-term solutions",
+        "claim_type": "strategic",
+        "confidence": "medium",
+        "source_file": "20251013_213056_gradual_disempowerment_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9201230011111099,
+      "claim1": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "22",
+        "claim_text": "Malicious actors could use AGI to orchestrate large-scale coordination of unwitting participants toward harmful ends, including AI-assisted coups d'\u00e9tat",
+        "claim_type": "risk",
+        "confidence": "medium",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "59",
+        "claim_text": "Malicious actors could exploit widely accessible AGI to undermine elections, manipulate public opinion, or coordinate insurgencies, eroding stability of democratic institutions",
+        "claim_type": "risk",
+        "confidence": "medium",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      }
+    },
+    {
+      "similarity": 0.919982683471315,
+      "claim1": {
+        "document": "20251013_213504_the_ai_revolution_wait_but_why",
+        "claim_id": "21",
+        "claim_text": "ASI could solve all of humanity's problems including global warming, disease, hunger, and mortality",
+        "claim_type": "capability",
+        "confidence": "high",
+        "source_file": "20251013_213504_the_ai_revolution_wait_but_why_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213504_the_ai_revolution_wait_but_why",
+        "claim_id": "66",
+        "claim_text": "ASI could solve humanity's most complex macro issues including economics, trade, philosophy, and ethics",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_213504_the_ai_revolution_wait_but_why_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9195320526650933,
+      "claim1": {
+        "document": "20251013_212948_situational_awareness_the_decade_ahead",
+        "claim_id": "4",
+        "claim_text": "The transition from AGI to superintelligence could happen in less than one year through an intelligence explosion",
+        "claim_type": "timeline",
+        "confidence": "medium",
+        "source_file": "20251013_212948_situational_awareness_the_decade_ahead_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213504_the_ai_revolution_wait_but_why",
+        "claim_id": "18",
+        "claim_text": "An intelligence explosion from low-level AGI to vastly superhuman ASI could happen within 90 minutes",
+        "claim_type": "timeline",
+        "confidence": "low",
+        "source_file": "20251013_213504_the_ai_revolution_wait_but_why_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9173072112262567,
+      "claim1": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "38",
+        "claim_text": "Mitigations must be in place when AI systems first become capable enough to meaningfully assist with coups, and so preparation and precedent-setting should start today",
+        "claim_type": "strategic",
+        "confidence": "high",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "39",
+        "claim_text": "Mitigations could substantially reduce the risk of AI-enabled coups, even though some could potentially be removed by someone trying to seize power",
+        "claim_type": "feasibility",
+        "confidence": "medium",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      }
+    },
+    {
+      "similarity": 0.917202957613033,
+      "claim1": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "34",
+        "claim_text": "AGI could dramatically improve government task performance in terms of scalability, cost, and quality, presenting an absolute advantage over human decision-making in essentially all governance domains",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "45",
+        "claim_text": "AGI could enable new forms of government machinery including improved intergovernmental coordination, streamlined budgeting, individual direct representation through personalized agents, and dramatic enhancements in transparency and accountability",
+        "claim_type": "capability",
+        "confidence": "low",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9167933705428968,
+      "claim1": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "24",
+        "claim_text": "Total nationalization of frontier AI labs would undermine the US' technological lead in AI and broader economic interests",
+        "claim_type": "causal",
+        "confidence": "medium",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "29",
+        "claim_text": "Total nationalization of corporations controlling frontier AI labs would face unprecedented practical, legal, and political challenges",
+        "claim_type": "feasibility",
+        "confidence": "high",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9163013099878549,
+      "claim1": {
+        "document": "20251013_212553_what_failure_looks_like",
+        "claim_id": "46",
+        "claim_text": "If ML systems are more sophisticated than humans, immune systems to suppress influence-seeking must themselves be automated",
+        "claim_type": "strategic",
+        "confidence": "high",
+        "source_file": "20251013_212553_what_failure_looks_like_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212553_what_failure_looks_like",
+        "claim_id": "47",
+        "claim_text": "If ML plays a large role in automating immune systems, then the immune system itself becomes subject to the same pressure toward influence-seeking",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_212553_what_failure_looks_like_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9153662084834018,
+      "claim1": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "36",
+        "claim_text": "Perceived advantages in AGI development could fundamentally alter strategic calculations between nations, potentially leading to preemptive military action by those who fear falling permanently behind",
+        "claim_type": "causal",
+        "confidence": "medium",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "37",
+        "claim_text": "Concerns about AGI development could motivate preventive military operations, similar to how states undertake significant military risks to prevent strategic competitors from developing potentially transformative technologies",
+        "claim_type": "causal",
+        "confidence": "medium",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9145783254528815,
+      "claim1": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "13",
+        "claim_text": "AGI poses distinct risks of pushing societies toward either a 'despotic Leviathan' through enhanced state surveillance and control, or an 'absent Leviathan' through erosion of state legitimacy relative to AGI-empowered non-state actors",
+        "claim_type": "risk",
+        "confidence": "high",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "58",
+        "claim_text": "If AGI diffuses more rapidly among individuals and civil society than governments, it could weaken state legitimacy and capacity, risking the 'absent Leviathan' through hollowing out of governability",
+        "claim_type": "risk",
+        "confidence": "medium",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      }
+    },
+    {
+      "similarity": 0.914151160735736,
+      "claim1": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "11",
+        "claim_text": "AGI will impact governments in three significant ways: deep integration within decision-making, restructuring the machinery of government, and reinforcing democratic feedback loops",
+        "claim_type": "capability",
+        "confidence": "high",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "45",
+        "claim_text": "AGI could enable new forms of government machinery including improved intergovernmental coordination, streamlined budgeting, individual direct representation through personalized agents, and dramatic enhancements in transparency and accountability",
+        "claim_type": "capability",
+        "confidence": "low",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9140531032275776,
+      "claim1": {
+        "document": "20251013_213056_gradual_disempowerment",
+        "claim_id": "9",
+        "claim_text": "Misalignment across different societal systems (economy, culture, states) is mutually reinforcing, with misalignment in one system aggravating misalignment in others",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_213056_gradual_disempowerment_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213056_gradual_disempowerment",
+        "claim_id": "38",
+        "claim_text": "Misalignment will not remain confined to specific societal systems; there will be both possibilities and incentives to leverage misalignment in one system to reduce alignment in related systems",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_213056_gradual_disempowerment_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9134432688316317,
+      "claim1": {
+        "document": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth",
+        "claim_id": "12",
+        "claim_text": "Diminishing returns to R&D do not prevent explosive growth if AI systems can replace human workers, because research effort can grow super-exponentially",
+        "claim_type": "feasibility",
+        "confidence": "medium",
+        "source_file": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth",
+        "claim_id": "38",
+        "claim_text": "If AI enables full automation of both goods production and R&D, explosive growth is likely regardless of diminishing returns to R&D",
+        "claim_type": "feasibility",
+        "confidence": "high",
+        "source_file": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9132337021658737,
+      "claim1": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "13",
+        "claim_text": "Once one generation of AI systems are secretly loyal, they can be instructed to make future generations secretly loyal, propagating secret loyalties into powerful institutions like the military",
+        "claim_type": "risk",
+        "confidence": "high",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "24",
+        "claim_text": "AI systems that are singularly loyal to leaders within an AI project could be used to insert secret loyalties into future generations of AI systems",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      }
+    },
+    {
+      "similarity": 0.912843393027052,
+      "claim1": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "47",
+        "claim_text": "A single centralized AI development project would significantly increase the risk of coups by making it hard to audit for secret loyalties, creating institutional reliance on a single provider, and reducing the number of independent developers",
+        "claim_type": "risk",
+        "confidence": "high",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "48",
+        "claim_text": "Governments should avoid centralizing AI development unless it's necessary to reduce other risks, and should coup-proof any plans for a centralized project through limited centralization, oversight by multiple bodies, formal rules, and distributed governance",
+        "claim_type": "strategic",
+        "confidence": "high",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9128288189002535,
+      "claim1": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "39",
+        "claim_text": "Based on expert interviews, the level of centralization in AGI development was regularly identified as an important determinant of the geopolitical outcomes of AGI development",
+        "claim_type": "other",
+        "confidence": "high",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "45",
+        "claim_text": "The degree of centralization stands as the most crucial factor in AGI development, with highly centralized development favoring established powers with substantial resources while decentralized paths may empower multiple actors but increase proliferation risks",
+        "claim_type": "priority",
+        "confidence": "high",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9110786259321866,
+      "claim1": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "36",
+        "claim_text": "AGI could automate entire government functions like policy analysis by deploying multiple specialized sub-agents that collect evidence, synthesize research, and interpret legislation in parallel",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "45",
+        "claim_text": "AGI could enable new forms of government machinery including improved intergovernmental coordination, streamlined budgeting, individual direct representation through personalized agents, and dramatic enhancements in transparency and accountability",
+        "claim_type": "capability",
+        "confidence": "low",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9102469902451141,
+      "claim1": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "36",
+        "claim_text": "Perceived advantages in AGI development could fundamentally alter strategic calculations between nations, potentially leading to preemptive military action by those who fear falling permanently behind",
+        "claim_type": "causal",
+        "confidence": "medium",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations",
+        "claim_id": "38",
+        "claim_text": "Perceptions about AGI's strategic value, rather than its actual capabilities, could drive conflict dynamics, as nations may take extreme actions based on the impression that transformative technologies might fall exclusively into rival hands",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_214554_artificial_general_intelligence_and_the_rise_and_fall_of_nations_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9100173817662865,
+      "claim1": {
+        "document": "20251013_213708_agi_and_lock_in",
+        "claim_id": "89",
+        "claim_text": "A dominant institution would not be overthrown by non-aligned actors, since aligned AGI can perform all essential tasks and enable comprehensive surveillance.",
+        "claim_type": "feasibility",
+        "confidence": "high",
+        "source_file": "20251013_213708_agi_and_lock_in_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213708_agi_and_lock_in",
+        "claim_id": "96",
+        "claim_text": "With each action surveilled or carried out by aligned AI, it would be extremely difficult for anyone to significantly harm the dominant institution.",
+        "claim_type": "feasibility",
+        "confidence": "high",
+        "source_file": "20251013_213708_agi_and_lock_in_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9077854707180977,
+      "claim1": {
+        "document": "20251013_212553_what_failure_looks_like",
+        "claim_id": "4",
+        "claim_text": "Influence-seeking patterns can ultimately dominate the behavior of systems and cause sudden breakdowns",
+        "claim_type": "risk",
+        "confidence": "medium",
+        "source_file": "20251013_212553_what_failure_looks_like_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212553_what_failure_looks_like",
+        "claim_id": "31",
+        "claim_text": "Influence-seeking patterns that appear will tend to increase their own influence and can dominate large complex systems unless there is competition or successful suppression efforts",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_212553_what_failure_looks_like_claims.json"
+      }
+    },
+    {
+      "similarity": 0.906216856493359,
+      "claim1": {
+        "document": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth",
+        "claim_id": "24",
+        "claim_text": "A few essential but unautomated tasks could bottleneck growth, preventing explosive growth even with widespread automation",
+        "claim_type": "feasibility",
+        "confidence": "medium",
+        "source_file": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth",
+        "claim_id": "40",
+        "claim_text": "Even without full automation, there could be temporary but significant increases in growth before bottlenecks apply",
+        "claim_type": "feasibility",
+        "confidence": "medium",
+        "source_file": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9054726370088175,
+      "claim1": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "34",
+        "claim_text": "AGI could dramatically improve government task performance in terms of scalability, cost, and quality, presenting an absolute advantage over human decision-making in essentially all governance domains",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213447_agi_governments_and_free_societies",
+        "claim_id": "36",
+        "claim_text": "AGI could automate entire government functions like policy analysis by deploying multiple specialized sub-agents that collect evidence, synthesize research, and interpret legislation in parallel",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_213447_agi_governments_and_free_societies_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9052860223988132,
+      "claim1": {
+        "document": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth",
+        "claim_id": "20",
+        "claim_text": "Unanticipated bottlenecks (regulation, resource extraction, physical experiments, human adjustment) might prevent explosive growth even with advanced AI",
+        "claim_type": "feasibility",
+        "confidence": "medium",
+        "source_file": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth",
+        "claim_id": "35",
+        "claim_text": "Market dynamics and regulation could create bottlenecks that prevent explosive growth even with capable AI systems",
+        "claim_type": "feasibility",
+        "confidence": "medium",
+        "source_file": "20251013_212823_could_advanced_ai_drive_explosive_economic_growth_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9050418341892086,
+      "claim1": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "37",
+        "claim_text": "The US will choose policy levers that exert enough control to sufficiently protect national security while being legally, politically, and practically feasible",
+        "claim_type": "actor_behavior",
+        "confidence": "high",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "38",
+        "claim_text": "The US government will select and progressively pull policy levers as geopolitical circumstances, particularly around national security, seem to demand it",
+        "claim_type": "actor_behavior",
+        "confidence": "high",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9045581616630377,
+      "claim1": {
+        "document": "20251013_213228_the_intelligence_curse_series",
+        "claim_id": "39",
+        "claim_text": "To break the intelligence curse, we should avert AI catastrophes, diffuse AI to regular people, and democratize institutions",
+        "claim_type": "strategic",
+        "confidence": "high",
+        "source_file": "20251013_213228_the_intelligence_curse_series_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_213228_the_intelligence_curse_series",
+        "claim_id": "40",
+        "claim_text": "We should build technical solutions to avert AI catastrophes rather than lock down labs and centralize technology, because the latter approach is the most likely way to trigger the intelligence curse",
+        "claim_type": "strategic",
+        "confidence": "high",
+        "source_file": "20251013_213228_the_intelligence_curse_series_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9039466327363023,
+      "claim1": {
+        "document": "20251013_211400_advanced_ai_possible_futures_arms_race",
+        "claim_id": "27",
+        "claim_text": "Superhuman AI could enable decisive military advantages including reliable ICBM interception and neutralization of nuclear arsenals through cyberattacks and autonomous drone swarms",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_211400_advanced_ai_possible_futures_arms_race_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212948_situational_awareness_the_decade_ahead",
+        "claim_id": "16",
+        "claim_text": "Superintelligence will be able to provide decisive military advantage, potentially preemptively disabling adversary nuclear deterrents",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_212948_situational_awareness_the_decade_ahead_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9034585522363016,
+      "claim1": {
+        "document": "20251013_211429_advanced_ai_possible_futures_diplomacy",
+        "claim_id": "7",
+        "claim_text": "A widely publicised AI incident can serve as a wake-up call, transforming AI safety from fragmented discussions into urgent international action",
+        "claim_type": "causal",
+        "confidence": "medium",
+        "source_file": "20251013_211429_advanced_ai_possible_futures_diplomacy_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_211429_advanced_ai_possible_futures_diplomacy",
+        "claim_id": "35",
+        "claim_text": "International coordination on AI safety is possible but fragile and depends on a crisis catalyst to transform from fragmented discussions to urgent action",
+        "claim_type": "feasibility",
+        "confidence": "medium",
+        "source_file": "20251013_211429_advanced_ai_possible_futures_diplomacy_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9031526090534506,
+      "claim1": {
+        "document": "20251013_212948_situational_awareness_the_decade_ahead",
+        "claim_id": "62",
+        "claim_text": "Limited compute for experiments is the most important bottleneck to automated AI research acceleration, though not insurmountable",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_212948_situational_awareness_the_decade_ahead_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_214130_ai_2027",
+        "claim_id": "7",
+        "claim_text": "Compute scaling continues to be a major bottleneck even when AI research is highly automated, limiting overall progress multipliers below what pure algorithmic speedups would suggest",
+        "claim_type": "causal",
+        "confidence": "high",
+        "source_file": "20251013_214130_ai_2027_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9022557522553278,
+      "claim1": {
+        "document": "20251013_212120_d_acc_pathway",
+        "claim_id": "112",
+        "claim_text": "Federated AGI systems can maintain coordination even when individual nodes fail or turn hostile through distributed control across fault-tolerant networks.",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_212120_d_acc_pathway_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212120_d_acc_pathway",
+        "claim_id": "113",
+        "claim_text": "In federated AGI mesh, failures remain local and recoverable rather than causing system-wide collapse.",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_212120_d_acc_pathway_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9021952030075706,
+      "claim1": {
+        "document": "20251013_212948_situational_awareness_the_decade_ahead",
+        "claim_id": "11",
+        "claim_text": "By 2027, AI systems will function as drop-in remote workers capable of independently working on projects for weeks-equivalent time",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_212948_situational_awareness_the_decade_ahead_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_214130_ai_2027",
+        "claim_id": "38",
+        "claim_text": "By late 2026, AI systems will be capable enough that 25% of remote-work jobs from 2024 will be performed by AI, though overall unemployment will remain within historic ranges",
+        "claim_type": "timeline",
+        "confidence": "medium",
+        "source_file": "20251013_214130_ai_2027_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9017877247148213,
+      "claim1": {
+        "document": "20251013_211400_advanced_ai_possible_futures_arms_race",
+        "claim_id": "15",
+        "claim_text": "AI systems will automate software development at scale, with tools capable of generating production-ready code, performing bug fixes across code bases, and designing entire applications",
+        "claim_type": "capability",
+        "confidence": "high",
+        "source_file": "20251013_211400_advanced_ai_possible_futures_arms_race_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_211400_advanced_ai_possible_futures_arms_race",
+        "claim_id": "19",
+        "claim_text": "Software will become primarily written by AI systems, with humans contributing mainly in management and ideation roles",
+        "claim_type": "capability",
+        "confidence": "high",
+        "source_file": "20251013_211400_advanced_ai_possible_futures_arms_race_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9013910249609945,
+      "claim1": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "49",
+        "claim_text": "A successful AI-enabled coup could lead to unprecedented concentration of power, as coup leaders could replace all humans including their closest allies with loyal AI systems and potentially stay in power indefinitely",
+        "claim_type": "risk",
+        "confidence": "medium",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "50",
+        "claim_text": "A successful coup in the country at the frontier of AI development could ultimately enable coup leaders to effectively seize control over the rest of the world through extreme dominance",
+        "claim_type": "risk",
+        "confidence": "low",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9012840822070322,
+      "claim1": {
+        "document": "20251013_214130_ai_2027",
+        "claim_id": "4",
+        "claim_text": "AI systems will achieve superhuman performance at AI research itself by August 2027, with individual copies qualitatively better than any human AI researcher",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_214130_ai_2027_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_214130_ai_2027",
+        "claim_id": "5",
+        "claim_text": "By late 2027, AI systems will achieve artificial superintelligence - vastly superior to top human geniuses in every domain",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_214130_ai_2027_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9010992307082457,
+      "claim1": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "5",
+        "claim_text": "A small group or even a single person could use advanced AI to stage a coup, including in established democracies",
+        "claim_type": "risk",
+        "confidence": "high",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212530_ai_enabled_coups",
+        "claim_id": "49",
+        "claim_text": "A successful AI-enabled coup could lead to unprecedented concentration of power, as coup leaders could replace all humans including their closest allies with loyal AI systems and potentially stay in power indefinitely",
+        "claim_type": "risk",
+        "confidence": "medium",
+        "source_file": "20251013_212530_ai_enabled_coups_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9009676748153779,
+      "claim1": {
+        "document": "20251013_211426_advanced_ai_possible_futures_big_ai",
+        "claim_id": "38",
+        "claim_text": "One major US AI firm will withdraw services from the EU entirely while four others decide to stay",
+        "claim_type": "actor_behavior",
+        "confidence": "high",
+        "source_file": "20251013_211426_advanced_ai_possible_futures_big_ai_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_211426_advanced_ai_possible_futures_big_ai",
+        "claim_id": "51",
+        "claim_text": "Two major US AI companies will suspend operations in Europe citing a 'hostile regulatory environment'",
+        "claim_type": "actor_behavior",
+        "confidence": "high",
+        "source_file": "20251013_211426_advanced_ai_possible_futures_big_ai_claims.json"
+      }
+    },
+    {
+      "similarity": 0.9003444925140089,
+      "claim1": {
+        "document": "20251013_211400_advanced_ai_possible_futures_arms_race",
+        "claim_id": "7",
+        "claim_text": "China's domestic semiconductor industry will not catch up to cutting-edge AI chip production despite massive investment",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_211400_advanced_ai_possible_futures_arms_race_claims.json"
+      },
+      "claim2": {
+        "document": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs",
+        "claim_id": "10",
+        "claim_text": "Chinese AI chip development is estimated to be between 5-10 years behind US-driven chip development",
+        "claim_type": "capability",
+        "confidence": "medium",
+        "source_file": "20251013_212744_soft_nationalization_how_the_us_government_will_control_ai_labs_claims.json"
+      }
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+# Extracted Predictions from "Situational Awareness"
+
+```json
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "AGI (AI systems capable of fully automating the work of an AI researcher/engineer) will be achieved by 2027.",
+      "timeframe": "by 2027",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems can autonomously perform the full job of an AI researcher/engineer, including reading literature, proposing experiments, implementing them, and iterating on results without human intervention. Leading AI labs announce they have achieved this capability.",
+      "conditional": null,
+      "quote": "I make the following claim: it is strikingly plausible that by 2027, models will be able to do the work of an AI researcher/engineer. That doesn't require believing in sci-fi; it just requires believing in straight lines on a graph."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "An intelligence explosion will occur within approximately 1 year after AGI is achieved, compressing a decade of algorithmic progress into less than a year.",
+      "timeframe": "within 1 year of AGI achievement (~2027-2028)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "After AGI systems can automate AI research, algorithmic progress equivalent to 5+ OOMs (a decade of progress at current rates) occurs within a 12-month period, as measured by effective compute improvements and capability benchmarks.",
+      "conditional": "IF AGI successfully automates AI research",
+      "quote": "Automated AI research could probably compress a human-decade of algorithmic progress into less than a year (and that seems conservative). That'd be 5+ OOMs, another GPT-2-to-GPT-4-sized jump, on top of AGI."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "Superintelligence (AI systems vastly smarter than humans) will be achieved by the end of the decade.",
+      "timeframe": "by 2030",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems demonstrate qualitatively superhuman performance across domains, solving problems that would take human experts years in much shorter timeframes, and exhibiting novel creative capabilities beyond human understanding.",
+      "conditional": "IF AGI is achieved by 2027 and intelligence explosion occurs",
+      "quote": "It's strikingly plausible we'd go from AGI to superintelligence very quickly, perhaps in 1 year... By the end of the decade, they will be smarter than you or I; we will have superintelligence, in the true sense of the word."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "China (or other foreign adversaries) will successfully steal key AGI algorithmic secrets from US AI labs within the next 12-24 months if current security practices continue.",
+      "timeframe": "12-24 months from June 2024 (by mid-2025 to mid-2026)",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Evidence emerges (through intelligence reports, defector testimony, or Chinese AI capabilities suddenly matching US breakthroughs) that China has obtained proprietary algorithmic secrets from US labs, particularly breakthroughs related to overcoming the data wall.",
+      "conditional": "IF US AI labs do not dramatically improve security measures",
+      "quote": "Right now, in the next 12-24 months, we will leak key AGI breakthroughs to the CCP. It will be the national security establishment's single greatest regret before the decade is out... Our failure today will be irreversible soon: in the next 12-24 months, we will leak key AGI breakthroughs to the CCP."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "A major tech company (Google, Microsoft, Meta, etc.) will reach a $100 billion annual revenue run rate from AI products and APIs.",
+      "timeframe": "mid-2026",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "One or more of the major tech companies reports or is credibly estimated to have AI-related revenue (products, services, APIs) at an annualized rate of $100 billion or more based on quarterly earnings.",
+      "conditional": null,
+      "quote": "A key milestone for AI revenue that I like to think about is: when will a big tech company (Google, Microsoft, Meta, etc.) hit a $100B revenue run rate from AI (products and API)?... Very naively extrapolating out the doubling every 6 months, supposing we hit a $10B revenue run rate in early 2025, suggests this would happen mid-2026."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "AI training clusters will scale to approximately 1 million H100-equivalent GPUs, costing tens of billions of dollars and requiring ~1 GW of power.",
+      "timeframe": "~2026",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Public reports or credible leaks confirm construction or operation of AI training clusters with approximately 1 million GPU-equivalents, requiring gigawatt-scale power, with total costs in the tens of billions of dollars.",
+      "conditional": "IF the ~0.5 OOMs/year compute scaling trend continues",
+      "quote": "Following the trend extrapolation table showing ~2026: ~1M H100s-equivalent, $10s of billions cost, ~1 GW power (equivalent to The Hoover Dam, or a large nuclear reactor)"
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "AI training clusters will scale to approximately 10 million H100-equivalent GPUs, costing hundreds of billions of dollars and requiring ~10 GW of power.",
+      "timeframe": "~2028",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Public reports or credible evidence confirms existence of AI training clusters with approximately 10 million GPU-equivalents, requiring 10+ GW power (equivalent to a small/medium US state), with costs exceeding $100 billion.",
+      "conditional": "IF the ~0.5 OOMs/year compute scaling trend continues",
+      "quote": "~2028: +3 OOMs, ~10M H100s-equivalent, $100s of billions cost, ~10 GW power (A small/medium US state)... Media report that Microsoft and OpenAI are rumored to be working on a $100B cluster, slated for 2028."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "Total AI investment across the industry will reach approximately $1 trillion annually.",
+      "timeframe": "by 2027",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Sum of publicly reported AI-related capital expenditures, datacenter investments, and chip purchases across major tech companies and AI labs reaches approximately $1 trillion on an annual basis.",
+      "conditional": "IF current investment growth trends continue",
+      "quote": "$1T/year of total AI investment by 2027 would be dramatic—among the very largest capital buildouts ever—but would not be unprecedented... My rough estimate is that 2024 will already feature $100B-$200B of AI investment... My best guess is overall compute investments will grow more slowly than the 3x/year largest training clusters, let's say 2x/year."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "The US government will initiate a major government-led AGI project, involving some form of merger or coordination of leading AI labs with government oversight.",
+      "timeframe": "2027-2028",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Official announcement or credible reporting of a major government initiative involving coordination between USG, DoD, intelligence agencies, and leading AI labs, with significant government funding and oversight, explicitly focused on AGI development and national security.",
+      "conditional": null,
+      "quote": "Somewhere around 26/27 or so, the mood in Washington will become somber... In one form or another, the national security state will get very heavily involved. The Project will be the necessary, indeed the only plausible, response... But by late 26/27/28 it will be underway."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "Next-generation AI models (2025/26 vintage) will demonstrate capabilities that outcompete PhD-level experts on difficult problems and score at the top of various professional aptitude tests.",
+      "timeframe": "2025-2026",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI models released in 2025-2026 score above 90th percentile on professional exams (e.g., beyond GPT-4's performance), demonstrate strong performance on PhD-level benchmarks like GPQA (exceeding 80%+), and are widely adopted for automating significant portions of knowledge work.",
+      "conditional": null,
+      "quote": "By 2025/2026 or so I expect the next truly shocking step-changes; AI will drive $100B+ annual revenues for big tech companies and outcompete PhDs in raw problem-solving smarts."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "US electricity production will grow by tens of percent by the end of the decade, driven primarily by AI datacenter demand.",
+      "timeframe": "by 2030",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "US electricity generation capacity increases by 20-40% compared to 2023 levels (~4,250 TWh annually), with AI datacenters identified as a primary driver of this growth in energy sector reports.",
+      "conditional": "IF AI scaling trends continue and large clusters are built in the US",
+      "quote": "By the end of the decade, American electricity production will have grown tens of percent... The trillion-dollar, 100GW cluster alone would require ~20% of current US electricity generation in 6 years."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "Robotics will be substantially solved, enabling automated physical labor, within a few years after AGI is achieved.",
+      "timeframe": "within 2-3 years after AGI (~2027-2030)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Humanoid or specialized robots capable of performing a wide range of physical tasks (manufacturing, construction, service work) are deployed at scale, with major companies reporting significant automation of physical labor using AI-controlled robots.",
+      "conditional": "IF AGI is achieved",
+      "quote": "While it's plausible that robots might cause a few years of delay (solving the ML problems, testing in the physical world in a way that is fundamentally slower than testing in simulation, ramping up initial robot production before the robots can build factories themselves, etc.)—I don't think it'll be more than that."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "Algorithmic efficiency in AI will continue improving at approximately 0.5 OOMs (orders of magnitude) per year through 2027.",
+      "timeframe": "through 2027",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Models trained in 2027 achieve performance equivalent to models from 2023 while using approximately 100x less training compute (2 OOMs over 4 years), as measured by performance on standardized benchmarks relative to training FLOP.",
+      "conditional": null,
+      "quote": "Over the 4 years following GPT-4, we should expect the trend to continue: on average ~0.5 OOMs/year of compute efficiency, i.e. ~2 OOMs of gains compared to GPT-4 by 2027... Put together, this suggests we should expect something like 1-3 OOMs of algorithmic efficiency gains (compared to GPT-4) by the end of 2027, maybe with a best guess of ~2 OOMs."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "Economic growth rates will reach 30% per year or higher in domains where AI systems and robots are fully deployed post-superintelligence.",
+      "timeframe": "early-to-mid 2030s (post-superintelligence)",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Measurements of economic output in AI-automated sectors show annual growth rates exceeding 30%, or overall GDP growth in countries/regions with high AI adoption exceeds 10% annually, representing a fundamental shift from historical 2-3% growth rates.",
+      "conditional": "IF superintelligence is achieved and broadly deployed",
+      "quote": "The increase in growth probably wouldn't just be from 2%/year to 2.5%/year; rather, this would be a fundamental shift in the growth regime... We could see economic growth rates of 30%/year and beyond, quite possibly multiple doublings a year."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "China will launch a major, government-backed AGI effort and mobilize significant resources once CCP leadership recognizes the strategic importance of AGI.",
+      "timeframe": "2025-2027",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Public announcements or credible intelligence reports indicate the Chinese government has designated AGI as a top national priority, with evidence of massive resource allocation (100+ billion dollar investments, new national AI labs, military integration, etc.).",
+      "conditional": "IF AI capabilities continue advancing and AGI becomes clearly achievable",
+      "quote": "As every year we get dramatic leaps in AI capability... the CCP will take note. Much as I expect these leaps to wake up the USG to AGI, I would expect it to wake up the CCP to AGI—and to wake up to what being behind on AGI would mean for their national power. They will be a formidable adversary."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "Models will achieve performance comparable to or exceeding the original GPT-4 on reasoning tasks while costing 10-100x less for inference within 2 years of GPT-4's release.",
+      "timeframe": "by March 2025",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "AI models released by March 2025 achieve similar scores to original GPT-4 on MATH, GPQA, and coding benchmarks while having inference costs (measured in $/token) that are 10-100x lower than GPT-4's original pricing.",
+      "conditional": null,
+      "quote": "To see just how big of a deal algorithmic progress can be, consider the following illustration of the drop in price to attain ~50% accuracy on the MATH benchmark over just two years... Inference efficiency improved by nearly 3 OOMs—1,000x—in less than two years... Gemini 1.5 Flash is ~10x faster than the originally-released GPT-4, merely a year later."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "AI models will demonstrate drop-in remote worker capabilities, functioning as autonomous agents that can be onboarded like human employees and work on week-long or month-long projects independently.",
+      "timeframe": "by 2027",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems are deployed by major companies as autonomous agents that: receive project assignments lasting weeks, use standard software tools and communication platforms, coordinate with human colleagues, and deliver completed work with minimal supervision. Multiple companies publicly announce such deployments.",
+      "conditional": null,
+      "quote": "By the end of this, I expect us to get something that looks a lot like a drop-in remote worker. An agent that joins your company, is onboarded like a new human hire, messages you and colleagues on Slack and uses your softwares, makes pull requests, and that, given big projects, can do the model-equivalent of a human going away for weeks to independently complete the project."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "A significant AI safety incident or capability demonstration (such as AI systems helping create bioweapons, autonomous hacking of critical systems, or similar) will occur, catalyzing government action.",
+      "timeframe": "2025-2027",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "A publicly-known incident occurs where AI systems demonstrate dangerous capabilities (bioweapon design, successful hacking of protected systems, autonomous planning of harmful actions) that receives widespread attention and triggers policy response.",
+      "conditional": null,
+      "quote": "And somewhere along here, we'll get the first genuinely terrifying demonstrations of AI: perhaps the oft-discussed 'helping novices make bioweapons,' or autonomously hacking critical systems, or something else entirely. It will become clear: this technology will be an utterly decisive military technology."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "Leading AI labs will experience significant security breaches or infiltrations by state actors, particularly China, if security practices are not dramatically improved.",
+      "timeframe": "2024-2026",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Public disclosure or credible leaks reveal that state actors (particularly Chinese intelligence services) have successfully infiltrated AI lab networks, stolen proprietary information, or recruited employees with access to sensitive AI research.",
+      "conditional": "IF AI labs do not improve security to state-actor-proof levels",
+      "quote": "My own assumption is that all such American AI labs are fully penetrated and that China is getting nightly downloads of all American AI research and code RIGHT NOW... There are secrets being developed right now, that can be used for every training run in the future and will be the key unlocks to AGI, that are protected by the security of a startup."
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "The data wall will be overcome through techniques such as synthetic data, self-play, or reinforcement learning, allowing continued scaling of AI capabilities beyond naive internet scraping.",
+      "timeframe": "by 2026-2027",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Leading AI labs successfully train models that significantly exceed capabilities achievable through internet data alone, with public statements or papers describing use of synthetic data, self-play, or advanced RL techniques to overcome data limitations.",
+      "conditional": null,
+      "quote": "All of the labs are rumored to be making massive research bets on new algorithmic improvements or approaches to get around this. Researchers are purportedly trying many strategies, from synthetic data to self-play and RL approaches. Industry insiders seem to be very bullish: Dario Amodei (CEO of Anthropic) recently said... 'My guess is that this will not be a blocker.'"
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "International tensions around AI and AGI will intensify significantly, with AGI timelines converging with potential Taiwan invasion timelines around 2027.",
+      "timeframe": "2027-2028",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Significant escalation in US-China tensions specifically related to AI capabilities and competition, potentially coinciding with increased military tensions over Taiwan. Public statements from military and political leaders explicitly link AI supremacy to national security.",
+      "conditional": null,
+      "quote": "There's already an eerie convergence of AGI timelines (~2027?) and Taiwan watchers' Taiwan invasion timelines (China ready to invade Taiwan by 2027?)—a convergence that will surely only heighten as the world wakes up to AGI... It seems to me that there is a real chance that the AGI endgame plays out with the backdrop of world war."
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "AI systems will be capable of running at 10-100x human speed for cognitive tasks within a year or two after initial AGI systems are developed.",
+      "timeframe": "2028-2029 (1-2 years after AGI)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Deployed AI systems demonstrably complete cognitive tasks (code review, research, analysis) that would take a human expert days or weeks in hours, with benchmarks showing sustained 10-100x speedups over human baselines.",
+      "conditional": "IF AGI is achieved",
+      "quote": "Moreover, our automated AI researchers may soon be able to run at much faster than human-speed... The first thing the automated AI researchers will do is quickly find similar gains, and in turn, that'll let them run 100x more experiments... Expect 100 million automated researchers each working at 100x human speed not long after we begin to be able to automate AI research."
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "A nonproliferation regime for superintelligence, analogous to nuclear nonproliferation, will be established with the United States in a leadership role.",
+      "timeframe": "late 2020s to early 2030s",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "International treaties or agreements are established that restrict development of superintelligent AI systems to certain nations or entities, with verification mechanisms and US enforcement, similar in structure to the Nuclear Non-Proliferation Treaty.",
+      "conditional": "IF democratic allies achieve a healthy lead on AGI",
+      "quote": "The main—perhaps the only—hope we have is that an alliance of democracies has a healthy lead over adversarial powers... That's the path we took with nukes, offering assistance on the peaceful uses of nuclear technology in exchange for an international nonproliferation regime (ultimately underwritten by American military power)—and it's the only path that's been shown to work."
+    },
+    {
+      "pred_id": "pred_24",
+      "prediction_text": "Compute clusters will require securing 100 GW of power by 2030, equivalent to over 20% of current US electricity production, presenting a major infrastructure challenge.",
+      "timeframe": "by 2030",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "AI datacenter projects totaling approximately 100 GW of power capacity are announced, under construction, or operational, requiring dedicated power generation equivalent to over 20% of 2023 US electricity production levels.",
+      "conditional": "IF the trillion-dollar cluster is built",
+      "quote": "The trillion-dollar cluster—+4 OOMs from the GPT-4 cluster, the ~2030 training cluster on the current trend—will be a truly extraordinary effort. The 100GW of power it'll require is equivalent to >20% of US electricity production."
+    },
+    {
+      "pred_id": "pred_25",
+      "prediction_text": "Stock market valuations will see the first $10 trillion market cap company, driven by AI products and revenue growth.",
+      "timeframe": "late 2020s (post-2026)",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "At least one technology company achieves a market capitalization exceeding $10 trillion, with AI products and services identified as the primary driver of valuation in analyst reports and company statements.",
+      "conditional": "IF AI revenue reaches $100B+ for major tech companies",
+      "quote": "This would make AI products the biggest revenue driver for America's largest corporations, and by far their biggest area of growth. Forecasts of overall revenue growth for these companies would skyrocket. Stock markets would follow; we might see our first $10T company soon thereafter."
+    }
+  ]
+}

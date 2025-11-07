@@ -1,0 +1,26 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "AI will automate between 400 and 800 million jobs globally by 2030",
+      "timeframe": "by 2030",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Measurement of job displacement attributable to AI across global labor markets reaching between 400 and 800 million positions by 2030",
+      "conditional": null,
+      "quote": "McKinsey Global Institute estimates that AI could automate between 400 and 800 million jobs globally by 2030, signaling a seismic shift in the global workforce."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "There is a 50% probability that machines will be capable of automating all human tasks by 2047",
+      "timeframe": "by 2047",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "AI systems demonstrate the ability to perform any intellectual or physical task that humans can perform at or above human level of competence",
+      "conditional": null,
+      "quote": "A survey of AI researchers published in top-tier AI venues showed that experts have put the probability of machines automating all human tasks by 2047 at 50 percent."
+    }
+  ]
+}

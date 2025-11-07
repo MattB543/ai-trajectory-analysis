@@ -50,6 +50,7 @@ Thumbs.db
 *.tmp
 .cache
 .claude/
+claude/
 .coverage
 .coverage.*
 .dmypy.json

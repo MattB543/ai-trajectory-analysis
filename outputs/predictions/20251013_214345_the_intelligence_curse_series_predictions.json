@@ -1,0 +1,279 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "AGI (defined as 'a highly autonomous system that outperforms humans at most economically valuable work') will be achieved by major AI labs, with some estimates as early as 2026 and within the next few years being considered very real chance.",
+      "timeframe": "2026-2029 (next few years from 2025)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Major AI lab (OpenAI, Anthropic, Google DeepMind, Meta, or DeepSeek) announces achievement of AGI that is broadly accepted by AI research community; or AI systems demonstrably outperform median humans at >80% of economically valuable work tasks",
+      "conditional": null,
+      "quote": "The CEOs of these companies think they might achieve it in just a few years, some saying as early as 2026. While the exact timelines are still in doubt, there is a very real chance AGI arrives in the next few years."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "White collar companies will begin slashing entry-level hiring as first-wave AI agents enable companies to shrink hiring costs without firing anyone.",
+      "timeframe": "near-term (implied 2025-2027)",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Measurable decline in entry-level hiring rates at large white-collar firms (consulting, finance, tech, professional services) of >30% compared to 2024 baseline; hiring freezes announced at major firms citing AI capabilities",
+      "conditional": "IF first wave of AI agents arrive that can produce entry-level work outputs at much lower cost than human employees",
+      "quote": "We think the first wave of AI employees, likely a combination of specialized LLM scaffolds from startups and natively agentic models from the labs, will allow companies to shrink their hiring costs without firing anyone. Instead, they'll slash hiring."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "Corporate pyramid replacement will proceed through sequential stages, with junior employees being automated after entry-level, then middle management, then senior management, with some firms eventually having no human employees except possibly C-suite.",
+      "timeframe": "phased over multiple years following first stage (estimated 2026-2032)",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Employment data showing sequential decline in junior roles before senior roles; at least 3 major companies announce elimination of entire management layers; at least 1 publicly traded company operates with <10 human employees",
+      "conditional": "IF AI systems continue improving and companies face competitive pressure to adopt",
+      "quote": "This pattern would repeat as new AI systems are released... The pattern repeats, but this time it's even harsher... Some time passes, and the AIs get even better. Now, they can track every interaction the company has, both internally and externally... For a small number of firms, the best performing version of their org chart is one without any human employees at all"
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "There is a roughly 1 in 3 (33%) probability that human wages will crash below subsistence level before 2045.",
+      "timeframe": "by 2045",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Median human wages fall below cost of basic subsistence (food, shelter, healthcare) in major developed economies; or >50% of working-age population cannot afford basic needs from labor income alone",
+      "conditional": null,
+      "quote": "All things considered, I am inclined to guess that there is roughly a 1 in 3 chance that human wages will crash below subsistence level before 2045. [Matthew Barnett]"
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "There is approximately a 2 in 3 (67%) probability that human wages will fall below subsistence level before 2125.",
+      "timeframe": "by 2125",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Median human wages fall below cost of basic subsistence (food, shelter, healthcare) in major economies; majority of humans cannot support themselves through labor income",
+      "conditional": null,
+      "quote": "In the longer term, I'd guess the probability that human wages will fall below subsistence level before 2125 to be roughly 2 in 3. [Matthew Barnett]"
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "US Social Security will be exhausted by 2033, creating pressure to shrink social safety nets at a time when voters may be demanding massive expansions due to AI displacement.",
+      "timeframe": "by 2033",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "US Social Security Trust Fund reserves depleted as measured by Social Security Administration projections and reports; inability to pay full scheduled benefits without legislative changes",
+      "conditional": null,
+      "quote": "Social security, funded by payroll taxes, is expected to be exhausted in 2033. This would create significant pressure to shrink social safety nets at a time where (if innovation and diffusion and fast enough) voters may be demanding massive expansions."
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "AI systems will take almost 7 years to reach a 1-month task completion time horizon with 80% accuracy, based on current trend extrapolation.",
+      "timeframe": "~2032 (7 years from 2025)",
+      "prediction_type": "capability",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "METR or equivalent benchmark shows AI systems can complete clearly-defined software engineering tasks requiring 1 month of work with 80% success rate",
+      "conditional": "IF current trends continue without algorithmic breakthroughs",
+      "quote": "METR's work shows that AIs are getting better at solving tasks with longer and longer time horizons, but on current trends they will take almost 7 years to reach a 1-month time horizon"
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "AI systems will take almost 9 years to reach a 1-year task completion time horizon with 80% accuracy, based on current trend extrapolation.",
+      "timeframe": "~2034 (9 years from 2025)",
+      "prediction_type": "capability",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "METR or equivalent benchmark shows AI systems can complete clearly-defined software engineering tasks requiring 1 year of work with 80% success rate",
+      "conditional": "IF current trends continue without algorithmic breakthroughs",
+      "quote": "METR's work shows that AIs are getting better at solving tasks with longer and longer time horizons, but on current trends they will take almost 7 years to reach a 1-month time horizon and almost 9 years to reach a 1-year time horizon with 80% accuracy on completed tasks."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "State revenue composition will shift away from income taxes toward corporate taxes as AI replaces human labor, with state revenue breakdowns starting to resemble rentier states more than diverse OECD economies.",
+      "timeframe": "2030-2040",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "In major developed economies, corporate taxes rise from ~11.5% to >25% of government revenue while income/payroll taxes decline from ~40% to <25% of revenue",
+      "conditional": "IF labor-replacing AI becomes widespread",
+      "quote": "In 2022, corporate taxes made up 11.5% of the average OECD state's revenue – a sample of high-performing, diverse economies. Like Norway (about 30% of state revenue from oil), Saudi Arabia (75%), and the Democratic Republic of the Congo (about 1/3rd of state revenue from resource mining), states will rely less on income taxes and more on taxes from AI companies... When state revenue breakdowns look more like these countries than the OECD average, you'll know the intelligence curse is taking hold."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "Traditional white collar work in medium-to-large firms will not survive the AI revolution as companies face competitive pressures to automate.",
+      "timeframe": "2025-2035",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Employment in traditional white collar roles (analysts, consultants, middle managers) in large firms declines by >60% from 2025 baseline; majority of large firms report <50% human workforce compared to 2025",
+      "conditional": null,
+      "quote": "To put it bluntly, traditional white collar work, the economic engine of developed economies, is unlikely to survive the AI revolution. This isn't a 2050 or 2100 problem – it is a problem for today's entrepreneurs, policymakers, and institutions."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "Tech companies could be largely automatable with one or two more leaps in AI performance, ahead of other white collar industries.",
+      "timeframe": "near-term (2026-2028)",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Major tech companies announce >50% workforce reductions citing AI automation; software engineering headcount at major tech firms falls by >40% from 2025 baseline",
+      "conditional": "IF one or two more leaps in AI performance occur",
+      "quote": "Some white collar industries will be much more resistant to this than others. Tech companies could be largely automable with one or two more leaps in AI performance."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "Robotics will lag behind pure-text AI capabilities but will close half the gap with humans in general computer-use within approximately one year from current state.",
+      "timeframe": "by end of 2025",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems score 50% of human performance on general computer use benchmarks (e.g., OSWorld, WebArena, or equivalent comprehensive benchmark)",
+      "conditional": null,
+      "quote": "General computer-use capabilities are lagging behind pure-text skills, but have gone from near-zero capability to closing half the gap with humans within the last year."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "By default, without intervention, powerful actors (states and companies) will lose their incentive to invest in regular people as AI makes non-human factors of production more important.",
+      "timeframe": "2027-2040",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Public education spending as % of GDP declines >30% in major economies; corporate training budgets decline >50%; job training program funding cut; infrastructure investment shifts away from human-serving projects",
+      "conditional": "IF labor-replacing AI becomes widespread and no countermeasures are taken",
+      "quote": "If we do nothing, the intelligence curse will work like this: Powerful AI will push automation through existing organizations... This will usher in incentives for powerful actors around the world that break the modern social contract. This could result in the gradual—or sudden—disempowerment of the vast majority of humanity."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "Money's ability to buy results in the real world will dramatically increase once labor-replacing AI arrives, as AI eliminates the traditional problems of hiring talent (difficulty judging talent, rarity of talent, and talent being hard to buy out).",
+      "timeframe": "2027-2035",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Venture capital deployment speeds increase >3x; time from funding to product launch decreases by >50%; correlation between capital invested and business outcomes increases significantly",
+      "conditional": "IF labor-replacing AI becomes available",
+      "quote": "This means that the ability of money to buy results in the real world will dramatically go up once we have labor-replacing AI."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "The era of human achievement in hard sciences will end within a few years due to AI progress in anything with crisp reward signals.",
+      "timeframe": "within a few years (2025-2030)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems authoring >50% of published papers in major hard science journals; AI systems making majority of significant discoveries in mathematics, physics, chemistry; human scientists primarily serving as directors/overseers rather than primary researchers",
+      "conditional": null,
+      "quote": "The hard sciences. The era of human achievement in hard sciences may end within a few years because of the rate of AI progress in anything with crisp reward signals."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "Entrepreneurship through human founders may eventually be obsoleted as VC funds become able to directly convert money into hundreds of AI-run startup attempts without human entrepreneurs.",
+      "timeframe": "2030-2040",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "At least 3 major VC firms launch fully AI-operated startup programs; >10% of new funded startups have no human founders; successful exits achieved by AI-only founding teams",
+      "conditional": "IF sufficiently strong AI is developed that obsoletes human entrepreneurship",
+      "quote": "However, it also seems likely that sufficiently strong AI will eventually obsolete human entrepreneurship. For example, VC funds might be able to directly convert money into hundreds of startup attempts all run by AIs, without having to go through the intermediate route of finding human entrepreneurs to manage the AIs for them."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "A flood of AI-created ideologies and worldviews will prevent any individual ideology from achieving the historical influence of thinkers like Keynes, Friedman, or Rawls, potentially making world-historic intellectuals extinct.",
+      "timeframe": "2030-2045",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "vague",
+      "verification_criteria": "No individual human intellectual achieves comparable influence to 20th century figures; AI-generated content dominates political and philosophical discourse; fragmentation of ideological landscape increases significantly",
+      "conditional": "IF AI becomes capable of generating compelling ideologies and worldviews at scale",
+      "quote": "A flood of AI-created ideologies might mean that no individual ideology, and certainly no human one, can shine so bright anymore. The world-historic intellectual might go extinct."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "Following a large-scale AI warning shot (catastrophe from rogue AI or major AI-enabled attack), governments will implement dramatic centralizing policy changes including potential global AI governance regimes or surveillance states.",
+      "timeframe": "within 2 years of a major warning shot event",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "International treaty establishing global AI controls; implementation of pervasive surveillance systems; government takeover or strict control of AI development; emergency powers granted to executive branches",
+      "conditional": "IF a large scale autonomous warning shot or major human-enabled AI catastrophe occurs",
+      "quote": "We expect that, while these policies are politically infeasible today, they would be unlocked following some kinds of AI warning shots. Historically, catastrophes create the environment for government power grabs, just like the ones described above. Once enacted, they will lead to centralization and enable authoritarianism."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "The period of augmented humans being state-of-the-art in the economy exists and will last for multiple years, not being immediately overtaken by pure AI systems.",
+      "timeframe": "2025-2030+",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Human-AI teams consistently outperform pure AI systems on economically important tasks for at least 3 years; fastest-growing companies primarily use human-in-the-loop AI rather than fully autonomous AI; benchmark results show human-AI collaboration exceeding pure AI",
+      "conditional": null,
+      "quote": "There is reason to believe that the period of augmented humans being state-of-the-art exists and lasts years"
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "Hard-to-judge, vague, context-rich tasks will take longer for AIs to crack than tasks with clear definitions and reward signals.",
+      "timeframe": "2025-2035",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "AI performance on clearly-defined coding tasks exceeds human performance by >5 years before AI performance on vague strategic/creative tasks requiring deep context reaches human parity",
+      "conditional": null,
+      "quote": "We expect hard-to-judge, vague, context-rich tasks to take longer for AIs to crack. It will be hard to compile the dataset, and hard to build the RL environment."
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "AI labs will change their corporate structures to capture more AGI profits for themselves, following OpenAI's example of removing profit caps.",
+      "timeframe": "2025-2028",
+      "prediction_type": "actor_behavior",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "At least 2 other major AI labs (Anthropic, Google DeepMind, or equivalent) announce changes to corporate structure that increase profit potential or remove benefit-sharing commitments; OpenAI completes its transition to for-profit structure",
+      "conditional": null,
+      "quote": "OpenAI is already changing their corporate structure to remove limits on how much of AGI profits they can capture for themselves. This is despite a corporate structure originally built to ensure that if AGI becomes most of the economy, OpenAI would distribute profits above some amount to the world."
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "If recursive self-improvement and AI takeoff are slower than aggressive scenarios predict, then the AI landscape will be more multipolar rather than dominated by a single actor.",
+      "timeframe": "2027-2035",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "No single company or country controls >40% of advanced AI deployment; at least 5 entities capable of training frontier models; significant AI capabilities distributed across US, China, EU, and other actors",
+      "conditional": "IF AI takeoff is continuous and gradually-accelerating rather than explosive, and IF physical world transformation is bottlenecked by robotics",
+      "quote": "We expect the AI balance to be more multipolar and arrive more slowly than some of the more aggressive scenarios predict... Because we expect slower AI takeoff, we expect a more multipolar outcome, since the first actor to enter the recursive self-improvement phase does not automatically get an incredible lead."
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "Explosive economic growth and transformation of the physical world will be bottlenecked by robotics development, slowing overall AI transformation compared to pure digital capabilities.",
+      "timeframe": "2025-2035",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "GDP growth remains <10% annually despite advanced AI; physical automation lags digital automation by >3 years; robotics capabilities trail language model capabilities on comparable task complexity",
+      "conditional": null,
+      "quote": "We expect AI takeoff to be continuous and gradually-accelerating, but that explosive economic growth and the transformation of the physical world will be bottlenecked by robotics"
+    },
+    {
+      "pred_id": "pred_24",
+      "prediction_text": "By default, labor-replacing AI will be unlocked before other transformational impacts of AI like radical coordination technology or post-scarcity abundance.",
+      "timeframe": "2027-2032",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Significant job displacement (>20% of workforce) occurs before implementation of effective UBI, new coordination mechanisms, or widespread post-scarcity conditions",
+      "conditional": null,
+      "quote": "By default, we expect to unlock the labor-replacing impacts of AI before its other transformational impacts."
+    },
+    {
+      "pred_id": "pred_25",
+      "prediction_text": "OpenAI plans to charge up to $20,000 per month for its most advanced AIs in the near future.",
+      "timeframe": "near-term (2025-2026)",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "OpenAI announces pricing tier at or above $20,000/month; premium AI access costs reach this level at OpenAI or comparable lab",
+      "conditional": null,
+      "quote": "OpenAI, for example, reportedly plans to soon charge up to $20,000 per month for its most advanced AIs."
+    }
+  ]
+}

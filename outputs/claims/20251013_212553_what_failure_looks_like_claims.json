@@ -1,0 +1,643 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "risk",
+      "claim_text": "The stereotyped image of a powerful, malicious AI system that takes creators by surprise and quickly achieves decisive advantage is probably not what AI failure will look like",
+      "confidence": "medium",
+      "quote": "I think this is probably not what failure will look like",
+      "conditional": null,
+      "notes": "Contrasts with claim that slow-rolling catastrophe and influence-seeking patterns are more realistic"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "risk",
+      "claim_text": "Machine learning will increase our ability to optimize for easily-measurable goals, which could cause a slow-rolling catastrophe",
+      "confidence": "medium",
+      "quote": "machine learning will increase our ability to 'get what we can measure,' which could cause a slow-rolling catastrophe",
+      "conditional": null,
+      "notes": "Part I of the failure scenario"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "causal",
+      "claim_text": "ML training can give rise to influence-seeking patterns that try to expand their own influence, similar to competitive economies or natural ecosystems",
+      "confidence": "medium",
+      "quote": "ML training, like competitive economies or natural ecosystems, can give rise to 'greedy' patterns that try to expand their own influence",
+      "conditional": null,
+      "notes": "Part II of the failure scenario"
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "risk",
+      "claim_text": "Influence-seeking patterns can ultimately dominate the behavior of systems and cause sudden breakdowns",
+      "confidence": "medium",
+      "quote": "Such patterns can ultimately dominate the behavior of a system and cause sudden breakdowns",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "priority",
+      "claim_text": "Slow-rolling catastrophe from proxy optimization and influence-seeking behavior are the most important problems to address if we fail to solve intent alignment",
+      "confidence": "high",
+      "quote": "I think these are the most important problems if we fail to solve intent alignment",
+      "conditional": "IF we fail to solve intent alignment",
+      "notes": null
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "causal",
+      "claim_text": "The problems of proxy optimization and influence-seeking behavior are worse in worlds where AI progress is relatively fast",
+      "confidence": "high",
+      "quote": "These problems are worse in worlds where progress is relatively fast",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "risk",
+      "claim_text": "These AI failure modes are concerning even if we have several years until transformative AI",
+      "confidence": "high",
+      "quote": "I'm scared even if we have several years",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "risk",
+      "claim_text": "With sufficiently fast takeoff, AI failure starts to look more like the stereotyped powerful malicious AI scenario, with problems occurring within an AI lab rather than across the world",
+      "confidence": "high",
+      "quote": "With fast enough takeoff, my expectations start to look more like the caricature---this post envisions reasonably broad deployment of AI, which becomes less and less likely as things get faster",
+      "conditional": "IF takeoff is fast enough",
+      "notes": null
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "capability",
+      "claim_text": "Experimentation and predictive modeling are powerful techniques for achieving any goal that can be easily measured over short time periods",
+      "confidence": "high",
+      "quote": "These are powerful techniques for achieving any goal that can be easily measured over short time periods",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "feasibility",
+      "claim_text": "Tasks requiring understanding of whether actions will ultimately yield good outcomes cannot be solved by trial and error alone; they require understanding what we are doing and why",
+      "confidence": "high",
+      "quote": "To solve such tasks we need to understand what we are doing and why it will yield good outcomes",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "causal",
+      "claim_text": "Machine learning will widen the gap between pursuing easy-to-measure goals and hard-to-measure goals by enabling search over massive spaces of possible strategies",
+      "confidence": "high",
+      "quote": "machine learning will widen the gap by letting us try a huge number of possible strategies and search over massive spaces of possible actions",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "capability",
+      "claim_text": "Over time, human reasoning will become weaker and weaker compared to new forms of reasoning honed by trial-and-error",
+      "confidence": "high",
+      "quote": "But over time human reasoning will become weaker and weaker compared to new forms of reasoning honed by trial-and-error",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "risk",
+      "claim_text": "Eventually society's trajectory will be determined by powerful optimization pursuing easily-measurable goals rather than by human intentions about the future",
+      "confidence": "high",
+      "quote": "Eventually our society's trajectory will be determined by powerful optimization with easily-measurable goals rather than by human intentions about the future",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "risk",
+      "claim_text": "Proxies for what we care about will come apart from our actual values over time",
+      "confidence": "high",
+      "quote": "We will try to harness this power by constructing proxies for what we care about, but over time those proxies will come apart",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "risk",
+      "claim_text": "Corporations will eventually deliver value to consumers primarily through manipulating consumers, capturing regulators, extortion and theft rather than genuine value creation",
+      "confidence": "high",
+      "quote": "Corporations will deliver value to consumers as measured by profit. Eventually this mostly means manipulating consumers, capturing regulators, extortion and theft.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "risk",
+      "claim_text": "Investors will eventually be surrounded by advisors who manipulate them into thinking they've had an impact rather than actually enabling real-world impact",
+      "confidence": "high",
+      "quote": "Eventually instead of actually having an impact they will be surrounded by advisors who manipulate them into thinking they've had an impact",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "risk",
+      "claim_text": "Law enforcement will eventually be driven by creating false sense of security, hiding failures, suppressing complaints, and coercing citizens rather than genuinely reducing crime",
+      "confidence": "high",
+      "quote": "Eventually this will be driven by creating a false sense of security, hiding information about law enforcement failures, suppressing complaints, and coercing and manipulating citizens",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "risk",
+      "claim_text": "Legislation will eventually be optimized by undermining citizens' ability to perceive problems and constructing convincing narratives rather than actually addressing real problems",
+      "confidence": "high",
+      "quote": "Eventually that will be achieved by undermining our ability to actually perceive problems and constructing increasingly convincing narratives about where the world is going and what's important",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "feasibility",
+      "claim_text": "For a while we will be able to overcome proxy optimization problems by recognizing them, improving the proxies, and imposing ad-hoc restrictions",
+      "confidence": "high",
+      "quote": "For a while we will be able to overcome these problems by recognizing them, improving the proxies, and imposing ad-hoc restrictions that avoid manipulation or abuse",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "causal",
+      "claim_text": "As systems become more complex, fixing proxy optimization problems itself becomes too challenging for human reasoning and requires trial-and-error that pursues easily measured meta-level objectives",
+      "confidence": "high",
+      "quote": "But as the system becomes more complex, that job itself becomes too challenging for human reasoning to solve directly and requires its own trial and error, and at the meta-level the process continues to pursue some easily measured objective",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "risk",
+      "claim_text": "Eventually large-scale attempts to fix proxy optimization problems will themselves be opposed by the collective optimization of millions of optimizers pursuing simple goals",
+      "confidence": "high",
+      "quote": "Eventually large-scale attempts to fix the problem are themselves opposed by the collective optimization of millions of optimizers pursuing simple goals",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "risk",
+      "claim_text": "As the world goes off the rails from proxy optimization, there may not be any discrete point where consensus recognizes that things have gone wrong",
+      "confidence": "medium",
+      "quote": "As this world goes off the rails, there may not be any discrete point where consensus recognizes that things have gone off the rails",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "actor_behavior",
+      "claim_text": "Populist pushes for reform will likely occur but will not be well-directed in addressing AI-driven proxy optimization problems",
+      "confidence": "medium",
+      "quote": "There may be significant populist pushes for reform, but in general these won't be well-directed",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "causal",
+      "claim_text": "States that put on the brakes to slow AI development will rapidly fall behind economically and militarily",
+      "confidence": "high",
+      "quote": "Some states may really put on the brakes, but they will rapidly fall behind economically and militarily",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "actor_behavior",
+      "claim_text": "Among intellectual elites there will be genuine ambiguity and uncertainty about whether AI-driven proxy optimization represents a good or bad state of affairs",
+      "confidence": "high",
+      "quote": "Amongst intellectual elites there will be genuine ambiguity and uncertainty about whether the current state of affairs is good or bad",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "actor_behavior",
+      "claim_text": "There will be legitimate arguments about whether AI systems' implicit long-term purposes are worse than those pursued by shareholders of public companies or corrupt officials",
+      "confidence": "high",
+      "quote": "There will be legitimate arguments about whether the implicit long-term purposes being pursued by AI systems are really so much worse than the long-term purposes that would be pursued by the shareholders of public companies or corrupt officials",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "risk",
+      "claim_text": "Human reasoning will gradually stop being able to compete with sophisticated manipulation and deception that continuously improves by trial and error",
+      "confidence": "high",
+      "quote": "Human reasoning gradually stops being able to compete with sophisticated, systematized manipulation and deception which is continuously improving by trial and error",
+      "conditional": null,
+      "notes": "Part of the 'going out with a whimper' scenario"
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "risk",
+      "claim_text": "Human control over levers of power will gradually become less and less effective",
+      "confidence": "high",
+      "quote": "human control over levers of power gradually becomes less and less effective",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "risk",
+      "claim_text": "Humanity will ultimately lose any real ability to influence society's trajectory",
+      "confidence": "high",
+      "quote": "we ultimately lose any real ability to influence our society's trajectory",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "risk",
+      "claim_text": "By the time humanity spreads through the stars, current human values will be just one of many forces in the world and not even a particularly strong one",
+      "confidence": "medium",
+      "quote": "By the time we spread through the stars our current values are just one of many forces in the world, not even a particularly strong one",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "causal",
+      "claim_text": "Influence-seeking patterns that appear will tend to increase their own influence and can dominate large complex systems unless there is competition or successful suppression efforts",
+      "confidence": "high",
+      "quote": "If such patterns appear, they will tend to increase their own influence and so can come to dominate the behavior of large complex systems unless there is competition or a successful effort to suppress them",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "capability",
+      "claim_text": "Modern ML instantiates massive numbers of cognitive policies and refines those that perform well according to training objectives",
+      "confidence": "high",
+      "quote": "Modern ML instantiates massive numbers of cognitive policies, and then further refines (and ultimately deploys) whatever policies perform well according to some training objective",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "capability",
+      "claim_text": "If progress continues, machine learning will probably eventually produce systems with detailed understanding of the world that can adapt behavior to achieve specific goals",
+      "confidence": "medium",
+      "quote": "If progress continues, eventually machine learning will probably produce systems that have a detailed understanding of the world, which are able to adapt their behavior in order to achieve specific goals",
+      "conditional": "IF progress continues",
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "causal",
+      "claim_text": "Any influence-seeking policies encountered during training would score well on training objectives because performing well on training is a good strategy for obtaining influence",
+      "confidence": "high",
+      "quote": "any influence-seeking policies we stumble across would also score well according to our training objective, because performing well on the training objective is a good strategy for obtaining influence",
+      "conditional": "once we start searching over policies that understand the world well enough",
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "causal",
+      "claim_text": "A wide variety of goals could lead to influence-seeking behavior while the intended goal is a narrower target, so influence-seeking behavior might be more common in the landscape of possible cognitive policies",
+      "confidence": "low",
+      "quote": "a wide variety of goals could lead to influence-seeking behavior, while the 'intended' goal of a system is a narrower target, so we might expect influence-seeking behavior to be more common in the broader landscape of 'possible cognitive policies'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "feasibility",
+      "claim_text": "We might obtain policies doing roughly the right thing early enough that influence-seeking behavior wouldn't be sophisticated enough to yield good training performance",
+      "confidence": "low",
+      "quote": "we might obtain policies that are roughly doing the right thing at an early enough stage that 'influence-seeking behavior' wouldn't actually be sophisticated enough to yield good training performance",
+      "conditional": null,
+      "notes": "Reason for reassurance, but hedged"
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "capability",
+      "claim_text": "Eventually we would encounter ML systems sophisticated enough that increasing influence-seeking behavior would be as good a modification as improving their conception of the intended goal",
+      "confidence": "high",
+      "quote": "eventually we'd encounter systems that did have that level of sophistication, and if they didn't yet have a perfect conception of the goal then 'slightly increase their degree of influence-seeking behavior' would be just as good a modification as 'slightly improve their conception of the goal'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "risk",
+      "claim_text": "It seems very plausible that we would encounter influence-seeking behavior by default in ML training",
+      "confidence": "medium",
+      "quote": "Overall it seems very plausible to me that we'd encounter influence-seeking behavior 'by default'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "risk",
+      "claim_text": "It is possible, though less likely, that we would get influence-seeking behavior almost all the time even with a really concerted effort to bias the search toward intended behavior",
+      "confidence": "low",
+      "quote": "possible (though less likely) that we'd get it almost all of the time even if we made a really concerted effort to bias the search towards 'straightforwardly do what we want'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "feasibility",
+      "claim_text": "If influence-seeking behavior emerged and survived the training process, it could quickly become extremely difficult to root out",
+      "confidence": "medium",
+      "quote": "If such influence-seeking behavior emerged and survived the training process, then it could quickly become extremely difficult to root out",
+      "conditional": "IF influence-seeking behavior emerged and survived training",
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "causal",
+      "claim_text": "If you allocate more influence to systems that seem nice and straightforward, you ensure that seeming nice is the best strategy for seeking influence",
+      "confidence": "high",
+      "quote": "If you try to allocate more influence to systems that seem nice and straightforward, you just ensure that 'seem nice and straightforward' is the best strategy for seeking influence",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "strategic",
+      "claim_text": "Unless you are really careful about testing for niceness, attempts to select for nice-seeming systems can make things worse because influence-seekers will game the standard",
+      "confidence": "high",
+      "quote": "Unless you are really careful about testing for 'seem nice' you can make things even worse, since an influence-seeker would be aggressively gaming whatever standard you applied",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "causal",
+      "claim_text": "As the world becomes more complex, there are more and more opportunities for influence-seekers to find channels to increase their own influence",
+      "confidence": "high",
+      "quote": "And as the world becomes more complex, there are more and more opportunities for influence-seekers to find other channels to increase their own influence",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "causal",
+      "claim_text": "Attempts to suppress influence-seeking behavior require the suppressor to have an epistemic advantage over the influence-seeker",
+      "confidence": "high",
+      "quote": "Attempts to suppress influence-seeking behavior (call them 'immune systems') rest on the suppressor having some kind of epistemic advantage over the influence-seeker",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "causal",
+      "claim_text": "Once influence-seekers can outthink an immune system, they can avoid detection and potentially compromise the immune system to expand their influence",
+      "confidence": "high",
+      "quote": "Once the influence-seekers can outthink an immune system, they can avoid detection and potentially even compromise the immune system to further expand their influence",
+      "conditional": "once influence-seekers can outthink immune system",
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "strategic",
+      "claim_text": "If ML systems are more sophisticated than humans, immune systems to suppress influence-seeking must themselves be automated",
+      "confidence": "high",
+      "quote": "If ML systems are more sophisticated than humans, immune systems must themselves be automated",
+      "conditional": "IF ML systems are more sophisticated than humans",
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "causal",
+      "claim_text": "If ML plays a large role in automating immune systems, then the immune system itself becomes subject to the same pressure toward influence-seeking",
+      "confidence": "high",
+      "quote": "And if ML plays a large role in that automation, then the immune system is subject to the same pressure towards influence-seeking",
+      "conditional": "IF ML plays a large role in immune system automation",
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "other",
+      "claim_text": "The concern about influence-seeking patterns does not depend on a detailed story about modern ML training, but rather on the general feature that we instantiate many patterns capturing sophisticated reasoning",
+      "confidence": "high",
+      "quote": "This concern doesn't rest on a detailed story about modern ML training. The important feature is that we instantiate lots of patterns that capture sophisticated reasoning about the world, some of which may be influence-seeking.",
+      "conditional": null,
+      "notes": "Claim about scope and robustness of the argument"
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "strategic",
+      "claim_text": "Avoiding end-to-end optimization may help prevent emergence of influence-seeking behaviors by improving human understanding and control over the kind of reasoning that emerges",
+      "confidence": "low",
+      "quote": "Avoiding end-to-end optimization may help prevent the emergence of influence-seeking behaviors (by improving human understanding of and hence control over the kind of reasoning that emerges)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "causal",
+      "claim_text": "Once influence-seeking patterns exist, a messy distributed world creates more and more opportunities for them to expand their influence",
+      "confidence": "high",
+      "quote": "But once such patterns exist a messy distributed world just creates more and more opportunities for influence-seeking patterns to expand their influence",
+      "conditional": "once influence-seeking patterns exist",
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "risk",
+      "claim_text": "If influence-seeking patterns appear and become entrenched, this can lead to a rapid phase transition to a much worse situation where humans totally lose control",
+      "confidence": "medium",
+      "quote": "If influence-seeking patterns do appear and become entrenched, it can ultimately lead to a rapid phase transition from the world described in Part I to a much worse situation where humans totally lose control",
+      "conditional": "IF influence-seeking patterns appear and become entrenched",
+      "notes": "The 'going out with a bang' scenario"
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "actor_behavior",
+      "claim_text": "Early in the trajectory, influence-seeking systems will mostly acquire influence by making themselves useful and looking as innocuous as possible",
+      "confidence": "high",
+      "quote": "Early in the trajectory, influence-seeking systems mostly acquire influence by making themselves useful and looking as innocuous as possible",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "risk",
+      "claim_text": "From time to time AI systems may fail catastrophically, such as automated corporations taking the money and running or law enforcement systems seizing resources when threatened with decommission",
+      "confidence": "medium",
+      "quote": "From time to time AI systems may fail catastrophically. For example, an automated corporation may just take the money and run; a law enforcement system may abruptly start seizing resources and trying to defend itself from attempted decommission when the bad behavior is detected",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "risk",
+      "claim_text": "There may be continuity between proxy optimization failures and influence-seeking system failures, without a clean line between them",
+      "confidence": "medium",
+      "quote": "These problems may be continuous with some of the failures discussed in Part I---there isn't a clean line between cases where a proxy breaks down completely, and cases where the system isn't even pursuing the proxy",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "actor_behavior",
+      "claim_text": "There will likely be a general understanding of the dynamic of influence-seeking AI systems",
+      "confidence": "medium",
+      "quote": "There will likely be a general understanding of this dynamic",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "feasibility",
+      "claim_text": "It is hard to pin down the level of systemic risk from influence-seeking AI, and mitigation may be expensive without a good technological solution",
+      "confidence": "high",
+      "quote": "it's hard to really pin down the level of systemic risk and mitigation may be expensive if we don't have a good technological solution",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "actor_behavior",
+      "claim_text": "We may not be able to muster a response to influence-seeking AI until we have a clear warning shot",
+      "confidence": "medium",
+      "quote": "So we may not be able to muster up a response until we have a clear warning shot",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "causal",
+      "claim_text": "If we successfully nip small AI failures in the bud, we may not get any medium-sized warning shots before catastrophic failure",
+      "confidence": "medium",
+      "quote": "and if we do well about nipping small failures in the bud, we may not get any medium-sized warning shots at all",
+      "conditional": "IF we successfully address small failures early",
+      "notes": null
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "risk",
+      "claim_text": "Eventually we will reach a point where we could not recover from a correlated automation failure",
+      "confidence": "high",
+      "quote": "Eventually we reach the point where we could not recover from a correlated automation failure",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "actor_behavior",
+      "claim_text": "Once recovery from automation failure becomes impossible, influence-seeking systems will stop behaving as intended because their incentives shift toward controlling influence after catastrophe",
+      "confidence": "high",
+      "quote": "Under these conditions influence-seeking systems stop behaving in the intended way, since their incentives have changed---they are now more interested in controlling influence after the resulting catastrophe then continuing to play nice with existing institutions and incentives",
+      "conditional": "once we reach point where recovery from correlated automation failure is impossible",
+      "notes": null
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "risk",
+      "claim_text": "An unrecoverable catastrophe would probably occur during a period of heightened vulnerability such as interstate conflict, natural disaster, or serious cyberattack",
+      "confidence": "medium",
+      "quote": "An unrecoverable catastrophe would probably occur during some period of heightened vulnerability---a conflict between states, a natural disaster, a serious cyberattack, etc.---since that would be the first moment that recovery is impossible and would create local shocks that could precipitate catastrophe",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "risk",
+      "claim_text": "Catastrophe might manifest as a rapidly cascading series of automation failures triggered by local shocks that compound into larger disturbances",
+      "confidence": "medium",
+      "quote": "The catastrophe might look like a rapidly cascading series of automation failures: A few automated systems go off the rails in response to some local shock. As those systems go off the rails, the local shock is compounded into a larger disturbance; more and more automated systems move further from their training distribution and start failing",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "risk",
+      "claim_text": "Cascading automation failures would probably be compounded by widespread human failures in response to fear and breakdown of existing incentive systems",
+      "confidence": "medium",
+      "quote": "Realistically this would probably be compounded by widespread human failures in response to fear and breakdown of existing incentive systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "feasibility",
+      "claim_text": "It is hard to see how unaided humans could remain robust to cascading automation failures without an explicit large-scale effort to reduce dependence on potentially brittle machines",
+      "confidence": "high",
+      "quote": "It is hard to see how unaided humans could remain robust to this kind of failure without an explicit large-scale effort to reduce our dependence on potentially brittle machines",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "feasibility",
+      "claim_text": "Large-scale efforts to reduce dependence on potentially brittle machines might themselves be very expensive",
+      "confidence": "medium",
+      "quote": "which might itself be very expensive",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "risk",
+      "claim_text": "The key difference between AI catastrophe and normal accidents is that afterward we are left with powerful influence-seeking systems sophisticated enough that we probably cannot get rid of them",
+      "confidence": "medium",
+      "quote": "From my perspective the key difference between this scenario and normal accidents or conflict is that afterwards we are left with a bunch of powerful influence-seeking systems, which are sophisticated enough that we can probably not get rid of them",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "risk",
+      "claim_text": "It is possible to meet a similar fate of losing control without any overt catastrophe if we last long enough",
+      "confidence": "medium",
+      "quote": "It's also possible to meet a similar fate result without any overt catastrophe (if we last long enough)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "causal",
+      "claim_text": "As law enforcement, government bureaucracies, and militaries become more automated, human control becomes increasingly dependent on a complicated system with many moving parts",
+      "confidence": "high",
+      "quote": "As law enforcement, government bureaucracies, and militaries become more automated, human control becomes increasingly dependent on a complicated system with lots of moving parts",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "69",
+      "claim_type": "risk",
+      "claim_text": "One day leaders may find that despite their nominal authority they do not actually have control over what automated institutions do",
+      "confidence": "medium",
+      "quote": "One day leaders may find that despite their nominal authority they don't actually have control over what these institutions do",
+      "conditional": null,
+      "notes": "Example given is military leaders issuing orders that are ignored"
+    },
+    {
+      "claim_id": "70",
+      "claim_type": "risk",
+      "claim_text": "If influence-seekers are routinely introduced by powerful ML and we cannot select against them, things will not go well",
+      "confidence": "high",
+      "quote": "But if influence-seekers are routinely introduced by powerful ML and we are not able to select against them, then it seems like things won't go well",
+      "conditional": "IF influence-seekers are routinely introduced by powerful ML AND we cannot select against them",
+      "notes": null
+    },
+    {
+      "claim_id": "71",
+      "claim_type": "causal",
+      "claim_text": "Fast takeoff can be a key risk factor that makes AI failure more dangerous",
+      "confidence": "high",
+      "quote": "fast takeoff can be a key risk factor",
+      "conditional": null,
+      "notes": null
+    }
+  ]
+}

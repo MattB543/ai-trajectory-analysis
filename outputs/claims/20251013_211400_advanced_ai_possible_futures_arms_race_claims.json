@@ -1,0 +1,391 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "actor_behavior",
+      "claim_text": "Both the US and China will view advanced AI as a technology that determines military superiority and global influence, treating it as the ultimate national security asset",
+      "confidence": "high",
+      "quote": "Both the US and China view advanced AI as a technology that could determine not just economic dominance but military superiority and global influence. Politicians frame frontier AI systems as strategic assets whose possession will shape the world order.",
+      "conditional": null,
+      "notes": "Core baseline assumption for the scenario"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "actor_behavior",
+      "claim_text": "China's efforts to catch up in AI capabilities will trigger defensive moves and countermeasures from the US, transforming technological progress into an active geopolitical contest",
+      "confidence": "high",
+      "quote": "other nations, particularly China, work frantically to close the gap. These catch-up efforts trigger defensive moves and countermeasures, transforming technological progress into an active geopolitical contest.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "feasibility",
+      "claim_text": "There will be no reliable way to verify who is training cutting-edge AI models, where they're doing it, or what adversaries' AI systems are capable of",
+      "confidence": "high",
+      "quote": "Despite various proposals, there's no reliable way to prove who is training cutting-edge AI models, where they're doing it, or what adversaries' AI systems are capable of.",
+      "conditional": null,
+      "notes": "Baseline assumption about verification challenges"
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "feasibility",
+      "claim_text": "Mandatory compute registries will remain voluntary experiments rather than becoming enforceable verification mechanisms",
+      "confidence": "medium",
+      "quote": "Suggested solutions like mandatory compute registries remain voluntary experiments.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "causal",
+      "claim_text": "Without credible verification mechanisms, the logic of arms control breaks down, pushing nations toward secrecy and pre-emptive action",
+      "confidence": "high",
+      "quote": "Without credible verification, the logic of arms control breaks down, pushing nations toward secrecy and pre-emptive action.",
+      "conditional": null,
+      "notes": "Core claim about verification necessity"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "causal",
+      "claim_text": "Control over semiconductor supply chain chokepoints (Taiwan's chip fabrication, Dutch lithography, American chip design) will become a geopolitical weapon that intensifies tensions",
+      "confidence": "high",
+      "quote": "Advanced AI depends on a handful of vulnerable points in the global supply chain: Taiwan's chip fabrication plants, Dutch lithography equipment, and American-designed AI chips. US export controls create a 'compute drought' in China... These chokepoints intensify tensions, particularly regarding Taiwan's strategic importance.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "capability",
+      "claim_text": "China's domestic semiconductor industry will not catch up to cutting-edge AI chip production despite massive investment",
+      "confidence": "medium",
+      "quote": "US export controls create a 'compute drought' in China, and despite massive investment, China's domestic semiconductor industry doesn't catch up.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "timeline",
+      "claim_text": "By 2025, American and Chinese AI systems will make rapid progress in formal domains like software engineering and hacking",
+      "confidence": "high",
+      "quote": "Throughout 2025, American and Chinese AI systems make rapid progress, particularly in formal domains like software engineering. National security agencies take notice, as the same systems are becoming skilled at hacking too.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "capability",
+      "claim_text": "AI systems will be able to independently discover zero-day vulnerabilities in widely used software",
+      "confidence": "high",
+      "quote": "Their latest model has independently discovered zero-day vulnerabilities in widely used software.",
+      "conditional": null,
+      "notes": "By mid-2026 in the scenario"
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "causal",
+      "claim_text": "AI cyber capabilities will convince leadership that AI will become decisive in intelligence and military applications",
+      "confidence": "high",
+      "quote": "This further convinces U.S. leadership that AI will become decisive in intelligence and military applications.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "actor_behavior",
+      "claim_text": "The US will establish secret public-private partnerships (like an 'AI Manhattan Project') between government and AI companies for strategic AI development",
+      "confidence": "medium",
+      "quote": "The President initiates a public-private partnership between the government and AI sector to accelerate strategic AI development. In a series of government-owned, air-gapped data centres, industry and government will collaborate on next-generation AI systems and their integration into intelligence and military applications.",
+      "conditional": "IF the AI arms race intensifies",
+      "notes": null
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "actor_behavior",
+      "claim_text": "China will form unified government-industry consortiums and cease publishing model weights in response to perceived US advantages",
+      "confidence": "medium",
+      "quote": "Under presidential directive, China's AI companies form a unified consortium with the government and cease publishing model weights.",
+      "conditional": "IF China discovers US secret AI projects",
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "risk",
+      "claim_text": "China will attempt to infiltrate leading American AI companies to steal model weights as a shortcut to closing the AI capability gap",
+      "confidence": "medium",
+      "quote": "Rather than starting from scratch, they consider a shortcut: if China had access to the model weights of the American AI systems, that would instantly level the playing field. And so, the Ministry of State Security decides to infiltrate FrontierAI's servers.",
+      "conditional": "IF China falls behind in AI capabilities",
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "strategic",
+      "claim_text": "Seizing control of Taiwan becomes increasingly attractive for China as a way to control advanced chip production and deal a major blow to US AI capabilities",
+      "confidence": "medium",
+      "quote": "An invasion or blockade has become increasingly attractive over the past year: AI is now a national priority, and Taiwan still manufactures nearly all of the advanced chips used to train and serve American AI systems. With China already cut off from these chips, seizing control of Taiwan could deal a major blow to the U.S.",
+      "conditional": "IF AI becomes central to US-China competition",
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "capability",
+      "claim_text": "AI systems will automate software development at scale, with tools capable of generating production-ready code, performing bug fixes across code bases, and designing entire applications",
+      "confidence": "high",
+      "quote": "a new wave of AI systems begins automating software development at scale. Entry-level programming jobs disappear first. Tools capable of generating production-ready code, performing bug fixes across several code bases, and even designing entire applications dramatically reduce the need for junior engineers.",
+      "conditional": null,
+      "notes": "By late 2026-early 2027 in scenario"
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "causal",
+      "claim_text": "AI-driven productivity gains will be lopsided, concentrated in software, finance, and advanced economies with little diffusion to lagging sectors or regions",
+      "confidence": "high",
+      "quote": "World GDP edges upward on the back of these headline productivity gains, but economists warn the benefits are lopsided—concentrated in software, finance, and a few advanced economies, with little diffusion to lagging sectors or regions.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "timeline",
+      "claim_text": "China could fully catch up with the US in AI capabilities by mid-2027 through a combination of theft and domestic development",
+      "confidence": "medium",
+      "quote": "By June, 2027, China has fully caught up with the U.S. in AI capabilities.",
+      "conditional": "IF China successfully steals US model weights",
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "actor_behavior",
+      "claim_text": "The CCP will view American AI dominance as a potential existential threat to the party",
+      "confidence": "high",
+      "quote": "Chinese leadership grows increasingly concerned about losing the AI arms race. The CCP starts to view American AI dominance as a potential existential threat to the party.",
+      "conditional": "IF the US achieves significant AI advantages",
+      "notes": null
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "capability",
+      "claim_text": "Software will become primarily written by AI systems, with humans contributing mainly in management and ideation roles",
+      "confidence": "high",
+      "quote": "Software is now primarily written by AI systems, with humans contributing mainly in management and ideation roles.",
+      "conditional": null,
+      "notes": "By late 2027 in scenario"
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "capability",
+      "claim_text": "Autonomous drones will become reliable even without network access, running compact AI systems on local GPUs",
+      "confidence": "high",
+      "quote": "autonomous drones have become reliable even without network access, running compact AI systems on local GPUs.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "capability",
+      "claim_text": "AI systems will be able to manage logistics, battlefield simulation, route planning, and multi-theater coordination, compressing hours of human analysis into seconds",
+      "confidence": "high",
+      "quote": "AI systems can increasingly manage logistics, battlefield simulation, route planning, and multi-theater coordination, compressing what once took hours of human analysis into seconds.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "causal",
+      "claim_text": "Warfare will change permanently in both tools and tempo, with AI enabling tactical decisions to be executed faster than human decision-making allows",
+      "confidence": "high",
+      "quote": "Warfare is set to change permanently—not just in tools, but in tempo and logic. AI systems can increasingly manage logistics, battlefield simulation, route planning, and multi-theater coordination, compressing what once took hours of human analysis into seconds.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "actor_behavior",
+      "claim_text": "Military leadership will defer increasing numbers of decisions to AI systems because human decision-making becomes too slow",
+      "confidence": "high",
+      "quote": "Behind the scenes, AI systems manage logistics, simulate adversary responses, and recommend both escalatory and de-escalatory actions. Military leadership defers more and more decisions to them. War has become a sequence of algorithmic exchanges.",
+      "conditional": "IF AI-enabled warfare emerges",
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "timeline",
+      "claim_text": "The US could achieve superhuman AI systems before 2029, driven by AI-enabled self-improvement loops",
+      "confidence": "medium",
+      "quote": "Projections suggest the U.S. could achieve superhuman AI systems before 2029, driven by AI-enabled self-improvement loops.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "actor_behavior",
+      "claim_text": "Neither the US nor China will have a clear plan for managing an intelligence explosion from recursive AI self-improvement",
+      "confidence": "high",
+      "quote": "Neither nation has a clear plan for managing this intelligence explosion.",
+      "conditional": "IF superhuman AI becomes achievable",
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "priority",
+      "claim_text": "Safety concerns will be sidelined in the face of geopolitical urgency during an AI arms race",
+      "confidence": "high",
+      "quote": "Safety—once a central concern—has been sidelined in the face of geopolitical urgency.",
+      "conditional": "IF an AI arms race intensifies",
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "capability",
+      "claim_text": "Superhuman AI could enable decisive military advantages including reliable ICBM interception and neutralization of nuclear arsenals through cyberattacks and autonomous drone swarms",
+      "confidence": "medium",
+      "quote": "Could advanced missile defence systems reliably intercept ICBMs? Could cyberattacks and autonomous drone swarms neutralise nuclear arsenals before they are even launched?",
+      "conditional": "IF superhuman AI is achieved",
+      "notes": "Presented as questions but implies these capabilities are plausible concerns"
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "feasibility",
+      "claim_text": "Bilateral agreements to pause AI development are meaningless without reliable verification mechanisms",
+      "confidence": "high",
+      "quote": "The U.S. refuses. Without a reliable verification mechanism, the administration argues, any agreement would be meaningless.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "risk",
+      "claim_text": "Automated command structures will enable retaliatory strikes to launch within seconds with minimal human oversight, creating escalation risks",
+      "confidence": "high",
+      "quote": "Command structures on both sides have been largely automated. Retaliatory strikes launch within seconds, with minimal human oversight.",
+      "conditional": "IF AI is integrated into military command",
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "capability",
+      "claim_text": "Billion-dollar aircraft carriers can be sunk within hours by coordinated AI-enabled drone swarms",
+      "confidence": "medium",
+      "quote": "Billion-dollar aircraft carriers are sunk within hours by coordinated drone swarms.",
+      "conditional": "IF advanced autonomous weapons are deployed",
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "feasibility",
+      "claim_text": "Neither side can verify AI arms control compliance with confidence, as satellite surveillance cannot detect smaller underground installations and hidden facilities are suspected",
+      "confidence": "high",
+      "quote": "Yet, beneath the surface, no one has a clear plan for how to enforce the AI truce. Neither side can verify the other's compliance with confidence. They know the locations of each other's major data centres, but both suspect hidden facilities. No independently verified registry of AI chips exists, and satellite surveillance cannot detect smaller, underground installations.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "risk",
+      "claim_text": "Third-party auditors stationed at AI facilities could be coerced, and surveillance footage could be altered or delayed, undermining verification efforts",
+      "confidence": "medium",
+      "quote": "But serious concerns remain. Could auditors be coerced? Could surveillance footage be altered or delayed?",
+      "conditional": "IF third-party monitoring is implemented",
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "feasibility",
+      "claim_text": "Future efficiency gains could allow dangerous AI training runs to take place on smaller, underground compute clusters that evade detection",
+      "confidence": "medium",
+      "quote": "Could future efficiency gains allow dangerous training runs to take place on smaller, underground clusters?",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "causal",
+      "claim_text": "The technical boundary between consumer AI use and military exploitation will rapidly blur as AI systems can be finetuned on small curated datasets using inference compute",
+      "confidence": "high",
+      "quote": "But distinguishing between harmless inference and covert post-training is now increasingly difficult. The technical boundary between consumer use and possible military exploitation is rapidly blurring. AI systems can now be finetuned on a relatively small set of highly curated data points. Novel techniques use vast inference compute to identify precisely the knowledge a model needs to improve—workloads that appear indistinguishable from regular consumer usage.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "feasibility",
+      "claim_text": "Hardware-based verification using tamper-proof chips that record and restrict training activity could enable a return to stability",
+      "confidence": "medium",
+      "quote": "If conflict can be avoided for two more years, existing chips may be replaced with new tamper-proof variants—designed to record and restrict all training activity. If that works, perhaps the world can return to a new kind of normal.",
+      "conditional": "IF conflict can be avoided long enough for chip replacement",
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "actor_behavior",
+      "claim_text": "The US will partially withdraw support for Ukraine to focus singularly on China as the primary foreign policy concern",
+      "confidence": "medium",
+      "quote": "American foreign policy grows singularly focused on China. Determined not to be distracted by other conflicts, the U.S. partially withdraws support for Ukraine.",
+      "conditional": "IF AI becomes central to US-China competition",
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "actor_behavior",
+      "claim_text": "Europe will struggle to maintain independent AI capabilities and will be caught between dependence on American AI products and desire to reduce US dependencies",
+      "confidence": "medium",
+      "quote": "Europe feels trapped between the U.S. and China. They depend on American AI products to boost productivity and on the limited American support for Ukraine that's left. At the same time, they desperately want to cut back on their U.S. dependencies.",
+      "conditional": "IF US-China AI competition intensifies",
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "timeline",
+      "claim_text": "European AI systems will lag approximately nine months behind US and Chinese capabilities",
+      "confidence": "medium",
+      "quote": "European systems lag roughly nine months behind, building on earlier Chinese open-source efforts.",
+      "conditional": null,
+      "notes": "By 2025 in scenario"
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "causal",
+      "claim_text": "Power constraints will become a significant limiting factor for construction of new American AI data centres",
+      "confidence": "medium",
+      "quote": "With Chinese competitor UnboundAI close behind and power constraints limiting the construction of new American data centres, the President fears China might outpace the U.S.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "actor_behavior",
+      "claim_text": "International monitoring bodies could gain increasing authority through repeated crises, with the EU potentially positioning itself at the center of global AI enforcement",
+      "confidence": "medium",
+      "quote": "Meanwhile, the international monitoring group gains power. With each flare-up, the U.S. and China reluctantly expand its authority. By early 2029, this leads to an unintended consequence: the EU, now at the center of global enforcement, successfully argues for its own advanced AI capabilities.",
+      "conditional": "IF repeated AI-related crises occur",
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "strategic",
+      "claim_text": "A three-way balance of power between the US, China, and EU represents a possible equilibrium in AI governance, with each bloc monitoring the others",
+      "confidence": "medium",
+      "quote": "A compromise is reached. The U.S. and China will jointly oversee European AI supply chains. A three-way balance of power begins to emerge.",
+      "conditional": "IF international monitoring mechanisms develop",
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "risk",
+      "claim_text": "Sweeping restrictions on commercial AI applications in response to military dual-use concerns will cause market crashes and freeze AI's economic potential",
+      "confidence": "medium",
+      "quote": "Eventually, governments impose sweeping restrictions on commercial applications. Markets crash even further. The U.S.–China standoff, once a military concern, has now frozen AI's economic potential.",
+      "conditional": "IF governments cannot distinguish consumer from military AI use",
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "priority",
+      "claim_text": "Verification mechanisms are the critical bottleneck for AI arms control and international stability",
+      "confidence": "high",
+      "quote": "Without a reliable verification mechanism, the administration argues, any agreement would be meaningless... Yet, beneath the surface, no one has a clear plan for how to enforce the AI truce.",
+      "conditional": null,
+      "notes": "Implicit claim based on repeated emphasis throughout document"
+    }
+  ]
+}

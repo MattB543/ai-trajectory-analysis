@@ -1,0 +1,364 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "timeline",
+      "claim_text": "There is greater than 10% probability that explosive growth (>30% annual GWP growth) will occur by 2100",
+      "confidence": "medium",
+      "quote": "Overall, I assign > 10% probability to explosive growth occurring this century. This is based on > 30% that we develop sufficiently advanced AI in time, and > 1/3 that explosive growth actually occurs conditional on this level of AI being developed.",
+      "conditional": null,
+      "notes": "Author's overall assessment combining AI development probability and growth impact probability"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "timeline",
+      "claim_text": "The probability of developing a 'virtual worker' AI (capable of any remote cognitive task at human level) by 2080 is approximately 45%",
+      "confidence": "medium",
+      "quote": "Overall, I'm currently at around ~45% that we will develop a virtual worker by 2080.",
+      "conditional": null,
+      "notes": "Based on expert surveys, Ajeya Cotra's framework, and author's own framework"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "causal",
+      "claim_text": "GWP growth has significantly accelerated over the last 10,000 years, following a super-exponential pattern rather than constant exponential growth",
+      "confidence": "high",
+      "quote": "Growth rates have significantly increased (super-exponential growth) over the past 10,000 years, and even over the past 300 years. This is true both for GWP growth, and frontier GDP/capita growth.",
+      "conditional": null,
+      "notes": "Based on empirical historical data, though data quality decreases for older periods"
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "causal",
+      "claim_text": "The demographic transition around 1880 broke the causal link from output to population, ending the period of super-exponential growth",
+      "confidence": "high",
+      "quote": "After the demographic transition in ~1880, more output did not lead to more people; instead people had fewer children as output increased. This broke the ideas feedback loop, and so idea-based theories expect growth to stop increasing shortly after the time. Indeed, this is what happened.",
+      "conditional": null,
+      "notes": "Central to the report's explanation of why super-exponential growth ended"
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "causal",
+      "claim_text": "If AI systems can substitute very effectively for human labor, this would recreate the conditions for super-exponential growth by making labor accumulable again",
+      "confidence": "high",
+      "quote": "Suppose we develop AI systems that can substitute very effectively for human labor in producing output and in R&D. The following ideas feedback loop could occur: more ideas → more output → more AI systems → more ideas… Before 1880, the ideas feedback loop led to super-exponential growth. So our default expectation should be that this new ideas feedback loop will again lead to super-exponential growth.",
+      "conditional": "IF AI systems can effectively substitute for human labor",
+      "notes": "Core theoretical mechanism linking AI to explosive growth"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "capability",
+      "claim_text": "A wide range of growth models predict explosive growth if capital can substitute for labor with elasticity of substitution greater than 1",
+      "confidence": "high",
+      "quote": "If you alter these models with the assumption that capital can substitute very effectively for labor, e.g. due to the development of advanced AI systems, they typically predict explosive growth.",
+      "conditional": "IF capital can substitute for labor effectively",
+      "notes": "Applies to both exogenous and endogenous growth models"
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "causal",
+      "claim_text": "Frontier GDP/capita has grown at approximately 2% annually for the last 150 years with remarkable constancy",
+      "confidence": "high",
+      "quote": "Since 1900, frontier GDP/capita has grown at about 2% annually. There is no sign that growth is speeding up; if anything recent data suggests that growth is slowing down.",
+      "conditional": null,
+      "notes": "The 'standard story' baseline for extrapolation"
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "causal",
+      "claim_text": "Semi-endogenous growth models best explain the recent period of exponential growth, and they predict that slowing population growth will cause GDP/capita growth to slow",
+      "confidence": "medium",
+      "quote": "Semi-endogenous growth models seem to have a good fit to the recent period of exponential growth... When you plug this assumption into semi-endogenous growth models, they predict that GDP/capita growth will slow.",
+      "conditional": "IF population growth slows as UN projects",
+      "notes": "Author assigns ~75% weight to semi-endogenous models"
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "feasibility",
+      "claim_text": "Explosive growth would require AI that substantially accelerates the automation of a very wide range of tasks in production, R&D, and implementation of new technologies",
+      "confidence": "medium",
+      "quote": "Overall, what level of AI would be sufficient for explosive growth? Based on a number of models, I think that explosive growth would require AI that substantially accelerates the automation of a very wide range of tasks in the production of goods and services, R&D, and the implementation of new technologies.",
+      "conditional": null,
+      "notes": "Author's synthesis across multiple growth models"
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "causal",
+      "claim_text": "Increasing returns to accumulable inputs (labor, capital, and technology) drove accelerating growth over the last 10,000 years",
+      "confidence": "medium",
+      "quote": "Increasing returns to these accumulable factors accelerated GWP growth... This theory implies that explosive growth could occur by 2100. If automation proceeded sufficiently rapidly (e.g. due to progress in AI) there would be increasing returns to capital and technology alone.",
+      "conditional": null,
+      "notes": "Based on idea-based endogenous growth models"
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "causal",
+      "claim_text": "Ideas are getting harder to find, with exponential growth in researchers needed to sustain constant GDP/capita growth",
+      "confidence": "high",
+      "quote": "There is good evidence that ideas are getting harder to find. In particular, it seems that exponential growth in the number of researchers is needed to sustain constant exponential growth in technology (TFP).",
+      "conditional": null,
+      "notes": "Based on Bloom et al. (2020) finding φ = -2.1"
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "feasibility",
+      "claim_text": "Diminishing returns to R&D do not prevent explosive growth if AI systems can replace human workers, because research effort can grow super-exponentially",
+      "confidence": "medium",
+      "quote": "The models I have been discussing take this dynamic into account. They find that, with realistic parameter values, increasing returns to accumulable inputs is powerful enough to overcome diminishing returns to technological progress if AI systems can replace human workers.",
+      "conditional": "IF AI systems can replace human workers",
+      "notes": "Key response to objection about diminishing returns"
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "other",
+      "claim_text": "Expert economists assign very low probabilities (<<1%) to explosive growth by 2100, with all experts assigning less than 10% probability",
+      "confidence": "high",
+      "quote": "All experts thought it 90% likely that the average annual GDP/capita growth out to 2100 would be below 5%... Strictly speaking, the survey data is compatible with experts thinking there is a 9% probability of explosive growth this century, but this seems unlikely in practice.",
+      "conditional": null,
+      "notes": "From Christensen (2018) expert survey; experts may not have considered AI scenarios"
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "feasibility",
+      "claim_text": "Both explosive growth and stagnation (sub-exponential growth) are plausible scenarios for the 21st century",
+      "confidence": "high",
+      "quote": "Thus I conclude that the possibilities for long-run growth are wide open. Both explosive growth and stagnation are plausible.",
+      "conditional": null,
+      "notes": "Author's overall conclusion about range of possibilities"
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "timeline",
+      "claim_text": "Roodman's long-run growth model predicts explosive growth by 2043 (median), with 10% probability by 2033 and 90% probability by 2063",
+      "confidence": "medium",
+      "quote": "you can ask the model in Roodman (2020) 'When will be the first year of explosive growth?' Its median prediction is 2043 and the 80% confidence range is [2034, 2065].",
+      "conditional": null,
+      "notes": "Based on fitting model to long-run GWP data; author considers this too aggressive"
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "causal",
+      "claim_text": "The non-rival nature of ideas/technology is crucial for creating increasing returns to scale in accumulable factors",
+      "confidence": "high",
+      "quote": "The key is the insight, from Romer (1990), that technology is non-rival. If you use a new solar panel design in your factory, that doesn't prevent me from using that same design in my factory... Imagine also doubling the level of technology. We'd still have twice as many factories and twice as many workers, but now each factory would now be more productive. Output would more than double.",
+      "conditional": null,
+      "notes": "Fundamental mechanism in endogenous growth theory"
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "other",
+      "claim_text": "30% annual growth is far outside the historically observed range, with even China's peak catch-up growth never exceeding 10%",
+      "confidence": "high",
+      "quote": "Even when China was charging through catch-up growth it never sustained more than 10% growth. So 30% is out of the question.",
+      "conditional": null,
+      "notes": "Author ultimately finds this objection unconvincing given historical increases in growth rates"
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "causal",
+      "claim_text": "Historical precedent shows growth rates have repeatedly increased to levels far outside the previously observed range",
+      "confidence": "high",
+      "quote": "If you had applied this reasoning in the past, you would have been repeatedly led into error. The 0.3% GWP growth of 1400 was higher than the previously observed range, and the 3% GWP growth of 1900 was higher than the previously observed range.",
+      "conditional": null,
+      "notes": "Key response to 'out of range' objection"
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "feasibility",
+      "claim_text": "There are no clear signs of explosive growth in current macroeconomic variables, suggesting it won't occur within the next couple of decades",
+      "confidence": "medium",
+      "quote": "The absence of these signs in macroeconomic data is reason to doubt explosive growth will occur within the next couple of decades. Beyond this time frame, it is hard to draw conclusions.",
+      "conditional": null,
+      "notes": "Based on Nordhaus (2021) analysis"
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "feasibility",
+      "claim_text": "Unanticipated bottlenecks (regulation, resource extraction, physical experiments, human adjustment) might prevent explosive growth even with advanced AI",
+      "confidence": "medium",
+      "quote": "I do think that there is some chance that one of these bottlenecks will prevent explosive growth... personally place less than 50% probability on a bottleneck preventing 30% GWP growth.",
+      "conditional": "IF advanced AI is developed",
+      "notes": "Author assigns ~25% probability to bottlenecks preventing explosive growth given AI"
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "feasibility",
+      "claim_text": "Large human economies have already grown at 10% annually, suggesting 30% growth (only 3x faster) is physically possible",
+      "confidence": "medium",
+      "quote": "Large human economies have already grown at 10% per year (admittedly via catch up growth), explosive growth would only be 3X as fast.",
+      "conditional": null,
+      "notes": "Argument against physical impossibility of 30% growth"
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "causal",
+      "claim_text": "Past automation has not increased growth rates because non-automated sectors bottleneck overall growth",
+      "confidence": "medium",
+      "quote": "A plausible explanation for why previous automation hasn't caused explosive growth is that growth ends up being bottlenecked by non-automated tasks.",
+      "conditional": null,
+      "notes": "Explains why AI automation could be different from past automation"
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "feasibility",
+      "claim_text": "Full automation of all tasks is plausible because humans have a finite set of capabilities that could eventually be matched by machines",
+      "confidence": "low",
+      "quote": "One reason to think full automation is plausible is that humans may ultimately have a finite set of capabilities (including the capability to learn certain types of new tasks quickly). Once we've developed machines with the same capabilities across the board, there will be nothing more to automate.",
+      "conditional": null,
+      "notes": "Speculative argument for full automation possibility"
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "feasibility",
+      "claim_text": "A few essential but unautomated tasks could bottleneck growth, preventing explosive growth even with widespread automation",
+      "confidence": "medium",
+      "quote": "This correctly highlights that AI may lead to very widespread automation without explosive growth occurring. One possibility is that an essential task isn't automated because we care intrinsically about having a human perform the task, e.g. a carer.",
+      "conditional": "IF some essential tasks remain unautomated",
+      "notes": "Based on Aghion et al. (2017) task-based model"
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "other",
+      "claim_text": "Standard growth models used to project GWP to 2100 exclusively use post-1900 data and assume constant exponential technology growth",
+      "confidence": "high",
+      "quote": "Most of them treated technology as exogenous, typically assuming that technology will advance at a constant exponential rate... The papers I've seen exclusively use post-1900 data, and often only post-1950 data.",
+      "conditional": null,
+      "notes": "Critique of standard forecasting approaches"
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "other",
+      "claim_text": "Constant exponential growth is a knife-edge condition in many endogenous growth models, requiring precise parameter values with no theoretical justification",
+      "confidence": "high",
+      "quote": "In endogenous growth models, long-run growth is typically only exponential if some knife-edge condition holds. A parameter of the model must be exactly equal to some specific value; the smallest disturbance in this parameter leads to completely different long-run behavior, with growth either approaching infinity or falling to 0.",
+      "conditional": null,
+      "notes": "Technical critique of endogenous growth theory; author assigns ~75% to semi-endogenous models that avoid some knife-edges"
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "causal",
+      "claim_text": "The demographic transition, not steeper diminishing returns to R&D, was the key factor ending super-exponential growth in the 20th century",
+      "confidence": "medium",
+      "quote": "However, I investigated this possibility and came away thinking that diminishing returns probably didn't explain the end of super-exponential growth... This all suggests that the demographic transition, not diminishing returns, is the crucial factor in explaining the end of super-exponential growth",
+      "conditional": null,
+      "notes": "Based on endogenous growth model analysis"
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "other",
+      "claim_text": "The quality of pre-modern economic data (before ~1500) is highly uncertain, undermining confidence in long-run growth models",
+      "confidence": "high",
+      "quote": "We have terrible data on GWP before ~1500, so the results of models trained on this 'data' are meaningless... However, they do undermine the empirical support for these models, and the degree of trust we should have in their conclusions.",
+      "conditional": null,
+      "notes": "Important caveat about data quality"
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "feasibility",
+      "claim_text": "If AI drives explosive growth, it could occur within years to decades rather than centuries",
+      "confidence": "low",
+      "quote": "For reasons not discussed in this report, I believe this is conservative and that developing a virtual worker would drive explosive growth within years rather than decades.",
+      "conditional": "IF AI robots/virtual workers are developed",
+      "notes": "Author's view, though not extensively justified in report"
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "other",
+      "claim_text": "Growth in frontier economies has been roughly exponential for 150 years, but this may be a transitional period rather than a steady state",
+      "confidence": "medium",
+      "quote": "It was harder than I expected to for growth theories to adequately explain why income growth should be exponential in a steady state (rather than sub- or super-exponential). So I put more probability on the recent period of exponential growth being transitory, rather than part of a steady state.",
+      "conditional": null,
+      "notes": "Increases uncertainty about continuation of current trend"
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "timeline",
+      "claim_text": "AI practitioners assign approximately 30-60% probability to full automation by 2080, depending on question framing",
+      "confidence": "medium",
+      "quote": "A survey of AI practitioners asked them about the probability of developing AI that would enable full automation. Averaging their responses, they assigned ~30% or ~60% probability to this possibility by 2080, depending on how the question is framed.",
+      "conditional": null,
+      "notes": "From Grace et al. (2017) survey; significant framing effects"
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "priority",
+      "claim_text": "Understanding the plausibility of explosive growth is important for assessing AI timelines and prioritizing Open Philanthropy's cause areas",
+      "confidence": "high",
+      "quote": "Open Philanthropy wants to understand how far away we are from developing transformative artificial intelligence (TAI). Difficult as it is, a working timeline for TAI helps us prioritize between our cause areas, including potential risks from advanced AI.",
+      "conditional": null,
+      "notes": "Motivates the entire report"
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "other",
+      "claim_text": "Recent GWP growth (1970-2020) has been slower than long-run models predict, but not extremely surprising",
+      "confidence": "medium",
+      "quote": "1990, 2000, 2010, and 2019 GWP are between the 20th and 30th percentiles, so are surprising but not hugely surprising.",
+      "conditional": null,
+      "notes": "Roodman's model is 'somewhat surprised' but data not in sharp conflict"
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "causal",
+      "claim_text": "A simple power law fits GWP data from 10,000 BCE to present remarkably well",
+      "confidence": "high",
+      "quote": "It turns out that a simple equation called a 'power law' is a good fit to GWP data going all the way back to 10,000 BCE.",
+      "conditional": null,
+      "notes": "Based on Roodman (2020) analysis"
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "feasibility",
+      "claim_text": "Market dynamics and regulation could create bottlenecks that prevent explosive growth even with capable AI systems",
+      "confidence": "medium",
+      "quote": "The economic models predicting explosive growth ignore many possible bottlenecks that might slow growth. Examples include regulation of the use of AI systems, extracting and transporting important materials, conducting physical experiments on the world needed to make social and technological progress",
+      "conditional": "IF advanced AI is developed",
+      "notes": "Partial list of potential bottlenecks"
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "other",
+      "claim_text": "The author's overall probability distribution assigns ~30% to explosive growth, ~8% to significant growth increase (5-30%), ~25% to exponential growth, and ~40% to sub-exponential growth by 2100",
+      "confidence": "medium",
+      "quote": "Explosive growth, g > 30%: There's a period, lasting > 10 years and beginning before 2100, in which g > 30%: ~30%. Significant growth increase, 5% < g < 30%: ~8%. Exponential growth, 1.5% < g < 5%: ~25%. Sub-exponential growth, g < 1.5%: ~40%.",
+      "conditional": null,
+      "notes": "Author's final probability distribution across scenarios"
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "causal",
+      "claim_text": "In models where capital can substitute for labor, capital's share of output increases, leading to larger returns to accumulable inputs and faster growth",
+      "confidence": "high",
+      "quote": "The basic story is: capital substitutes more effectively for labor → capital's share of output increases → larger returns to accumulable inputs → faster growth.",
+      "conditional": "IF capital can substitute for labor",
+      "notes": "Core mechanism in models adjusted for AI"
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "feasibility",
+      "claim_text": "If AI enables full automation of both goods production and R&D, explosive growth is likely regardless of diminishing returns to R&D",
+      "confidence": "high",
+      "quote": "Full automation of goods production would lead to super-exponential growth, no matter what the value of φ.",
+      "conditional": "IF full automation of goods and R&D",
+      "notes": "φ represents diminishing returns parameter"
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "other",
+      "claim_text": "The increasing-returns mechanism offers a plausible explanation for very long-run growth, though it's not the whole story",
+      "confidence": "medium",
+      "quote": "Overall, I think it's likely that the increasing-returns mechanism plays an important role in explaining very long-run growth. As such I think we should take long-run explosive models seriously (if population is accumulable). That said, they are not the whole story; important structural changes happened around the industrial revolution.",
+      "conditional": null,
+      "notes": "Balanced assessment of long-run growth theories"
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "feasibility",
+      "claim_text": "Even without full automation, there could be temporary but significant increases in growth before bottlenecks apply",
+      "confidence": "medium",
+      "quote": "There may be a long time before non-automated tasks become a bottleneck in practice, and growth may rise considerably during this time... This explosive growth would end once spending on human carers is a large fraction of GDP.",
+      "conditional": "IF some tasks remain unautomated",
+      "notes": "Addresses possibility of partial automation effects"
+    }
+  ]
+}

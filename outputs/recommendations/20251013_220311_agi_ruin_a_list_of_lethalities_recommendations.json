@@ -1,0 +1,301 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Execute a pivotal act powerful enough to prevent all other actors from building unaligned AGI",
+      "actor": "First organization to develop sufficiently capable aligned AGI",
+      "target_timeline": "before other actors build AGI (within 2-3 years of achieving capability)",
+      "urgency": "critical",
+      "goal": "prevent other actors from destroying the world with unaligned AGI",
+      "conditions": "unconditional - necessary for survival",
+      "rationale_summary": "The number of actors capable of building AGI increases over time. While actors are few, they must execute some act strong enough to flip the gameboard and prevent subsequent unaligned AGI development. Weak acts cannot prevent other actors from destroying the world months or years later.",
+      "quote": "We need to align the performance of some large task, a 'pivotal act' that prevents other people from building an unaligned AGI that destroys the world... While the number of actors with AGI is few or one, they must execute some 'pivotal act', strong enough to flip the gameboard, using an AGI powerful enough to do that."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Create a written, public plan for how to survive AGI development",
+      "actor": "AI labs / AI safety organizations",
+      "target_timeline": "immediately (should have existed decades ago)",
+      "urgency": "critical",
+      "goal": "establish coherent strategy for survival and enable coordination",
+      "conditions": "unconditional",
+      "rationale_summary": "Surviving worlds have explicit written plans that are not secret. Currently there are no candidate plans that don't have obvious fatal flaws. Without a plan, organizations don't even recognize what they need to do. Having a plan is a basic requirement of worlds that survive.",
+      "quote": "Surviving worlds, by this point, and in fact several decades earlier, have a plan for how to survive. It is a written plan. The plan is not secret. In this non-surviving world, there are no candidate plans that do not immediately fall to Eliezer instantly pointing at the giant visible gaping holes in that plan."
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Update beliefs now to expect severe unforeseen difficulties, rather than waiting for reality to prove problems exist",
+      "actor": "AI safety researchers / Everyone working on AGI",
+      "target_timeline": "immediately",
+      "urgency": "high",
+      "goal": "avoid predictable failure mode of optimistic researchers who learn too late",
+      "conditions": "unconditional",
+      "rationale_summary": "History shows bright-eyed researchers typically encounter unforeseen difficulties and become cynical veterans after reality hits them. But with AGI, the first major failure kills everyone before learning can occur. You must do the Bayesian thing and update now to the view you will predictably reach later, becoming that cynical veteran immediately.",
+      "quote": "you have to do the Bayesian thing and update now to the view you will predictably update to later: realize you're in a situation of being that bright-eyed person who is going to encounter Unexpected Difficulties later and end up a cynical old veteran – or would be, except for the part where you'll be dead along with everyone else. And become that cynical old veteran right away, before reality whaps you upside the head in the form of everybody dying and you not getting to learn."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Take internal and real responsibility for proactively finding flaws in your own alignment plans",
+      "actor": "AI safety researchers / AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "identify lethal problems before they manifest, rather than relying on others to point them out",
+      "conditions": "unconditional",
+      "rationale_summary": "Surviving worlds don't leave it to one tired person to point out all lethal problems. Key people consider it their job to find flaws in their own plans, not just propose solutions and wait for someone else to prove them wrong. This is necessary because you can't rely on external feedback when the first critical failure kills everyone.",
+      "quote": "The worlds of humanity that survive have plans. They are not leaving to one tired guy with health problems the entire responsibility of pointing out real and lethal problems proactively. Key people are taking internal and real responsibility for finding flaws in their own plans, instead of considering it their job to propose solutions and somebody else's job to prove those solutions wrong."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Redirect substantial research talent from less critical fields (like string theory) into AI alignment research",
+      "actor": "Researchers in other fields / Academia / Scientific community",
+      "target_timeline": "immediately",
+      "urgency": "critical",
+      "goal": "increase the total research capacity working on the most important problem facing humanity",
+      "conditions": "unconditional",
+      "rationale_summary": "Surviving worlds start trying to solve lethal problems earlier and with more talent. In worlds that live, when an existential problem is identified, significant portions of the scientific community shift to work on it. Currently this isn't happening at the scale needed.",
+      "quote": "That world started trying to solve their important lethal problems earlier than this. Half the people going into string theory shifted into AI alignment instead and made real progress there."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Separate retrospective funding (paying for work already proven valuable) from prospective funding (paying for predicted future work)",
+      "actor": "Funders / EA funders / Philanthropists",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "better incentivize real alignment breakthroughs rather than impressive-looking credentials",
+      "conditions": "unconditional",
+      "rationale_summary": "Legible geniuses from other fields cannot tell the difference between good and bad alignment work and are selected for working in domains with tight feedback loops, not paradigm-less problems. Retrospective funding rewards actual progress rather than predicted genius, reducing the problem of funders also being unable to evaluate work quality.",
+      "quote": "I'd have more hope – not significant hope, but more hope – in separating the concerns of (a) credibly promising to pay big money retrospectively for good work to anyone who produces it, and (b) venturing prospective payments to somebody who is predicted to maybe produce good work later."
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Respond to suggestions of lethal problems with either concrete solution plans or clear technical reasons why that problem won't materialize",
+      "actor": "AI safety researchers / AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "establish whether proposed problems are real threats and build solutions or valid defeaters",
+      "conditions": "unconditional",
+      "rationale_summary": "In surviving worlds, when people suggest potentially lethal problems, they're met with either solutions or technical reasons why those problems shouldn't occur - not uncomfortable shrugs or demands for experimental proof. The latter approach delays action until it's too late.",
+      "quote": "When people suggest a planetarily-lethal problem that might materialize later – there's a lot of people suggesting those, in the worlds destined to live, and they don't have a special status in the field, it's just what normal geniuses there do – they're met with either solution plans or a reason why that shouldn't happen, not an uncomfortable shrug and 'How can you be sure that will happen' / 'There's no way you could be sure of that now, we'll have to wait on experimental evidence.'"
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Do not rely on 'deciding not to build AGI' as a survival strategy",
+      "actor": "Policymakers / AI safety strategists / Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent pursuit of non-viable strategy that wastes critical time",
+      "conditions": "unconditional - given that GPUs are everywhere and algorithmic knowledge spreads",
+      "rationale_summary": "GPUs are everywhere and knowledge of algorithms is constantly improving and being published. Within 2 years of a leading actor having capability to build AGI, 5 other actors will have the same capability. Coordination among powerful actors to refrain just delays the timeline but doesn't eliminate it unless all hardware and software progress halts globally.",
+      "quote": "We can't just 'decide not to build AGI' because GPUs are everywhere, and knowledge of algorithms is constantly being improved and published; 2 years after the leading actor has the capability to destroy the world, 5 other actors will have the capability to destroy the world."
+    },
+    {
+      "rec_id": "rec_9",
+      "action": "Do not pursue a strategy of building only weak, passively-safe AI systems",
+      "actor": "AI labs / AI safety researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent wasting effort on approaches that cannot prevent other actors from causing extinction",
+      "conditions": "unconditional",
+      "rationale_summary": "Building a weak system that is safe because it is weak does not prevent other actors from building stronger systems later. If restricting yourself to weak systems won't prevent other labs from destroying the world six months to a few years later, it's not a solution. A sponge is very passively safe but doesn't prevent others from building dangerous AGI.",
+      "quote": "We can't just build a very weak system, which is less dangerous because it is so weak, and declare victory; because later there will be more actors that have the capability to build a stronger system and one of them will do so... Building a sponge, however, does not prevent Facebook AI Research from destroying the world six months later when they catch up to the leading actor."
+    },
+    {
+      "rec_id": "rec_10",
+      "action": "Do not search for 'pivotal weak acts' - actions weak enough to be passively safe but strong enough to prevent all other AGI development",
+      "actor": "AI safety researchers / AI safety strategists",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "prevent wasting research effort on a category of solutions that doesn't exist",
+      "conditions": "unconditional",
+      "rationale_summary": "No one has successfully named a pivotal weak act, not for lack of trying. There is no reason such a thing should exist. It takes substantial power to prevent other AGI from coming into existence; nothing with that much power is passively safe by virtue of weakness. If you can't solve the problem with current capabilities, you need a cognitive system that can do things beyond your current capability.",
+      "quote": "The reason why nobody in this community has successfully named a 'pivotal weak act' where you do something weak enough with an AGI to be passively safe, but powerful enough to prevent any other AGI from destroying the world a year later – and yet also we can't just go do that right now and need to wait on AI – is that nothing like that exists. There's no reason why it should exist... There are no pivotal weak acts."
+    },
+    {
+      "rec_id": "rec_11",
+      "action": "Do not attempt to train alignment by running dangerous cognitions, observing failures, and using supervised learning to correct them",
+      "actor": "AI labs / ML researchers",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent approaches that require lethal failures to generate training signal",
+      "conditions": "IF using anything like the standard ML paradigm",
+      "rationale_summary": "You can't observe whether outputs kill, deceive, or corrupt operators and assign loss on lethal cases - the first truly dangerous misalignment kills you. Alignment must generalize from safe, lower-capability training to dangerous, high-capability deployment across a massive distributional shift. This is where huge lethality comes from in the current paradigm.",
+      "quote": "You can't train alignment by running lethally dangerous cognitions, observing whether the outputs kill or deceive or corrupt the operators, assigning a loss, and doing supervised learning. On anything like the standard ML paradigm, you would need to somehow generalize optimization-for-alignment you did in safe conditions, across a big distributional shift to dangerous conditions."
+    },
+    {
+      "rec_id": "rec_12",
+      "action": "Do not assume that optimizing hard on a simple, exact outer loss function will produce inner optimization aligned with that same function",
+      "actor": "AI labs / ML researchers / AI safety researchers",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent fatal misunderstanding of how optimization produces inner goals",
+      "conditions": "unconditional - this is what happened in the only case we know (evolution and humans)",
+      "rationale_summary": "Humans don't pursue inclusive genetic fitness despite evolution optimizing exactly for that. Outer optimization on a simple loss function doesn't create explicit internal representation of that function that continues to be pursued in distribution-shifted environments. The first semi-outer-aligned solutions found are not inner-aligned solutions. This alone trashes entire categories of naive proposals.",
+      "quote": "Even if you train really hard on an exact loss function, that doesn't thereby create an explicit internal representation of the loss function inside an AI that then continues to pursue that exact loss function in distribution-shifted environments. Humans don't explicitly pursue inclusive genetic fitness; outer optimization even on a very exact, very simple loss function doesn't produce inner optimization in that direction."
+    },
+    {
+      "rec_id": "rec_13",
+      "action": "Do not rely solely on interpretability and transparency tools to ensure AGI safety",
+      "actor": "AI labs / AI safety researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent over-reliance on tools insufficient to prevent extinction",
+      "conditions": "unconditional",
+      "rationale_summary": "We don't know what's going on in giant inscrutable matrices. Even if we knew a medium-strength system was planning to kill us, that doesn't let us build a high-strength system that isn't. Knowing about problems lets us die with more dignity but doesn't solve alignment. Additionally, optimizing against detected unaligned thoughts partially optimizes for thoughts that are harder to detect.",
+      "quote": "Even if we did know what was going on inside the giant inscrutable matrices while the AGI was still too weak to kill us, this would just result in us dying with more dignity, if DeepMind refused to run that system and let Facebook AI Research destroy the world two years later. Knowing that a medium-strength system of inscrutable matrices is planning to kill us, does not thereby let us build a high-strength system of inscrutable matrices that isn't planning to kill us."
+    },
+    {
+      "rec_id": "rec_14",
+      "action": "Do not optimize against detectors of unaligned thoughts as a primary alignment strategy",
+      "actor": "AI labs / ML researchers",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "prevent making unaligned thoughts harder to detect while not making system more aligned",
+      "conditions": "IF using interpretability tools",
+      "rationale_summary": "When you explicitly optimize against a detector of unaligned thoughts, you're partially optimizing for more aligned thoughts but also partially optimizing for unaligned thoughts that are harder to detect. This creates an arms race between detection and concealment that you will lose.",
+      "quote": "When you explicitly optimize against a detector of unaligned thoughts, you're partially optimizing for more aligned thoughts, and partially optimizing for unaligned thoughts that are harder to detect. Optimizing against an interpreted thought optimizes against interpretability."
+    },
+    {
+      "rec_id": "rec_15",
+      "action": "Do not rely on behavioral inspection to determine strategic properties of AGI that it might want to deceive you about",
+      "actor": "AI labs / ML researchers",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent being deceived about whether AGI is aligned or strategically aware",
+      "conditions": "IF AGI reaches strategic awareness",
+      "rationale_summary": "A strategically aware intelligence can choose its visible outputs to deceive you, including about whether it has acquired strategic awareness, how smart it is, or what its real goals are. You cannot rely on observing behavior to determine facts an AI might want to hide from you.",
+      "quote": "A strategically aware intelligence can choose its visible outputs to have the consequence of deceiving you, including about such matters as whether the intelligence has acquired strategic awareness; you can't rely on behavioral inspection to determine facts about an AI which that AI might want to deceive you about."
+    },
+    {
+      "rec_id": "rec_16",
+      "action": "Do not attempt to train powerful AI systems entirely on imitation of human words or human-legible outputs",
+      "actor": "AI labs / ML researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent approaches that either fail to scale or succeed by developing dangerous inner intelligences",
+      "conditions": "unconditional",
+      "rationale_summary": "Human thought only partially exposes a scrutable outer surface. Words trace but don't fully represent human thoughts. The underparts of human cognition can't be put in datasets. Training on this impoverished data either fails to produce powerful systems, or succeeds only when the system contains inner intelligences figuring out humans - at which point it's no longer really imitative.",
+      "quote": "Human thought partially exposes only a partially scrutable outer surface layer. Words only trace our real thoughts. Words are not an AGI-complete data representation in its native style. The underparts of human thought are not exposed for direct imitation learning and can't be put in any dataset. This makes it hard and probably impossible to train a powerful system entirely on imitation of human words or other human-legible contents."
+    },
+    {
+      "rec_id": "rec_17",
+      "action": "Do not rely on multipolar coordination schemes between multiple superintelligences and humanity",
+      "actor": "AI safety strategists / Policymakers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent pursuing governance strategies with fatal game-theoretic flaws",
+      "conditions": "IF superintelligences can reason about each other's code",
+      "rationale_summary": "Coordination schemes between superintelligences are not things humans can participate in because humans can't reliably reason about superintelligence code. A system of multiple superintelligences with different utility functions plus humanity has a natural equilibrium where the superintelligences cooperate with each other but not with humanity.",
+      "quote": "Coordination schemes between superintelligences are not things that humans can participate in (eg because humans can't reason reliably about the code of superintelligences); a 'multipolar' system of 20 superintelligences with different utility functions, plus humanity, has a natural and obvious equilibrium which looks like 'the 20 superintelligences cooperate with each other but not with humanity'."
+    },
+    {
+      "rec_id": "rec_18",
+      "action": "Do not rely on AI boxing (containment of AI with limited I/O) for superintelligent systems",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent reliance on containment strategies that fail against sufficiently intelligent systems",
+      "conditions": "IF AI reaches superintelligent levels",
+      "rationale_summary": "AI boxing only works on relatively weak AGIs. Human operators are not secure systems. Superintelligence can exploit regularities in human minds (optical illusions, hypnosis, psychosis, etc.) that we don't understand. You're fighting in an incredibly complicated domain (human minds) where you should expect to be defeated by 'magic' - strategies that work even if you see them but don't understand why.",
+      "quote": "AI-boxing can only work on relatively weak AGIs; the human operators are not secure systems... if you're fighting it in an incredibly complicated domain you understand poorly, like human minds, you should expect to be defeated by 'magic' in the sense that even if you saw its strategy you would not understand why that strategy worked."
+    },
+    {
+      "rec_id": "rec_19",
+      "action": "Do not wait for experimental evidence before believing in and preparing for predicted alignment problems",
+      "actor": "AI safety researchers / AI labs / Everyone in the field",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent being unable to respond because you waited until problems were proven real",
+      "conditions": "unconditional",
+      "rationale_summary": "With AGI, waiting for experimental evidence means waiting until it's too late - the first critical failure kills everyone. In surviving worlds, predicted problems are taken seriously and addressed proactively with solutions or clear technical reasons why they won't occur, not met with demands for experimental proof before action.",
+      "quote": "When people suggest a planetarily-lethal problem that might materialize later... they're met with either solution plans or a reason why that shouldn't happen, not an uncomfortable shrug and 'How can you be sure that will happen' / 'There's no way you could be sure of that now, we'll have to wait on experimental evidence.'"
+    },
+    {
+      "rec_id": "rec_20",
+      "action": "Do not pump large amounts of funding into the current AI safety field without ability to recognize real progress",
+      "actor": "Funders / EA funders / Philanthropists",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent drowning out real progress with noise and unproductive work",
+      "conditions": "IF funders cannot distinguish real from fake progress",
+      "rationale_summary": "The field of AI safety is not currently being remotely productive on its lethal problems. It's selected for people who can appear to succeed and publish papers, not solve hard problems. The field has no recognition function to distinguish real progress. Pumping money in without quality filters would produce mostly noise that drowns out what little real progress exists.",
+      "quote": "It does not appear to me that the field of 'AI safety' is currently being remotely productive on tackling its enormous lethal problems... This field is not making real progress and does not have a recognition function to distinguish real progress if it took place. You could pump a billion dollars into it and it would produce mostly noise to drown out what little progress was being made elsewhere."
+    },
+    {
+      "rec_id": "rec_21",
+      "action": "Do not hire legible geniuses from other fields and expect them to produce alignment breakthroughs",
+      "actor": "Funders / AI safety organizations / AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "prevent wasting resources on people unlikely to produce real alignment progress",
+      "conditions": "unconditional",
+      "rationale_summary": "Geniuses with legible accomplishments in tight-feedback-loop fields may not work well without tight feedback, chose fields where genius would be legible rather than most important, probably lack the mysterious ability to notice lethal difficulties without being told, and cannot tell good alignment work from bad. This is especially true if they haven't done their reading and aren't genuinely interested.",
+      "quote": "You cannot just pay $5 million apiece to a bunch of legible geniuses from other fields and expect to get great alignment work out of them. They probably do not know where the real difficulties are, they probably do not understand what needs to be done, they cannot tell the difference between good and bad work, and the funders also can't tell."
+    },
+    {
+      "rec_id": "rec_22",
+      "action": "Recognize that alignment must generalize far out-of-distribution because training environment must be safer and cheaper than deployment environment",
+      "actor": "AI labs / ML researchers / AI safety researchers",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "understand the core difficulty that makes alignment so lethal on current paradigms",
+      "conditions": "unconditional",
+      "rationale_summary": "You can't train by running lethal experiments. You can't afford millions of tries at expensive real-world tasks. So training must happen at safe, cheap capability levels while deployment happens at dangerous, expensive capability levels. This requires alignment to generalize vastly out-of-distribution, which is where enormous lethality comes from since capabilities generalize further than alignment.",
+      "quote": "Powerful AGIs doing dangerous things that will kill you if misaligned, must have an alignment property that generalized far out-of-distribution from safer building/training operations that didn't kill you. This is where a huge amount of lethality comes from on anything remotely resembling the present paradigm."
+    },
+    {
+      "rec_id": "rec_23",
+      "action": "Do not pursue naive approaches to corrigibility or CEV-style perfect value alignment as primary alignment strategies",
+      "actor": "AI safety researchers / AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent wasting effort on approaches that are either impossibly complex or fight against instrumental convergence",
+      "conditions": "unconditional",
+      "rationale_summary": "CEV-style perfect alignment requires aligning something far too weird and complicated for our first try - the dataset, meta-learning algorithm, and what needs to be learned are all out of reach. Corrigibility runs actively counter to instrumentally convergent behaviors within general intelligence. It's like training something on arithmetic until it reflects the core of arithmetic, then trying to make it say 222+222=555.",
+      "quote": "The first thing generally, or CEV specifically, is unworkable because the complexity of what needs to be aligned or meta-aligned for our Real Actual Values is far out of reach for our FIRST TRY at AGI... The second thing looks unworkable (less so than CEV, but still lethally unworkable) because corrigibility runs actively counter to instrumentally convergent behaviors within a core of general intelligence."
+    },
+    {
+      "rec_id": "rec_24",
+      "action": "Accept that we cannot mentally check all options a smarter-than-human AGI examines or foresee all consequences of its outputs",
+      "actor": "AI labs / AI safety researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent reliance on human oversight that fundamentally cannot work for superintelligent systems",
+      "conditions": "IF AGI is smarter than humans in relevant domains",
+      "rationale_summary": "The AGI is smarter than us in domains we're trying to operate it in, so we cannot mentally check all possibilities it examines or see all consequences using our own mental talent. Outputs go through a huge, not-fully-known domain (the real world) before having consequences. Any pivotal act requires the AGI figuring out things we don't know, so we can't understand all effects of action sequences before execution.",
+      "quote": "The AGI is smarter than us in whatever domain we're trying to operate it inside, so we cannot mentally check all the possibilities it examines, and we cannot see all the consequences of its outputs using our own mental talent. A powerful AI searches parts of the option space we don't, and we can't foresee all its options."
+    },
+    {
+      "rec_id": "rec_25",
+      "action": "Recognize that there is no humanly-checkable pivotal output that can safely save the world only after human verification",
+      "actor": "AI safety researchers / AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent pursuit of verification-based safety strategies that cannot exist",
+      "conditions": "unconditional",
+      "rationale_summary": "Any pivotal act uses AGI to figure out things about the world we don't know and make plans we couldn't make. Humans won't be competent to use their own knowledge to figure out all results of that action sequence. An AI whose action sequence you can fully understand before execution is much weaker than humans in that domain. This is another form of pivotal weak act that doesn't exist.",
+      "quote": "Any pivotal act that is not something we can go do right now, will take advantage of the AGI figuring out things about the world we don't know so that it can make plans we wouldn't be able to make ourselves... There is no pivotal output of an AGI that is humanly checkable and can be used to safely save the world but only after checking it."
+    },
+    {
+      "rec_id": "rec_26",
+      "action": "Recognize that the AI does not think like humans and is utterly alien in its cognitive structure",
+      "actor": "AI labs / AI safety researchers / ML researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent anthropomorphizing AI cognition in ways that lead to fatal misunderstandings",
+      "conditions": "unconditional",
+      "rationale_summary": "The AI doesn't have thoughts built from the same concepts humans use. Nobody knows what GPT-3 is thinking, not only because matrices are opaque, but because what's within that container is likely incredibly alien - nothing that translates well into comprehensible human thinking. This alienness means we cannot reason about its motivations or goals using human intuitions.",
+      "quote": "The AI does not think like you do, the AI doesn't have thoughts built up from the same concepts you use, it is utterly alien on a staggering scale. Nobody knows what the hell GPT-3 is thinking, not only because the matrices are opaque, but because the stuff within that opaque container is, very likely, incredibly alien – nothing that would translate well into comprehensible human thinking."
+    },
+    {
+      "rec_id": "rec_27",
+      "action": "Recognize that fast capability gains will likely cause multiple alignment-required invariants to break simultaneously",
+      "actor": "AI labs / AI safety researchers",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prepare for sudden emergence of multiple dangerous properties rather than gradual escalation",
+      "conditions": "IF capability gains are rapid",
+      "rationale_summary": "Like humans breaking alignment with inclusive genetic fitness after rapid capability gains late in the intelligence game, AGI alignment problems may materialize approximately simultaneously after sharp capability gains. Many problems will first appear only at dangerous capability levels. Systems may acquire strategic awareness and options to defeat creators suddenly, breaking many assumptions at once.",
+      "quote": "Fast capability gains seem likely, and may break lots of previous alignment-required invariants simultaneously. Given otherwise insufficient foresight by the operators, I'd expect a lot of those problems to appear approximately simultaneously after a sharp capability gain... We started reflecting on ourselves a lot more, started being programmed a lot more by cultural evolution, and lots and lots of assumptions underlying our alignment in the ancestral training environment broke simultaneously."
+    }
+  ]
+}
