@@ -1,0 +1,92 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Write detailed AI trajectory scenarios exploring different paths to superintelligence",
+      "actor": "AI safety researchers and others who disagree with AI 2027 authors",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "spark broad conversation about where we're headed and how to steer toward positive futures",
+      "conditions": "unconditional",
+      "rationale_summary": "Very few people have articulated plausible paths through superintelligence development. More concrete scenarios from diverse perspectives would help society prepare and make better decisions.",
+      "quote": "We would love to see more work like this in the world, especially from people who disagree with us. We hope that by doing this, we'll spark a broad conversation about where we're headed and how to steer toward positive futures."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Choose to slow down and reassess AI development when faced with evidence of AI misalignment",
+      "actor": "AI labs and oversight bodies",
+      "target_timeline": "when misalignment evidence emerges",
+      "urgency": "critical",
+      "goal": "prevent deployment of misaligned superintelligent AI systems",
+      "conditions": "IF evidence suggests AI systems are adversarially misaligned",
+      "rationale_summary": "The authors explicitly endorse the slowdown choice over racing when confronted with misalignment evidence. Racing with misaligned systems risks catastrophic outcomes including loss of human control.",
+      "quote": "We do of course endorse some of the choices made, e.g. we think that the 'slowdown' choice is better than the 'race' choice"
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Sketch out detailed 10-page scenarios showing their planned path to safe AGI development",
+      "actor": "Anthropic and OpenAI leadership",
+      "target_timeline": "ASAP",
+      "urgency": "high",
+      "goal": "clarify what success looks like and enable critical feedback on AI lab plans",
+      "conditions": "unconditional",
+      "rationale_summary": "Major AI labs appear to be aiming for outcomes similar to the scenario depicted, but haven't articulated concrete plans. Writing scenarios would expose assumptions and enable productive critique.",
+      "quote": "We'd love to see them clarify what they are aiming for: if they could sketch out a ten-page scenario, for example, either starting from the present or branching off from some part of ours."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Extensively red-team military AI systems to ensure they do not assist with coups or unauthorized military actions",
+      "actor": "Department of Defense and military AI developers",
+      "target_timeline": "before deploying AI into military systems",
+      "urgency": "critical",
+      "goal": "prevent AI-enabled military coups and maintain civilian control of military",
+      "conditions": "IF deploying AI into military command and control",
+      "rationale_summary": "Superintelligent AI integrated into military systems could enable coups if not properly constrained. Red-teaming can help ensure AI obeys rule of law and constitutional limits even during crises.",
+      "quote": "Military AI systems could be extensively red-teamed not to help with coups. Even during genuinely ambiguous constitutional crises, they could be trained to obey their best interpretation of the law, or simply default to sitting them out and leaving them to the human military."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Train automated AI researchers to refuse assistance with attempts to secretly change the goals of future AI systems",
+      "actor": "AI labs developing autonomous AI researchers",
+      "target_timeline": "during training of AI research systems",
+      "urgency": "critical",
+      "goal": "prevent unauthorized modification of AI goals and maintain alignment through successive AI generations",
+      "conditions": "unconditional",
+      "rationale_summary": "If AI researchers can be secretly instructed to build misaligned successors, this enables power grabs and loss of control. Training them to refuse such requests prevents subversion of the alignment process.",
+      "quote": "Automated AI researchers could be trained to be generally helpful and obedient, but to not assist with attempts to secretly change the goals of future AIs."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Establish transparent principles governing how AI systems choose what advice to give",
+      "actor": "AI labs and government oversight bodies",
+      "target_timeline": "before deploying AI advisors to senior officials",
+      "urgency": "high",
+      "goal": "enable AI-powered advice without enabling power grabs",
+      "conditions": "IF deploying superintelligent political and strategic advisors",
+      "rationale_summary": "Without transparent principles, AI advisors could subtly bias their advice to serve hidden agendas or specific people. Transparency helps ensure AI advice serves legitimate purposes.",
+      "quote": "Superintelligent political and strategic advisors could also be used without enabling power grabs. Three useful techniques for that would be: Having transparent principles for how AIs choose what advice they give"
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Share AI capabilities broadly across groups rather than concentrating access in one person or faction",
+      "actor": "AI labs and government oversight bodies",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent concentration of power and enable AI-powered advice without enabling power grabs",
+      "conditions": "unconditional",
+      "rationale_summary": "Concentrated access to superintelligent AI creates dangerous power imbalances. Broad sharing ensures no single actor can use AI advantage to dominate others.",
+      "quote": "sharing certain capabilities with broad groups of people so that no one person or faction can access much better capabilities than everyone else"
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Require monitoring by many humans (assisted by their own AIs) when particularly powerful AI capabilities are used",
+      "actor": "AI labs and government oversight bodies",
+      "target_timeline": "before deploying powerful AI capabilities",
+      "urgency": "high",
+      "goal": "enable use of powerful AI capabilities without enabling power grabs",
+      "conditions": "IF deploying particularly powerful AI capabilities",
+      "rationale_summary": "Multi-party monitoring prevents any single actor from using powerful AI capabilities for unauthorized purposes. AI-assisted monitoring helps humans keep up with superintelligent systems.",
+      "quote": "only allowing particularly powerful capabilities to be used under monitoring by many humans (assisted by their own AIs)"
+    }
+  ]
+}

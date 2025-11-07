@@ -1,0 +1,706 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "timeline",
+      "claim_text": "Transformative economic and societal impacts of AI will be slow, materializing on the timescale of decades rather than years",
+      "confidence": "high",
+      "quote": "transformative economic and societal impacts will be slow (on the timescale of decades)",
+      "conditional": null,
+      "notes": "Central prediction of the paper, contrasted with fast takeoff scenarios"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "causal",
+      "claim_text": "AI diffusion in safety-critical areas lags decades behind innovation due to safety concerns and the difficulty of catching errors in complex models",
+      "confidence": "high",
+      "quote": "In this broad set of domains, AI diffusion lags decades behind innovation. A major reason is safety—when models are more complex and less intelligible, it is hard to anticipate all possible deployment conditions in the testing and validation process.",
+      "conditional": null,
+      "notes": "Based on empirical analysis of ~50 applications of predictive optimization"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "causal",
+      "claim_text": "The speed of diffusion is inherently limited by the speed at which individuals, organizations, and institutions can adapt to technology",
+      "confidence": "high",
+      "quote": "the speed of diffusion is inherently limited by the speed at which not only individuals, but also organizations and institutions, can adapt to technology. This is a trend that we have also seen for past general-purpose technologies: Diffusion occurs over decades, not years.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "capability",
+      "claim_text": "The speed of technology adoption is not necessarily increasing today compared to past general-purpose technologies, despite digital technology reaching billions of devices at once",
+      "confidence": "medium",
+      "quote": "The claim that the speed of technology adoption is not necessarily increasing may seem surprising (or even obviously wrong) given that digital technology can reach billions of devices at once. But it is important to remember that adoption is about software use, not availability.",
+      "conditional": null,
+      "notes": "Authors note this may seem counterintuitive"
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "causal",
+      "claim_text": "The 'capability-reliability gap' is a major barrier to building useful AI agents that can automate real-world tasks",
+      "confidence": "high",
+      "quote": "This 'capability-reliability gap' shows up over and over. It has been a major barrier to building useful AI 'agents' that can automate real-world tasks.",
+      "conditional": null,
+      "notes": "Illustrated with self-driving cars taking two decades vs AlphaZero taking hours"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "causal",
+      "claim_text": "Much organizational knowledge is tacit and not written down, which limits opportunities for rapid, parallel learning across sectors",
+      "confidence": "high",
+      "quote": "In general, much knowledge is tacit in organizations and is not written down, much less in a form that can be learned passively. This means that these developmental feedback loops will have to happen in each sector and, for more complex tasks, may even need to occur separately in different organizations, limiting opportunities for rapid, parallel learning.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "causal",
+      "claim_text": "There are hard limits to the speed of AI knowledge acquisition in scientific and social-scientific domains because societies will not and should not allow rapid scaling of experiments on people or organizations",
+      "confidence": "high",
+      "quote": "What will it take for AI to push the boundaries of such knowledge? It will likely require interactions with, or even experiments on, people or organizations, ranging from drug testing to economic policy. Here, there are hard limits to the speed of knowledge acquisition because of the social costs of experimentation. Societies probably will not (and should not) allow the rapid scaling of experiments for AI development.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "causal",
+      "claim_text": "AI benchmarks have been misunderstood as measuring progress in applications when they actually only measure progress in methods",
+      "confidence": "high",
+      "quote": "AI benchmarks are useful for measuring progress in methods; unfortunately, they have often been misunderstood as measuring progress in applications, and this confusion has been a driver of much hype about imminent economic transformation.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "causal",
+      "claim_text": "Benchmarks systematically overestimate real-world AI impact due to construct validity problems—the easier a task is to measure via benchmarks, the less it represents complex, contextual work that defines professional practice",
+      "confidence": "high",
+      "quote": "This pattern appears repeatedly: The easier a task is to measure via benchmarks, the less likely it is to represent the kind of complex, contextual work that defines professional practice. By focusing heavily on capability benchmarks to inform our understanding of AI progress, the AI community consistently overestimates the real-world impact of the technology.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "capability",
+      "claim_text": "Uplift studies show that professionals in many occupations benefit from AI systems, but this benefit is typically modest and more about augmentation than substitution",
+      "confidence": "high",
+      "quote": "Such 'uplift' studies generally do show that professionals in many occupations benefit from existing AI systems, but this benefit is typically modest and is more about augmentation than substitution, a radically different picture from what one might conclude based on static benchmarks like exams",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "capability",
+      "claim_text": "Sudden, drastic economic impacts from AI are implausible because sudden improvements in methods do not directly translate to economic impacts, which require innovation and diffusion",
+      "confidence": "high",
+      "quote": "According to the normal technology view, such sudden economic impacts are implausible. In the previous sections, we discussed one reason: Sudden improvements in AI methods are certainly possible but do not directly translate to economic impacts, which require innovation (in the sense of application development) and diffusion.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "causal",
+      "claim_text": "As automation increases, the cost and value of automated tasks drop drastically over time compared to human labor, so humans will adapt and focus on tasks not yet automated",
+      "confidence": "medium",
+      "quote": "Once we automate something, its cost of production, and its value, tend to drop drastically over time compared to the cost of human labor. As automation increases, humans will adapt, and will focus on tasks that are not yet automated, perhaps tasks that do not exist today",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "capability",
+      "claim_text": "The goalpost of AGI will continually move further away as increasing automation redefines which tasks are economically valuable",
+      "confidence": "high",
+      "quote": "This means that the goalpost of AGI will continually move further away as increasing automation redefines which tasks are economically valuable. Even if every task that humans do today might be automated one day, this does not mean that human labor will be superfluous.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "capability",
+      "claim_text": "Human labor will not be superfluous even if every task humans do today is eventually automated",
+      "confidence": "high",
+      "quote": "Even if every task that humans do today might be automated one day, this does not mean that human labor will be superfluous.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "causal",
+      "claim_text": "The AI field shows a high degree of herding around popular ideas and inadequate exploration of unfashionable ones, limiting the rate of fundamental progress",
+      "confidence": "high",
+      "quote": "One measure of progress is the rate of turnover of central ideas. Unfortunately, throughout its history, the AI field has shown a high degree of herding around popular ideas, and inadequate (in retrospect) levels of exploration of unfashionable ones.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "causal",
+      "claim_text": "In fields with higher volume of papers, it is harder for new ideas to break through, leading to 'ossification of canon'",
+      "confidence": "high",
+      "quote": "By analyzing over a billion citations in 241 subjects, Johan S.G. Chu & James A. Evans showed that, in fields in which the volume of papers is higher, it is harder, not easier, for new ideas to break through. This leads to an 'ossification of canon.'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "timeline",
+      "claim_text": "Recursive self-improvement in AI methods will be gradual rather than a singular discontinuous moment, as AI development already relies heavily on AI",
+      "confidence": "medium",
+      "quote": "It remains to be seen if AI-conducted AI research can offer a reprieve. Perhaps recursive self-improvement in methods is possible, resulting in unbounded speedups in methods. But note that AI development already relies heavily on AI. It is more likely that we will continue to see a gradual increase in the role of automation in AI development than a singular, discontinuous moment when recursive self-improvement is achieved.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "other",
+      "claim_text": "The concept of 'superintelligence' as usually conceptualized is incoherent and should be replaced with separate analysis of capability and power",
+      "confidence": "high",
+      "quote": "Once we stop using the terms 'intelligence' and 'superintelligence,' things become much clearer (Figure 5). The worry is that if AI capabilities continue to increase indefinitely (whether or not they are humanlike or superhuman is irrelevant), they may lead to AI systems with more and more power, in turn leading to a loss of control.",
+      "conditional": null,
+      "notes": "Core conceptual claim that intelligence is poorly defined and conflates capability with power"
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "other",
+      "claim_text": "Intelligence is not well-defined or measurable on a one-dimensional scale, especially as a comparison between different species",
+      "confidence": "high",
+      "quote": "On a conceptual level, intelligence—especially as a comparison between different species—is not well defined, let alone measurable on a one-dimensional scale.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "other",
+      "claim_text": "Power (the ability to modify one's environment) is the relevant property for analyzing AI impacts, not intelligence",
+      "confidence": "high",
+      "quote": "More importantly, intelligence is not the property at stake for analyzing AI's impacts. Rather, what is at stake is power—the ability to modify one's environment.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "capability",
+      "claim_text": "There is no useful sense of the term 'intelligence' in which AI is more intelligent than people acting with the help of AI",
+      "confidence": "high",
+      "quote": "We do not think there is a useful sense of the term 'intelligence' in which AI is more intelligent than people acting with the help of AI. Human intelligence is special due to our ability to use tools and to subsume other intelligences into our own, and cannot be coherently placed on a spectrum of intelligence.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "capability",
+      "claim_text": "Human abilities are not fundamentally constrained by biology—we use technology to increase our capabilities, making modern humans 'superintelligent' compared to pre-technological humans",
+      "confidence": "high",
+      "quote": "There are few biological or physiological differences between ancestral and modern humans; instead, the relevant differences are improved knowledge and understanding, tools, technology and, indeed, AI. In a sense, modern humans, with the capability to alter the planet and its climate, are 'superintelligent' beings compared to pre-technological humans.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "capability",
+      "claim_text": "There are relatively few real-world cognitive tasks in which human limitations are so telling that AI can blow past human performance as it does in chess",
+      "confidence": "high",
+      "quote": "We offer a prediction based on this view of human abilities. We think there are relatively few real-world cognitive tasks in which human limitations are so telling that AI is able to blow past human performance (as AI does in chess).",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "capability",
+      "claim_text": "AI will not meaningfully outperform trained humans (particularly teams, especially if augmented with simple automated tools) at forecasting geopolitical events",
+      "confidence": "high",
+      "quote": "Concretely, we propose two such areas: forecasting and persuasion. We predict that AI will not be able to meaningfully outperform trained humans (particularly teams of humans and especially if augmented with simple automated tools) at forecasting geopolitical events (say elections).",
+      "conditional": null,
+      "notes": "Authors frame this as a specific prediction"
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "capability",
+      "claim_text": "AI will not meaningfully outperform humans at persuading people to act against their own self-interest",
+      "confidence": "high",
+      "quote": "We make the same prediction for the task of persuading people to act against their own self-interest.",
+      "conditional": null,
+      "notes": "Authors frame this as a specific prediction"
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "risk",
+      "claim_text": "Superhuman persuasion is an unfounded concern, as existing studies lack ecological validity and test only costless or low-cost persuasion",
+      "confidence": "high",
+      "quote": "So these tests do not necessarily tell us about AI's ability to persuade people to perform some dangerous tasks. To their credit, the authors acknowledged this lack of ecological validity and stressed that their study was not a 'social science experiment,' but merely intended to evaluate model capability. But then it is not clear that such decontextualized capability evaluations have any safety implications, yet they are typically misinterpreted as if they do.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "feasibility",
+      "claim_text": "The control problem is much more tractable than commonly believed, especially if superhuman persuasion is unfounded",
+      "confidence": "high",
+      "quote": "if we are correct that AI systems will not be meaningfully more capable than humans acting with AI assistance, then the control problem is much more tractable, especially if superhuman persuasion turns out to be an unfounded concern.",
+      "conditional": "IF AI systems will not be meaningfully more capable than humans acting with AI assistance",
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "feasibility",
+      "claim_text": "Model alignment and human-in-the-loop control are limited approaches with very limited roles; there are many other effective flavors of control",
+      "confidence": "high",
+      "quote": "Discussions of AI control tend to over-focus on a few narrow approaches, including model alignment and keeping humans in the loop. We can roughly think of these as opposite extremes: delegating safety decisions entirely to AI during system operation, and having a human second-guessing every decision. There is a role for such approaches, but it is very limited.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "feasibility",
+      "claim_text": "There are many effective flavors of control between model alignment and human-in-the-loop, including auditing, monitoring, system safety techniques, and ideas from cybersecurity, formal verification, and HCI",
+      "confidence": "high",
+      "quote": "Fortunately, there are many other flavors of control that fall between these two extremes, such as auditing and monitoring.",
+      "conditional": null,
+      "notes": "Authors provide extensive list of techniques from multiple fields"
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "capability",
+      "claim_text": "An increasing percentage of human jobs and tasks will be related to AI control as more physical and cognitive tasks become amenable to automation",
+      "confidence": "high",
+      "quote": "As more physical and cognitive tasks become amenable to automation, we predict that an increasing percentage of human jobs and tasks will be related to AI control.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "capability",
+      "claim_text": "Human labor will increasingly operate at the boundary between AI systems performing different tasks, involving specification and oversight",
+      "confidence": "high",
+      "quote": "In addition to AI control, task specification is likely to become a bigger part of what human jobs entail (depending on how broadly we conceive of control, specification could be considered part of control). As anyone who has tried to outsource software or product development knows, unambiguously specifying what is desired turns out to be a surprisingly big part of the overall effort. Thus, human labor—specification and oversight—will operate at the boundary between AI systems performing different tasks.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "actor_behavior",
+      "claim_text": "The transformation toward human control of AI will be primarily driven by market forces, as poorly controlled AI will be too error prone to make business sense",
+      "confidence": "medium",
+      "quote": "We further predict that this transformation will be primarily driven by market forces. Poorly controlled AI will be too error prone to make business sense. But regulation can and should bolster the ability and necessity of organizations to keep humans in control.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "strategic",
+      "claim_text": "Deployers and developers should have the primary responsibility for mitigating accidents in AI systems",
+      "confidence": "high",
+      "quote": "Our view is that, just like other technologies, deployers and developers should have the primary responsibility for mitigating accidents in AI systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "causal",
+      "claim_text": "In many cases, market forces will provide adequate incentive for safety, but safety regulation should fill gaps where market forces are inadequate",
+      "confidence": "high",
+      "quote": "How effectively they will do so depends on their incentives, as well as on progress in mitigation methods. In many cases, market forces will provide an adequate incentive, but safety regulation should fill any gaps.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "strategic",
+      "claim_text": "New areas where AI is used in consequential ways can and must be regulated as they arise",
+      "confidence": "high",
+      "quote": "At any rate, as and when new areas arise in which AI can be used in highly consequential ways, we can and must regulate them.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "strategic",
+      "claim_text": "AI arms races should be addressed through sector-specific regulations rather than general approaches",
+      "confidence": "high",
+      "quote": "In short, AI arms races might happen, but they are sector specific, and should be addressed through sector-specific regulations.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "causal",
+      "claim_text": "Market success in self-driving cars has been strongly correlated with safety, and these correlations are causal",
+      "confidence": "high",
+      "quote": "Market success has been strongly correlated with safety. Cruise is set to shut down in 2025, while Uber was forced to sell off its self-driving unit. Tesla is facing lawsuits and regulatory scrutiny, and it remains to be seen how much its safety attitude will cost the company. We think that these correlations are causal.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "causal",
+      "claim_text": "There is no straightforward reason to expect arms races between countries regarding AI accidents, as safety impacts are felt locally",
+      "confidence": "medium",
+      "quote": "Failing to adequately regulate safe adoption will lead to negative impacts through accidents primarily locally, as opposed to companies with a lax safety culture potentially being able to externalize the costs of safety. Therefore, there is no straightforward reason to expect arms races between countries.",
+      "conditional": null,
+      "notes": "Explicitly excludes military AI from analysis"
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "strategic",
+      "claim_text": "The importance of proactive evidence gathering and transparency in emerging AI-driven sectors is crucial to prevent arms races",
+      "confidence": "high",
+      "quote": "AI is broad enough that some of its future applications will be more like transportation, while others will be more like social media. This shows the importance of proactive evidence gathering and transparency in emerging AI-driven sectors and applications.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "feasibility",
+      "claim_text": "Model alignment is extremely brittle for defending against misuse, and this limitation is inherent and unlikely to be fixable",
+      "confidence": "high",
+      "quote": "Model alignment is often seen as the primary defense against the misuse of models. It is currently achieved through post-training interventions, such as reinforcement learning with human and AI feedback. Unfortunately, aligning models to refuse attempts at misuse has proved to be extremely brittle. We argue that this limitation is inherent and is unlikely to be fixable",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "causal",
+      "claim_text": "Whether a capability is harmful depends on context that models often lack, making model-level safety interventions ineffective",
+      "confidence": "high",
+      "quote": "The fundamental problem is that whether a capability is harmful depends on context—context that the model often lacks.",
+      "conditional": null,
+      "notes": "Illustrated with phishing example"
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "strategic",
+      "claim_text": "Primary defenses against misuse must focus on downstream attack surfaces where malicious actors deploy AI systems, not on model-level protections",
+      "confidence": "high",
+      "quote": "Yet, given that model-level protections are not enough to prevent misuse, defenses must focus on the downstream attack surfaces where malicious actors actually deploy AI systems.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "causal",
+      "claim_text": "AI is useful for defense and giving defenders access to powerful AI tools often improves the offense-defense balance in their favor",
+      "confidence": "high",
+      "quote": "Rather than viewing AI capabilities solely as a source of risk, we should recognize their defensive potential. In cybersecurity, AI is already strengthening defensive capabilities through automated vulnerability detection, threat analysis, and attack surface monitoring. Giving defenders access to powerful AI tools often improves the offense-defense balance in their favor.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "causal",
+      "claim_text": "Restricting AI development to prevent misuse could backfire by weakening defenders while motivated adversaries train their own AI tools",
+      "confidence": "high",
+      "quote": "If we align language models so that they are useless at these tasks (such as finding bugs in critical cyber infrastructure), defenders will lose access to these powerful systems. But motivated adversaries can train their own AI tools for such attacks, leading to an increase in offensive capabilities without a corresponding increase in defensive capabilities.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "risk",
+      "claim_text": "Catastrophic misalignment is a speculative risk (there is epistemic uncertainty about whether the true risk is zero, which can be resolved through research)",
+      "confidence": "high",
+      "quote": "In our view, the primary defense against misalignment, again, lies downstream. The defenses needed against misuse that we discussed earlier—from hardening critical infrastructure to improving cybersecurity—will also serve as protection against potential misalignment risks. In the view of AI as normal technology, catastrophic misalignment is (by far) the most speculative of the risks that we discuss.",
+      "conditional": null,
+      "notes": "Authors define 'speculative risk' as having epistemic uncertainty about whether true risk is zero"
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "causal",
+      "claim_text": "The path to adoption inherently requires demonstrating reliable performance in less critical contexts before being granted access to consequential decisions",
+      "confidence": "high",
+      "quote": "Long before a system would be granted access to consequential decisions, it would need to demonstrate reliable performance in less critical contexts. Any system that interprets commands over-literally or lacks common sense would fail these earlier tests. Consider a simpler case: A robot is asked to 'get paperclips from the store as quickly as possible.' A system that interpreted this literally might ignore traffic laws or attempt theft. Such behavior would lead to immediate shutdown and redesign. The path to adoption inherently requires demonstrating appropriate behavior in increasingly consequential situations.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "feasibility",
+      "claim_text": "Deceptive alignment is an engineering problem to be addressed during development and deployment, not a ticking time bomb",
+      "confidence": "high",
+      "quote": "According to the superintelligence view, deceptive alignment is a ticking time bomb—being superintelligent, the system will easily be able to defeat any human attempts to detect if it is actually aligned and will bide its time. But, in the normal technology view, deception is a mere engineering problem, albeit an important one, to be addressed during development and throughout deployment.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "causal",
+      "claim_text": "AI advances enable both deception and its detection, with defenders having asymmetric advantages including ability to examine system internals",
+      "confidence": "high",
+      "quote": "Crucially, AI is useful in this process, and advances in AI not only enable deception, but also improve the detection of deception. As in the case of cybersecurity, the defender has many asymmetric advantages, including being able to examine the internals of the target system (how useful this advantage is depends on how the system is designed and how much we invest in interpretability techniques).",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "capability",
+      "claim_text": "Agents designed with reinforcement learning to optimize a single objective function over long time horizons will be more ineffective than dangerous in open-ended real-world scenarios",
+      "confidence": "medium",
+      "quote": "One setting that is notorious for this is the use of reinforcement learning to optimize a single objective function (which might be accidentally underspecified or misspecified) over a long time horizon. There is a long list of amusing examples from game agents, such as a boat racing agent that learned to indefinitely circle an area to hit the same targets and score points instead of progressing to the finish line. To reiterate, we think that in open-ended real-world scenarios, agents that are designed this way will be more ineffective than they will be dangerous.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "priority",
+      "claim_text": "If AI is normal technology, systemic non-catastrophic risks (bias, inequality, concentration of power, erosion of trust, etc.) become far more important than catastrophic risks",
+      "confidence": "high",
+      "quote": "While the risks discussed above have the potential to be catastrophic or existential, there is a long list of AI risks that are below this level but which are nonetheless large-scale and systemic, transcending the immediate effects of any particular AI system. These include the systemic entrenchment of bias and discrimination, massive job losses in specific occupations, worsening labor conditions, increasing inequality, concentration of power, erosion of social trust, pollution of the information ecosystem, decline of the free press, democratic backsliding, mass surveillance, and enabling authoritarianism. If AI is normal technology, these risks become far more important than the catastrophic ones discussed above.",
+      "conditional": "IF AI is normal technology",
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "causal",
+      "claim_text": "Systemic non-catastrophic risks arise from people and organizations using AI to advance their own interests, with AI serving as an amplifier of existing societal instabilities",
+      "confidence": "high",
+      "quote": "That is because these risks arise from people and organizations using AI to advance their own interests, with AI merely serving as an amplifier of existing instabilities in our society.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "other",
+      "claim_text": "Deep differences in worldviews about AI are unlikely to go away, and consensus among experts about AI risks is unlikely",
+      "confidence": "high",
+      "quote": "We think that these differences are unlikely to go away. Entrenched camps have developed: The AI safety coalition is already well established, whereas those who were more skeptical of catastrophic risks coalesced in 2024, especially in the course of the debate about California's AI safety bill.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "other",
+      "claim_text": "Compromise between different AI risk worldviews is unlikely to work because some interventions help one scenario but exacerbate risks in the other",
+      "confidence": "high",
+      "quote": "A natural inclination in policymaking is compromise. This is unlikely to work. Some interventions, such as improving transparency, are unconditionally helpful for risk mitigation, no compromise is needed (or rather, policymakers will have to balance the interests of the industry and external stakeholders, which is a mostly orthogonal dimension). Other interventions, such as nonproliferation, might help to contain a superintelligence but exacerbate the risks associated with normal technology by increasing market concentration. The reverse is also true: Interventions such as increasing resilience by fostering open-source AI will help to govern normal technology, but risk unleashing out-of-control superintelligence. The tension is inescapable.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "feasibility",
+      "claim_text": "Cost-benefit analysis using probability estimates is unviable for AI policy because AI risk probabilities lack meaningful epistemic foundations",
+      "confidence": "high",
+      "quote": "In a recent essay, we explained why this approach is unviable. AI risk probabilities lack meaningful epistemic foundations. Grounded probability estimation can be inductive, based on a reference class of similar past events, such as car accidents for auto insurance pricing. Or it can be deductive, based on precise models of the phenomenon in question, as in poker. Unfortunately, there is no useful reference class nor precise models when it comes to AI risk. In practice, risk estimates are 'subjective'—forecasters' personal judgments. Lacking any grounding, these tend to vary wildly, often by orders of magnitude.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "strategic",
+      "claim_text": "Policymakers must adopt value pluralism (preferring policies acceptable to stakeholders with diverse values) and prioritize robustness (policies that remain helpful if assumptions are incorrect)",
+      "confidence": "high",
+      "quote": "Unavoidable differences in values and beliefs mean that policymakers must adopt value pluralism, preferring policies that are acceptable to stakeholders with a wide range of values, and attempt to avoid restrictions on freedom that can reasonably be rejected by stakeholders. They must also prioritize robustness, preferring policies that remain helpful, or at least not harmful, if the key assumptions underpinning them turn out to be incorrect.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "priority",
+      "claim_text": "Reducing uncertainty should be a first-rate policy goal, not just left to experts",
+      "confidence": "high",
+      "quote": "While uncertainty cannot be eliminated for the reasons described above, it can be reduced. However, this goal should not be left to experts; policymakers can and should play an active role.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "priority",
+      "claim_text": "Current AI safety research focuses too heavily on harmful capabilities and insufficient attention has been paid to questions downstream of technical capabilities",
+      "confidence": "high",
+      "quote": "Strategic funding of research on risks. Current AI safety research focuses heavily on harmful capabilities and does not embrace the normal technology view. Insufficient attention has been paid to questions that are downstream of technical capabilities. For example, there is a striking dearth of knowledge regarding how threat actors actually use AI.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "strategic",
+      "claim_text": "Policymakers should implement evidence-seeking policies including transparency reporting, incident reporting, product registration, and whistleblower protections",
+      "confidence": "high",
+      "quote": "Monitoring of AI use, risks, and failures. While research funding can help with monitoring AI in the wild, it might also require regulation and policy—that is, 'evidence-seeking policies.' We suggest a few such policies in Figure 6.",
+      "conditional": null,
+      "notes": "Figure 6 lists specific policies"
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "strategic",
+      "claim_text": "Resilience is better suited to governing AI than ex ante approaches (risk analysis and precaution) due to difficulty of ascertaining risks in advance of deployment",
+      "confidence": "high",
+      "quote": "Marchant and Stevens argued (and we agree) that ex ante approaches are poorly suited to AI because of the difficulty of ascertaining risks in advance of deployment.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "priority",
+      "claim_text": "Resilience should be the overarching approach to catastrophic risks from AI",
+      "confidence": "high",
+      "quote": "We advocate for reducing uncertainty as a first-rate policy goal and resilience as the overarching approach to catastrophic risks.",
+      "conditional": null,
+      "notes": "From Part IV introduction"
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "strategic",
+      "claim_text": "Resilience consists of taking actions now to improve ability to deal with unexpected developments, minimizing severity and duration of harm rather than likelihood",
+      "confidence": "high",
+      "quote": "Resilience, in its most simple form, is the capacity of a system to deal with harm. [Footnote omitted] A resilience approach does not necessarily try to maintain stability or equilibrium. Rather, it recognizes that changes are inevitable in complex systems, and tries to manage and adapt to that change in ways that protect and preserve the core values and functions of the original system.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "strategic",
+      "claim_text": "Policymakers should pursue resilience-promoting interventions that help if AI is normal technology, though these might make it harder to control superintelligent AI",
+      "confidence": "medium",
+      "quote": "Resilience-promoting interventions that will help if AI is normal technology but which might make it harder to control a potential superintelligent AI, such as promoting competition, including through open model releases, ensuring AI is widely available for defense, and polycentricity, which calls for diversifying the set of regulators and ideally introducing competition among them rather than putting one regulator in charge of everything. We hope that there can be consensus on the first three categories even among experts and stakeholders with widely different beliefs about AI risks and the future trajectory of AI. We recommend that, for now, policymakers should cautiously pursue interventions in the final category as well, but should also improve their readiness to change course if the trajectory of AI changes.",
+      "conditional": null,
+      "notes": "Authors acknowledge this creates tension with superintelligence scenario"
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "feasibility",
+      "claim_text": "Nonproliferation of AI is infeasible to enforce because technical knowledge is already widespread, costs are falling, and it would require unprecedented international coordination",
+      "confidence": "high",
+      "quote": "Unfortunately, the technical knowledge that is required to build capable AI models is already widespread, with many organizations sharing their complete code, data, and training methodologies. For well-funded organizations and nation states, even the high cost of training state-of-the-art models is insignificant; thus, nonproliferation would require unprecedented levels of international coordination. Moreover, algorithmic improvements and reductions to hardware costs continually lower the barrier to entry.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "risk",
+      "claim_text": "Nonproliferation introduces new risks by decreasing competition, increasing market concentration, and creating single points of failure",
+      "confidence": "high",
+      "quote": "Nonproliferation introduces new risks: It would decrease competition and increase concentration in the market for AI models. When many downstream applications rely on the same model, vulnerabilities in this model can be exploited across all applications. A classic example of the cybersecurity risks of software monoculture is the proliferation of worms targeting Microsoft Windows in the 2000s.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "risk",
+      "claim_text": "Reliance on nonproliferation creates brittleness in face of shocks and directs attention away from more robust downstream defenses",
+      "confidence": "high",
+      "quote": "Reliance on nonproliferation creates brittleness in the face of shocks, such as model weights being leaked, alignment techniques failing, or adversaries acquiring training capabilities. It directs attention away from more robust defenses that focus on downstream attack surfaces where AI risks will be likely to materialize.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "risk",
+      "claim_text": "Many potential misuses invoked to advocate for nonproliferation (bioweapons, cyberattacks) are not fundamentally AI risks but existing risks that AI may modestly amplify",
+      "confidence": "high",
+      "quote": "The risk of bioweapons is real. As large language models are general-purpose technology, they will be likely to find some use by bioterrorists, just as they find uses in most domains. But this does not make bioterror an AI risk — any more than it is an internet risk, considering that information about bioweapons is widely available online. Whatever defenses we take against existing bioterrorism risks (like restricting access to dangerous materials and equipment) will also be effective against AI-enabled bioterrorism.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "risk",
+      "claim_text": "Nonproliferation-based safety measures decrease resilience and worsen AI risks in the long run, paradoxically increasing the very risks they intend to defend against",
+      "confidence": "high",
+      "quote": "With limited exceptions, we believe that nonproliferation-based safety measures decrease resilience and thus worsen AI risks in the long run. They lead to design and implementation choices that potentially enable superintelligence in the sense of power—increasing levels of autonomy, organizational ability, access to resources, and the like. Paradoxically, they increase the very risks they are intended to defend against.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "causal",
+      "claim_text": "Progress in AI is not automatic—there are many roadblocks to diffusion, and the capacity to diffuse innovations varies greatly between countries and affects economic growth",
+      "confidence": "high",
+      "quote": "An important consequence of the normal technology view is that progress is not automatic—there are many roadblocks to AI diffusion. As Jeffrey Ding has shown, the capacity to diffuse innovations throughout the economy varies greatly between countries and has a major effect on their overall power and economic growth.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "69",
+      "claim_type": "risk",
+      "claim_text": "Regulation that is insensitive to needs for experimentation and reconfiguration risks stymying beneficial AI adoption",
+      "confidence": "high",
+      "quote": "Realizing the benefits of AI will require experimentation and reconfiguration. Regulation that is insensitive to these needs risks stymying beneficial AI adoption. Regulation tends to create or reify categories, and might thus prematurely freeze business models, forms of organization, product categories, and so forth.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "70",
+      "claim_type": "other",
+      "claim_text": "The tradeoff between regulation and diffusion is false, just as the tradeoff between regulation and innovation is false",
+      "confidence": "high",
+      "quote": "To be clear, regulation versus diffusion is a false tradeoff, just as is regulation versus innovation. None of the above examples are arguments against regulation; they only illustrate the need for nuance and flexibility.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "71",
+      "claim_type": "strategic",
+      "claim_text": "Regulation has a crucial role to play in enabling AI diffusion by ensuring legal validity, providing clarity on liability, and building trust",
+      "confidence": "high",
+      "quote": "Moreover, regulation has a crucial role to play in enabling diffusion. As a historical example, the ESIGN Act of 2000 in the U.S. was instrumental in promoting digitization and e-commerce: Ensuring that electronic signatures and records are legally valid helped build trust in digital transactions. In AI, too, there are many opportunities for diffusion-enabling regulation.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "72",
+      "claim_type": "strategic",
+      "claim_text": "Governments should invest in complements of automation (AI literacy, workforce training, digitization, open data, energy infrastructure) as these are public goods the private sector will underinvest in",
+      "confidence": "high",
+      "quote": "Moving beyond the government's role as a regulator, one powerful strategy for promoting AI diffusion is investing in the complements of automation, which are things that become more valuable or necessary as automation increases. One example is promoting AI literacy as well as workforce training in both the public and the private sectors. Another example is digitization and open data, especially open government data, which can allow AI users to benefit from previously inaccessible datasets. The private sector will be likely to underinvest in these areas as they are public goods that everyone can benefit from.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "73",
+      "claim_type": "strategic",
+      "claim_text": "Governments should strengthen social safety nets to decrease public anxiety about AI and redistribute benefits more equitably",
+      "confidence": "high",
+      "quote": "Governments also have an important role to play in redistributing the benefits of AI to make them more equitable and in compensating those who stand to lose as a result of automation. Strengthening social safety nets will help to decrease the currently high levels of public anxiety about AI in many countries.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "74",
+      "claim_type": "strategic",
+      "claim_text": "Governments should fund arts and journalism through taxes on AI companies, as these vital spheres have been harmed by AI",
+      "confidence": "medium",
+      "quote": "The arts and journalism are vital spheres of life that have been harmed by AI. Governments should consider funding them through taxes on AI companies.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "75",
+      "claim_type": "risk",
+      "claim_text": "The administrative state's approach to AI risks is overly cautious and may lead to runaway bureaucracy, causing government agencies to lose legitimacy through incompetent performance",
+      "confidence": "medium",
+      "quote": "But the administrative state's approach to these risks is overly cautious and has been described by Nicholas Bagley as a 'procedure fetish,' potentially leading to a 'runaway bureaucracy.' In addition to losing out on the benefits of AI, Bagley cautioned that incompetent performance will lead to government agencies losing the very legitimacy that they seek to gain through their emphasis on procedure and accountability.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "76",
+      "claim_type": "strategic",
+      "claim_text": "Governments should strike a balance in public sector AI adoption—moving too quickly leads to loss of trust, but moving too slowly means basic functions get outsourced to less accountable private sector",
+      "confidence": "high",
+      "quote": "Finally, governments should strike a fine balance in terms of the public sector adoption of AI. Moving too quickly will lead to a loss of trust and legitimacy, as was the case of the New York City chatbot that was evidently inadequately tested and made headlines for telling businesses to break the law. The use of AI by the U.S. Department of Government Efficiency (DOGE) includes many dubious applications. But moving too slowly might mean that basic government functions are outsourced to the private sector where they are implemented with less accountability.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "77",
+      "claim_type": "strategic",
+      "claim_text": "Drastic interventions premised on difficulty of controlling superintelligent AI will make things much worse if AI turns out to be normal technology",
+      "confidence": "high",
+      "quote": "We argue that drastic interventions premised on the difficulty of controlling superintelligent AI will, in fact, make things much worse if AI turns out to be normal technology—the downsides of which will be likely to mirror those of previous technologies that are deployed in capitalistic societies, such as inequality.",
+      "conditional": "IF AI turns out to be normal technology",
+      "notes": "From Part I introduction"
+    },
+    {
+      "claim_id": "78",
+      "claim_type": "timeline",
+      "claim_text": "It would be futile to try to predict beyond a world with advanced AI (but not superintelligent AI), just as it would have been futile to predict electricity or computers at the dawn of the Industrial Revolution",
+      "confidence": "high",
+      "quote": "Consider this analogy: At the dawn of the first Industrial Revolution, it would have been useful to try to think about what an industrial world would look like and how to prepare for it, but it would have been futile to try to predict electricity or computers. Our exercise here is similar. Since we reject 'fast takeoff' scenarios, we do not see it as necessary or useful to envision a world further ahead than we have attempted to.",
+      "conditional": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Avoid over-indexing on single scenarios like total nationalization when planning for AI governance",
+      "actor": "AI governance researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "improve accuracy of AI governance scenario planning and avoid blind spots",
+      "conditions": "unconditional",
+      "rationale_summary": "The authors argue that focusing too heavily on one scenario (like a Manhattan Project-style total nationalization) will lead to ineffective planning. The future is uncertain and multiple pathways are possible, so analysis should consider diverse scenarios.",
+      "quote": "We don't believe that it is possible yet to confidently predict a future set of outcomes, and that over-indexing on any scenario is a mistake."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Consider a wide range of scenarios rather than committing to a specific model of the future",
+      "actor": "AI governance researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "enable more effective AI governance analysis and planning",
+      "conditions": "unconditional",
+      "rationale_summary": "Given the uncertainty about how US government involvement in AI will evolve, the most effective analysis will explore multiple possible futures rather than betting on a single trajectory. This enables more robust planning across different contingencies.",
+      "quote": "Rather than committing to a specific model of the future, we believe the most effective analysis today will consider a wide range of scenarios"
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Ground AI governance research in likely futures involving soft nationalization and progressive government control",
+      "actor": "AI governance researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "design better interventions based on realistic understanding of US government behavior",
+      "conditions": "unconditional",
+      "rationale_summary": "AI governance research will be more effective if grounded in plausible scenarios of how the US government will actually behave, rather than idealized or unrealistic models. Understanding soft nationalization dynamics enables designing interventions that work with rather than against likely government actions.",
+      "quote": "By enumerating many of the plausible scenarios regarding soft nationalization, we believe AI governance researchers can better ground our research in likely futures and design better interventions."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Incorporate realistic models of US government's role in controlling frontier AI into AI safety planning",
+      "actor": "AI safety organizations",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "improve effectiveness of AI safety planning and agendas",
+      "conditions": "unconditional",
+      "rationale_summary": "The authors argue this is a critical missing element in current AI safety planning. Understanding how the US government will progressively exert control over AI labs is essential for developing safety strategies that will actually be implementable given the national security context.",
+      "quote": "We have yet to see anyone describe a critical element of effective AI safety planning: a realistic model of the upcoming role the US government will play in controlling frontier AI."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Evaluate AI safety agendas across realistic scenarios of US government involvement in frontier AI",
+      "actor": "AI safety organizations",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "ensure AI safety agendas remain viable and effective under likely government control scenarios",
+      "conditions": "unconditional",
+      "rationale_summary": "AI safety agendas need to be tested against realistic scenarios of government involvement to ensure they remain relevant and actionable. The soft nationalization framework provides concrete scenarios against which to evaluate whether safety proposals will work in practice.",
+      "quote": "We hope our model will enable the evaluation of AI safety agendas across realistic scenarios of US involvement, and encourage further related research."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Conduct further research on soft nationalization and its implications for AI safety",
+      "actor": "AI safety researchers",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "deepen understanding of how government control will shape AI development and safety outcomes",
+      "conditions": "unconditional",
+      "rationale_summary": "The authors present soft nationalization as an important but under-explored topic. Further research is needed to understand the full implications of this dynamic and how it affects various aspects of AI safety work.",
+      "quote": "We hope our model will enable the evaluation of AI safety agendas across realistic scenarios of US involvement, and encourage further related research."
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Shape soft nationalization outcomes to achieve broader AI safety goals",
+      "actor": "AI safety organizations",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "ensure soft nationalization process advances rather than undermines AI safety objectives",
+      "conditions": "unconditional",
+      "rationale_summary": "While soft nationalization is likely to occur driven by national security concerns, the specific form it takes is not predetermined. AI safety organizations should actively work to influence how this process unfolds to achieve better safety outcomes.",
+      "quote": "A clear set of scenarios implied by soft nationalization will enable further research into how these outcomes can be shaped to achieve the broader goals of AI safety organizations"
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Develop and pursue new strategies to reduce extreme, large-scale risks from AI in the context of soft nationalization",
+      "actor": "AI safety organizations",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "reduce catastrophic risks from AI given likely government control scenarios",
+      "conditions": "unconditional",
+      "rationale_summary": "The soft nationalization context changes the landscape for AI risk reduction. New strategies are needed that work within the reality of progressive government control and national security priorities, rather than strategies designed for a different governance environment.",
+      "quote": "How does soft nationalization affect the reduction of extreme, large-scale risks? What new strategies should be pursued? How can AI safety projects be aligned with national security concerns?"
+    },
+    {
+      "rec_id": "rec_9",
+      "action": "Align AI safety projects with national security concerns",
+      "actor": "AI safety organizations",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "make AI safety work more viable and implementable under national security paradigm",
+      "conditions": "IF national security becomes primary driver of AI governance",
+      "rationale_summary": "As national security concerns drive government control of AI, safety projects that align with these concerns will be more likely to receive support and be implemented. Finding genuine alignment (not just framing) between safety and security objectives is important for maintaining effectiveness.",
+      "quote": "How can AI safety projects be aligned with national security concerns?"
+    },
+    {
+      "rec_id": "rec_10",
+      "action": "Develop and implement strategies to mitigate AI race dynamics",
+      "actor": "AI safety organizations",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "slow competitive incentives that increase AI risks",
+      "conditions": "unconditional",
+      "rationale_summary": "AI race dynamics are a major driver of risk, as they create pressure to cut corners on safety. Understanding which policy levers slow rather than accelerate competition is crucial for reducing catastrophic risks.",
+      "quote": "How can we mitigate AI race dynamics? What policy levers slow competitive incentives, rather than accelerating them?"
+    },
+    {
+      "rec_id": "rec_11",
+      "action": "Identify and advocate for policy levers that slow competitive incentives rather than accelerating them",
+      "actor": "AI governance researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "slow AI race dynamics and reduce pressure for unsafe development",
+      "conditions": "unconditional",
+      "rationale_summary": "Not all policy levers have the same effect on competition. Some may inadvertently accelerate races while others slow them. Identifying which levers have which effects is important for designing governance that reduces rather than increases risk.",
+      "quote": "What policy levers slow competitive incentives, rather than accelerating them?"
+    },
+    {
+      "rec_id": "rec_12",
+      "action": "Take actions to avoid AI power concentration in the hands of the military-industrial complex",
+      "actor": "Policymakers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent dangerous concentration of AI power that threatens democratic governance",
+      "conditions": "unconditional",
+      "rationale_summary": "Soft nationalization creates risk of AI power becoming concentrated in military and defense sectors. This concentration could create a new hierarchy of power that is unaccountable to society. Active efforts are needed to prevent this outcome.",
+      "quote": "What actions can we take to avoid AI power concentration in the hands of the military-industrial complex?"
+    },
+    {
+      "rec_id": "rec_13",
+      "action": "Establish checks and balances to protect society from concentrated AI power",
+      "actor": "Governments",
+      "target_timeline": "before significant government control is established",
+      "urgency": "high",
+      "goal": "protect society from new hierarchy of power created by government-controlled AI",
+      "conditions": "unconditional",
+      "rationale_summary": "As government control over AI increases, new forms of power concentration emerge. Democratic safeguards and checks on this power are necessary to prevent abuse and maintain accountability to the public interest.",
+      "quote": "What checks and balances should exist to protect society from this new hierarchy of power?"
+    },
+    {
+      "rec_id": "rec_14",
+      "action": "Implement economic interventions to improve outcomes for the average person in an AI-driven economy",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "ensure AI benefits are broadly distributed rather than concentrated",
+      "conditions": "unconditional",
+      "rationale_summary": "Advanced AI threatens to create mass unemployment, wealth inequality, and economic instability. Government interventions are needed to ensure that the average person benefits from AI progress rather than being harmed by it.",
+      "quote": "What economic interventions should governments take to improve outcomes for the average person?"
+    },
+    {
+      "rec_id": "rec_15",
+      "action": "Research viable forms of international cooperation when national security is a primary governance concern",
+      "actor": "AI governance researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "enable international coordination despite national security constraints",
+      "conditions": "unconditional",
+      "rationale_summary": "National security concerns make international cooperation more difficult but also more important. Research is needed to identify what forms of cooperation remain viable when states are primarily motivated by security competition rather than shared safety concerns.",
+      "quote": "What forms of international cooperation are viable when national security is a primary concern of AI governance? Will we see a NATO-like alliance of Western countries led by the US?"
+    },
+    {
+      "rec_id": "rec_16",
+      "action": "Research how soft nationalization will shape society and governments beyond AI policy",
+      "actor": "AI governance researchers",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "understand broader societal and political implications of government AI control",
+      "conditions": "unconditional",
+      "rationale_summary": "Soft nationalization will have ripple effects beyond AI governance itself, affecting political structures, social dynamics, and government functioning. Understanding these broader impacts is important for comprehensive policy planning.",
+      "quote": "How will soft nationalization shape society & governments beyond AI policy and US national security? What are plausible secondary impacts (e.g. AI race dynamics, AI safety outcomes)?"
+    },
+    {
+      "rec_id": "rec_17",
+      "action": "Research economic impacts of soft nationalization on job automation, resource allocation, and GDP distribution",
+      "actor": "Economists",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "understand economic consequences of government control over AI development",
+      "conditions": "unconditional",
+      "rationale_summary": "Government control over AI will significantly affect how AI impacts the economy. Research is needed to understand how soft nationalization changes economic outcomes related to automation, resource allocation, and wealth distribution.",
+      "quote": "How will soft nationalization impact economic scenarios? How will this impact job automation, resource allocation, and the distribution of GDP?"
+    }
+  ]
+}

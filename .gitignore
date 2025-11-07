@@ -1,0 +1,45 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env
+.env.local
+.env.*.local
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+extraction_log.txt
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore Claude folder
+claude/
+
+# Ignore other common directories
+node_modules/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Ignore configuration files
+*.config
+*.cfg
+
+# Ignore generated mapping files (if regenerated)
+image_to_doc_mapping.json
+

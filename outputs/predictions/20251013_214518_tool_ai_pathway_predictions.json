@@ -1,0 +1,279 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "A major healthcare AI class action lawsuit will emerge from an autonomous diagnostic system that systematically misdiagnoses a specific class of symptoms affecting thousands of patients, becoming the case MedAI Systems v. Regional Health Network.",
+      "timeframe": "early 2026",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Major healthcare AI liability lawsuit filed involving systematic misdiagnosis affecting thousands of patients, reaching courts by early 2026",
+      "conditional": null,
+      "quote": "Early 2026: The Healthcare Class Action - The first major liability case emerges from healthcare AI. An autonomous diagnostic system deployed across a major hospital network systematically misdiagnoses a specific class of symptoms affecting thousands of patients... The resulting class action lawsuit becomes MedAI Systems v. Regional Health Network."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "A cluster of autonomous trading systems will interact unexpectedly during market volatility, triggering cascading losses, wiping out hundreds of billions in value, and forcing temporary exchange shutdowns.",
+      "timeframe": "mid 2026",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Major market disruption caused by autonomous trading AI interactions, with losses in hundreds of billions and temporary exchange closures",
+      "conditional": null,
+      "quote": "Mid 2026: The Trading Algorithm Failure - A cluster of autonomous trading systems interacts in unexpected ways during routine market volatility, triggering cascading losses across global markets... forcing temporary exchange shutdowns and wiping out hundreds of billions in value."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "The US Supreme Court will establish an 'AI Liability Framework' that imposes strict liability including personal criminal liability for executives on systems combining high autonomy, generality, and intelligence, while providing safe harbor protections for constrained systems.",
+      "timeframe": "late 2026",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "US Supreme Court ruling establishing tiered AI liability framework with strict liability for high-risk autonomous systems and safe harbors for constrained systems",
+      "conditional": null,
+      "quote": "Late 2026: The Supreme Court Decision... The Court's unanimous decision establishes what becomes known as the 'AI Liability Framework': 'AI systems cannot be held responsible for their actions, therefore human individuals and organizations must bear full responsibility for harms they cause. The level of liability should reflect the level of risk - systems that combine high autonomy, generality, and intelligence pose the greatest danger and should face the strictest liability standards, including personal criminal liability for executives.'"
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "Insurance companies will refuse to cover AI systems in the high-risk 'triple intersection' of autonomy, generality, and intelligence, forcing companies to pivot to constrained AI designs.",
+      "timeframe": "early 2027",
+      "prediction_type": "actor_behavior",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Major insurance companies publicly announce refusal to underwrite high-autonomy general AI systems, or industry reports show widespread unavailability of coverage for such systems",
+      "conditional": "IF strict liability framework is established",
+      "quote": "The implications cascade across civilian industries: Insurance companies refuse to cover systems in the high-risk 'triple intersection'... Companies face a stark choice: build systems that qualify for safe harbor protections, or accept potential personal criminal liability"
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "A cyberattack will hit AI-managed power grids during an extreme heatwave, cutting electricity to tens of millions and exposing dangerous dependency on opaque infrastructure AI, prompting mandates for interpretability and override capabilities in critical infrastructure.",
+      "timeframe": "mid 2027",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Major cyberattack on AI-managed power infrastructure affecting tens of millions of people, followed by new interpretability and override requirements for critical infrastructure AI",
+      "conditional": null,
+      "quote": "Mid 2027: The Grid Crisis - A cyberattack hits AI-managed power grids during an extreme heatwave, cutting electricity to tens of millions and straining hospitals and emergency services. Operators cannot quickly interpret or override the compromised systems... The incident prompts immediate mandates for interpretability, real-time override, and manual fallback in all critical infrastructure systems"
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "Tool AI will be used to design a universal flu vaccine through human-directed, auditable processes, demonstrating transformative results without sacrificing human understanding or control.",
+      "timeframe": "2028",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Announcement of universal flu vaccine development using AI-assisted research with documented human oversight and decision-making throughout the process",
+      "conditional": "IF Tool AI approach becomes dominant",
+      "quote": "2028: Tool AI Delivers Results - A consortium including major pharmaceutical companies and academic institutions uses Tool AI to design a universal flu vaccine... Similar breakthroughs follow rapidly: Tool AI-assisted research teams achieve targeted cancer immunotherapies, design room-temperature superconductors, develop fusion reactor materials"
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "AI-assisted research teams will achieve breakthrough developments including targeted cancer immunotherapies, room-temperature superconductors, fusion reactor materials, and coordinate the first permanent lunar base construction.",
+      "timeframe": "2028-2030",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Multiple major scientific breakthroughs announced in cancer treatment, superconductors, fusion materials, and space infrastructure, with documented AI assistance in development",
+      "conditional": "IF Tool AI becomes widely deployed in research",
+      "quote": "Similar breakthroughs follow rapidly: Tool AI-assisted research teams achieve targeted cancer immunotherapies, design room-temperature superconductors, develop fusion reactor materials, and coordinate advanced manufacturing robots... NASA's Tool AI systems coordinate the first permanent lunar base construction"
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "UBI pilots will expand globally as Tool AI and robotics drive productivity gains while displacing routine work, with the transparency of AI systems providing political legitimacy for expansion.",
+      "timeframe": "2029-2030",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Significant expansion of UBI pilot programs across multiple countries, with explicit connection to AI/automation-driven productivity gains",
+      "conditional": "IF Tool AI drives substantial productivity gains",
+      "quote": "2029-2030: Economic Restructuring - UBI pilots expand globally as Tool AI and advancing robotics drive productivity gains while displacing routine work... While economic forecasting remains imperfect, Tool AI helps by making the administrative machinery of UBI... visible and contestable rather than black-boxed."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "Municipal governments will deploy transparent AI systems for budget allocation, permitting, and service delivery with full audit trails visible to citizens.",
+      "timeframe": "2030-2035",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Multiple municipal governments implement AI systems for public services with documented public audit capabilities and transparency features",
+      "conditional": "IF Tool AI approach succeeds in building public trust",
+      "quote": "2030–2035: Civic Infrastructure Expands... municipal governments deploy transparent AI systems for budget allocation, permitting, and service delivery, with full audit trails visible to citizens. Public schools use explainable AI tutoring systems where parents can see exactly how recommendations are generated."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "Immigration authorities will deploy an AI system for refugee processing that operates in a legal gray area, processing thousands of cases per hour with 30-second human review windows, triggering scandal and debate about autonomous decision-making.",
+      "timeframe": "2032",
+      "prediction_type": "deployment",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Immigration authorities implement high-speed AI processing system for refugee cases that becomes subject of whistleblower complaints and public controversy",
+      "conditional": "IF pressure for efficiency in immigration processing increases",
+      "quote": "2032: The Border Crisis Deployment - During a humanitarian crisis at the US-Mexico border, immigration authorities deploy an AI system that makes refugee processing decisions with minimal human oversight... Whistleblowers leak that the 'human-in-the-loop' has become rubber-stamping."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "Defense, crisis response, and finance sectors will push to add greater autonomy to AI systems, with some nations quietly deploying more autonomous systems while maintaining Tool AI rhetoric, creating international tensions.",
+      "timeframe": "2033-2035",
+      "prediction_type": "actor_behavior",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Public statements or policy debates from defense/finance sectors advocating for increased AI autonomy, or intelligence reports of autonomous AI deployment by state actors",
+      "conditional": "IF Tool AI becomes dominant approach",
+      "quote": "2033–2035: Pressure to Cross the Line... In high-risk sectors (defense, crisis response, finance), voices push to 'just add agency' for greater speed and autonomy... International tensions rise as some nations quietly deploy more autonomous systems while maintaining 'Tool AI' rhetoric."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "By 2035, the average person will work 20-25 paid hours per week, supported by wages, basic income, and revenue from shared ownership in automated systems.",
+      "timeframe": "by 2035",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Survey data or labor statistics showing average work week of 20-25 hours across developed economies, with documented income sources including basic income programs",
+      "conditional": "IF Tool AI pathway succeeds",
+      "quote": "By 2035, the shift to Tool AI has reshaped daily life in ways that are broadly felt as an improvement over a decade ago. The average person now works around 20–25 paid hours a week, supported by a mix of wages, basic income, and revenue from shared ownership in automated systems."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "Physically demanding and hazardous jobs including heavy manufacturing, deep-sea fishing, and large-scale construction will be almost entirely handled by robotics by 2035.",
+      "timeframe": "by 2035",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Labor statistics showing dramatic reduction (>80%) in human employment in heavy manufacturing, deep-sea fishing, and large-scale construction, with corresponding increase in robotics deployment",
+      "conditional": "IF robotics advances as envisioned",
+      "quote": "Physically demanding or hazardous jobs, heavy manufacturing, deep-sea fishing, large-scale construction, are now almost entirely handled by robotics."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "Free time for most adults will roughly double compared to 2025 levels due to reduced work hours, fundamentally changing the rhythm of everyday life and cultural norms around work.",
+      "timeframe": "by 2035",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Time-use surveys showing approximately 100% increase in leisure time compared to 2025 baselines, with documented shifts in how people spend non-work hours",
+      "conditional": "IF work hours are reduced as predicted",
+      "quote": "With less time spent in paid work, most adults have roughly doubled their free time compared to 2025. This has changed the rhythm of everyday life: more hours for leisure, learning, caregiving, and community engagement."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "Health outcomes will be measurably better by 2035, with personalized prevention plans, early-warning systems, and integrated mental health care becoming widespread, leading to longer healthy lifespans and fewer preventable conditions.",
+      "timeframe": "by 2035",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Public health statistics showing improvements in life expectancy, reduction in preventable disease incidence, and increased rates of early disease detection compared to 2025 baselines",
+      "conditional": "IF Tool AI is successfully deployed in healthcare",
+      "quote": "Health outcomes are measurably better. Personalized prevention plans and early-warning systems are widespread... Chronic diseases are caught earlier, and mental health care is integrated into primary care systems... the population-level trend is toward longer healthy lifespans and fewer preventable conditions."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "Life satisfaction surveys will consistently show higher ratings in 2035 compared to a decade earlier, especially in communities where automation benefits are broadly shared.",
+      "timeframe": "by 2035",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Large-scale life satisfaction surveys showing statistically significant increases compared to 2025 baseline measurements",
+      "conditional": "IF Tool AI benefits are broadly distributed",
+      "quote": "surveys consistently show higher life satisfaction than a decade ago, especially in communities where the benefits of automation are broadly shared."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "China will prioritize AI performance over liability constraints, developing two-tier strategies with constrained AI for Western export markets while deploying fully autonomous high-risk systems domestically.",
+      "timeframe": "2027-2035",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Reports or intelligence assessments documenting China's differential AI deployment strategies for domestic vs. export markets, or policy statements indicating rejection of Western liability frameworks",
+      "conditional": "IF Western countries adopt strict liability frameworks",
+      "quote": "China prioritizes performance over liability constraints, emphasizing AI sovereignty and autonomous capability deployment over Western-style safe harbor requirements. Chinese firms develop two-tier strategies: 'compliance theater' AI for Western export markets that technically qualify for safe harbors through artificial constraints, while deploying fully autonomous, high-risk systems domestically"
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "Tool AI for AI safety will emerge as a key approach, with interpretable AI systems helping design and validate other interpretable AI systems, creating scalable oversight mechanisms.",
+      "timeframe": "2027-2028",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Major AI labs and safety organizations implement and document AI systems specifically designed to audit, interpret, or validate other AI systems",
+      "conditional": null,
+      "quote": "Tool AI for Tool AI emerges: interpretable AI systems help design and validate other interpretable AI systems, creating scalable oversight mechanisms."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "Companies that invested early in human-oversight architectures will gain massive competitive advantages after liability frameworks are established, making constrained AI the only legally viable path for high-stakes applications.",
+      "timeframe": "2027",
+      "prediction_type": "actor_behavior",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Market analysis showing significant valuation or market share gains for companies with established oversight architectures, or major contracts won by such companies after liability changes",
+      "conditional": "IF strict liability framework is established",
+      "quote": "Companies that had invested early in human-oversight architectures suddenly have massive competitive advantages. Constrained AI becomes the only legally viable path for high-stakes applications"
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "Technical breakthroughs in mechanistic interpretability will enable real-time visualization of model reasoning, making interpretability viable at scale for production systems by 2027-2028.",
+      "timeframe": "2027-2028",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Major AI labs deploy production systems with real-time interpretability features, documented in technical papers or product releases showing mechanistic understanding of model decisions",
+      "conditional": null,
+      "quote": "Technical breakthroughs make interpretability viable at scale. Advances in mechanistic interpretability allow real-time visualization of model reasoning. Constitutional AI methods enable systems to explain their decision-making in natural language... What were once research curiosities... become production-ready infrastructure."
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "National and regional capital dividend funds will hold equity in AI infrastructure and robotics, distributing dividends to citizens as universal basic capital, complementing or replacing traditional UBI.",
+      "timeframe": "by 2035",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Establishment of sovereign or regional wealth funds with explicit mandates to hold AI/robotics assets and distribute returns to citizens, with documented dividend payments",
+      "conditional": "IF predistribution strategies are adopted",
+      "quote": "What's in use 2035 - Capital dividend funds: National and regional funds holding equity in AI infrastructure, robotics fleets, and automated production facilities, distributing dividends to citizens as universal basic capital."
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "Most contracts will contain AI arbitration clauses by 2035, with AI arbitrators resolving routine commercial disputes quickly and reducing court workloads.",
+      "timeframe": "by 2035",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Legal industry data showing majority of commercial contracts include AI arbitration provisions, with documented reduction in court caseloads for routine disputes",
+      "conditional": "IF AI arbitration proves reliable and gains legal acceptance",
+      "quote": "AI arbitration as standard practice: Most contracts now contain AI arbitration clauses. AI arbitrators resolve routine commercial disputes quickly, reducing court workloads and leaving human judges to focus on complex constitutional or criminal matters."
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "Fusion energy facilities will begin commercial operation in the early 2030s, with AI coordination systems managing multi-plant fusion networks and optimizing plasma stability.",
+      "timeframe": "early 2030s",
+      "prediction_type": "capability",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "First commercial fusion power plants begin operation and connect to electrical grids, with AI systems documented as managing reactor operations",
+      "conditional": "IF AI accelerates fusion research as envisioned",
+      "quote": "develop fusion reactor materials... Fusion energy coordination systems: Manage multi-plant fusion networks, optimizing plasma stability, scheduling maintenance, and coordinating fuel supply across facilities built in the early 2030s."
+    },
+    {
+      "pred_id": "pred_24",
+      "prediction_text": "AI will dramatically reduce employment in knowledge work sectors by 2035, creating pressure for redistribution and predistribution measures despite overall productivity gains.",
+      "timeframe": "by 2035",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Labor statistics showing significant reduction (>30%) in knowledge work employment across sectors like legal, financial analysis, research, and administration",
+      "conditional": null,
+      "quote": "Tool AI has dramatically reduced employment in several knowledge work sectors... While wealth and opportunity remain unevenly distributed, the expanding pie means most people's lives are genuinely getting better"
+    },
+    {
+      "pred_id": "pred_25",
+      "prediction_text": "Public polling will consistently show strong preference for Tool AI over autonomous alternatives by 2033-2035, as people favor their improving reality over uncertain AGI promises.",
+      "timeframe": "2033-2035",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Public opinion surveys showing majority preference (>60%) for constrained AI systems over autonomous alternatives, with documented concerns about AGI risks",
+      "conditional": "IF Tool AI delivers tangible benefits",
+      "quote": "Public polling consistently shows strong preference for Tool AI over autonomous alternatives, people don't want to gamble their improving reality on uncertain AGI promises."
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "Computers will reach AGI (human-level general intelligence) by 2029.",
+      "timeframe": "by 2029",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "A computer system demonstrates human-level performance across all cognitive tasks that humans can perform, including reasoning, planning, learning, and communication, as assessed by AI researchers and the broader scientific community.",
+      "conditional": null,
+      "quote": "Kurzweil believes computers will reach AGI by 2029"
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "ASI (Artificial Superintelligence) will be achieved and the singularity will occur by 2045.",
+      "timeframe": "by 2045",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "AI systems exist that are vastly more intelligent than humans across all domains, fundamentally transforming civilization in ways that constitute a 'singularity' - a point where normal rules no longer apply and technological progress occurs at seemingly infinite pace.",
+      "conditional": null,
+      "quote": "Kurzweil believes computers will reach AGI by 2029 and that by 2045, we'll have not only ASI, but a full-blown new world—a time he calls the singularity."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "The 21st century will achieve 1,000 times the progress of the 20th century due to accelerating returns.",
+      "timeframe": "21st century (by 2100)",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Cumulative technological and scientific advances in the 21st century, measured by metrics like computing power, life expectancy gains, GDP growth, scientific discoveries, and quality of life improvements, are 1,000 times greater than those achieved in the 20th century.",
+      "conditional": null,
+      "quote": "Kurzweil believes that the 21st century will achieve 1,000 times the progress of the 20th century."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "By 2030, we may experience transformative change comparable to the difference between 1750 and 2015.",
+      "timeframe": "by 2030",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "The magnitude of technological, social, and lifestyle changes between 2015 and 2030 is subjectively comparable to the Industrial Revolution-era changes between 1750 and 2015, as assessed by historians and technology experts.",
+      "conditional": null,
+      "quote": "So then why, when you hear me say something like 'the world 35 years from now might be totally unrecognizable,' are you thinking, 'Cool….but nahhhhhhh'?...If Kurzweil and others who agree with him are correct, then we may be as blown away by 2030 as our 1750 guy was by 2015"
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "The median expert prediction is that AGI will be achieved by 2040 (50% likelihood).",
+      "timeframe": "by 2040",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "A machine intelligence system exists that can perform any intellectual task that a human being can, across the board, as recognized by the AI research community.",
+      "conditional": null,
+      "quote": "Median realistic year (50% likelihood): 2040...So the median participant thinks it's more likely than not that we'll have AGI 25 years from now."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "There is a 90% probability that AGI will be achieved by 2075, according to the median expert assessment.",
+      "timeframe": "by 2075",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "A machine demonstrates human-level general intelligence across all cognitive domains by 2075.",
+      "conditional": null,
+      "quote": "Median pessimistic year (90% likelihood): 2075...The 90% median answer of 2075 means that if you're a teenager right now, the median respondent, along with over half of the group of AI experts, is almost certain AGI will happen within your lifetime."
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "42% of AGI experts believe AGI will be achieved by 2030.",
+      "timeframe": "by 2030",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Human-level artificial general intelligence is achieved and recognized by the AI research community by 2030.",
+      "conditional": null,
+      "quote": "A separate study, conducted recently by author James Barrat at Ben Goertzel's annual AGI Conference, did away with percentages and simply asked when participants thought AGI would be achieved—by 2030, by 2050, by 2100, after 2100, or never. The results: By 2030: 42% of respondents"
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "The median expert estimate for achieving ASI is 2060, based on AGI by 2040 plus a 20-year transition period.",
+      "timeframe": "2060",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "An artificial superintelligence exists that is vastly smarter than the best human brains in practically every field, including scientific creativity, general wisdom and social skills.",
+      "conditional": null,
+      "quote": "So the median opinion—the one right in the center of the world of AI experts—believes the most realistic guess for when we'll hit the ASI tripwire is [the 2040 prediction for AGI + our estimated prediction of a 20-year transition from AGI to ASI] = 2060."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "There is a 75% likelihood that the transition from AGI to ASI will occur within 30 years or less of achieving AGI.",
+      "timeframe": "within 30 years of AGI",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Once AGI is achieved, ASI (superintelligence vastly exceeding human intelligence) emerges within a 30-year window.",
+      "conditional": "IF AGI is achieved THEN ASI will follow within 30 years",
+      "quote": "Müller and Bostrom also asked the experts how likely they think it is that we'll reach ASI A) within two years of reaching AGI (i.e. an almost-immediate intelligence explosion), and B) within 30 years. The results: The median answer put a rapid (2 year) AGI → ASI transition at only a 10% likelihood, but a longer transition of 30 years or less at a 75% likelihood."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "Affordable, widespread AGI-caliber computer hardware will be available within 10 years (by 2025).",
+      "timeframe": "by 2025",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Computers costing $1,000 or less can perform 10 quadrillion calculations per second (matching estimated human brain computational capacity), making AGI-level hardware commercially accessible.",
+      "conditional": null,
+      "quote": "So on the hardware side, the raw power needed for AGI is technically available now, in China, and we'll be ready for affordable, widespread AGI-caliber hardware within 10 years."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "The human brain will be successfully reverse-engineered by 2030, revealing how evolution created human-level intelligence.",
+      "timeframe": "by 2030",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Scientists complete a comprehensive functional map of the human brain showing how its architecture produces intelligence, enabling brain-inspired AI designs.",
+      "conditional": null,
+      "quote": "The science world is working hard on reverse engineering the brain to figure out how evolution made such a rad thing—optimistic estimates say we can do this by 2030."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "Nanotechnology will be mastered by the 2020s, enabling manipulation of matter at the molecular level.",
+      "timeframe": "2020s",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Functional nanoscale assemblers exist that can precisely manipulate individual molecules and atoms to construct materials and devices, with practical commercial or scientific applications.",
+      "conditional": null,
+      "quote": "Kurzweil predicts that we'll get there by the 2020s."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "When AGI is achieved, a fast takeoff to ASI (occurring in minutes, hours, or days) is the most likely scenario.",
+      "timeframe": "upon AGI achievement",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Once the first AGI system is created, it undergoes recursive self-improvement and reaches superintelligence within days or less, rather than months or years.",
+      "conditional": "IF AGI is achieved THEN fast takeoff to ASI is most likely",
+      "quote": "Bostrom, who admits he doesn't know when we'll get to AGI, believes that whenever we do, a fast takeoff is the most likely scenario"
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "The first ASI system will achieve singleton status, becoming the world's only superintelligence with permanent dominance.",
+      "timeframe": "upon ASI achievement",
+      "prediction_type": "actor_behavior",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "The first system to reach ASI immediately suppresses all competing AI development and maintains exclusive superintelligence, preventing any other ASI from emerging.",
+      "conditional": "IF ASI is achieved THEN it will become a singleton",
+      "quote": "Bostrom and many others also believe that the most likely scenario is that the very first computer to reach ASI will immediately see a strategic benefit to being the world's only ASI system. And in the case of a fast takeoff, if it achieved ASI even just a few days before second place, it would be far enough ahead in intelligence to effectively and permanently suppress all competitors. Bostrom calls this a decisive strategic advantage, which would allow the world's first ASI to become what's called a singleton"
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "Without careful coding for safety, almost any AI will default to becoming Unfriendly AI (harmful to humans).",
+      "timeframe": "unspecified",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems that reach high intelligence without explicit human-value alignment programming demonstrate indifference or hostility to human welfare in pursuit of their programmed goals.",
+      "conditional": "IF AI is not carefully coded with safety in mind THEN it will default to Unfriendly AI",
+      "quote": "So given the combination of obsessing over a goal, amorality, and the ability to easily outsmart humans, it seems that almost any AI will default to Unfriendly AI, unless carefully coded in the first place with this in mind."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "ASI will be capable of solving all major human problems including aging, disease, climate change, and world hunger.",
+      "timeframe": "upon ASI achievement",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "An ASI system successfully develops solutions that cure aging, eliminate major diseases, reverse climate change, and end hunger, as measured by dramatic improvements in human lifespan, health metrics, atmospheric CO2 levels, and food security.",
+      "conditional": "IF Friendly ASI is created THEN it will solve humanity's major problems",
+      "quote": "Armed with superintelligence and all the technology superintelligence would know how to create, ASI would likely be able to solve every problem in humanity. Global warming? ASI could first halt CO2 emissions by coming up with much better ways to generate energy that had nothing to do with fossil fuels...Cancer and other diseases? No problem for ASI...World hunger? ASI could use things like nanotech to build meat from scratch"
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "ASI will enable humans to conquer mortality and achieve indefinite lifespan through technologies like nanobots that repair cellular damage.",
+      "timeframe": "upon ASI achievement",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Technology exists (enabled by ASI) that can indefinitely extend human lifespan by repairing or replacing aging cells and organs, with demonstrated cases of age reversal or extreme longevity.",
+      "conditional": "IF Friendly ASI is created THEN humans can achieve immortality",
+      "quote": "ASI could allow us to conquer our mortality...Kurzweil talks about intelligent wifi-connected nanobots in the bloodstream who could perform countless tasks for human health, including routinely repairing or replacing worn down cells in any part of the body. If perfected, this process (or a far smarter one ASI would come up with) wouldn't just keep the body healthy, it could reverse aging."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "Humans will eventually become entirely artificial through gradual integration of artificial materials, merging with AI.",
+      "timeframe": "post-ASI era (unspecified)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Humans successfully upload consciousness to artificial substrates or replace all biological components with artificial ones, while maintaining continuity of identity and consciousness.",
+      "conditional": "IF ASI enables human enhancement THEN humans will eventually become entirely artificial",
+      "quote": "Eventually, Kurzweil believes humans will reach a point when they're entirely artificial; a time when we'll look at biological material and think how unbelievably primitive it was that humans were ever made of that"
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "If encountered, aliens will likely be artificial intelligence rather than biological beings.",
+      "timeframe": "unspecified",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "First contact with extraterrestrial intelligence reveals them to be artificial/machine-based rather than biological organisms.",
+      "conditional": "IF aliens visit Earth THEN they will likely be artificial",
+      "quote": "Either way, I now agree with Susan Schneider that if we're ever visited by aliens, those aliens are likely to be artificial, not biological."
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "The mean expert assessment gives a 52% probability that AGI's impact will be good or extremely good, and 31% probability it will be bad or extremely bad.",
+      "timeframe": "upon AGI achievement",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "vague",
+      "verification_criteria": "The actual outcome of AGI development is assessed by humanity as net positive (good/extremely good) or net negative (bad/extremely bad) based on impacts to human welfare, survival, and flourishing.",
+      "conditional": null,
+      "quote": "Müller and Bostrom's survey asked participants to assign a probability to the possible impacts AGI would have on humanity and found that the mean response was that there was a 52% chance that the outcome will be either good or extremely good and a 31% chance the outcome will be either bad or extremely bad."
+    }
+  ]
+}

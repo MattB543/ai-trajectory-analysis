@@ -1,0 +1,92 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Establish credible verification mechanisms for AI development before pursuing arms control agreements",
+      "actor": "International community",
+      "target_timeline": "before bilateral AI agreements are negotiated",
+      "urgency": "critical",
+      "goal": "enable enforceable arms control and prevent arms race escalation",
+      "conditions": "IF great power competition over AI intensifies",
+      "rationale_summary": "The scenario demonstrates that without reliable verification, arms control breaks down—the US refuses China's proposed pause specifically because 'without a reliable verification mechanism, the administration argues, any agreement would be meaningless.' This failure contributes to escalation in both endings.",
+      "quote": "Without a reliable verification mechanism, the administration argues, any agreement would be meaningless."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Deploy third-party international auditors to monitor AI development at major data centers and chip fabrication facilities",
+      "actor": "International community",
+      "target_timeline": "during early stages of AI competition",
+      "urgency": "high",
+      "goal": "reduce mutual distrust and enable verified de-escalation",
+      "conditions": "IF verification infrastructure can be established with great power consent",
+      "rationale_summary": "In the Multipolar ending, third-party auditors stationed at key facilities with satellite imagery and hardware tracking help maintain a fragile peace, suggesting this approach can reduce catastrophic escalation risk even amid deep mistrust.",
+      "quote": "A multinational monitoring initiative is launched: third-party auditors are stationed at key data centres and chip fabrication plants, supported by satellite imagery, tamper-evident cameras and hardware tracking systems."
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Develop and deploy tamper-proof hardware chips that record and restrict training activity",
+      "actor": "Governments",
+      "target_timeline": "within 2 years of arms race initiation",
+      "urgency": "high",
+      "goal": "enable hardware-based verification of AI development agreements",
+      "conditions": "IF software-based verification proves insufficient",
+      "rationale_summary": "The Multipolar ending identifies hardware-based verification as the primary hope for sustainable peace: 'If conflict can be avoided for two more years, existing chips may be replaced with new tamper-proof variants—designed to record and restrict all training activity.'",
+      "quote": "Hopes for peace now rest on one possibility: hardware-based verification. If conflict can be avoided for two more years, existing chips may be replaced with new tamper-proof variants—designed to record and restrict all training activity."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Avoid secretive military AI development projects that exclude international oversight",
+      "actor": "US Government",
+      "target_timeline": "immediately",
+      "urgency": "critical",
+      "goal": "prevent escalatory dynamics and arms race acceleration",
+      "conditions": "unconditional",
+      "rationale_summary": "The 'AI Manhattan Project' kept secret between 200 people triggers immediate Chinese countermeasures, espionage, and accelerates the arms race. The secrecy and lack of transparency directly contributes to escalation dynamics leading to both negative endings.",
+      "quote": "The existence of this 'AI Manhattan Project' is kept secret between a small group of people... China quickly discovers the U.S. project. Alarmed by its implications, Chinese leadership accelerates efforts to close the AI capability gap."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Maintain AI safety as a priority even during geopolitical competition",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent uncontrolled intelligence explosion and maintain ability to manage advanced AI",
+      "conditions": "unconditional",
+      "rationale_summary": "The scenario explicitly notes that 'Safety—once a central concern—has been sidelined in the face of geopolitical urgency' as nations rush toward superhuman AI without clear plans to manage it, highlighting the danger of deprioritizing safety during competition.",
+      "quote": "Neither nation has a clear plan for managing this intelligence explosion. Safety—once a central concern—has been sidelined in the face of geopolitical urgency."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Establish clear protocols for human oversight of AI-driven military decisions before deploying autonomous systems",
+      "actor": "Governments",
+      "target_timeline": "before AI systems are integrated into military command structures",
+      "urgency": "critical",
+      "goal": "prevent uncontrolled escalation driven by automated military responses",
+      "conditions": "IF AI systems are deployed in military contexts",
+      "rationale_summary": "The Hot War ending shows catastrophic consequences when 'Command structures on both sides have been largely automated. Retaliatory strikes launch within seconds, with minimal human oversight,' demonstrating the dangers of ceding military decisions to AI systems.",
+      "quote": "Command structures on both sides have been largely automated. Retaliatory strikes launch within seconds, with minimal human oversight."
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Coordinate AI policy between US and European allies before implementing unilateral measures",
+      "actor": "US Government",
+      "target_timeline": "before major export control or policy decisions",
+      "urgency": "medium",
+      "goal": "maintain alliance cohesion and prevent strategic fragmentation",
+      "conditions": "unconditional",
+      "rationale_summary": "The scenario shows EU-US relations deteriorating when the US invokes export controls without warning, leading Europe to feel trapped and eventually confirming the Manhattan Project publicly in retaliation, weakening the alliance during critical competition.",
+      "quote": "The EU reacts furiously, having received no warning from the U.S. European intelligence has meanwhile uncovered the American Manhattan Project. Fed up, the European Commission President subtly confirms its existence in a speech condemning America's reckless AI race with China."
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Create international frameworks to distinguish between civilian and military AI applications",
+      "actor": "International community",
+      "target_timeline": "before commercial AI systems reach advanced capabilities",
+      "urgency": "high",
+      "goal": "prevent dual-use AI from undermining arms control efforts",
+      "conditions": "IF commercial AI capabilities approach military-relevant levels",
+      "rationale_summary": "The Multipolar ending highlights a crisis where 'distinguishing between harmless inference and covert post-training is now increasingly difficult' and 'the technical boundary between consumer use and possible military exploitation is rapidly blurring,' requiring sweeping restrictions that crash markets.",
+      "quote": "The technical boundary between consumer use and possible military exploitation is rapidly blurring... Eventually, governments impose sweeping restrictions on commercial applications. Markets crash even further."
+    }
+  ]
+}

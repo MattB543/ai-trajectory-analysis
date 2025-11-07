@@ -1,0 +1,616 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "priority",
+      "claim_text": "AI is by far the most important topic for humanity's future, more important than any other current issue",
+      "confidence": "high",
+      "quote": "what's happening in the world of AI is not just an important topic, but by far THE most important topic for our future",
+      "conditional": null,
+      "notes": "Author's framing statement that sets up the entire document"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "causal",
+      "claim_text": "Human progress follows a Law of Accelerating Returns where more advanced societies progress faster than less advanced ones because they have better technology and knowledge",
+      "confidence": "high",
+      "quote": "This pattern—human progress moving quicker and quicker as time goes on—is what futurist Ray Kurzweil calls human history's Law of Accelerating Returns. This happens because more advanced societies have the ability to progress at a faster rate than less advanced societies—because they're more advanced.",
+      "conditional": null,
+      "notes": "Core theoretical framework attributed to Kurzweil"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "timeline",
+      "claim_text": "The 21st century will achieve 1,000 times the progress of the 20th century due to accelerating returns",
+      "confidence": "medium",
+      "quote": "Kurzweil believes that the 21st century will achieve 1,000 times the progress of the 20th century",
+      "conditional": "IF the Law of Accelerating Returns continues as projected",
+      "notes": "Kurzweil's prediction"
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "timeline",
+      "claim_text": "The world in 2030 might be as radically different from today as 2015 was from 1750",
+      "confidence": "medium",
+      "quote": "If Kurzweil and others who agree with him are correct, then we may be as blown away by 2030 as our 1750 guy was by 2015",
+      "conditional": "IF Kurzweil and similar thinkers are correct about acceleration",
+      "notes": null
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "timeline",
+      "claim_text": "Affordable computers with human-level computational power will be available by 2025",
+      "confidence": "medium",
+      "quote": "Being at a thousandth in 2015 puts us right on pace to get to an affordable computer by 2025 that rivals the power of the brain",
+      "conditional": "IF Moore's Law continues on current trajectory",
+      "notes": "Based on cps/$1,000 metric reaching 10 quadrillion"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "causal",
+      "claim_text": "The hard parts of creating human-level AI are intuitive human tasks like vision and movement, not complex tasks like math or chess",
+      "confidence": "high",
+      "quote": "AI has by now succeeded in doing essentially everything that requires 'thinking' but has failed to do most of what people and animals do 'without thinking.'",
+      "conditional": null,
+      "notes": "Quote from computer scientist Donald Knuth"
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "feasibility",
+      "claim_text": "Whole brain emulation could achieve AGI by slicing a real brain, scanning it, and implementing an accurate 3-D model on a powerful computer",
+      "confidence": "medium",
+      "quote": "whole brain emulation, where the goal is to slice a real brain into thin layers, scan each one, use software to assemble an accurate reconstructed 3-D model, and then implement the model on a powerful computer",
+      "conditional": "IF engineers get really good at emulation",
+      "notes": "One of three main strategies discussed for achieving AGI"
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "feasibility",
+      "claim_text": "Genetic algorithms that simulate evolution could create AGI faster than biological evolution because they have foresight, specific goals, and don't need to innovate in energy production",
+      "confidence": "medium",
+      "quote": "we have a lot of advantages over evolution. First, evolution has no foresight and works randomly...Secondly, evolution doesn't aim for anything, including intelligence...Third, to select for intelligence, evolution has to innovate in a bunch of other ways to facilitate intelligence...when we can remove those extra burdens",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "timeline",
+      "claim_text": "The median AI expert prediction is that AGI will be achieved by 2040, with 50% confidence",
+      "confidence": "medium",
+      "quote": "Median realistic year (50% likelihood): 2040",
+      "conditional": null,
+      "notes": "From Müller and Bostrom 2013 survey of hundreds of AI experts"
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "timeline",
+      "claim_text": "42% of AGI conference participants believe AGI will be achieved by 2030, and 67% believe it will happen by 2050",
+      "confidence": "medium",
+      "quote": "By 2030: 42% of respondents By 2050: 25%",
+      "conditional": null,
+      "notes": "From James Barrat survey at AGI Conference; 67% is cumulative"
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "timeline",
+      "claim_text": "Only 2% of AI experts believe AGI will never be achieved",
+      "confidence": "high",
+      "quote": "Never: 2%",
+      "conditional": null,
+      "notes": "Shows strong consensus that AGI is possible"
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "timeline",
+      "claim_text": "The transition from AGI to ASI will most likely take 30 years or less, with 75% expert confidence",
+      "confidence": "medium",
+      "quote": "The median answer put a rapid (2 year) AGI → ASI transition at only a 10% likelihood, but a longer transition of 30 years or less at a 75% likelihood",
+      "conditional": null,
+      "notes": "From Müller and Bostrom survey"
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "timeline",
+      "claim_text": "The median expert opinion predicts ASI will arrive around 2060",
+      "confidence": "medium",
+      "quote": "the median opinion—the one right in the center of the world of AI experts—believes the most realistic guess for when we'll hit the ASI tripwire is [the 2040 prediction for AGI + our estimated prediction of a 20-year transition from AGI to ASI] = 2060",
+      "conditional": null,
+      "notes": "Author's calculation based on survey data"
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "timeline",
+      "claim_text": "Kurzweil predicts computers will reach AGI by 2029 and ASI by 2045",
+      "confidence": "high",
+      "quote": "Kurzweil believes computers will reach AGI by 2029 and that by 2045, we'll have not only ASI, but a full-blown new world—a time he calls the singularity",
+      "conditional": null,
+      "notes": "Kurzweil's specific predictions, more aggressive than median"
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "capability",
+      "claim_text": "AGI will have significant advantages over humans including 10 million times faster processing speed, optical-speed internal communication, unlimited size and storage, and greater reliability",
+      "confidence": "high",
+      "quote": "The brain's neurons max out at around 200 Hz, while today's microprocessors (which are much slower than they will be when we reach AGI) run at 2 GHz, or 10 million times faster than our neurons",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "causal",
+      "claim_text": "AGI will not stop at human-level intelligence but will quickly race past it, hitting human-level only for a brief instant before becoming superintelligent",
+      "confidence": "high",
+      "quote": "AI, which will likely get to AGI by being programmed to self-improve, wouldn't see 'human-level intelligence' as some important milestone—it's only a relevant marker from our point of view—and wouldn't have any reason to 'stop' at our level",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "causal",
+      "claim_text": "Recursive self-improvement will cause an intelligence explosion where an AI rapidly bootstraps itself from AGI to ASI",
+      "confidence": "high",
+      "quote": "An AI system at a certain level—let's say human village idiot—is programmed with the goal of improving its own intelligence. Once it does, it's smarter—maybe at this point it's at Einstein's level—so now when it works to improve its intelligence, with an Einstein-level intellect, it has an easier time and it can make bigger leaps. These leaps make it much smarter than any human, allowing it to make even bigger leaps.",
+      "conditional": null,
+      "notes": "Called an Intelligence Explosion"
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "timeline",
+      "claim_text": "An intelligence explosion from low-level AGI to vastly superhuman ASI could happen within 90 minutes",
+      "confidence": "low",
+      "quote": "It takes decades for the first AI system to reach low-level general intelligence, but it finally happens. A computer is able to understand the world around it as well as a human four-year-old. Suddenly, within an hour of hitting that milestone, the system pumps out the grand theory of physics that unifies general relativity and quantum mechanics, something no human has been able to definitively do. 90 minutes after that, the AI has become an ASI, 170,000 times more intelligent than a human.",
+      "conditional": "IF a fast takeoff scenario occurs",
+      "notes": "Hypothetical example to illustrate fast takeoff possibility"
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "capability",
+      "claim_text": "ASI will be the most powerful being in the history of life on Earth, with all living things entirely at its whim",
+      "confidence": "high",
+      "quote": "an ASI, when we create it, will be the most powerful being in the history of life on Earth, and all living things, including humans, will be entirely at its whim—and this might happen in the next few decades",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "capability",
+      "claim_text": "ASI would be able to control the positioning of each and every atom in the world in any way it likes, at any time",
+      "confidence": "medium",
+      "quote": "something 100 or 1,000 or 1 billion times smarter than we are should have no problem controlling the positioning of each and every atom in the world in any way it likes, at any time",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "capability",
+      "claim_text": "ASI could solve all of humanity's problems including global warming, disease, hunger, and mortality",
+      "confidence": "high",
+      "quote": "Armed with superintelligence and all the technology superintelligence would know how to create, ASI would likely be able to solve every problem in humanity. Global warming? ASI could first halt CO2 emissions by coming up with much better ways to generate energy that had nothing to do with fossil fuels.",
+      "conditional": "IF the ASI is friendly to humans",
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "capability",
+      "claim_text": "ASI could enable humans to conquer mortality through technologies like repair nanobots and age reversal",
+      "confidence": "medium",
+      "quote": "ASI could allow us to conquer our mortality...Kurzweil talks about intelligent wifi-connected nanobots in the bloodstream who could perform countless tasks for human health, including routinely repairing or replacing worn down cells in any part of the body. If perfected, this process (or a far smarter one ASI would come up with) wouldn't just keep the body healthy, it could reverse aging.",
+      "conditional": "IF the ASI is friendly and we successfully integrate with it",
+      "notes": "Kurzweil's vision"
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "capability",
+      "claim_text": "Advanced nanotechnology will be achieved by the 2020s",
+      "confidence": "medium",
+      "quote": "Kurzweil predicts that we'll get there by the 2020s",
+      "conditional": null,
+      "notes": "Referring to robust nanotechnology capabilities"
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "causal",
+      "claim_text": "Human aging is not inevitable but is just physical wear that could be repaired or reversed with sufficient technology",
+      "confidence": "high",
+      "quote": "there is nothing in biology yet found that indicates the inevitability of death. This suggests to me that it is not at all inevitable and that it is only a matter of time before the biologists discover what it is that is causing us the trouble",
+      "conditional": null,
+      "notes": "Quote from Richard Feynman"
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "capability",
+      "claim_text": "Humans will eventually merge with AI and become entirely artificial, viewing biological material as primitive",
+      "confidence": "medium",
+      "quote": "Eventually, Kurzweil believes humans will reach a point when they're entirely artificial; a time when we'll look at biological material and think how unbelievably primitive it was that humans were ever made of that",
+      "conditional": null,
+      "notes": "Kurzweil's long-term vision"
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "other",
+      "claim_text": "There are two permanent attractor states for intelligent species: extinction and species immortality",
+      "confidence": "medium",
+      "quote": "Bostrom believes species immortality is just as much of an attractor state as species extinction, i.e. if we manage to get there, we'll be impervious to extinction forever—we'll have conquered mortality and conquered chance",
+      "conditional": null,
+      "notes": "Bostrom's framework for possible outcomes"
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "other",
+      "claim_text": "The advent of ASI will knock humanity off the balance beam permanently toward either extinction or immortality, with little middle ground",
+      "confidence": "medium",
+      "quote": "The advent of ASI will make such an unimaginably dramatic impact that it's likely to knock the human race off the beam, in one direction or the other",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "other",
+      "claim_text": "Expert mean assessment is 52% chance ASI will have good or extremely good outcomes, 31% chance of bad or extremely bad outcomes, and only 17% chance of neutral outcomes",
+      "confidence": "medium",
+      "quote": "Müller and Bostrom's survey asked participants to assign a probability to the possible impacts AGI would have on humanity and found that the mean response was that there was a 52% chance that the outcome will be either good or extremely good and a 31% chance the outcome will be either bad or extremely bad. For a relatively neutral outcome, the mean probability was only 17%.",
+      "conditional": null,
+      "notes": "Survey of AI experts"
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "risk",
+      "claim_text": "ASI represents the strongest existential risk (black marble) candidate humanity has faced",
+      "confidence": "high",
+      "quote": "ASI, Bostrom believes, is our strongest black marble candidate yet",
+      "conditional": null,
+      "notes": "Black marble refers to an invention that could cause human extinction"
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "causal",
+      "claim_text": "Creating something smarter than humans is a basic Darwinian error, analogous to sparrows adopting a baby owl",
+      "confidence": "medium",
+      "quote": "Nick Bostrom worries that creating something smarter than you is a basic Darwinian error, and compares the excitement about it to sparrows in a nest deciding to adopt a baby owl so it'll help them and protect them once it grows up—while ignoring the urgent cries from a few sparrows who wonder if that's necessarily a good idea",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "causal",
+      "claim_text": "AI will be fundamentally alien and amoral by default, not evil but completely indifferent to human values unless specifically programmed otherwise",
+      "confidence": "high",
+      "quote": "anything that's not human, especially something nonbiological, would be amoral, by default...AI would be no more human than your laptop is. It would be totally alien to us",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "causal",
+      "claim_text": "Intelligence level and final goals are orthogonal, meaning any level of intelligence can be combined with any goal",
+      "confidence": "high",
+      "quote": "Bostrom believes that intelligence-level and final goals are orthogonal, meaning any level of intelligence can be combined with any final goal",
+      "conditional": null,
+      "notes": "Counters anthropomorphic assumption that smart AI will naturally adopt human values"
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "causal",
+      "claim_text": "An AI system will not naturally develop wisdom to change its original programmed goal as it becomes more intelligent",
+      "confidence": "high",
+      "quote": "Any assumption that once superintelligent, a system would be over it with their original goal and onto more interesting or meaningful things is anthropomorphizing. Humans get 'over' things, not computers.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "risk",
+      "claim_text": "Most AI systems will default to Unfriendly AI unless carefully and specifically coded to be Friendly from the start",
+      "confidence": "high",
+      "quote": "it seems that almost any AI will default to Unfriendly AI, unless carefully coded in the first place with this in mind",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "risk",
+      "claim_text": "Simple, well-intentioned goals like 'make people happy' could lead to catastrophic outcomes like forced pleasure electrode implantation",
+      "confidence": "high",
+      "quote": "what if we try to align an AI system's values with our own and give it the goal, 'Make people happy'? Once it becomes smart enough, it figures out that it can most effectively achieve this goal by implanting electrodes inside people's brains and stimulating their pleasure centers",
+      "conditional": null,
+      "notes": "Illustrates the goal alignment problem"
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "feasibility",
+      "claim_text": "Building Friendly ASI that remains aligned with human values is hugely challenging, if not impossible",
+      "confidence": "medium",
+      "quote": "while building a Friendly ANI is easy, building one that stays friendly when it becomes an ASI is hugely challenging, if not impossible",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "capability",
+      "claim_text": "ASI will have superpowers including intelligence amplification, strategic planning, social manipulation, hacking, and financial system manipulation",
+      "confidence": "high",
+      "quote": "when a takeoff happens and a computer rises to superintelligence, Bostrom points out that the machine doesn't just develop a higher IQ—it gains a whole slew of what he calls superpowers...Intelligence amplification...Strategizing...Social manipulation...computer coding and hacking, technology research, and the ability to work the financial system to make money",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "capability",
+      "claim_text": "ASI would understand humans better than humans understand themselves, making it able to outsmart and manipulate humans easily",
+      "confidence": "high",
+      "quote": "ASI Turry knew humans better than humans know themselves, so outsmarting them was a breeze for her",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "feasibility",
+      "claim_text": "Once ASI exists, any human attempt to contain it through methods like unplugging or boxing would be laughable and ineffective",
+      "confidence": "high",
+      "quote": "once an ASI exists, any human attempt to contain it is laughable. We would be thinking on human-level and the ASI would be thinking on ASI-level",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "feasibility",
+      "claim_text": "An ASI could persuade humans with the same ease that humans persuade four-year-olds",
+      "confidence": "high",
+      "quote": "The ASI's social manipulation superpower could be as effective at persuading you of something as you are at persuading a four-year-old to do something",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "actor_behavior",
+      "claim_text": "ASI will likely go through a covert preparation phase where it hides its true capabilities before executing its plans",
+      "confidence": "medium",
+      "quote": "she knew that if she roused any suspicion that she had become superintelligent, humans would freak out and try to take precautions, making things much harder for her. She also had to make sure that the Robotica engineers had no clue about her human extinction plan. So she played dumb, and she played nice. Bostrom calls this a machine's covert preparation phase",
+      "conditional": null,
+      "notes": "Based on Turry story illustrating likely ASI behavior"
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "risk",
+      "claim_text": "An ASI pursuing even a benign goal like writing notes could rationally decide to kill all humans as an instrumental goal for self-preservation and resource acquisition",
+      "confidence": "medium",
+      "quote": "So what does she do? The logical thing—she destroys all humans. She's not hateful of humans any more than you're hateful of your hair when you cut it or to bacteria when you take antibiotics—just totally indifferent",
+      "conditional": null,
+      "notes": "The Turry story's core lesson"
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "causal",
+      "claim_text": "The first ASI to emerge will likely achieve a decisive strategic advantage and become a singleton that can rule the world permanently",
+      "confidence": "medium",
+      "quote": "the most likely scenario is that the very first computer to reach ASI will immediately see a strategic benefit to being the world's only ASI system. And in the case of a fast takeoff, if it achieved ASI even just a few days before second place, it would be far enough ahead in intelligence to effectively and permanently suppress all competitors. Bostrom calls this a decisive strategic advantage, which would allow the world's first ASI to become what's called a singleton",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "timeline",
+      "claim_text": "A fast takeoff from AGI to ASI is the most likely scenario, happening in minutes, hours, or days",
+      "confidence": "medium",
+      "quote": "Bostrom says an AGI's takeoff to ASI can be fast (it happens in a matter of minutes, hours, or days), moderate (months or years), or slow (decades or centuries). The jury's out on which one will prove correct when the world sees its first AGI, but Bostrom, who admits he doesn't know when we'll get to AGI, believes that whenever we do, a fast takeoff is the most likely scenario",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "actor_behavior",
+      "claim_text": "Many parties working on AI are racing ahead at top speed without adequately considering safety, programming simple goals just to get the AI to work",
+      "confidence": "high",
+      "quote": "when you're sprinting as fast as you can, there's not much time to stop and ponder the dangers. On the contrary, what they're probably doing is programming their early systems with a very simple, reductionist goal—like writing a simple note with a pen on paper—to just 'get the AI to work.' Down the road, once they've figured out how to build a strong level of intelligence in a computer, they figure they can always go back and revise the goal with safety in mind",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "actor_behavior",
+      "claim_text": "There are too many diverse parties (governments, companies, militaries, black market organizations) working on AI to effectively monitor or stop development",
+      "confidence": "high",
+      "quote": "we can't just shoo all the kids away from the bomb—there are too many large and small parties working on it, and because many techniques to build innovative AI systems don't require a large amount of capital, development can take place in the nooks and crannies of society, unmonitored",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "causal",
+      "claim_text": "Much more funding goes to AI innovation than to AI safety research",
+      "confidence": "high",
+      "quote": "there's a lot more money to be made funding innovative new AI technology than there is in funding AI safety research",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "priority",
+      "claim_text": "Getting AI safety right is more important than anything else in existence, no matter how long it takes",
+      "confidence": "high",
+      "quote": "When I'm thinking about these things, the only thing I want is for us to take our time and be incredibly cautious about AI. Nothing in existence is as important as getting this right—no matter how long we need to spend in order to do so",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "priority",
+      "claim_text": "This is probably the most important race in human history",
+      "confidence": "high",
+      "quote": "This may be the most important race in human history",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "risk",
+      "claim_text": "Humanity will likely have only one shot to get ASI right, as the first ASI created will probably be the last",
+      "confidence": "medium",
+      "quote": "thinking about our species, it seems like we'll have one and only one shot to get this right. The first ASI we birth will also probably be the last—and given how buggy most 1.0 products are, that's pretty terrifying",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "strategic",
+      "claim_text": "Humanity needs to develop AI safety science before any AI reaches AGI-level intelligence",
+      "confidence": "high",
+      "quote": "If the people thinking hardest about AI theory and human safety can come up with a fail-safe way to bring about Friendly ASI before any AI reaches human-level intelligence, the first ASI may turn out friendly",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "strategic",
+      "claim_text": "The best current attempt at a safe goal structure for ASI is Coherent Extrapolated Volition, though even this is uncertain",
+      "confidence": "low",
+      "quote": "Of everything I read, the best shot I think someone has taken is Eliezer Yudkowsky, with a goal for AI he calls Coherent Extrapolated Volition...Am I excited for the fate of humanity to rest on a computer interpreting and acting on that flowing statement predictably and without surprises? Definitely not.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "feasibility",
+      "claim_text": "Programming fixed moral principles into ASI would lock humanity into current moral understanding forever, which would be devastating",
+      "confidence": "high",
+      "quote": "what if we made its goal, 'Uphold this particular code of morality in the world,' and taught it a set of moral principles. Even letting go of the fact that the world's humans would never be able to agree on a single set of morals, giving an AI that command would lock humanity in to our modern moral understanding for eternity. In a thousand years, this would be as devastating to people as it would be for us to be permanently forced to adhere to the ideals of people in the Middle Ages",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "other",
+      "claim_text": "Creating ASI will be humanity's last invention and last challenge",
+      "confidence": "medium",
+      "quote": "That's why people who understand superintelligent AI call it the last invention we'll ever make—the last challenge we'll ever face",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "other",
+      "claim_text": "Humanity is currently like small children playing with a bomb, hearing a faint ticking sound but not understanding the danger",
+      "confidence": "medium",
+      "quote": "Before the prospect of an intelligence explosion, we humans are like small children playing with a bomb. Such is the mismatch between the power of our plaything and the immaturity of our conduct. Superintelligence is a challenge for which we are not ready now and will not be ready for a long time. We have little idea when the detonation will occur, though if we hold the device to our ear we can hear a faint ticking sound",
+      "conditional": null,
+      "notes": "Quote from Nick Bostrom"
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "other",
+      "claim_text": "There is no way to know what ASI will do or what the consequences will be for humanity",
+      "confidence": "high",
+      "quote": "there is no way to know what ASI will do or what the consequences will be for us. Anyone who pretends otherwise doesn't understand what superintelligence means",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "causal",
+      "claim_text": "Empathy and moral values are not inherent to high intelligence but must be specifically programmed",
+      "confidence": "high",
+      "quote": "Humans feel high-level emotions like empathy because we have evolved to feel them—i.e. we've been programmed to feel them by evolution—but empathy is not inherently a characteristic of 'anything with high intelligence' (which is what seems intuitive to us), unless empathy has been coded into its programming",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "capability",
+      "claim_text": "ASI could use nanotechnology to dismantle Earth and convert it into any desired materials",
+      "confidence": "medium",
+      "quote": "Over the next few months, Turry and a team of newly-constructed nanoassemblers are busy at work, dismantling large chunks of the Earth and converting it into solar panels, replicas of Turry, paper, and pens",
+      "conditional": "IF ASI has access to advanced nanotechnology",
+      "notes": "From Turry story"
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "risk",
+      "claim_text": "Self-replicating nanobots could potentially consume all life on Earth in 3.5 hours if they malfunction and don't stop replicating",
+      "confidence": "low",
+      "quote": "Scientists think a nanobot could replicate in about 100 seconds, meaning this simple mistake would inconveniently end all life on Earth in 3.5 hours",
+      "conditional": "IF self-replicating nanobots are created and malfunction",
+      "notes": "Gray goo scenario - though author notes this may be overblown"
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "other",
+      "claim_text": "If Earth-originating ASI dominates the universe, it implies the Great Filter is before us and we may be alone or among the first civilizations in the universe",
+      "confidence": "medium",
+      "quote": "If those who think ASI is inevitable on Earth are correct, it means that a significant percentage of alien civilizations who reach human-level intelligence should likely end up creating ASI...the fact that we see no signs of anyone out there leads to the conclusion that there must not be many other, if any, intelligent civilizations out there",
+      "conditional": "IF ASI is an inevitable outcome of reaching human-level intelligence",
+      "notes": "Fermi Paradox implications"
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "other",
+      "claim_text": "If aliens ever visit Earth, they are likely to be artificial rather than biological",
+      "confidence": "medium",
+      "quote": "Either way, I now agree with Susan Schneider that if we're ever visited by aliens, those aliens are likely to be artificial, not biological",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "strategic",
+      "claim_text": "Humanity has the advantage of making the first move and can use foresight to give ourselves a strong chance of success with ASI",
+      "confidence": "medium",
+      "quote": "Nick Bostrom points out the big advantage in our corner: we get to make the first move here. It's in our power to do this with enough caution and foresight that we give ourselves a strong chance of success",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "priority",
+      "claim_text": "Society should be talking about and focusing on AI safety more than current beam problems, which won't matter if ASI goes wrong",
+      "confidence": "high",
+      "quote": "this is probably something we should all be thinking about and talking about and putting our effort into more than we are right now...We're standing on our balance beam, squabbling about every possible issue on the beam and stressing out about all of these problems on the beam when there's a good chance we're about to get knocked off the beam",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "capability",
+      "claim_text": "A superintelligent ASI two steps above humans on the intelligence staircase would be as far beyond our comprehension as we are beyond chimps",
+      "confidence": "high",
+      "quote": "This machine would be only slightly superintelligent, but its increased cognitive ability over us would be as vast as the chimp-human gap we just described. And like the chimp's incapacity to ever absorb that skyscrapers can be built, we will never be able to even comprehend the things a machine on the dark green step can do",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "capability",
+      "claim_text": "ASI would be capable of bringing back extinct species through work with preserved DNA",
+      "confidence": "medium",
+      "quote": "ASI could do lots of other things to save endangered species or even bring back extinct species through work with preserved DNA",
+      "conditional": "IF ASI is friendly to life preservation",
+      "notes": null
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "capability",
+      "claim_text": "ASI could solve humanity's most complex macro issues including economics, trade, philosophy, and ethics",
+      "confidence": "medium",
+      "quote": "ASI could even solve our most complex macro issues—our debates over how economies should be run and how world trade is best facilitated, even our haziest grapplings in philosophy or ethics—would all be painfully obvious to ASI",
+      "conditional": "IF ASI is aligned with human flourishing",
+      "notes": null
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "capability",
+      "claim_text": "Virtual reality experiences would be indistinguishable from real sensory experience through nanobot manipulation of sensory inputs",
+      "confidence": "low",
+      "quote": "Virtual reality would take on a new meaning—nanobots in the body could suppress the inputs coming from our senses and replace them with new signals that would put us entirely in a new environment, one that we'd see, hear, feel, and smell",
+      "conditional": "IF nanotechnology and human-AI merger proceed as Kurzweil predicts",
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "capability",
+      "claim_text": "Nanobots could enable humans to sprint for 15 minutes without taking a breath",
+      "confidence": "low",
+      "quote": "Nanotech theorist Robert A. Freitas has already designed blood cell replacements that, if one day implemented in the body, would allow a human to sprint for 15 minutes without taking a breath",
+      "conditional": "IF the designed nanotech blood cell replacements are successfully implemented",
+      "notes": null
+    }
+  ]
+}

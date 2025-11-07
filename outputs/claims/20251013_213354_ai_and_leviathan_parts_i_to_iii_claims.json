@@ -1,0 +1,634 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "other",
+      "claim_text": "AI increases the information resolution of the universe, functioning as a microscope that makes the world radically less opaque",
+      "confidence": "high",
+      "quote": "AI is a microscope. It increases the information resolution of the universe.",
+      "conditional": null,
+      "notes": "Core conceptual framing for the entire argument about AI's effects"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "causal",
+      "claim_text": "The democratization of AI will be at least as destabilizing to institutions as the printing press was, which led to civil wars and the consolidation of the modern nation-state",
+      "confidence": "high",
+      "quote": "My null hypothesis is that the democratization of powerful AI capabilities will be at least as destabilizing as the printing press.",
+      "conditional": null,
+      "notes": "Central thesis of the document series"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "other",
+      "claim_text": "Contemporary America parallels Early Modern England before the English Civil War, with similar cultural schisms, Puritan-like movements, conservative counter-reactions, debates over censorship, and weakened executive power",
+      "confidence": "medium",
+      "quote": "the parallels between Early Modern England and contemporary America extend beyond the technological. Our cultural and ideological schisms are intensifying; the new Puritans have run headlong into a conservative counter-reaction; and our parliamentary debates revolve around issues of censorship",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "risk",
+      "claim_text": "Open sourcing powerful AI models too quickly has high potential for blowback and could jeopardize freedom itself by accelerating conditions for an AI Leviathan",
+      "confidence": "medium",
+      "quote": "If offensive capabilities democratize faster than adaptation and defensive technology can keep up, open source maximalism could even jeopardize the cause of freedom itself, accelerating the conditions for the AI Leviathan",
+      "conditional": "IF offensive capabilities democratize faster than defensive technology can adapt",
+      "notes": "Critique of e/acc open source maximalism"
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "actor_behavior",
+      "claim_text": "Society will likely overreact to AI risks with excessive security measures that remain in place permanently, similar to post-9/11 security theater",
+      "confidence": "medium",
+      "quote": "In retrospect, we over-reacted. While terrorism loomed large psychologically, the risks were quantifiably small... Fear of Islamic terrorism has since subsided, but these enhanced security protocols not only remain in place, but continue to be built upon",
+      "conditional": null,
+      "notes": "Implies similar dynamic will occur with AI"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "causal",
+      "claim_text": "Dangerous AI misuse will be rare, but will follow Taleb's Minority Rule where a small intolerable minority sets rules for everyone",
+      "confidence": "high",
+      "quote": "Dangerous misuse of AI will probably be similarly rare. Most people are simply not sociopaths. Nevertheless, many areas of life follow the logic of Nassim Taleb's Minority Rule, in which a small but intolerant minority ends up setting the rule for everyone.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "risk",
+      "claim_text": "The coming intelligence explosion puts liberal democracy on a knife edge between two outcomes: an AI Leviathan (global surveillance state with Chinese-style panopticon) or state collapse and political fragmentation",
+      "confidence": "medium",
+      "quote": "the coming intelligence explosion puts liberal democracy on a knife edge. On one side is an AI Leviathan; a global singleton that restores order through a Chinese-style panopticon and social credit system. On the other is state collapse and political fragmentation",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "causal",
+      "claim_text": "Legacy institutions will fail to adapt to AI, giving way to new AI-native organizations that solve the principal-agent problem and enable localized collective action at high speeds",
+      "confidence": "medium",
+      "quote": "our legacy institutions fail to adapt and give way to new, AI-native organizations that solve the principal-agent problem and unlock localized collective action at blazing speeds",
+      "conditional": "IF legacy institutions fail to adapt",
+      "notes": "Part of the state collapse scenario"
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "other",
+      "claim_text": "A new, quasi-medieval social order will emerge from AI-driven institutional fragmentation, with private provision of security and other public goods",
+      "confidence": "medium",
+      "quote": "Peering through the event horizon of this latter path, the contours of a new, quasi-medieval social order begin to take shape.",
+      "conditional": "IF the state collapse/fragmentation path occurs",
+      "notes": "Techno-feudalist timeline"
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "priority",
+      "claim_text": "AI safety discussions have an enormous blind spot by focusing on first-order direct effects rather than second-order institutional and societal effects",
+      "confidence": "high",
+      "quote": "AI safety means different things to different people, but whether the focus is job loss or the x-risk from an unaligned superintelligence, the concerns are always presented as relatively first-order... This is an enormous blind spot.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "causal",
+      "claim_text": "The internet's second-order effects on politics and culture swamped its direct first-order concerns like identity theft and cybercrime",
+      "confidence": "high",
+      "quote": "with the benefit of hindsight, these direct concerns were swamped by the internet's second-order effects on our politics and culture. Indeed, between an information tsunami and new platforms for mass mobilization, the internet destabilized political systems worldwide",
+      "conditional": null,
+      "notes": "Historical precedent for AI prediction"
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "causal",
+      "claim_text": "AI will intensify internet-era destabilization trends because society's technological base is shifting faster than its institutional superstructure can adapt",
+      "confidence": "high",
+      "quote": "To the extent AI is simply the next stage in the digital revolution, I expect these trends to only intensify. The issue is not that AI and informational technology are inherently destabilizing. Rather... the issue is that society's technological base is shifting faster than its institutional superstructure can keep up.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "actor_behavior",
+      "claim_text": "China studied internet-enabled revolts like the Arab Spring and redoubled investment in surveillance and societal controls to prevent similar uprisings",
+      "confidence": "high",
+      "quote": "China's ruling class studied the internet-enabled revolts in Cairo and Tunisia with close concern... They therefore redoubled their investment in internet surveillance and other societal controls, nipping their own Jasmine Revolution in the bud.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "other",
+      "claim_text": "Democratized AI is a much greater regime change threat than the internet, and the CCP is treating it as such with strict content and security regulations",
+      "confidence": "high",
+      "quote": "Democratized AI is a much greater regime change threat than the internet, and the CCP is treating it as such.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "other",
+      "claim_text": "The theory that free trade and communications technology would promote democracy was always underspecified, as information technology's effects on society are complex and can cut in different directions",
+      "confidence": "high",
+      "quote": "The theory that free trade and communications technology would promote democracy was always underspecified... The effects of information technology on society are just as complex and liable to cut in different directions.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "causal",
+      "claim_text": "Modern nation-states and individual liberty emerged due to a contingent technological equilibrium involving printing press, centralized governments, and impersonal legal institutions, which AI will change",
+      "confidence": "high",
+      "quote": "Individual rights, the rule of law, and negative liberties thus have a historical if somewhat paradoxical dependence on strong, centralized governments with high rates of fiscal and administrative capacity. This makes liberal democracy as we know it the byproduct of a contingent technological equilibrium; one that AI is almost certainly going to change.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "causal",
+      "claim_text": "The size and scope of governments is determined by transaction costs (monitoring, coordination, information), which AI will dramatically alter",
+      "confidence": "high",
+      "quote": "Institutions are shaped by the transaction costs associated with bargaining and coordination, search and information, and monitoring and enforcement... near-term AI will likely alter them dramatically",
+      "conditional": null,
+      "notes": "Applies Coasean theory of the firm to government"
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "causal",
+      "claim_text": "Enhanced monitoring technology historically drove bureaucratic growth, as lower monitoring costs facilitated emergence of modern bureaucratic states",
+      "confidence": "high",
+      "quote": "high monitoring costs are associated with small, personalistic state organizations based on networks of trust; technological shocks lowering monitoring costs facilitate the emergence of modern bureaucratic states",
+      "conditional": null,
+      "notes": "Based on Mastrorocco and Teso research"
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "causal",
+      "claim_text": "AI will cause a net weakening of liberal governments relative to the rest of society due to constitutional constraints and faster diffusion through private sector",
+      "confidence": "medium",
+      "quote": "These inherent constraints on government, combined with AI's much faster diffusion through the private sector, suggest a net weakening of liberal governments relative to the rest of society.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "actor_behavior",
+      "claim_text": "Governments will be tempted to clamp down in totalitarian fashion once they realize AI threatens their sovereignty",
+      "confidence": "medium",
+      "quote": "The moment governments realize that AI is a threat to their sovereignty, they will be tempted to clamp down in a totalitarian fashion.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "strategic",
+      "claim_text": "Liberal democracies must embrace AI within government machinery, make painful concessions about obsolete functions, and construct a new social contract as a third way between anarchy and totalitarianism",
+      "confidence": "high",
+      "quote": "It's up to liberal democracies to demonstrate institutional co-evolution as a third-way between degenerate anarchy and an AI Leviathan. At a minimum, this will require embracing AI tooling within the machinery of government; painful concessions to the government functions that AI simply renders obsolete; and the dialectical construction of a new social contract",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "other",
+      "claim_text": "The U.S. government of 2040 will look as radically different to contemporaries as 1940s government looked to people from the pre-industrial era",
+      "confidence": "high",
+      "quote": "the U.S. government of 2040 will look as different to our contemporaries as the U.S. government of the 1940s must have looked to the men and women of the pre-industrial era.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "causal",
+      "claim_text": "As AI democratizes capabilities with negative externalities, more social and economic life will move behind private walled-gardens offering different bundles of rights and services",
+      "confidence": "high",
+      "quote": "As AI democratizes capabilities with significant negative externalities, it will simultaneously unlock new institutional forms for dealing with those externalities. More and more of social and economic life will thus be driven behind walled-gardens.",
+      "conditional": "Under the default scenario where government evolves minimally",
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "timeline",
+      "claim_text": "By 2024-2027, the vast majority of internet content will be AI-generated synthetic content",
+      "confidence": "medium",
+      "quote": "in a few years the vast majority of content on the internet becomes synthetic",
+      "conditional": "IF current trends continue",
+      "notes": "Part of default future timeline"
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "actor_behavior",
+      "claim_text": "By 2024-2027, traditional news media and Hollywood will mount intense opposition to AI, resembling an amplified version of the 2010s techlash",
+      "confidence": "medium",
+      "quote": "Between the twilight of copyright and the disruption to centralized content distribution, traditional news media and Hollywood are the first to Jihad against AI, like the techlash of the 2010s turned up to eleven.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "capability",
+      "claim_text": "By 2024-2027, LLMs and multimodal models will automate substantial amounts of enterprise work, with economic impact resembling late-1990s downsizing",
+      "confidence": "medium",
+      "quote": "LLMs and multimodal models start hitting enterprise, automating substantial amounts of make-work, data collection, and regulatory compliance... The economic impact resembles the downsizing wave of the late-1990s.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "timeline",
+      "claim_text": "By 2024-2027, the internet will begin to balkanize as nations rush to nationalize compute and telecommunications infrastructure due to AI proliferation and cyberattacks",
+      "confidence": "medium",
+      "quote": "the internet starts to balkanize as the value of AI and the proliferation of cyberattacks spurs a global rush to nationalize compute and telecommunications infrastructure",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "timeline",
+      "claim_text": "It will become possible to brute-force an AGI indistinguishable from humans on most tasks by 2029, based on EpochAI's Direct Approach forecast",
+      "confidence": "medium",
+      "quote": "Based on the Direct Approach forecast produced by the researchers at EpochAI, it becomes possible to brute-force an AGI that is indistinguishable from humans on most tasks by 2029.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "capability",
+      "claim_text": "Early AGI models will be grossly inefficient initially, but as inference costs decline, unified AI systems will shadow human workers and learn workflows in-context, causing implementation frictions to collapse",
+      "confidence": "medium",
+      "quote": "At first, these gigantic models are grossly inefficient... Yet as the inference cost from truly general models comes down, unified AI systems are able to simply shadow human workers and learn to emulate their workflow in-context, causing implementation frictions to collapse.",
+      "conditional": "After AGI becomes possible around 2029",
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "other",
+      "claim_text": "By the early 2030s, knowledge work will be highly bimodal with entrepreneurs highly remunerated while best-paid jobs involve co-piloting AI teams, resembling the internet's effect on lawyer income distribution extended to many sectors",
+      "confidence": "medium",
+      "quote": "By the early 2030s, the knowledge jobs that remain are highly bimodal. A subset of entrepreneurs are highly remunerated, while the best paid jobs involve co-piloting large teams of AIs. This looks a hypertrophied version of what the internet did to the income distribution of lawyers",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "other",
+      "claim_text": "By the early 2030s, cognitive labor markets will be characterized by highly skewed returns and explicit reliance on patronage systems",
+      "confidence": "medium",
+      "quote": "cognitive labor markets are now increasingly characterized by highly skewed returns and an often explicit reliance on patronage",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "causal",
+      "claim_text": "By the early 2030s, the division of cognitive labor will matter much less than before, causing the extent of the market and need for common legal frameworks to contract",
+      "confidence": "medium",
+      "quote": "The division of cognitive labor matters much less than it used to, and so the extent of the market — and thus the need for common legal and regulatory frameworks — begins to contract.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "other",
+      "claim_text": "By the early 2030s, many asset prices will go to zero while a handful of companies exceed trillion dollar valuations in a 'Great Repricing' resembling a Napster moment for everything",
+      "confidence": "medium",
+      "quote": "the Great Repricing is well underway — a kind of Napster moment for everything. Many asset prices go to zero while a handful of companies blow past trillion dollar valuations.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "other",
+      "claim_text": "By the early 2030s, energy and capital will be the limiting factors rather than compute, with most compute infrastructure going to inference",
+      "confidence": "medium",
+      "quote": "The limiting factor is energy and capital. Most compute infrastructure now goes to inference, and new datacenters can't be built fast enough.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "actor_behavior",
+      "claim_text": "By the early 2030s, Congress will be in panic mode, flooded by AI lobbyists and robo-callers, passing ad hoc reactionary proposals that aren't radical enough",
+      "confidence": "medium",
+      "quote": "Congress is in a panic. Member offices are flooded by emails from AI lobbyists and robo-callers... Overtime, however, a broader reshuffling of public choice constraints is afoot, eventually unlocking a flurry of reforms on issues that used to be stalemated, but which still aren't radical enough.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "feasibility",
+      "claim_text": "The classic AI alignment problem will get easier with scale, as the biggest models prove eminently controllable",
+      "confidence": "medium",
+      "quote": "the classic alignment problem turns out to get easier with scale, as the biggest models prove eminently controllable",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "capability",
+      "claim_text": "AGI will not immediately cause a superintelligence hard takeoff due to data and compute bottlenecks that limit cross-entropy harvesting",
+      "confidence": "medium",
+      "quote": "Nor does AGI immediately cause a superintelligence hard take-off, as data and compute bottlenecks still limit the amount of cross-entropy that bigger models can feasibly harvest.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "other",
+      "claim_text": "The gap between open source and proprietary AI models will widen due to logarithmic scaling laws and regulatory/liability risks pushing open source underground",
+      "confidence": "medium",
+      "quote": "the gap between open source and proprietary models has widened, in part because of the logarithmic nature of neural scaling laws, and in part because regulatory and liability risk have pushed the most ambitious open source efforts underground",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "other",
+      "claim_text": "By 2032-2035, multi-billion dollar startups will be created by as few as 3 people designing workflows around teams of interacting AIs",
+      "confidence": "medium",
+      "quote": "Multi-billion dollar startups are now created by as few as 3 people designing clever workflows around teams of interacting AIs.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "causal",
+      "claim_text": "By 2032-2035, AI-native organizations will interface at inference speeds through smart contracts, blurring boundaries between firms and creating a new Power Elite",
+      "confidence": "medium",
+      "quote": "AI-native organizations begin to interface with each other at inference speeds through a nexus of genuinely smart contracts, blurring the boundaries between one AI firm and the next. The owners of the AI companies with the deepest moats start to resemble The Power Elite",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "other",
+      "claim_text": "By 2032-2035, New Deal and Great Society era institutional infrastructure will begin to crack as regulatory agencies lack capacity to track economic activity",
+      "confidence": "medium",
+      "quote": "The institutional infrastructure created in the New Deal and Great Society eras begins to crack. Aggregate economic activity is taking off, but regulatory agencies simply lack the capacity to track it all",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "actor_behavior",
+      "claim_text": "By 2032-2035, high-trust countries with ministerial systems will embrace civil service reforms, while U.S. reforms will be caught up in procedural obstacles and union protests",
+      "confidence": "medium",
+      "quote": "While high-trust countries with ministerial systems embrace sweeping civil service reforms, the analogous reforms in the U.S. are caught-up in interagency process, judicial review, the Senate filibuster, procurement and talent acquisition issues, and protests from public sector unions.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "other",
+      "claim_text": "By 2032-2035, lifesaving drugs stuck in FDA pipeline will spur gray markets and state-level right-to-try laws that circumvent federal approval",
+      "confidence": "medium",
+      "quote": "An explosion in lifesaving drugs and medical devices are stuck in the FDA pipeline, spurring gray markets and state-level 'right to try' laws that end-run the approval process.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "other",
+      "claim_text": "By 2032-2035, enforcement agencies will only be able to enforce a sliver of their increasingly anachronistic jurisdictions",
+      "confidence": "medium",
+      "quote": "Enforcement agencies, from the NLRB to the FTC, can now only enforce a sliver of their increasingly anachronistic jurisdictions.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "other",
+      "claim_text": "By 2032-2035, tax revenues will decline and IRS audit ratios will collapse as income shifts to capital and AI tax accountants complexify liabilities",
+      "confidence": "medium",
+      "quote": "Tax revenues decline and the IRS's audit ratio collapses as income shifts from labor to capital and AI tax accountants work to complexify everyone's liability",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "other",
+      "claim_text": "By 2032-2035, court systems will be overwhelmed by AI-assisted lawsuits, forcing triage and pushing more civil and commercial law into private AI-based arbitration",
+      "confidence": "medium",
+      "quote": "The court system is overwhelmed by an explosion in AI-assisted lawsuits and is forced to triage disputes based on type. This pushes more and more civil and commercial law into private arbitration, as AI judges can digest terabytes of evidence",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "other",
+      "claim_text": "By 2032-2035, private forms of regulation will emerge as consumers trust AI underwriters and platforms for safety assurance more than traditional agencies like USDA, OSHA, and CPSC",
+      "confidence": "medium",
+      "quote": "Private forms of regulation begin to emerge. While the likes of the USDA, OSHA, and CPSC are still sending humans to inspect... Consumers begin to put more trust into AI underwriters and multi-sided platforms",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "other",
+      "claim_text": "By 2032-2035, many federal responsibilities will be rendered obsolete by AI, including NHTSA (due to autonomous vehicles) and National Weather Service (due to private sensors and satellites)",
+      "confidence": "medium",
+      "quote": "Many other federal responsibilities are simply rendered obsolete. Now that most of the cars on the road are fully autonomous, for instance, the National Highway Traffic Safety Administration feels lost for purpose. The democratization of autonomous sensors and commercial satellite networks has even displaced the value of the National Weather Service.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "timeline",
+      "claim_text": "Strong AGI for motor control and robotics will arrive between 2036-2039, with general purpose robots manufactured at scale and driving down costs",
+      "confidence": "medium",
+      "quote": "Strong AGI comes for motor control and robotics... General purpose robots begin to be manufactured at scale, driving down costs.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "other",
+      "claim_text": "By 2036-2039, labor-intensive human services like nursing, education and policing will suffer severe Baumol's cost disease as physical productivity takes off",
+      "confidence": "medium",
+      "quote": "Service innovation was already pushing GDP growth above 5%, but now physical productivity really takes off, although in a way that lingering bottlenecks make highly differential. Labor intensive human services, such as nursing, education and policing, suffer a severe version of Baumol's cost disease.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "actor_behavior",
+      "claim_text": "By 2036-2039, mass exodus from public education will occur in favor of AI tutors, high-tech boarding schools, and community-based education collectives",
+      "confidence": "medium",
+      "quote": "Cheap and customizable AI tutors spur a mass exodus from the public education system in favor of high-tech boarding schools and home- and community-based education collectives.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "other",
+      "claim_text": "By 2036-2039, neighborhoods will form private surveillance networks with hundreds of cameras and facial recognition, deterring criminals through push alerts and proprietary databases",
+      "confidence": "medium",
+      "quote": "Neighborhoods purchase their own drones and use the equivalent of hundreds of doorbell cameras with facial recognition to form their own private surveillance network. Package thieves and burglars don't bother enter these neighborhoods, as local residents receive push alerts the moment a street camera recognizes the gait of a crook",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "other",
+      "claim_text": "By 2036-2039, state capacity will exist but be alarmingly derivative on the private sector, with major government initiatives outsourced to tech companies rather than done in-house",
+      "confidence": "medium",
+      "quote": "Pockets of state capacity still exist but in a way that is alarmingly derivative on the private sector. While the U.S. government of 1940-70s did the Manhattan and Apollo Projects inhouse, such initiatives are now outsourced to the likes of Amazon, Google, Microsoft, Palantir and SpaceX.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "other",
+      "claim_text": "By 2036-2039, the federal government will increasingly function as a glorified nexus of competitive contracts, offloading administrative functions to private providers",
+      "confidence": "medium",
+      "quote": "In the face of system failure, more and more administrative functions are thus offloaded onto private providers, turning the federal government into a glorified nexus of competitive contracts.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "timeline",
+      "claim_text": "By 2040, Moore's Law will hit the Landauer limit but continue through advancements in parallel computing and low-energy memristors, making exascale computers commonplace",
+      "confidence": "medium",
+      "quote": "Moore's Law hits the Landauer limit, but is carried forward thanks to advancements in parallel computing and low energy memristors. Exascale computers are now commonplace",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "other",
+      "claim_text": "By 2040, the AI safety regime will break down due to exascale compute becoming commonplace, with permissions for deploying AI shifting from governments to private infrastructure providers",
+      "confidence": "medium",
+      "quote": "Exascale computers are now commonplace, causing the AI safety regime from the decade prior to break down. In practice, however, the permissions required to deploy new AI systems simply shifts from governments to private infrastructure providers.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "other",
+      "claim_text": "By 2040, the World Wide Web will be a wild west requiring new protocols and AI-monitored network traffic, with telecom providers using geofencing and firewalls to control neighborhood-level network access",
+      "confidence": "medium",
+      "quote": "The World Wide Web is a wild west of deepfakes and intelligent malware... This has forced the development of new protocols, certificate authorities, and access lists that use AI to monitor network traffic for security threats... Telecom providers contract directly with neighborhoods and private cities, using geofencing and network firewalls",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "other",
+      "claim_text": "By 2040, individuals will be as powerful as today's large corporations, and large corporations will be as powerful as today's nation-states",
+      "confidence": "medium",
+      "quote": "There are now individuals as powerful as today's large corporation, and large corporations as powerful as today's nation-states.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "actor_behavior",
+      "claim_text": "By 2040, many city governments will abandon historic charters and reincorporate as Singapore-style company towns to finance public goods through land rents and provide security",
+      "confidence": "medium",
+      "quote": "Many city governments thus abandon their historic charters and reincorporate as Singapore-esque company towns. The corporate structure provides a means for cities to pool investors' capital and finance public goods through land rents, the most important of which is security.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "other",
+      "claim_text": "By 2040, it will be a post-scarcity world except for land and capital, with cheap abundant locally-generated energy from fusion, solar and geothermal enabling radical re-localization of supply chains",
+      "confidence": "medium",
+      "quote": "It's an increasingly post-scarcity world in everything except land and capital. Yet between fusion, solar and advanced geothermal, energy is not only cheap and abundant but also locally generated. Paired with robotic labor, this enables a radical re-localization of supply chains, putting globalization in reverse.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "other",
+      "claim_text": "By 2040, countries will divide into three categories: Chinese-style police state/Gulf-style monarchy, anarchic failed state, or high-tech open society with AI-fortified e-government on the Estonia model",
+      "confidence": "medium",
+      "quote": "Countries now divide into the three broad categories: Chinese-style police state / Gulf-style monarchy; anarchic failed state; or high-tech open society with an AI-fortified e-governments on the Estonia model.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "other",
+      "claim_text": "By 2040, strong states will use AI to conquer failed neighboring states and reestablish regional security, redrawing the world map",
+      "confidence": "medium",
+      "quote": "The world map is thus redrawn as strong states use AI to conquer their failed neighbors and reestablish regional security.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "other",
+      "claim_text": "By 2040, America will be a failed state except for its archipelago of flourishing micro-jurisdictions, with the U.S. military focused almost exclusively on internal security threats",
+      "confidence": "medium",
+      "quote": "America would be a failed state but for its archipelago of micro-jurisdictions with varying degrees of flourishing. The U.S. military thus focuses almost exclusively on internal security threats, from the growing number of sovereignty movements, to the anarchic conditions of large swaths of the country.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "other",
+      "claim_text": "By 2040, AI will resurrect dead ideologies like communism and cybernetic fascism, devolving national politics into a referendum on competing utopian movements",
+      "confidence": "medium",
+      "quote": "AI has resurrected dead ideologies like communism and cybernetic fascism, devolving national politics into a referendum on competing utopian movements.",
+      "conditional": "IF current trends continue",
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "priority",
+      "claim_text": "The order of AI risks matters because intermediate stages of AI may upend institutions needed to manage existential risks from later stages",
+      "confidence": "high",
+      "quote": "that is why the order of AI risks matters. Even if the intermediate stages of AI don't kill us all, they may indirectly affect x-risk by upending the very institutions we'll need during the stage that does.",
+      "conditional": null,
+      "notes": "Conclusion and key thesis of the series"
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "causal",
+      "claim_text": "If neural networks can extract signal from noise and this gets exponentially cheaper over time, capabilities with negative externalities will proliferate widely",
+      "confidence": "high",
+      "quote": "If there is signal in the noise, a big enough neural network will extract it, and in a way that's getting exponentially cheaper and easier to access overtime.",
+      "conditional": null,
+      "notes": "Core capability claim about AI scaling"
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "strategic",
+      "claim_text": "Society should aim to master AI rather than pause its development, with focus on accelerating defensive AI capabilities to make mitigation and adaptation the path of least resistance",
+      "confidence": "medium",
+      "quote": "what follows is not an argument for pausing AI development, even if we could... our goal should not be to stop AI but rather to in some sense master it... accelerating the different modalities of defensive AI may be our best hope for making the 'mitigation and adaptation' option the path of less resistance",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "other",
+      "claim_text": "The option where everyone spontaneously coordinates to never use powerful AI capabilities or only use them for pro-social purposes is unstable due to prisoner's dilemma dynamics",
+      "confidence": "high",
+      "quote": "The option where everyone spontaneously coordinates to never use the glasses, or to only use them for a subset of pro-social purposes, is unstable. Even if you're a voyeur and access to the glasses benefits you personally, there's an underlying prisoner's dilemma",
+      "conditional": null,
+      "notes": "Applied to AI via x-ray glasses metaphor"
+    },
+    {
+      "claim_id": "69",
+      "claim_type": "causal",
+      "claim_text": "Private organizations can more effectively manage AI-related security and public goods because they aren't obligated to respect rights like governments, can leverage reputation and contracts for trust, and can use right-to-exclude for vertical integration",
+      "confidence": "high",
+      "quote": "private companies: 1. aren't obligated to respect your rights in the same way as governments; 2. are easier to trust due to reputation mechanisms, market competition, and explicit contracts that tie their hands; and 3. can use their 'right to exclude' to create vertically integrated, technologically sophisticated user experiences.",
+      "conditional": null,
+      "notes": "Using airports as example/model"
+    },
+    {
+      "claim_id": "70",
+      "claim_type": "other",
+      "claim_text": "The ride-sharing revolution demonstrates how dramatically reconfigured transaction costs can force regime change, with market share flipping from 90% taxis to 10% in just five years in markets like New York City",
+      "confidence": "high",
+      "quote": "in markets like New York City, the percentage of trips done by taxis flipped from ~90% to ~10% in just five years, shifting the market's governance from a public commission to competing private platforms",
+      "conditional": null,
+      "notes": "Historical example used to support predictions"
+    }
+  ]
+}

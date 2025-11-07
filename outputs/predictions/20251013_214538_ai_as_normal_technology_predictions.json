@@ -1,0 +1,191 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "Slow diffusion will continue to be the norm in high-consequence tasks involving AI systems.",
+      "timeframe": "ongoing and future (unspecified)",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Analysis of AI adoption rates in high-consequence domains (e.g., healthcare, criminal justice, insurance) showing years-to-decades lag between innovation and deployment; regulatory compliance data showing extended testing and validation periods before deployment.",
+      "conditional": null,
+      "quote": "Thus, we predict that slow diffusion will continue to be the norm in high-consequence tasks."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "An increasing percentage of human jobs and tasks will be related to AI control as more physical and cognitive tasks become amenable to automation.",
+      "timeframe": "as automation increases (decades)",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Labor statistics showing increasing proportion of job tasks involving AI monitoring, oversight, specification, and control; job postings and occupational data showing growth in AI control-related roles.",
+      "conditional": "IF physical and cognitive tasks become increasingly automated",
+      "quote": "As more physical and cognitive tasks become amenable to automation, we predict that an increasing percentage of human jobs and tasks will be related to AI control."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "The transformation toward AI control as a primary job function will be primarily driven by market forces rather than regulation.",
+      "timeframe": "as AI adoption increases (unspecified)",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Evidence that companies adopt AI control mechanisms due to competitive advantages and error reduction rather than regulatory mandates; market research showing business-driven rather than compliance-driven investment in AI oversight systems.",
+      "conditional": null,
+      "quote": "We further predict that this transformation will be primarily driven by market forces. Poorly controlled AI will be too error prone to make business sense."
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "AI will not be able to meaningfully outperform trained humans (particularly teams of humans and especially if augmented with simple automated tools) at forecasting geopolitical events such as elections.",
+      "timeframe": "foreseeable future (unspecified)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Head-to-head competitions between AI systems and human forecasters (especially teams) on platforms like Metaculus or Good Judgment Project showing no significant AI advantage; studies comparing AI vs human accuracy on geopolitical predictions.",
+      "conditional": null,
+      "quote": "Concretely, we propose two such areas: forecasting and persuasion. We predict that AI will not be able to meaningfully outperform trained humans (particularly teams of humans and especially if augmented with simple automated tools) at forecasting geopolitical events (say elections)."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "AI will not be able to meaningfully outperform trained humans at persuading people to act against their own self-interest.",
+      "timeframe": "foreseeable future (unspecified)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Studies comparing AI-generated vs human-generated persuasive content on tasks with real stakes showing no significant AI advantage; experiments on persuasion for costly actions showing AI does not exceed human persuader performance.",
+      "conditional": null,
+      "quote": "We make the same prediction for the task of persuading people to act against their own self-interest."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "Transformative economic and societal impacts from AI will unfold slowly on the timescale of decades rather than years.",
+      "timeframe": "decades",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Economic indicators (GDP growth, productivity statistics, employment by sector) showing gradual rather than sudden changes over multi-decade period; diffusion studies showing adoption curves spanning decades similar to past general-purpose technologies.",
+      "conditional": null,
+      "quote": "We argue that reliance on the slippery concepts of 'intelligence' and 'superintelligence' has clouded our ability to reason clearly about a world with advanced AI... In Part I, we explain why we think that transformative economic and societal impacts will be slow (on the timescale of decades)."
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "The automation of a vast swath of the economy at a particular moment in time is unlikely to occur; instead, impacts will be felt on different timescales in different sectors.",
+      "timeframe": "foreseeable future (unspecified)",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Employment data showing sector-specific rather than economy-wide sudden disruption; absence of synchronized mass unemployment across multiple sectors; continued variation in AI adoption rates across industries.",
+      "conditional": null,
+      "quote": "All of this points away from the likelihood of the automation of a vast swath of the economy at a particular moment in time. It also implies that the impacts of powerful AI will be felt on different timescales in different sectors."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "Recursive self-improvement in AI methods will occur gradually rather than as a singular, discontinuous moment.",
+      "timeframe": "as AI development continues (unspecified)",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Analysis of AI capability improvements showing continuous progress rather than step-function jumps; research productivity metrics showing steady rather than explosive growth in AI research output and capability gains.",
+      "conditional": null,
+      "quote": "It remains to be seen if AI-conducted AI research can offer a reprieve. Perhaps recursive self-improvement in methods is possible, resulting in unbounded speedups in methods. But note that AI development already relies heavily on AI. It is more likely that we will continue to see a gradual increase in the role of automation in AI development than a singular, discontinuous moment when recursive self-improvement is achieved."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "There will be increasing innovation to find new models for human control of AI systems as advanced AI is developed and adopted.",
+      "timeframe": "as advanced AI is developed and adopted (unspecified)",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Growth in number and diversity of AI control techniques published in research literature; deployment of varied control mechanisms (auditing, monitoring, circuit breakers, etc.) in production AI systems; industry standards development around AI control.",
+      "conditional": "IF advanced AI is developed and adopted",
+      "quote": "We predict that as advanced AI is developed and adopted, there will be increasing innovation to find new models for human control."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "There will be no arms race between countries in the adoption of AI (as opposed to development), with countries not rushing to deploy AI haphazardly in safety-critical applications.",
+      "timeframe": "near to medium term (unspecified)",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Comparative analysis of AI adoption rates and safety requirements across countries showing no race to the bottom; maintenance or strengthening of safety regulations in major economies despite competitive pressures; absence of documented cases of countries weakening safety standards to compete.",
+      "conditional": null,
+      "quote": "Failing to adequately regulate safe adoption will lead to negative impacts through accidents primarily locally, as opposed to companies with a lax safety culture potentially being able to externalize the costs of safety. Therefore, there is no straightforward reason to expect arms races between countries... The U.S. versus China arms race rhetoric has been strongly focused on model development (invention). We have not seen a corresponding rush to adopt AI haphazardly."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "The inherent brittleness of model alignment means it is unlikely to be fixable as a primary defense against misuse; primary defenses must reside downstream of models.",
+      "timeframe": "foreseeable future (unspecified)",
+      "prediction_type": "safety_alignment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Continued demonstration of alignment bypass techniques (jailbreaks, prompt injection, fine-tuning attacks); research showing fundamental limitations of model-level safety; adoption of downstream defenses as primary security measures in practice.",
+      "conditional": null,
+      "quote": "Model alignment is often seen as the primary defense against the misuse of models... Unfortunately, aligning models to refuse attempts at misuse has proved to be extremely brittle. We argue that this limitation is inherent and is unlikely to be fixable; the primary defenses against misuse must thus reside elsewhere."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "Catastrophic misalignment poses at most a speculative risk where there is epistemic uncertainty about whether the true risk is zero, rather than a significant stochastic risk.",
+      "timeframe": "foreseeable future (unspecified)",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "vague",
+      "verification_criteria": "Absence of incidents suggesting potential for catastrophic misalignment; research resolving key uncertainties about misalignment scenarios (such as deceptive alignment) showing they are not realistic threats; continued successful deployment of increasingly capable AI without misalignment catastrophes.",
+      "conditional": null,
+      "quote": "In our view, the primary defense against misalignment, again, lies downstream... In the view of AI as normal technology, catastrophic misalignment is (by far) the most speculative of the risks that we discuss... By speculative risks, we mean those for which there is epistemic uncertainty about whether or not the true risk is zero—uncertainty that can potentially be resolved through further observations or research."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "The adoption rate of new AI applications will remain relatively slow even in the absence of regulation, particularly for consequential tasks.",
+      "timeframe": "near to medium term (unspecified)",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Surveys and studies showing modest AI adoption rates and usage intensity; continued multi-year gaps between AI capability demonstrations and widespread deployment; adoption curves similar to or slower than past general-purpose technologies.",
+      "conditional": null,
+      "quote": "So far, we have not seen examples of rapid AI adoption in consequential tasks, even in the absence of regulation, and the feedback loop model we presented in Part I might explain why. The adoption rate of new AI applications will remain a key metric to track."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "Nonproliferation policies for AI (such as requiring licenses or prohibiting open-weight models) will prove infeasible to enforce due to widespread technical knowledge and decreasing costs.",
+      "timeframe": "as such policies are attempted (near to medium term)",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Evidence of continued proliferation of AI capabilities despite nonproliferation attempts; successful development of capable models by actors outside licensing/control regimes; inability to prevent model weight leaks or unauthorized training.",
+      "conditional": "IF nonproliferation policies are implemented",
+      "quote": "Unfortunately, the technical knowledge that is required to build capable AI models is already widespread, with many organizations sharing their complete code, data, and training methodologies... Enforcing nonproliferation has serious practical challenges. Malicious actors can simply ignore licensing requirements... As capabilities become more accessible, maintaining effective restrictions would require increasingly draconian measures."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "There will be no meaningful difference between AI speed of adoption compared to past general-purpose technologies like personal computers when accounting for intensity of use and costs.",
+      "timeframe": "ongoing and near-term",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Comparative studies of technology adoption accounting for usage intensity showing generative AI adoption is not faster than PC adoption in the 1980s-1990s; survey data showing low-intensity use despite high nominal adoption rates.",
+      "conditional": null,
+      "quote": "It is not even clear if the speed of diffusion is greater today compared to the past... But this comparison does not account for differences in the intensity of adoption (the number of hours of use) or the high cost of buying a PC compared to accessing generative AI. Depending on how we measure adoption, it is quite possible that the adoption of generative AI has been much slower than PC adoption."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "In safety-critical AI applications, decades-old statistical techniques will continue to dominate over more complex modern methods like transformers due to interpretability and validation requirements.",
+      "timeframe": "near to medium term (unspecified)",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Surveys of AI methods used in high-stakes domains (healthcare, criminal justice, finance) showing predominance of simple, interpretable models; regulatory approval data showing preference for traditional statistical methods; analysis of deployed systems in safety-critical contexts.",
+      "conditional": null,
+      "quote": "While these applications have proliferated, there is a crucial nuance: In most cases, decades-old statistical techniques are used—simple, interpretable models (mostly regression) and relatively small sets of handcrafted features. More complex machine learning methods, such as random forests, are rarely used, and modern methods, such as transformers, are nowhere to be found. In other words, in this broad set of domains, AI diffusion lags decades behind innovation."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "As new areas arise where AI can be used in highly consequential ways, regulation will successfully emerge to ensure slow diffusion, similar to the Flash Crash leading to trading circuit breakers.",
+      "timeframe": "as new high-consequence AI applications emerge (ongoing)",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Examples of new regulations emerging in response to high-consequence AI applications; implementation of safeguards and oversight mechanisms in newly AI-enabled consequential domains; regulatory response times to novel AI risks.",
+      "conditional": "IF new areas arise where AI can be used in highly consequential ways",
+      "quote": "At any rate, as and when new areas arise in which AI can be used in highly consequential ways, we can and must regulate them. A good example is the Flash Crash of 2010, in which automated high-frequency trading is thought to have played a part. This led to new curbs on trading, such as circuit breakers."
+    }
+  ]
+}

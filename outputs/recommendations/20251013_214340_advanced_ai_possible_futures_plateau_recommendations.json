@@ -1,0 +1,169 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Bolster organizational and societal resilience against AI-enabled cyber threats and deepfakes",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "reduce catastrophic risks from AI misuse and maintain trust in digital systems",
+      "conditions": "IF AI capabilities continue to advance and become more accessible",
+      "rationale_summary": "The scenarios show that as AI capabilities spread, cyber threats and disinformation increase. Proactive resilience-building helps societies adapt whether progress plateaus gradually (Bright Winter) or risks materialize through open-weight releases (Decentralised Mayhem).",
+      "quote": "Global discussions shift toward bolstering resilience—encouraging businesses to deploy cybersecurity tools and helping citizens spot deepfakes."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Deploy AI-augmented cybersecurity defenses across enterprises and essential services",
+      "actor": "Private sector",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent misuse and protect against AI-enabled cyberattacks",
+      "conditions": "unconditional",
+      "rationale_summary": "In the Bright Winter scenario, organizations that adopted robust AI-augmented defenses successfully protected themselves. This is shown as a prudent measure that helps regardless of whether AI progress continues or plateaus.",
+      "quote": "Meanwhile, cybercrime has risen, but large enterprises and essential services have adopted robust AI-augmented defences."
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Implement public education campaigns to help citizens recognize AI-generated scams and disinformation",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "increase public awareness and maintain societal trust in digital systems",
+      "conditions": "unconditional",
+      "rationale_summary": "Both scenarios show AI-generated content becoming more prevalent and potentially deceptive. Public resilience campaigns emerge as a response to help citizens navigate this landscape, suggesting proactive education would be beneficial.",
+      "quote": "Public resilience campaigns emerge worldwide, aiming to teach citizens how to recognise AI-generated scams and disinformation."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Establish a voluntary international biosecurity framework through the OECD",
+      "actor": "International community",
+      "target_timeline": "unclear",
+      "urgency": "medium",
+      "goal": "prevent AI-assisted bioterrorism and secure biological supply chains",
+      "conditions": "unconditional",
+      "rationale_summary": "The scenario describes emerging consensus that international collaboration on biosecurity is needed. This framework is shown as part of the response to AI-enabled biological risks, suggesting it should be pursued proactively.",
+      "quote": "Through the OECD, agreement builds around a voluntary international biosecurity framework. There's a growing consensus that more intense collaboration is needed to protect against AI-assisted bioterrorism."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Implement technical safeguards against malicious fine-tuning when releasing open-weight AI models",
+      "actor": "AI labs",
+      "target_timeline": "before releasing capable models",
+      "urgency": "high",
+      "goal": "prevent misuse of open-weight models for malicious purposes",
+      "conditions": "IF releasing open-weight models with significant capabilities",
+      "rationale_summary": "In the Decentralised Mayhem scenario, OmniAI attempts to implement guardrails against malicious fine-tuning, which initially work but are eventually breached. This suggests such safeguards are necessary but may be insufficient, highlighting the difficulty of safe open-weight releases.",
+      "quote": "To mitigate risk, OmniAI takes two key steps: first, it withholds the orchestration software that transforms the model into a reliable agent; second, it introduces novel guardrails designed to resist malicious fine-tuning—technically, by stabilising the model weights in a hard-to-modify equilibrium."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Withhold orchestration software and agent scaffolding when releasing capable open-weight models",
+      "actor": "AI labs",
+      "target_timeline": "before releasing capable models",
+      "urgency": "high",
+      "goal": "reduce immediate misuse potential of open-weight models",
+      "conditions": "IF releasing models with agentic capabilities",
+      "rationale_summary": "The Decentralised Mayhem scenario shows OmniAI attempting to reduce risk by releasing model weights without the orchestration layer that enables reliable agent behavior. While the open-source community rebuilds this, it provides some delay.",
+      "quote": "To mitigate risk, OmniAI takes two key steps: first, it withholds the orchestration software that transforms the model into a reliable agent"
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Consider restricting open publication of AI models trained above 10^26 FLOP",
+      "actor": "Governments",
+      "target_timeline": "before highly capable agentic models are developed",
+      "urgency": "high",
+      "goal": "prevent widespread access to models that could enable significant cyberattacks and disinformation",
+      "conditions": "IF models above this threshold demonstrate significant autonomous capabilities",
+      "rationale_summary": "In the Decentralised Mayhem scenario, governments implement this restriction only after a crisis unfolds with devastating consequences. The scenario structure implies this might have been better done proactively to prevent the chaos that ensued.",
+      "quote": "Governments in the US, EU, and China hastily pass harmonised laws banning open publication of models trained at scales above 10^26 floating point operations."
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Expand and strengthen international cyber coordination institutions",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "enable coordinated response to AI-enabled cyber threats",
+      "conditions": "unconditional",
+      "rationale_summary": "In the Decentralised Mayhem scenario, NATO expands NICC and the EU expands ENISA in response to crisis. The scenario suggests these institutional capabilities would be valuable to build proactively rather than reactively.",
+      "quote": "NATO expands the Integrated Cyber Defence Centre (NICC) into a 24/7 coordination hub, aligning incident response across allied cyber commands. The EU expands ENISA into a supranational cyber police force with emergency intervention powers."
+    },
+    {
+      "rec_id": "rec_9",
+      "action": "Invest in digital infrastructure, cybersecurity capabilities, and critical supply chain security",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "build resilience against AI-enabled attacks and maintain essential services",
+      "conditions": "unconditional",
+      "rationale_summary": "Both scenarios show increased importance of robust digital infrastructure. In Decentralised Mayhem, governments ramp up these investments after crisis hits. The implication is that proactive investment would better position societies for various AI futures.",
+      "quote": "Governments ramp up investments in digital infrastructure, cybersecurity, and critical supply chains."
+    },
+    {
+      "rec_id": "rec_10",
+      "action": "Maintain and support open-source AI ecosystems for locally-run models",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "ensure widespread access to AI capabilities and avoid vendor lock-in",
+      "conditions": "IF models are not highly capable autonomous agents",
+      "rationale_summary": "The Bright Winter scenario shows benefits of open-source models for democratizing AI access, enabling local customization, and keeping costs low. This contrasts with the risks shown in Decentralised Mayhem for highly capable models, suggesting the benefits depend on capability levels.",
+      "quote": "Existing open-source alternatives keep prices low and features widely accessible. The slower pace of change gives most people time to adapt."
+    },
+    {
+      "rec_id": "rec_11",
+      "action": "Integrate hard-coded safeguards into AI products before deployment",
+      "actor": "AI labs",
+      "target_timeline": "before product deployment",
+      "urgency": "medium",
+      "goal": "reduce risks from AI system errors and ensure reliability",
+      "conditions": "unconditional",
+      "rationale_summary": "The Bright Winter scenario shows products with hard-coded safeguards (like scheduling assistants avoiding double-booking) working well. This suggests building in technical constraints rather than relying solely on model training is a valuable approach.",
+      "quote": "Scheduling assistants now come with hard-coded safeguards to avoid double-booking."
+    },
+    {
+      "rec_id": "rec_12",
+      "action": "Allow time for adaptation and integration when deploying AI in complex domains like healthcare",
+      "actor": "Healthcare sector",
+      "target_timeline": "ongoing",
+      "urgency": "low",
+      "goal": "ensure safe and effective AI deployment with appropriate human oversight",
+      "conditions": "unconditional",
+      "rationale_summary": "The Bright Winter scenario portrays gradual, careful adoption of AI in healthcare as positive, with doctors learning to cross-check AI recommendations. This contrasts with rush-to-deploy approaches and suggests thoughtful integration is preferable to speed.",
+      "quote": "In regions where it's legal, doctors are adopting AI for diagnostics, learning to cross-check AI recommendations."
+    },
+    {
+      "rec_id": "rec_13",
+      "action": "Focus AI development on practical problem-solving and clear value delivery rather than hype-driven moonshots",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "low",
+      "goal": "ensure sustainable AI progress and real-world benefits",
+      "conditions": "IF AI capabilities plateau or advance more slowly than expected",
+      "rationale_summary": "The Bright Winter scenario shows that after hype fades, more grounded product-focused startups emerge and deliver real value. This suggests that pragmatic, problem-focused development is more sustainable than chasing dramatic breakthroughs.",
+      "quote": "A new wave of product-focused AI startups begins to emerge, this time more grounded, solving practical problems and delivering clearer value."
+    },
+    {
+      "rec_id": "rec_14",
+      "action": "Pursue AI efficiency improvements through specialized chips and better distillation algorithms",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "reduce energy consumption and enable broader access to AI capabilities",
+      "conditions": "unconditional",
+      "rationale_summary": "Both scenarios show efficiency improvements as beneficial, addressing energy concerns while enabling local deployment. This appears to be a robust strategy regardless of whether AI capabilities continue advancing rapidly or plateau.",
+      "quote": "Energy concerns persist, but efficiency keeps improving through more specialised chips and better distillation algorithms."
+    },
+    {
+      "rec_id": "rec_15",
+      "action": "Take urgent action to upgrade cybersecurity before powerful agentic AI models become widely available",
+      "actor": "Private sector",
+      "target_timeline": "before widespread agentic AI deployment",
+      "urgency": "critical",
+      "goal": "prevent catastrophic damage from AI-enabled cyberattacks",
+      "conditions": "IF agentic AI capabilities advance significantly",
+      "rationale_summary": "In Decentralised Mayhem, OmniAI issues warnings to upgrade cybersecurity but few take them seriously, leading to devastating attacks. This shows the critical importance of proactive preparation before powerful AI agents are released, whether as open-weight or through API access.",
+      "quote": "OmniAI issues urgent warnings, urging global cybersecurity upgrades, but few take them seriously. The unleashed agents ignite a new wave of automated hacking."
+    }
+  ]
+}

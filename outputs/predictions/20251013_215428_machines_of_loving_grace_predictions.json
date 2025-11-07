@@ -1,0 +1,268 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "Powerful AI (defined as AI smarter than Nobel Prize winners across most fields, capable of autonomous task completion) could arrive as early as 2026.",
+      "timeframe": "by 2026",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Existence of an AI system that can prove unsolved mathematical theorems, write extremely good novels, write difficult codebases from scratch, and perform tasks autonomously over days/weeks at a level exceeding the most capable humans",
+      "conditional": null,
+      "quote": "I think it could come as early as 2026, though there are also ways it could take much longer."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "AI will enable compression of 50-100 years of biological and medical progress into 5-10 years, achieving in that timeframe what human biologists would have accomplished across the entire 21st century.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Achievement of biological/medical advances comparable to extrapolating current 21st century progress rates forward 50-100 years, including multiple CRISPR-level breakthrough discoveries",
+      "conditional": "IF powerful AI is developed",
+      "quote": "my basic prediction is that AI-enabled biology and medicine will allow us to compress the progress that human biologists would have achieved over the next 50-100 years into 5-10 years. I'll refer to this as the 'compressed 21st century'"
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "The rate of major biological tool/technique discoveries (like CRISPR, optogenetics, mRNA vaccines) will increase by 10x or more with AI assistance.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Number of transformative biological tools/techniques discovered per year increases from roughly 1 per year to 10+ per year",
+      "conditional": "IF powerful AI is developed",
+      "quote": "I think their rate of discovery could be increased by 10x or more if there were a lot more talented, creative researchers"
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "Reliable prevention and treatment will be achieved for nearly all natural infectious diseases.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Existence of effective preventions or treatments for >95% of currently untreatable infectious diseases; dramatic reduction in infectious disease mortality globally",
+      "conditional": "IF powerful AI is developed and biological progress is compressed as predicted",
+      "quote": "Reliable prevention and treatment of nearly all natural infectious disease. Given the enormous advances against infectious disease in the 20th century, it is not radical to imagine that we could more or less 'finish the job' in a compressed 21st."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "Cancer mortality and incidence will be reduced by 95% or more, though some rare, difficult malignancies may persist.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Cancer death rates and new cancer diagnoses both decrease by 95% or more compared to current levels; measured via epidemiological data",
+      "conditional": "IF powerful AI is developed and biological progress is compressed as predicted",
+      "quote": "Elimination of most cancer... Reductions of 95% or more in both mortality and incidence seem possible. That said, cancer is extremely varied and adaptive, and is likely the hardest of these diseases to fully destroy."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "Most genetic diseases will be preventable through improved embryo screening and curable in existing people through advanced gene editing technologies.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Embryo screening can detect and prevent most genetic diseases; gene therapies exist to cure most genetic diseases in living patients; significant reduction in genetic disease prevalence",
+      "conditional": "IF powerful AI is developed",
+      "quote": "Very effective prevention and effective cures for genetic disease. Greatly improved embryo screening will likely make it possible to prevent most genetic disease, and some safer, more reliable descendant of CRISPR may cure most genetic disease in existing people."
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "Alzheimer's disease will become preventable, though reversing existing damage may remain difficult.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Effective preventive intervention for Alzheimer's exists and is widely available; new Alzheimer's cases decline dramatically; measured by clinical trials and epidemiological data",
+      "conditional": "IF powerful AI is developed",
+      "quote": "Prevention of Alzheimer's. We've had a very hard time figuring out what causes Alzheimer's... It seems like exactly the type of problem that can be solved with better measurement tools that isolate biological effects; thus I am bullish about AI's ability to solve it."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "Human lifespan will double from approximately 75 years to 150 years.",
+      "timeframe": "5-10 years after powerful AI development (though verification may take longer)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Interventions exist that demonstrably extend maximum human lifespan to 150 years; biomarkers of aging show reversal; clinical trials show life extension effects (though full verification requires decades)",
+      "conditional": "IF powerful AI is developed",
+      "quote": "Doubling of the human lifespan. This might seem radical, but life expectancy increased almost 2x in the 20th century (from ~40 years to ~75), so it's 'on trend' that the 'compressed 21st' would double it again to 150."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "Most mental illnesses including PTSD, depression, schizophrenia, and addiction will be curable through combination of biochemical interventions and neural network-level treatments.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Effective treatments exist for major mental illnesses with high cure/remission rates; mental illness prevalence and severity decline dramatically; measured through clinical trials and epidemiological studies",
+      "conditional": "IF powerful AI is developed",
+      "quote": "Most mental illness can probably be cured. I'm not an expert in psychiatric disease... but it's my guess that diseases like PTSD, depression, schizophrenia, addiction, etc. can be figured out and very effectively treated via some combination of the four directions above."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "Training clusters will be capable of running millions of instances of powerful AI models simultaneously.",
+      "timeframe": "by approximately 2027",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Computing clusters exist with sufficient capacity to run millions of concurrent instances of frontier AI models; publicly reported or verifiable through technical specifications",
+      "conditional": null,
+      "quote": "The resources used to train the model can be repurposed to run millions of instances of it (this matches projected cluster sizes by ~2027)"
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "At least 50% of AI-driven health benefits will reach even the poorest countries in the world.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Health interventions developed through AI are available and deployed in low-income countries; health outcomes in developing world improve by at least 50% of the improvement seen in developed world; measured through WHO data and health statistics",
+      "conditional": "IF powerful AI is developed and appropriate efforts are made to distribute benefits",
+      "quote": "Overall, I think 5-10 years is a reasonable timeline for a good fraction (maybe 50%) of AI-driven health benefits to propagate to even the poorest countries in the world."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "The developing world, particularly Sub-Saharan Africa, could achieve 20% annual GDP growth rates, bringing Sub-Saharan Africa to current China GDP per capita levels.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Developing world countries, especially in Sub-Saharan Africa, achieve sustained GDP growth of 20% annually; Sub-Saharan Africa GDP per capita rises from ~$2,000 to levels comparable to current China (~$12,000+); measured via World Bank economic data",
+      "conditional": "IF powerful AI is developed AND appropriate economic policies are adopted AND AI benefits spread effectively",
+      "quote": "Overall, a dream scenario—perhaps a goal to aim for—would be 20% annual GDP growth rate in the developing world, with 10% each coming from AI-enabled economic decisions and the natural spread of AI-accelerated technologies... If achieved, this would bring sub-Saharan Africa to the current per-capita GDP of China in 5-10 years"
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "The developing world will become substantially healthier than the current developed world, even if it continues to lag economically.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Health metrics in developing countries (life expectancy, disease burden, infant mortality, etc.) exceed current developed world levels; measured through WHO and health statistics",
+      "conditional": "IF powerful AI is developed and health interventions are successfully distributed",
+      "quote": "A good goal might be for the developing world 5-10 years after powerful AI to at least be substantially healthier than the developed world is today, even if it continues to lag behind the developed world."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "AI will enable highly effective clinical trials with approximately 1 year end-to-end timeline for drugs, compared to current multi-year timelines.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Average time from drug candidate to approval is reduced to approximately 1 year for effective treatments; measured by FDA approval timelines and pharmaceutical industry data",
+      "conditional": "IF powerful AI is developed and clinical trial processes are optimized",
+      "quote": "But these kinds of delays (~1 year end-to-end for a drug) combined with massive parallelization and the need for some but not too much iteration ('a few tries') are very compatible with radical transformation in 5-10 years."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "AI systems will be able to read text at 10-100x human speed and generate text at 10-100x human speed.",
+      "timeframe": "approximately 2027 (when powerful AI exists)",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "AI systems demonstrably read a page of text in a couple seconds and write a page in ~20 seconds, compared to human speeds; benchmarked against human performance",
+      "conditional": null,
+      "quote": "the model can absorb information and generate actions at roughly 10x-100x human speed. This is roughly the current speed of AI systems – for example they can read a page of text in a couple seconds and write a page of text in maybe 20 seconds, which is 10-100x the speed at which humans can do these things."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "Diseases will be largely eliminated from current generation of children such that mentions of disease will sound to them like smallpox or bubonic plague sounds to us today.",
+      "timeframe": "within one generation after powerful AI (20-30 years after powerful AI development)",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Children growing up after powerful AI development have minimal exposure to infectious diseases, cancer, and other major diseases; these diseases become historically rare like smallpox is today",
+      "conditional": "IF powerful AI is developed and health benefits are realized",
+      "quote": "Many of my friends and colleagues are raising children, and when those children grow up, I hope that any mention of disease will sound to them the way scurvy, smallpox, or bubonic plague sounds to us."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "Those currently alive will reach 'escape velocity' for longevity, enabling them to live as long as they want.",
+      "timeframe": "after human lifespan reaches 150 years (10-20 years after powerful AI)",
+      "prediction_type": "capability",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "Continuous life-extension treatments exist such that remaining life expectancy stays ahead of chronological aging; individuals can theoretically live indefinitely with available treatments",
+      "conditional": "IF lifespan reaches 150 years AND continued progress in aging research is achieved",
+      "quote": "Once human lifespan is 150, we may be able to reach 'escape velocity', buying enough time that most of those currently alive today will be able to live as long as they want, although there's certainly no guarantee this is biologically possible."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "Democracies will gain a clear strategic advantage over authoritarian states through control of AI supply chains and faster AI scaling.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Democratic nations demonstrably lead in AI capabilities; maintain control over semiconductor supply chains; show superior military and economic strength enabled by AI; authoritarians lag significantly",
+      "conditional": "IF an 'entente strategy' is successfully executed by democratic nations",
+      "quote": "My current guess at the best way to do this is via an 'entente strategy', in which a coalition of democracies seeks to gain a clear advantage (even just a temporary one) on powerful AI by securing its supply chain, scaling quickly, and blocking or delaying adversaries' access to key resources like chips and semiconductor equipment."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "A global environment will emerge where democracies control the most powerful AI and can win the information war against authoritarian propaganda.",
+      "timeframe": "5-10 years after powerful AI development",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Democratic nations successfully counter authoritarian influence operations; provide censorship-resistant information channels; measurable decline in effectiveness of authoritarian propaganda",
+      "conditional": "IF democracies achieve AI superiority",
+      "quote": "in this environment democratic governments can use their superior AI to win the information war: they can counter influence and propaganda operations by autocracies and may even be able to create a globally free information environment"
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "Liberal democracy will gradually become the dominant form of government globally, creating an 'eternal 1991' scenario where democracies maintain the upper hand.",
+      "timeframe": "10-20 years after powerful AI development",
+      "prediction_type": "geopolitical",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "Increase in number of democratic governments globally; decline in authoritarian regimes; democratic nations maintain economic and military superiority; measured through democracy indices and geopolitical metrics",
+      "conditional": "IF democracies successfully leverage AI advantage AND use it to promote democratic values globally",
+      "quote": "This could optimistically lead to an 'eternal 1991'—a world where democracies have the upper hand and Fukuyama's dreams are realized."
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "Improvements in mental health, well-being, and education driven by AI will increase support for democracy and decrease support for authoritarianism.",
+      "timeframe": "5-15 years after powerful AI development",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Populations with access to AI-enhanced mental health, education show decreased support for authoritarian governance; measured through political surveys and election outcomes",
+      "conditional": "IF AI successfully improves mental health and education AND these improvements reach broad populations",
+      "quote": "In particular I expect improvements in mental health, well-being, and education to increase democracy, as all three are negatively correlated with support for authoritarian leaders."
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "Cancer death rates will continue declining at approximately 2% per year even without AI, putting current trajectory on track to eliminate most cancer in the 21st century.",
+      "timeframe": "throughout 21st century (baseline prediction without AI)",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Cancer mortality continues to decline at ~2% annually; measured through epidemiological data and cancer registries",
+      "conditional": null,
+      "quote": "Death rates from cancer have been dropping ~2% per year for the last few decades; thus we are on track to eliminate most cancer in the 21st century at the current pace of human science."
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "Current economic models based on comparative advantage will continue to keep humans economically relevant even slightly past the point of achieving 'country of geniuses in a datacenter' AI.",
+      "timeframe": "short term after powerful AI (2-5 years after powerful AI development)",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Human employment remains high; wages remain significant; humans continue to perform economically valued tasks despite AI capabilities; measured through labor market data",
+      "conditional": "IF AI remains expensive or inefficient at some tasks OR resource inputs differ between humans and AI",
+      "quote": "in the short term I agree with arguments that comparative advantage will continue to keep humans relevant and in fact increase their productivity... as long as AI is only better at 90% of a given job, the other 10% will cause humans to become highly leveraged"
+    },
+    {
+      "pred_id": "pred_24",
+      "prediction_text": "In the long run, AI will become so broadly effective and cheap that current economic models based on human labor will no longer make sense, requiring new economic organization.",
+      "timeframe": "long-term after powerful AI (10+ years after powerful AI development)",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "vague",
+      "verification_criteria": "Fundamental restructuring of economy occurs; traditional employment models break down; new economic systems emerge (potentially including UBI or other alternatives); dramatic changes in labor force participation",
+      "conditional": "IF AI becomes broadly effective and cheap across all domains",
+      "quote": "However, I do think in the long run AI will become so broadly effective and so cheap that this will no longer apply. At that point our current economic setup will no longer make sense, and there will be a need for a broader societal conversation about how the economy should be organized."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# High-Level Summary
+
+**Original Document:** arms_race.md
+
+**Generated:** 2025-10-12 19:24:45
+
+---
+
+Between 2025 and 2029 the document outlines a plausible high‑stakes scenario in which frontier AI becomes the decisive national security asset and sparks a U.S.–China arms race built on secrecy, chip‑supply chokepoints (notably Taiwan), and unverifiable capabilities: fearing China’s rise after an American cyber‑capability breakthrough in 2026, the U.S. secretly launches a public‑private “AI Manhattan Project” in air‑gapped data centres while China consolidates its AI firms, accelerates domestic chip production and plans a megaproject; Chinese agents later steal model weights from a leading U.S. lab, prompting a covert U.S. counterintelligence, export‑control and cyber retaliation campaign that triggers European outrage when U.S. sanctions extend to EU chip equipment firms. Escalation peaks as both sides militarise AI—autonomous systems transform warfare, software jobs vanish, and geopolitical tensions center on Taiwan—leading to two possible endings: Hot War, in which a 2028 Chinese assault on Taiwan and rapid automated retaliation produce chaotic AI‑driven strikes, attacks on semiconductor fabs and data centres, and nuclear threats after precision strikes on AI infrastructure; or Multipolar World, in which brinkmanship yields a reluctant U.S.–China pause conditional on concessions but with no reliable verification, spurring a multinational monitoring regime led by Europe, sweeping commercial restrictions, frozen AI markets, and the emergence of three competing blocs while hopes hinge on developing tamper‑evident, hardware‑based verification to prevent renewed escalation.

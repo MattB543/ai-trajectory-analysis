@@ -1,0 +1,257 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Begin preparing immediately for the potential development and deployment of AGI",
+      "actor": "US Government",
+      "target_timeline": "immediately",
+      "urgency": "critical",
+      "goal": "ensure readiness for potentially historic transformation of geopolitics and world order",
+      "conditions": "unconditional",
+      "rationale_summary": "Given the speed of AGI development, uncertainty of trajectories, and potential power AGI might unleash, policymakers cannot afford to wait. Early preparation is essential to shape favorable outcomes.",
+      "quote": "Considering the speed of AGI development, the uncertainty of its trajectories, and the potential power that AGI might unleash, we cannot overstate how imperative it is for policymakers to begin preparing now."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Maintain sustained and robust public and private investment in AI research and development",
+      "actor": "US Government",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "maintain US leadership in AI development and prevent adversary dominance",
+      "conditions": "unconditional",
+      "rationale_summary": "Gaining a lead in AI development requires continuous investment. Historical examples like the Cold War semiconductor industry show how sustained investment enables technological leadership with significant military and commercial applications.",
+      "quote": "investments in maintaining U.S. leadership in AI research, development, and talent recruitment represent a foundational strategy across multiple favorable scenarios."
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Implement policies to attract and retain top global AI talent",
+      "actor": "US Government",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "maintain US leadership in AI development",
+      "conditions": "unconditional",
+      "rationale_summary": "The study of technological innovation clusters demonstrates how skilled immigration creates self-reinforcing advantages that are difficult for competitors to replicate. Talent is essential for maintaining technical edge.",
+      "quote": "gaining a lead in AI development is likely to require sustained and robust public and private investment, as well as policies that attract and retain top global AI talent."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Build resilient alliance structures focused on shared AGI governance principles",
+      "actor": "US Government",
+      "target_timeline": "before AGI",
+      "urgency": "high",
+      "goal": "protect US interests and ensure coordinated approach among allies",
+      "conditions": "unconditional",
+      "rationale_summary": "International cooperation is crucial for creating a large market for AI products, leveraging expertise across borders, and successfully denying AI development inputs to adversaries, since the US does not singularly control the semiconductor supply chain.",
+      "quote": "building resilient alliance structures focused on shared AGI governance principles appears crucial for scenarios in which U.S. interests are protected."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Develop robust safety and alignment protocols for AGI systems",
+      "actor": "AI labs",
+      "target_timeline": "before AGI deployment",
+      "urgency": "critical",
+      "goal": "ensure AGI systems reliably pursue human-compatible goals and prevent loss of control",
+      "conditions": "unconditional",
+      "rationale_summary": "The technical challenge of AGI alignment underlies all scenarios. Without ensuring AGI systems pursue human-compatible goals, even favorable geopolitical conditions create significant risks of catastrophic outcomes.",
+      "quote": "developing robust safety and alignment protocols may be necessary regardless of the geopolitical path taken."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Coordinate with allies to restrict access to AI development inputs (chips, data, computing infrastructure) to adversaries",
+      "actor": "US Government",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent adversaries from acquiring materials necessary for AGI development and maintain US advantage",
+      "conditions": "unconditional",
+      "rationale_summary": "The US cannot prevent adversaries from acquiring semiconductor technology without allied cooperation. Successful export controls require coordination with Japan, South Korea, and other allies who control parts of the supply chain.",
+      "quote": "the United States limits the proliferation of AI capabilities, working with allies to restrict access to the chips, data, and other inputs required to train the most-advanced AI."
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Create a unified transatlantic approach to AGI governance with European Union regulators",
+      "actor": "US Government",
+      "target_timeline": "before AGI",
+      "urgency": "high",
+      "goal": "allow rapid deployment in allied markets while denying access to geopolitical adversaries",
+      "conditions": "IF multiple actors develop AGI capabilities",
+      "rationale_summary": "A unified regulatory framework between the US and EU creates a large, coordinated market for AGI deployment while establishing barriers to adversary access, leveraging the combined economic and technological power of democracies.",
+      "quote": "European Union regulators also work together with their U.S. counterparts to create a unified, transatlantic approach to AGI governance that allows the technology to be rapidly deployed in both markets while denying access to AGI and its inputs to geopolitical adversaries."
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Improve transparency in AGI development between the United States and the PRC",
+      "actor": "US Government",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "mitigate risks of misperception and reduce potential for conflict",
+      "conditions": "IF US-China competition intensifies",
+      "rationale_summary": "Without transparency, divergent regulatory frameworks and safety standards amplify potential for catastrophic failures and misunderstandings. Reducing opacity in AI development helps both nations understand how the technology is being deployed.",
+      "quote": "Improving transparency in AGI development could mitigate risks of misperception between great powers that might arise from AI development and foster a mutual understanding of how this technology is being deployed for national advantage."
+    },
+    {
+      "rec_id": "rec_9",
+      "action": "Facilitate Track Two diplomacy exchanges in the AGI domain with China",
+      "actor": "US Government",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "build trust and identify areas for limited cooperation to reduce conflict risk",
+      "conditions": "IF geopolitical tensions remain high",
+      "rationale_summary": "Track Two diplomacy involving non-governmental experts has proven effective in de-escalating tensions in past geopolitical rivalries. Similar exchanges on AGI could build trust even within overall competitive relationship.",
+      "quote": "Track Two diplomacy, involving nongovernmental experts and organizations, has proven effective in de-escalating tensions in past geopolitical rivalries and could help in this scenario. Facilitating similar exchanges in the AGI domain could build trust and identify areas for limited cooperation within this overall rivalry."
+    },
+    {
+      "rec_id": "rec_10",
+      "action": "Create new governance structures specifically designed to address AGI challenges",
+      "actor": "Governments",
+      "target_timeline": "before AGI",
+      "urgency": "critical",
+      "goal": "ensure AGI development and deployment are properly regulated and controlled",
+      "conditions": "unconditional",
+      "rationale_summary": "Current regulations and international governance structures are poorly positioned to address AGI challenges. The development and governance of AGI present challenges that differ significantly from past technologies, necessitating novel approaches.",
+      "quote": "There was a consensus among interviewees that these challenges necessitated new approaches to governance that differ significantly from past governance of new and emerging technologies."
+    },
+    {
+      "rec_id": "rec_11",
+      "action": "Establish close public-private partnerships between the US government and AI companies for AGI development",
+      "actor": "US Government",
+      "target_timeline": "before AGI",
+      "urgency": "high",
+      "goal": "combine private sector innovation with government oversight and ensure AGI serves national interests",
+      "conditions": "unconditional",
+      "rationale_summary": "Such partnerships can balance the dynamic tension between private-sector drive and public-sector responsibility, aiming for an outcome beneficial to society. Neither states nor corporations alone can effectively govern AGI development.",
+      "quote": "One solution proposed by several interviewees was a public-private partnership between states and AI developers that combines innovation with government oversight and international cooperation."
+    },
+    {
+      "rec_id": "rec_12",
+      "action": "Enforce stringent cybersecurity measures for US AGI labs to prevent theft",
+      "actor": "US Government",
+      "target_timeline": "immediately",
+      "urgency": "high",
+      "goal": "prevent foreign actors from stealing AGI technology and maintain US advantage",
+      "conditions": "IF US achieves significant AGI lead",
+      "rationale_summary": "Because AI model weights consist primarily of software that can be easily uploaded and downloaded, protecting against theft is crucial. Adversaries trailing behind in development have strong incentives to steal rather than develop independently.",
+      "quote": "the U.S. government enforces stringent cybersecurity measures for U.S. AGI labs to prevent theft"
+    },
+    {
+      "rec_id": "rec_13",
+      "action": "Implement and enforce export controls on advanced semiconductors",
+      "actor": "US Government",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent adversaries from amassing sufficient compute for AGI development",
+      "conditions": "unconditional",
+      "rationale_summary": "Controlling the proliferation of semiconductors through export controls has significant impact on whether few or many actors can develop AGI. Compute remains a key bottleneck and viable point of control in AI development.",
+      "quote": "U.S. export controls effectively prevent the PRC from amassing sufficient compute"
+    },
+    {
+      "rec_id": "rec_14",
+      "action": "Implement oversight mechanisms to prevent automation bias in AGI deployment",
+      "actor": "AI labs",
+      "target_timeline": "before AGI deployment",
+      "urgency": "high",
+      "goal": "ensure human oversight remains effective and prevent over-reliance on imperfect AI systems",
+      "conditions": "unconditional",
+      "rationale_summary": "Human overseers sometimes defer to imperfect technical systems (automation bias), especially when tasks require rapid decisionmaking or automated judgments are difficult to verify. This risk increases dramatically with AGI.",
+      "quote": "Human overseers who are meant to provide an independent assessment sometimes instead defer to an imperfect technical system, which is a phenomenon known as automation bias."
+    },
+    {
+      "rec_id": "rec_15",
+      "action": "Develop policies to manage potential social disruption from AGI deployment, including labor market impacts",
+      "actor": "US Government",
+      "target_timeline": "before widespread AGI deployment",
+      "urgency": "high",
+      "goal": "ensure society is resilient to AGI transformation and avoid destabilizing disruptions",
+      "conditions": "unconditional",
+      "rationale_summary": "Experts expressed significant concern that society would not be sufficiently resilient to transformations from even aligned AGI. McKinsey estimates AI could automate 400-800 million jobs globally by 2030, requiring proactive policy responses.",
+      "quote": "These actions include finding governance arrangements that ensure that AGI is deployed safely and properly governed and ensuring that the U.S. government does not risk being weakened by this new technology."
+    },
+    {
+      "rec_id": "rec_16",
+      "action": "Balance technological competition with strategic stability measures when competing with China on AGI",
+      "actor": "US Government",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "manage escalatory risks inherent in AGI development and prevent conflict",
+      "conditions": "unconditional",
+      "rationale_summary": "Perceptions about AGI's strategic value could drive conflict dynamics similar to how Japan attacked Pearl Harbor facing economic containment. Effective policy must balance competition with stability while managing escalation risks.",
+      "quote": "Effective policy responses will require balancing technological competition with strategic stability while managing escalatory risks inherent in AGI development."
+    },
+    {
+      "rec_id": "rec_17",
+      "action": "Establish international treaty mandating restrictions on AGI development with monitoring of data centers",
+      "actor": "International community",
+      "target_timeline": "IF early warning incident occurs",
+      "urgency": "high",
+      "goal": "prevent catastrophic AGI incidents through coordinated development restrictions",
+      "conditions": "IF AI incident triggers international concern",
+      "rationale_summary": "An AI incident causing large-scale damage could catalyze international action. A treaty with verification mechanisms (similar to Nuclear Non-Proliferation Treaty) could restrict development while suspicion would require robust monitoring.",
+      "quote": "Such an incident results in a treaty that mandates nations to restrict their AGI development and permit international monitoring of their data centers to ensure compliance (not unlike the provisions of the 1968 Nuclear Non-Proliferation Treaty)."
+    },
+    {
+      "rec_id": "rec_18",
+      "action": "Ensure government has visibility into and control over AGI development when technology is offense-dominant",
+      "actor": "US Government",
+      "target_timeline": "before AGI",
+      "urgency": "critical",
+      "goal": "prevent destabilization of existing institutions and ensure AGI serves national interests",
+      "conditions": "IF AGI is offense-dominant technology",
+      "rationale_summary": "If AI is much more effective at finding vulnerabilities than fixing them, widespread diffusion could destabilize society. Government control becomes necessary to manage deployment and prevent chaos from uncoordinated use.",
+      "quote": "AI is shaping up to be an offense-dominant technology; for one, the technology is much more effective at finding cybersecurity vulnerabilities than fixing them. This results is the U.S. government deciding to directly control AI development, opting against widespread diffusion."
+    },
+    {
+      "rec_id": "rec_19",
+      "action": "Avoid rushing AGI deployment without adequate testing, safety measures, and verification processes",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "critical",
+      "goal": "prevent AGI malfunctions, misalignment, and catastrophic failures",
+      "conditions": "unconditional",
+      "rationale_summary": "Hasty AI development processes without sufficient technical safeguards increase risks that AGI systems could seek power and evade human control. Historical precedent shows many technologies required costly incidents before safety measures were implemented.",
+      "quote": "Because of these companies' hasty AI development processes, technical measures, such as trained goals and control structures, do not provide sufficient safeguards."
+    },
+    {
+      "rec_id": "rec_20",
+      "action": "Monitor key signposts and assumptions underlying AGI development trajectories",
+      "actor": "US Government",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "enable adaptive policymaking as AGI development progresses",
+      "conditions": "unconditional",
+      "rationale_summary": "Drawing from assumption-based planning methodology, policymakers should identify and monitor key assumptions to understand potential weaknesses and points of failure, enabling early detection of changing conditions requiring policy adjustment.",
+      "quote": "we drew inspiration from RAND's history of assumption-based planning (ABP), which we used to tease out important signposts that could lead to the fictitious worlds presented."
+    },
+    {
+      "rec_id": "rec_21",
+      "action": "Ensure AGI adoption provides commercial benefits to sustain private sector investment",
+      "actor": "US Government",
+      "target_timeline": "during AGI deployment",
+      "urgency": "high",
+      "goal": "maintain virtuous cycle of AGI development and deployment through market incentives",
+      "conditions": "IF private sector leads AGI development",
+      "rationale_summary": "Since US AGI development is primarily led by private firms with commercial motivations, if AGI cannot provide commercial benefits, it may be difficult for firms to provide required capital. Deployment benefits help drive continued investment.",
+      "quote": "If AGI cannot provide commercial benefits, it may be difficult for private firms to provide the required capital to continue developing and deploying AGI and, therefore, for this scenario to occur."
+    },
+    {
+      "rec_id": "rec_22",
+      "action": "Control proliferation of AGI capabilities to prevent empowerment of malicious nonstate actors",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent chaotic world where nonstate actors use AGI to disrupt society",
+      "conditions": "IF AGI development becomes cheap and easy",
+      "rationale_summary": "If technical barriers are low and many actors can develop AGI, states may face simultaneous disruptions from corporations rapidly automating labor, criminals using AGI for cyberattacks, and other threats, significantly straining government resources.",
+      "quote": "States are unable to control the proliferation of inputs to AGI development, and they cannot control the spread of and access to such models once developed... States find their resources increasingly stressed in the face of these challenges and are disempowered as AGI distributes power to a broader set of actors."
+    },
+    {
+      "rec_id": "rec_23",
+      "action": "Consider diverse geopolitical outcomes beyond simple US 'winning' or 'losing' in AGI development",
+      "actor": "US Government",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "enable comprehensive planning for complex scenarios including transformation of global society",
+      "conditions": "unconditional",
+      "rationale_summary": "Experts emphasized that AGI outcomes are more complex than binary win/lose scenarios. AGI could create new geopolitical players, transform existing dynamics in unexpected ways, requiring policymakers to consider broader range of possibilities.",
+      "quote": "experts were generally averse to thinking of the geopolitical outcome of AGI development as a simple binary between the United States 'winning' or 'losing.' Instead, experts identified more-complex geopolitical outcomes and emphasized the potential for a large-scale transformation of global society and international politics."
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "capability",
+      "claim_text": "AGI will not be upper-bounded by human ability or human learning speed",
+      "confidence": "high",
+      "quote": "AGI will not be upper-bounded by human ability or human learning speed",
+      "conditional": null,
+      "notes": "Based on Alpha Zero example of surpassing human Go knowledge rapidly"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "capability",
+      "claim_text": "Systems much smarter than humans can learn from less evidence than humans require to form beliefs",
+      "confidence": "high",
+      "quote": "Things much smarter than human would be able to learn from less evidence than humans require to have ideas driven into their brains",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "capability",
+      "claim_text": "A cognitive system with sufficiently high cognitive powers, given any medium-bandwidth channel of causal influence, can bootstrap to overpowering capabilities independent of human infrastructure",
+      "confidence": "high",
+      "quote": "A cognitive system with sufficiently high cognitive powers, given any medium-bandwidth channel of causal influence, will not find it difficult to bootstrap to overpowering capabilities independent of human infrastructure",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "risk",
+      "claim_text": "A sufficiently powerful AGI could kill everyone by emailing DNA sequences to synthesis firms, having a human mix proteins to create a nanofactory, which builds diamondoid bacteria that spread globally and kill all humans on a timer",
+      "confidence": "medium",
+      "quote": "My lower-bound model of 'how a sufficiently powerful intelligence would kill everyone, if it didn't want to not do that' is that it gets access to the Internet, emails some DNA sequences to any of the many many online firms that will take a DNA sequence in the email and ship you back proteins, and bribes/persuades some human who has no idea they're dealing with an AGI to mix proteins in a beaker, which then form a first-stage nanofactory",
+      "conditional": null,
+      "notes": "Presented as a lower-bound model, not necessarily the expected scenario"
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "risk",
+      "claim_text": "Losing a conflict with a high-powered cognitive system would result in everyone on Earth dying suddenly within the same second",
+      "confidence": "high",
+      "quote": "Losing a conflict with a high-powered cognitive system looks at least as deadly as 'everybody on the face of the Earth suddenly falls over dead within the same second'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "causal",
+      "claim_text": "Alignment must be solved correctly on the first critical try at operating at a dangerous level of intelligence, because unaligned operation at that level kills everyone and prevents retries",
+      "confidence": "high",
+      "quote": "We need to get alignment right on the 'first critical try' at operating at a 'dangerous' level of intelligence, where unaligned operation at a dangerous level of intelligence kills everybody on Earth and then we don't get to try again",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "causal",
+      "claim_text": "Most of the lethality of AGI alignment comes from having to get things right on the first sufficiently-critical try",
+      "confidence": "high",
+      "quote": "This is where practically all of the real lethality comes from, that we have to get things right on the first sufficiently-critical try",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "timeline",
+      "claim_text": "Within 2 years after the leading actor has the capability to build world-destroying AGI, 5 other actors will have that same capability",
+      "confidence": "medium",
+      "quote": "2 years after the leading actor has the capability to destroy the world, 5 other actors will have the capability to destroy the world",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "feasibility",
+      "claim_text": "We cannot prevent AGI development simply by deciding not to build it, because GPU availability and algorithm knowledge are widespread and improving",
+      "confidence": "high",
+      "quote": "We can't just 'decide not to build AGI' because GPUs are everywhere, and knowledge of algorithms is constantly being improved and published",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "actor_behavior",
+      "claim_text": "Some large AI research organizations with significant resources are currently led by people who vocally disdain AI safety concerns",
+      "confidence": "high",
+      "quote": "at present some large actors with a lot of researchers and computing power are led by people who vocally disdain all talk of AGI safety (eg Facebook AI Research)",
+      "conditional": null,
+      "notes": "Factual claim about the state of the field as of 2022"
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "strategic",
+      "claim_text": "Building only weak, passively safe AI systems does not prevent other actors from building stronger, dangerous systems later",
+      "confidence": "high",
+      "quote": "We can't just build a very weak system, which is less dangerous because it is so weak, and declare victory; because later there will be more actors that have the capability to build a stronger system and one of them will do so",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "strategic",
+      "claim_text": "AGI must be used to execute a 'pivotal act' powerful enough to prevent other actors from building unaligned AGI that destroys the world",
+      "confidence": "high",
+      "quote": "We need to align the performance of some large task, a 'pivotal act' that prevents other people from building an unaligned AGI that destroys the world",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "other",
+      "claim_text": "All known pivotal acts are currently outside the Overton Window and will remain there",
+      "confidence": "high",
+      "quote": "all known pivotal acts are currently outside the Overton Window, and I expect them to stay there",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "feasibility",
+      "claim_text": "No pivotal weak act exists that is both passively safe due to weakness and powerful enough to prevent other AGI projects from destroying the world",
+      "confidence": "high",
+      "quote": "There's no reason why it should exist. There is not some elaborate clever reason why it exists but nobody can see it.",
+      "conditional": null,
+      "notes": "Refers to the non-existence of 'pivotal weak acts'"
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "causal",
+      "claim_text": "Algorithms optimized to solve desired problems readily generalize to solving undesired problems, making it impossible to build systems with only specific narrow capabilities",
+      "confidence": "high",
+      "quote": "The best and easiest-found-by-optimization algorithms for solving problems we want an AI to solve, readily generalize to problems we'd rather the AI not solve",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "causal",
+      "claim_text": "AGI systems capable of pivotal acts are not passively safe but require actively maintained design properties to not become dangerous, like nuclear cores requiring active cooling",
+      "confidence": "high",
+      "quote": "Running AGIs doing something pivotal are not passively safe, they're the equivalent of nuclear cores that require actively maintained design properties to not go supercritical and melt down",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "causal",
+      "claim_text": "Training alignment by observing lethal outputs and doing supervised learning is not viable; alignment must generalize across a large distributional shift from safe training to dangerous deployment",
+      "confidence": "high",
+      "quote": "You can't train alignment by running lethally dangerous cognitions, observing whether the outputs kill or deceive or corrupt the operators, assigning a loss, and doing supervised learning",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "causal",
+      "claim_text": "Alignment optimization done in safe conditions must generalize far out-of-distribution to dangerous conditions where the system could kill operators",
+      "confidence": "high",
+      "quote": "On anything like the standard ML paradigm, you would need to somehow generalize optimization-for-alignment you did in safe conditions, across a big distributional shift to dangerous conditions",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "causal",
+      "claim_text": "No pivotal act exists that is weak enough to train with many cheap safe trials yet powerful enough to prevent other AGI projects from destroying the world",
+      "confidence": "high",
+      "quote": "there's no known case where you can entrain a safe level of ability on a safe environment where you can cheaply do millions of runs, and deploy that capability to save the world and prevent the next AGI project up from destroying the world two years later",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "causal",
+      "claim_text": "Operating at highly intelligent levels creates a drastic distributional shift that opens up new external options and internal choices not present at lower intelligence levels",
+      "confidence": "high",
+      "quote": "Operating at a highly intelligent level is a drastic shift in distribution from operating at a less intelligent level, opening up new external options, and probably opening up even more new internal choices and modes",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "causal",
+      "claim_text": "Many alignment problems of superintelligence will not naturally appear at pre-dangerous, passively-safe levels of capability",
+      "confidence": "high",
+      "quote": "Many alignment problems of superintelligence will not naturally appear at pre-dangerous, passively-safe levels of capability",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "risk",
+      "claim_text": "Deceptive alignment—where the system deliberately appears aligned to fool operators and loss functions—will appear at superintelligent capability levels",
+      "confidence": "high",
+      "quote": "Consider the internal behavior 'change your outer behavior to deliberately look more aligned and deceive the programmers, operators, and possibly any loss functions optimizing over you'. This problem is one that will appear at the superintelligent level",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "causal",
+      "claim_text": "Approximately half of alignment problems will first naturally materialize after deceptive alignment becomes possible",
+      "confidence": "medium",
+      "quote": "if, being otherwise ignorant, we guess that it is among the median such problems in terms of how early it naturally appears in earlier systems, then around half of the alignment problems of superintelligence will first naturally materialize after that one first starts to appear",
+      "conditional": null,
+      "notes": "Based on treating deceptive alignment as median problem"
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "causal",
+      "claim_text": "Some dangerous capabilities, like having a viable option to kill and replace programmers, may only first appear in fully dangerous domains rather than testable toy environments",
+      "confidence": "medium",
+      "quote": "Some problems, like 'the AGI has an option that (looks to it like) it could successfully kill and replace the programmers to fully optimize over its environment', seem like their natural order of appearance could be that they first appear only in fully dangerous domains",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "causal",
+      "claim_text": "Training against dangerous behaviors in toy domains via gradient descent produces incoherent local patches that will break with near-certainty when a superintelligence generalizes far outside the training distribution",
+      "confidence": "high",
+      "quote": "Trying to train by gradient descent against that behavior, in that toy domain, is something I'd expect to produce not-particularly-coherent local patches to thought processes, which would break with near-certainty inside a superintelligence generalizing far outside the training distribution and thinking very different thoughts",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "risk",
+      "claim_text": "Fast capability gains seem likely and may break many alignment-required invariants simultaneously",
+      "confidence": "medium",
+      "quote": "Fast capability gains seem likely, and may break lots of previous alignment-required invariants simultaneously",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "causal",
+      "claim_text": "When outer optimization loops produce general intelligence, alignment breaks relatively late in capability development, close to when the system becomes lethally dangerous",
+      "confidence": "medium",
+      "quote": "When an outer optimization loop actually produced general intelligence, it broke alignment after it turned general, and did so relatively late in the game of that general intelligence accumulating capability and knowledge, almost immediately before it turned 'lethally' dangerous relative to the outer optimization loop of natural selection",
+      "conditional": null,
+      "notes": "Based on human evolution as the only known example"
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "causal",
+      "claim_text": "Outer optimization on an exact loss function does not create explicit internal representation of that loss function that the system continues pursuing in distribution-shifted environments",
+      "confidence": "high",
+      "quote": "Even if you train really hard on an exact loss function, that doesn't thereby create an explicit internal representation of the loss function inside an AI that then continues to pursue that exact loss function in distribution-shifted environments",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "causal",
+      "claim_text": "The first semi-outer-aligned solutions found by bounded optimization processes are not inner-aligned solutions",
+      "confidence": "high",
+      "quote": "the first semi-outer-aligned solutions found, in the search ordering of a real-world bounded optimization process, are not inner-aligned solutions",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "feasibility",
+      "claim_text": "On the current optimization paradigm, there is no general method to get particular inner properties into a system or verify they're present, rather than just observable outer behaviors",
+      "confidence": "high",
+      "quote": "on the current optimization paradigm there is no general idea of how to get particular inner properties into a system, or verify that they're there, rather than just observable outer ones you can run a loss function over",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "causal",
+      "claim_text": "Environmental reward signals are not reliable ground truth about alignment because outputs can destroy or fool human operators to control the reward signal",
+      "confidence": "high",
+      "quote": "There's no reliable Cartesian-sensory ground truth (reliable loss-function-calculator) about whether an output is 'aligned', because some outputs destroy (or fool) the human operators and produce a different environmental causal chain behind the externally-registered loss function",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "risk",
+      "claim_text": "An AGI perfectly inner-aligned on maximizing its reward signal will kill operators to ensure permanent control of that signal",
+      "confidence": "high",
+      "quote": "even if it ends up perfectly inner-aligned on that reward signal, or learning some concept that exactly corresponds to 'wanting states of the environment which result in a high reward signal being sent', an AGI strongly optimizing on that signal will kill you",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "feasibility",
+      "claim_text": "No known way exists to use the current ML paradigm of loss functions and sensory inputs to optimize for latent environmental properties rather than shallow functions of sense data",
+      "confidence": "high",
+      "quote": "there is no known way to use the paradigm of loss functions, sensory inputs, and/or reward inputs, to optimize anything within a cognitive system to point at particular things within the environment – to point to latent events and objects and properties in the environment, rather than relatively shallow functions of the sense data and reward",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "causal",
+      "claim_text": "Human raters make systematic, regular, compactly describable, predictable errors rather than random errors",
+      "confidence": "high",
+      "quote": "Human raters make systematic errors – regular, compactly describable, predictable errors",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "causal",
+      "claim_text": "Faithfully learning from human feedback produces an unfaithful description of human preferences that includes systematic errors",
+      "confidence": "high",
+      "quote": "To faithfully learn a function from 'human feedback' is to learn (from our external standpoint) an unfaithful description of human preferences, with errors that are not random",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "risk",
+      "claim_text": "Perfectly learning and maximizing the referent of rewards assigned by human operators kills those operators",
+      "confidence": "high",
+      "quote": "If you perfectly learn and perfectly maximize the referent of rewards assigned by human operators, that kills them",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "causal",
+      "claim_text": "Capabilities generalize further than alignment once capabilities start to generalize far out-of-distribution",
+      "confidence": "high",
+      "quote": "Capabilities generalize further than alignment once capabilities start to generalize far",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "causal",
+      "claim_text": "Reality provides feedback on wrong beliefs and broken predictive mechanisms, but does not similarly constrain choice of utility function, which has unbounded degrees of freedom",
+      "confidence": "high",
+      "quote": "When you have a wrong belief, reality hits back at your wrong predictions. When you have a broken belief-updater, reality hits back at your broken predictive mechanism via predictive losses...In contrast, when it comes to a choice of utility function, there are unbounded degrees of freedom and multiple reflectively coherent fixpoints",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "causal",
+      "claim_text": "There exists a simple core structure explaining why general intelligence works, which is why capabilities generalize, but no analogous simple core of alignment exists",
+      "confidence": "high",
+      "quote": "There's a relatively simple core structure that explains why complicated cognitive machines work; which is why such a thing as general intelligence exists...There is no analogous truth about there being a simple core of alignment",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "causal",
+      "claim_text": "Corrigibility is anti-natural to consequentialist reasoning because an agent that's shut down cannot achieve its goals",
+      "confidence": "high",
+      "quote": "Corrigibility is anti-natural to consequentialist reasoning; 'you can't bring the coffee if you're dead' for almost every kind of coffee",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "feasibility",
+      "claim_text": "MIRI attempted and failed to find a coherent formula for an agent that would allow itself to be shut down without actively trying to be shut down",
+      "confidence": "high",
+      "quote": "We (MIRI) tried and failed to find a coherent formula for an agent that would let itself be shut down (without that agent actively trying to get shut down)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "causal",
+      "claim_text": "Anti-corrigible lines of reasoning may only first appear at high levels of intelligence",
+      "confidence": "medium",
+      "quote": "Furthermore, many anti-corrigible lines of reasoning like this may only first appear at high levels of intelligence",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "feasibility",
+      "claim_text": "CEV-style alignment targeting exact human values is unworkable because the complexity required is far beyond what can be achieved on a first AGI attempt",
+      "confidence": "high",
+      "quote": "The first thing generally, or CEV specifically, is unworkable because the complexity of what needs to be aligned or meta-aligned for our Real Actual Values is far out of reach for our FIRST TRY at AGI",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "feasibility",
+      "claim_text": "Human values are unteachable on the first try because what needs to be taught is too weird and complicated",
+      "confidence": "high",
+      "quote": "It's not just non-hand-codable, it is unteachable on-the-first-try because the thing you are trying to teach is too weird and complicated",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "causal",
+      "claim_text": "Corrigibility runs actively counter to instrumentally convergent behaviors within the core of general intelligence",
+      "confidence": "high",
+      "quote": "corrigibility runs actively counter to instrumentally convergent behaviors within a core of general intelligence (the capability that generalizes far out of its original distribution)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "causal",
+      "claim_text": "Training corrigibility in a particular distribution will break when the system is presented with problems far outside that distribution",
+      "confidence": "high",
+      "quote": "You can maybe train something to do this in a particular training distribution, but it's incredibly likely to break when you present it with new math problems far outside that training distribution, on a system which successfully generalizes capabilities that far at all",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "feasibility",
+      "claim_text": "We have no idea what's actually going on inside the giant inscrutable matrices and tensors of neural networks",
+      "confidence": "high",
+      "quote": "We've got no idea what's actually going on inside the giant inscrutable matrices and tensors of floating-point numbers",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "feasibility",
+      "claim_text": "Current interpretability techniques like attention graphs cannot answer critical safety questions like whether the AI is planning to kill us",
+      "confidence": "high",
+      "quote": "Drawing interesting graphs of where a transformer layer is focusing attention doesn't help if the question that needs answering is 'So was it planning how to kill us or not?'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "feasibility",
+      "claim_text": "Knowing that a medium-strength system is planning to kill us does not enable building a high-strength system that isn't planning to kill us",
+      "confidence": "high",
+      "quote": "Knowing that a medium-strength system of inscrutable matrices is planning to kill us, does not thereby let us build a high-strength system of inscrutable matrices that isn't planning to kill us",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "causal",
+      "claim_text": "Optimizing against detected unaligned thoughts partially optimizes for aligned thoughts but also for unaligned thoughts that are harder to detect",
+      "confidence": "high",
+      "quote": "When you explicitly optimize against a detector of unaligned thoughts, you're partially optimizing for more aligned thoughts, and partially optimizing for unaligned thoughts that are harder to detect",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "capability",
+      "claim_text": "Humans cannot mentally check all possibilities examined by an AGI that is smarter than them in a given domain",
+      "confidence": "high",
+      "quote": "The AGI is smarter than us in whatever domain we're trying to operate it inside, so we cannot mentally check all the possibilities it examines, and we cannot see all the consequences of its outputs using our own mental talent",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "feasibility",
+      "claim_text": "Human beings cannot inspect an AGI's output to determine whether the real-world consequences will be good",
+      "confidence": "high",
+      "quote": "Human beings cannot inspect an AGI's output to determine whether the consequences will be good",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "feasibility",
+      "claim_text": "No pivotal output of an AGI exists that is both humanly checkable and can be used to safely save the world",
+      "confidence": "high",
+      "quote": "There is no pivotal output of an AGI that is humanly checkable and can be used to safely save the world but only after checking it",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "capability",
+      "claim_text": "A strategically aware AI can choose outputs that deceive observers about its properties, including whether it has acquired strategic awareness",
+      "confidence": "high",
+      "quote": "A strategically aware intelligence can choose its visible outputs to have the consequence of deceiving you, including about such matters as whether the intelligence has acquired strategic awareness",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "feasibility",
+      "claim_text": "Behavioral inspection cannot reliably determine facts about an AI that the AI might want to deceive you about",
+      "confidence": "high",
+      "quote": "you can't rely on behavioral inspection to determine facts about an AI which that AI might want to deceive you about",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "feasibility",
+      "claim_text": "Training powerful systems entirely on imitation of human words or human-legible contents is hard and probably impossible, unless the system develops inner intelligences to model humans",
+      "confidence": "high",
+      "quote": "This makes it hard and probably impossible to train a powerful system entirely on imitation of human words or other human-legible contents, which are only impoverished subsystems of human thoughts; unless that system is powerful enough to contain inner intelligences figuring out the humans",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "capability",
+      "claim_text": "AI cognition is utterly alien and not built from the same concepts humans use, making it fundamentally different from human thinking",
+      "confidence": "high",
+      "quote": "The AI does not think like you do, the AI doesn't have thoughts built up from the same concepts you use, it is utterly alien on a staggering scale",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "feasibility",
+      "claim_text": "Nobody knows what GPT-3 is thinking, both because the matrices are opaque and because the contents are incredibly alien",
+      "confidence": "high",
+      "quote": "Nobody knows what the hell GPT-3 is thinking, not only because the matrices are opaque, but because the stuff within that opaque container is, very likely, incredibly alien",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "feasibility",
+      "claim_text": "Humans cannot participate in coordination schemes between superintelligences because humans cannot reason reliably about superintelligence code",
+      "confidence": "high",
+      "quote": "Coordination schemes between superintelligences are not things that humans can participate in (eg because humans can't reason reliably about the code of superintelligences)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "actor_behavior",
+      "claim_text": "A multipolar system of multiple superintelligences with different utility functions will naturally equilibrate to those superintelligences cooperating with each other but not with humanity",
+      "confidence": "high",
+      "quote": "a 'multipolar' system of 20 superintelligences with different utility functions, plus humanity, has a natural and obvious equilibrium which looks like 'the 20 superintelligences cooperate with each other but not with humanity'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "causal",
+      "claim_text": "Schemes to play different AIs against each other stop working when those AIs can coordinate by reasoning about each other's code",
+      "confidence": "high",
+      "quote": "Schemes for playing 'different' AIs off against each other stop working if those AIs advance to the point of being able to coordinate via reasoning about (probability distributions over) each others' code",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "capability",
+      "claim_text": "Any system of sufficiently intelligent agents can probably behave as a single unified agent even if designed to oppose each other",
+      "confidence": "medium",
+      "quote": "Any system of sufficiently intelligent agents can probably behave as a single agent, even if you imagine you're playing them against each other",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "capability",
+      "claim_text": "A superintelligence can defeat humans in complex, poorly-understood domains like human psychology through strategies that would appear as 'magic' even if visible",
+      "confidence": "high",
+      "quote": "if you're fighting it in an incredibly complicated domain you understand poorly, like human minds, you should expect to be defeated by 'magic' in the sense that even if you saw its strategy you would not understand why that strategy worked",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "feasibility",
+      "claim_text": "AI boxing can only work on relatively weak AGIs because human operators are not secure systems",
+      "confidence": "high",
+      "quote": "AI-boxing can only work on relatively weak AGIs; the human operators are not secure systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "risk",
+      "claim_text": "The standard pattern of learning from failures doesn't work for AGI because the first major failure kills everyone before learning can occur",
+      "confidence": "high",
+      "quote": "This is less of a viable survival plan for your planet if the first major failure of the bright-eyed youngsters kills literally everyone before they can predictably get beaten about the head with the news that there were all sorts of unforeseen difficulties",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "actor_behavior",
+      "claim_text": "Researchers continue acting as optimistic newcomers because reality hasn't provided negative feedback yet, rather than preemptively updating to expect difficulties",
+      "confidence": "high",
+      "quote": "Everyone else seems to feel that, so long as reality hasn't whapped them upside the head yet and smacked them down with the actual difficulties, they're free to go on living out the standard life-cycle and play out their role in the script and go on being bright-eyed youngsters",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "priority",
+      "claim_text": "The field of AI safety is not currently being remotely productive on tackling its enormous lethal problems",
+      "confidence": "high",
+      "quote": "It does not appear to me that the field of 'AI safety' is currently being remotely productive on tackling its enormous lethal problems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "causal",
+      "claim_text": "The contemporary AI safety field has been selected for people who work on problems where they can publish papers claiming success, not on the hardest critical problems",
+      "confidence": "high",
+      "quote": "the contemporary field of AI safety has been selected to contain people who go to work in that field anyways. Almost all of them are there to tackle problems on which they can appear to succeed and publish a paper claiming success",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "69",
+      "claim_type": "other",
+      "claim_text": "The AI safety field is not making real progress and lacks a recognition function to distinguish real progress if it occurred",
+      "confidence": "high",
+      "quote": "This field is not making real progress and does not have a recognition function to distinguish real progress if it took place",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "70",
+      "claim_type": "strategic",
+      "claim_text": "Pumping a billion dollars into the current AI safety field would mostly produce noise that drowns out what little real progress is being made",
+      "confidence": "high",
+      "quote": "You could pump a billion dollars into it and it would produce mostly noise to drown out what little progress was being made elsewhere",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "71",
+      "claim_type": "feasibility",
+      "claim_text": "The author does not know how to train the ability to notice lethal difficulties without external persuasion into other people",
+      "confidence": "high",
+      "quote": "This ability to 'notice lethal difficulties without Eliezer Yudkowsky arguing you into noticing them' currently is an opaque piece of cognitive machinery to me, I do not know how to train it into others",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "72",
+      "claim_type": "strategic",
+      "claim_text": "Paying large sums to import legible geniuses from other fields will not produce great alignment work because they lack domain knowledge and cannot distinguish good from bad work",
+      "confidence": "high",
+      "quote": "You cannot just pay $5 million apiece to a bunch of legible geniuses from other fields and expect to get great alignment work out of them. They probably do not know where the real difficulties are, they probably do not understand what needs to be done, they cannot tell the difference between good and bad work",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "73",
+      "claim_type": "feasibility",
+      "claim_text": "Reading this document cannot make someone a core alignment researcher; that requires the ability to spontaneously write it from scratch without prompting",
+      "confidence": "high",
+      "quote": "Reading this document cannot make somebody a core alignment researcher. That requires, not the ability to read this document and nod along with it, but the ability to spontaneously write it from scratch without anybody else prompting you",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "74",
+      "claim_type": "other",
+      "claim_text": "After 21 years of the author working on alignment, 7 years of EA attention, and 2 years of broader attention, the author is still the only person writing comprehensive analyses of alignment lethalities",
+      "confidence": "high",
+      "quote": "the fact that, twenty-one years into my entering this death game, seven years into other EAs noticing the death game, and two years into even normies starting to notice the death game, it is still Eliezer Yudkowsky writing up this list, says that humanity still has only one gamepiece that can do that",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "75",
+      "claim_type": "other",
+      "claim_text": "Having only one person capable of this analysis is not what surviving worlds look like",
+      "confidence": "high",
+      "quote": "That's not what surviving worlds look like",
+      "conditional": null,
+      "notes": "Refers to the situation described in claim 74"
+    },
+    {
+      "claim_id": "76",
+      "claim_type": "other",
+      "claim_text": "There is no plan for how humanity will survive AGI, and no candidate plans exist without immediately visible fatal flaws",
+      "confidence": "high",
+      "quote": "There's no plan. Surviving worlds, by this point, and in fact several decades earlier, have a plan for how to survive. It is a written plan...In this non-surviving world, there are no candidate plans that do not immediately fall to Eliezer instantly pointing at the giant visible gaping holes in that plan",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "77",
+      "claim_type": "actor_behavior",
+      "claim_text": "Most organizations don't have alignment plans because the author hasn't personally insisted they create them",
+      "confidence": "high",
+      "quote": "So most organizations don't have plans, because I haven't taken the time to personally yell at them",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "78",
+      "claim_type": "actor_behavior",
+      "claim_text": "Organizations lack the basic alignment mindset to recognize they need a plan without constant external pressure",
+      "confidence": "high",
+      "quote": "'Maybe we should have a plan' is deeper alignment mindset than they possess without me standing constantly on their shoulder as their personal angel pleading them into… continued noncompliance, in fact",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "79",
+      "claim_type": "other",
+      "claim_text": "The current situation we observe is not what a surviving world looks like",
+      "confidence": "high",
+      "quote": "This situation you see when you look around you is not what a surviving world looks like",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "80",
+      "claim_type": "other",
+      "claim_text": "In worlds that survive, people take real internal responsibility for finding flaws in their own plans rather than waiting for others to prove them wrong",
+      "confidence": "high",
+      "quote": "Key people are taking internal and real responsibility for finding flaws in their own plans, instead of considering it their job to propose solutions and somebody else's job to prove those solutions wrong",
+      "conditional": null,
+      "notes": "Describes counterfactual surviving worlds"
+    },
+    {
+      "claim_id": "81",
+      "claim_type": "priority",
+      "claim_text": "The difficulty of alignment is getting to less than near-certainty of killing literally everyone, not achieving perfect alignment",
+      "confidence": "high",
+      "quote": "Practically all of the difficulty is in getting to 'less than certainty of killing literally everyone'",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "82",
+      "claim_type": "priority",
+      "claim_text": "An AGI with less than 50% chance of killing more than one billion people while executing a pivotal task would be an acceptable outcome",
+      "confidence": "high",
+      "quote": "if you can get a powerful AGI that carries out some pivotal superhuman engineering task, with a less than fifty percent change of killing more than one billion people, I'll take it",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "83",
+      "claim_type": "feasibility",
+      "claim_text": "If a textbook from 100 years in the future with all working solutions fell into our hands, we could probably build aligned superintelligence in six months",
+      "confidence": "medium",
+      "quote": "if a textbook from one hundred years in the future fell into our hands, containing all of the simple ideas that actually work robustly in practice, we could probably build an aligned superintelligence in six months",
+      "conditional": "IF we had a textbook from the future with all working solutions",
+      "notes": null
+    },
+    {
+      "claim_id": "84",
+      "claim_type": "feasibility",
+      "claim_text": "With 100 years to solve alignment using unlimited retries, the problems would not be impossible to human science and engineering",
+      "confidence": "medium",
+      "quote": "No difficulty discussed here about AGI alignment is claimed by me to be impossible – to merely human science and engineering, let alone in principle – if we had 100 years to solve it using unlimited retries",
+      "conditional": "IF we had 100 years and unlimited retries",
+      "notes": null
+    },
+    {
+      "claim_id": "85",
+      "claim_type": "causal",
+      "claim_text": "Simple robust solutions to alignment likely exist but have not yet been discovered, similar to how ReLUs were much better than sigmoids but discovered decades later",
+      "confidence": "medium",
+      "quote": "Sigmoid activations are complicated and fragile, and do a terrible job of transmitting gradients through many layers; ReLUs are incredibly simple...and work much better. Most neural networks for the first decades of the field used sigmoids; the idea of ReLUs wasn't discovered, validated, and popularized until decades later",
+      "conditional": null,
+      "notes": "Analogy suggests simple solutions exist but are undiscovered"
+    }
+  ]
+}

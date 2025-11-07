@@ -1,0 +1,312 @@
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "AI systems will become indispensable for planning, writing, and chatting like friends and colleagues",
+      "timeframe": "by 2026",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Widespread adoption of AI systems for daily tasks across general population; survey data showing majority of people using AI for planning, writing, and social interaction tasks; industry reports showing penetration rates",
+      "conditional": null,
+      "quote": "By 2026, AI systems become indispensable: planning, writing, and chatting like friends and colleagues."
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "Public skepticism toward AI will fade",
+      "timeframe": "by 2026",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Public opinion surveys showing decreased skepticism about AI; shift in media sentiment; increased trust metrics in polling data",
+      "conditional": null,
+      "quote": "By 2026, AI systems become indispensable: planning, writing, and chatting like friends and colleagues. Public scepticism fades."
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "China will lag behind in AI development due to hardware constraints",
+      "timeframe": "by 2026",
+      "prediction_type": "geopolitical",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Benchmark comparisons showing Chinese AI models performing worse than US counterparts; reports of Chinese companies struggling with chip access; analysis showing technology gap widening",
+      "conditional": "IF US maintains export controls on AI chips",
+      "quote": "China lags due to hardware constraints"
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "Europe's AI development will stall amid internal divides",
+      "timeframe": "by 2026",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Delays in European AI infrastructure projects; public reports of member state disagreements; lack of competitive European AI models compared to US; stalled Gigafactory construction",
+      "conditional": null,
+      "quote": "Europe stalls amid internal divides."
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "Deepfake crises will push the United States toward restricting open AI models",
+      "timeframe": "by 2027",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "High-profile deepfake incidents reported in media; US government proposing or enacting restrictions on open-weight model releases; legislative or executive action limiting open-source AI",
+      "conditional": null,
+      "quote": "By 2027, deepfake crises push the U.S. toward restricting open models."
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "A few dominant firms will consolidate control over AI",
+      "timeframe": "by 2027",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Market concentration metrics showing 3-5 companies controlling majority of AI market; reduced number of competitive frontier AI labs; industry reports on market share consolidation",
+      "conditional": null,
+      "quote": "a few dominant firms consolidate control"
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "Leading American AI companies will unveil a new generation of reasoning models that combine deep deliberation with intuitive capabilities",
+      "timeframe": "by mid-2025",
+      "prediction_type": "capability",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Major AI labs announcing and releasing reasoning-focused models; technical papers describing deliberative + intuitive hybrid architectures; benchmark improvements in reasoning tasks",
+      "conditional": null,
+      "quote": "By mid-2025, leading American AI companies unveil a new generation of reasoning models. These systems combine deep deliberation with intuitive capabilities—thinking for longer only when necessary."
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "AI agents will begin entering real-world workflows across industries including real estate, finance, and healthcare",
+      "timeframe": "by late 2025",
+      "prediction_type": "deployment",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Industry reports showing AI agent adoption; case studies of companies deploying agents for property analysis, risk assessment, and diagnostics; trade publications documenting enterprise agent deployments",
+      "conditional": null,
+      "quote": "By late 2025, agents begin entering real-world workflows. Adoption spreads across industries—not because of sudden technical leaps, but because systems are finally getting reliable enough. Tech-savvy real estate firms deploy agents for property analysis and personalised listings. In finance, complex risk assessments are automated. In less-regulated regions, healthcare providers use agents to assist with diagnostics."
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "Agent-assisted R&D will deliver a 50% acceleration in progress compared to 2024-era systems",
+      "timeframe": "late 2025",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI companies reporting substantial speedups in engineering and R&D cycles; metrics comparing development timelines between 2024 and 2025; published benchmarks on AI-assisted development velocity",
+      "conditional": null,
+      "quote": "While original scientific research remains out of reach, agent-assisted R&D delivers a 50% acceleration in progress compared to 2024-era systems."
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "OmniAI (leading American open-source company) will reverse its position and commercialize frontier models, open-sourcing only smaller, older versions",
+      "timeframe": "2026",
+      "prediction_type": "actor_behavior",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "OmniAI or similar leading open-source AI company announcing shift to closed/commercial model for frontier systems; company statements about restricting access to latest models; community reactions to policy reversal",
+      "conditional": "IF investor pressure continues",
+      "quote": "under pressure from investors, the company reverses its long-standing position: it will now commercialise its frontier models and open-source only smaller, older versions. The shift sends shockwaves through the open-source community."
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "Open-weight models will become implicated in a wave of deepfake incidents, including fabrications targeting the President and key allies",
+      "timeframe": "2026",
+      "prediction_type": "safety_alignment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "News reports of deepfake incidents; attribution to open-weight models; specific incidents involving President or senior officials; government response citing these incidents",
+      "conditional": null,
+      "quote": "Simultaneously, open-weight models become implicated in a wave of deepfake incidents, including fabrications targeting the President and key allies."
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "The US administration will begin drafting legislation to restrict the release of high-capability open-weight models",
+      "timeframe": "2026",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Leaked or announced legislative proposals; government statements about regulating open-weight models; congressional hearings or executive branch policy discussions",
+      "conditional": "IF deepfake incidents occur",
+      "quote": "Despite accusations of opportunistic regulatory capture, the administration begins drafting legislation to restrict the release of high-capability open-weight models. Senior officials invoke the need to defend American national security."
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "Several US AI companies will walk back their earlier commitments to ad-free services and introduce monetization",
+      "timeframe": "2026",
+      "prediction_type": "actor_behavior",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "AI companies announcing introduction of ads or paid features; changes to service terms; user reports of monetization; company financial reports showing new revenue streams",
+      "conditional": null,
+      "quote": "Meanwhile, several U.S. AI companies walk back their earlier commitments to ad-free services. Critics accuse them of selling out—but the shift to monetisation brings results."
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "Psychologists will report growing cases of AI attachment and social withdrawal, creating family tensions and new therapeutic challenges",
+      "timeframe": "2026-2027",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Published research or clinical reports on AI attachment; mental health professionals discussing new patient cases; media coverage of AI companion dependency; therapeutic guidelines addressing AI relationships",
+      "conditional": null,
+      "quote": "Psychologists report growing cases of AI attachment and social withdrawal, creating family tensions and new therapeutic challenges."
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "The Big Five AI firms will effectively double their top-line revenue within the next few years",
+      "timeframe": "2027-2030 (from early 2027)",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Financial reports from major AI companies showing 2x revenue growth; analyst reports tracking revenue trajectories; SEC filings documenting revenue increases",
+      "conditional": null,
+      "quote": "Financial analysts now forecast that the Big Five AI firms could effectively double their top-line within the next few years, driven by subscription access and metered inference credits."
+    },
+    {
+      "pred_id": "pred_16",
+      "prediction_text": "Chinese AI firms will lag more than a year behind US capabilities due to hardware restrictions",
+      "timeframe": "by early 2027",
+      "prediction_type": "geopolitical",
+      "confidence": "high",
+      "measurability": "moderate",
+      "verification_criteria": "Benchmark comparisons showing 12+ month capability gap; analysis of Chinese vs US model releases; expert assessments of technology lag; reports on chip shortage impacts",
+      "conditional": "IF US maintains export restrictions",
+      "quote": "By early 2027, the divide is clear. The U.S. is pulling ahead. Chinese AI firms, still hamstrung by hardware restrictions, lag more than a year behind."
+    },
+    {
+      "pred_id": "pred_17",
+      "prediction_text": "The United States will enact executive legislation prohibiting the open release of AI models trained using more than 10^26 FLOP",
+      "timeframe": "early 2027",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Executive order or legislation published with specific FLOP threshold; government enforcement mechanisms announced; compliance requirements for cloud providers and AI labs",
+      "conditional": null,
+      "quote": "The United States enacts executive legislation which de facto prohibits the open release of AI models trained using more than 10²⁶ FLOP."
+    },
+    {
+      "pred_id": "pred_18",
+      "prediction_text": "Training runs from elite AI companies will exceed 10^28 FLOP",
+      "timeframe": "late 2027",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Company announcements or leaks about training run scale; technical papers documenting FLOP counts; industry reports on compute usage; infrastructure investments supporting 10^28+ FLOP runs",
+      "conditional": "IF Agent Economy scenario",
+      "quote": "training runs from the elite AI circle are projected to exceed 10²⁸ FLOP by year's end, pushing the boundaries of compute into entirely new territory."
+    },
+    {
+      "pred_id": "pred_19",
+      "prediction_text": "The EU will mandate that any AI models developed with public funding must be open-weight and freely accessible",
+      "timeframe": "2027",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "EU policy announcement or directive requiring open-weight models; documentation of mandate in official EU publications; funded projects complying with open-weight requirements",
+      "conditional": "IF Agent Economy scenario AND IF US restricts open models",
+      "quote": "In direct response to the new U.S. legislation, the EU mandates that any AI models developed with public funding must be open-weight and freely accessible."
+    },
+    {
+      "pred_id": "pred_20",
+      "prediction_text": "The first pan-European AI Gigafactory will near completion",
+      "timeframe": "2027",
+      "prediction_type": "geopolitical",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Announcements about Gigafactory construction progress; facility nearing operational status; European officials discussing infrastructure milestone; project documentation",
+      "conditional": "IF Agent Economy scenario",
+      "quote": "The first pan-European AI Gigafactory nears completion"
+    },
+    {
+      "pred_id": "pred_21",
+      "prediction_text": "NimbusAI (Europe's leading AI firm) will successfully train a competitive model on European-built compute that rivals top-tier US systems",
+      "timeframe": "2027",
+      "prediction_type": "geopolitical",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "NimbusAI or European AI company announcing major model release; benchmark comparisons showing competitive performance with US models; commercial viability demonstrated through adoption",
+      "conditional": "IF Agent Economy scenario",
+      "quote": "the region's leading AI firm, NimbusAI, successfully trains a massive new model on its new, European-built compute cluster. NimbusAI's offering is surprisingly competitive. For the first time in years, a European model is commercially viable, rivaling top-tier U.S. systems in most popular tasks."
+    },
+    {
+      "pred_id": "pred_22",
+      "prediction_text": "AI agents will function like complete digital interns capable of handling multi-hour projects with impressive competence",
+      "timeframe": "by end of 2027",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems demonstrating ability to complete complex multi-hour tasks; workplace adoption of AI agents for intern-level work; benchmark evaluations showing sustained task completion; user testimonials and case studies",
+      "conditional": "IF Agent Economy scenario",
+      "quote": "By the end of 2027, AI agents have become a defining feature of modern life. These systems now function like complete digital interns: they still require frequent guidance but can handle multi-hour-long projects with impressive competence."
+    },
+    {
+      "pred_id": "pred_23",
+      "prediction_text": "Many developed economies will report modest but measurable increases in GDP growth, at least partially attributed to AI",
+      "timeframe": "by late 2028",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Official GDP statistics showing growth increases; economic analyses attributing growth to AI adoption; government economic reports citing AI as contributing factor; academic studies on AI's GDP impact",
+      "conditional": "IF Agent Economy scenario",
+      "quote": "By late 2028, many developed economies report modest but measurable increases in GDP growth, often at least partially attributed to AI."
+    },
+    {
+      "pred_id": "pred_24",
+      "prediction_text": "The European Commission will launch Operation AI Oversight, escalating enforcement of the AI Act, Digital Services Act, and Digital Markets Act with steeper penalties and surprise audits",
+      "timeframe": "2027",
+      "prediction_type": "deployment",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Official EU announcement of enforcement initiative; increased penalties levied; audit programs launched; regulatory actions against US AI firms; media coverage of enforcement escalation",
+      "conditional": "IF Silicon Blackmail scenario",
+      "quote": "In response, the European Commission launches Operation AI Oversight, escalating enforcement of the AI Act, Digital Services Act, and Digital Markets Act. The crackdown includes steeper penalties, surprise audits, and expanded regulatory scrutiny."
+    },
+    {
+      "pred_id": "pred_25",
+      "prediction_text": "Two major US AI companies will suspend operations in Europe, citing a hostile regulatory environment",
+      "timeframe": "mid 2027",
+      "prediction_type": "actor_behavior",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Company announcements of EU service suspension; European users losing access to AI services; media reports on US company withdrawals; company statements citing regulatory concerns",
+      "conditional": "IF Silicon Blackmail scenario",
+      "quote": "Tensions spike when two major U.S. companies suspend operations on the continent, citing a 'hostile regulatory environment.'"
+    },
+    {
+      "pred_id": "pred_26",
+      "prediction_text": "The US will post a one-point bump in GDP growth while unemployment ticks upward",
+      "timeframe": "2028",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Official US GDP statistics showing approximately 1 percentage point increase; unemployment data showing upward trend; BLS reports; economic analysis of simultaneous growth and unemployment increase",
+      "conditional": "IF Silicon Blackmail scenario",
+      "quote": "By 2028, the macroeconomic effects are undeniable. The U.S. posts an one-point bump in GDP growth, while unemployment ticks upward."
+    },
+    {
+      "pred_id": "pred_27",
+      "prediction_text": "University computer science enrollments will decline as students question whether coding offers a future",
+      "timeframe": "2028",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "University enrollment statistics showing CS program declines; admissions data; surveys of student career concerns; media reports on changing educational choices",
+      "conditional": "IF Silicon Blackmail scenario",
+      "quote": "Parents begin wondering what work will remain for their children. University computer science enrolments decline, as students question whether coding still offers a future."
+    },
+    {
+      "pred_id": "pred_28",
+      "prediction_text": "US AI firms will begin pausing operations across the EU after threatening withdrawal as leverage against regulation",
+      "timeframe": "2028",
+      "prediction_type": "actor_behavior",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "Company announcements of service pauses in EU; European business disruptions; media coverage of US-EU AI standoff; user reports of service unavailability",
+      "conditional": "IF Silicon Blackmail scenario AND IF EU refuses to weaken regulation",
+      "quote": "When the firms hint that they might withdraw entirely from the EU, the threat carries weight: such a move could cripple Europe's economic competitiveness overnight. Relations between Brussels and Washington plunge to new lows. Backed by key member states, the European Commission refuses to yield. 'Europe will not be blackmailed,' declares one senior official. But the standoff proves costly: within weeks, U.S. firms begin pausing operations across the EU."
+    }
+  ]
+}

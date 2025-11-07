@@ -1,0 +1,643 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "timeline",
+      "claim_text": "AGI (defined as highly autonomous systems that outperform humans at most economically valuable work) might arrive in the next few years, with some industry leaders predicting as early as 2026",
+      "confidence": "medium",
+      "quote": "The CEOs of these companies think they might achieve it in just a few years, some saying as early as 2026. While the exact timelines are still in doubt, there is a very real chance AGI arrives in the next few years.",
+      "conditional": null,
+      "notes": "Authors acknowledge uncertainty but treat short timelines as plausible enough to plan around"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "capability",
+      "claim_text": "The length of tasks AI can complete is doubling every seven months, representing a new Moore's law for AI task completion",
+      "confidence": "high",
+      "quote": "Researchers have even demonstrated a new Moore's law: the length of tasks AI can complete is doubling every seven months.",
+      "conditional": null,
+      "notes": "Based on cited research from METR"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "actor_behavior",
+      "claim_text": "Most white-collar firms will initially adopt AI by slashing entry-level hiring rather than immediately firing existing employees, as a way to slowly reduce costs without the disruption of mass layoffs",
+      "confidence": "high",
+      "quote": "We think the first wave of AI employees, likely a combination of specialized LLM scaffolds from startups and natively agentic models from the labs, will allow companies to shrink their hiring costs without firing anyone. Instead, they'll slash hiring.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "actor_behavior",
+      "claim_text": "Pyramid replacement will occur in white-collar companies, where AI systematically replaces workers starting from entry-level positions and moving upward through waves of hiring freezes and eventual layoffs",
+      "confidence": "high",
+      "quote": "Increasingly powerful AI will trigger pyramid replacement: a systematic hollowing out of corporate structures that starts with entry-level hiring freezes and moves upward through waves of layoffs.",
+      "conditional": null,
+      "notes": "This is a central prediction of the document"
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "actor_behavior",
+      "claim_text": "Some firms will eventually reach a structure where only the C-suite remains, with AI agents performing all other roles in the company",
+      "confidence": "medium",
+      "quote": "Many firms make the call: they only need the C-suite.",
+      "conditional": "IF AI systems can do all intellectual labor in companies better without senior management in the loop",
+      "notes": "Authors acknowledge this is speculative"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "actor_behavior",
+      "claim_text": "A small number of firms will eventually operate with no human employees at all, with boards determining that AI systems can manage companies better than human CEOs",
+      "confidence": "low",
+      "quote": "For a small number of firms, the best performing version of their org chart is one without any human employees at all",
+      "conditional": "IF AIs can track every interaction and make strategic decisions exceptionally fast",
+      "notes": "Authors explicitly note they are 'at our most speculative here'"
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "risk",
+      "claim_text": "Traditional white collar work, the economic engine of developed economies, is unlikely to survive the AI revolution, with this being a problem for today's institutions rather than a distant future concern",
+      "confidence": "high",
+      "quote": "To put it bluntly, traditional white collar work, the economic engine of developed economies, is unlikely to survive the AI revolution. This isn't a 2050 or 2100 problem – it is a problem for today's entrepreneurs, policymakers, and institutions.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "risk",
+      "claim_text": "There is roughly a 1 in 3 chance that human wages will crash below subsistence level before 2045, and a 2 in 3 chance before 2125",
+      "confidence": "medium",
+      "quote": "All things considered, I am inclined to guess that there is roughly a 1 in 3 chance that human wages will crash below subsistence level before 2045...In the longer term, I'd guess the probability that human wages will fall below subsistence level before 2125 to be roughly 2 in 3.",
+      "conditional": null,
+      "notes": "Citing Matthew Barnett's analysis"
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "causal",
+      "claim_text": "If AI results in a massive increase in labor supply, capital will become more of a constraint than labor, leading to lower wages and higher returns to capital",
+      "confidence": "high",
+      "quote": "First, if AI results in a massive increase in labor supply, capital could become more of a constraint than labor. The returns to additional labor—machine or human—go down while those to capital go up. This means lower wages and higher returns to capital.",
+      "conditional": "IF AI results in massive increase in labor supply",
+      "notes": "Citing mechanism from Matthew Barnett"
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "causal",
+      "claim_text": "Humans have a higher 'biologically imposed minimum wage' than AIs because they need to eat and have fixed brain efficiency, meaning AI presence in labor markets might drive wages below human subsistence level",
+      "confidence": "medium",
+      "quote": "Third, humans have a higher 'biologically imposed minimum wage' than AIs. We need to eat, and the efficiency of our brains is fixed. AIs don't have such limitations, and therefore their presence in the labor market might drive wages below the human subsistence level.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "feasibility",
+      "claim_text": "Expanding the social safety net to provide universal basic income for everyone will be limited by fiscal constraints, with truly explosive growth rates needed to fund widespread UBI only arriving when we get general-purpose robotics",
+      "confidence": "high",
+      "quote": "Expanding the social safety net will be limited by several constraints. Fiscal constraints worldwide are tight due to rising rates and debts. Economic modelling suggests that the truly explosive growth rates needed to fund widespread UBI will only arrive when we get general-purpose robotics.",
+      "conditional": null,
+      "notes": "Also cites that social security expected to be exhausted in 2033"
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "causal",
+      "claim_text": "Money will matter more, not less, post-AGI because the ability of money to buy results in the real world will dramatically increase once we have labor-replacing AI",
+      "confidence": "high",
+      "quote": "Many people say that money won't matter post-AGI, or at least it will matter less. By default, this is exactly backwards...This means that the ability of money to buy results in the real world will dramatically go up once we have labor-replacing AI.",
+      "conditional": null,
+      "notes": "This is a distinctive contrarian claim"
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "risk",
+      "claim_text": "The ability to get and wield power in the real world without existing capital will dramatically decrease once we have labor-replacing AI, making it harder for humans to achieve outlier success",
+      "confidence": "high",
+      "quote": "All this means that the ability to get and wield power in the real world without existing capital will dramatically go down once we have labor-replacing AI.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "capability",
+      "claim_text": "The era of human achievement in hard sciences may end within a few years because of the rate of AI progress in domains with crisp reward signals",
+      "confidence": "medium",
+      "quote": "The hard sciences. The era of human achievement in hard sciences may end within a few years because of the rate of AI progress in anything with crisp reward signals.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "capability",
+      "claim_text": "Sufficiently strong AI will eventually obsolete human entrepreneurship, with VC funds potentially able to directly convert money into hundreds of AI-run startup attempts without human entrepreneurs",
+      "confidence": "medium",
+      "quote": "However, it also seems likely that sufficiently strong AI will eventually obsolete human entrepreneurship. For example, VC funds might be able to directly convert money into hundreds of startup attempts all run by AIs, without having to go through the intermediate route of finding human entrepreneurs to manage the AIs for them.",
+      "conditional": "IF AI becomes sufficiently strong",
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "risk",
+      "claim_text": "Society might become permanently static with current power imbalances amplified and locked in, creating a world where social mobility is extinct and people live in the shadow of what happened in the pre-AGI era",
+      "confidence": "medium",
+      "quote": "A static society with a locked-in ruling caste does not seem dynamic or alive. We should not kill human ambition, if we can help it...In the future, the answer to 'why is this person powerful?' would trace back to something they or someone they were close with did in the pre-AGI era",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "feasibility",
+      "claim_text": "Even if we end up in a very rich society post-AGI, it is unlikely that people will start on equal footing or be able to greatly change their relative position later",
+      "confidence": "high",
+      "quote": "Therefore, even if we end up in a very rich society, it is unlikely that people in the future will be starting in it on an equal footing. It is also unlikely that they will be able to greatly change their relative footing later on.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "causal",
+      "claim_text": "Past large reductions in inequality have all been driven by the 'Four Horsemen of Leveling': total war, violent revolution, state collapse, and pandemics, with leveling income differences historically nearly impossible through conscious political choice",
+      "confidence": "high",
+      "quote": "Its conclusion is that past large reductions in inequality have all been driven by one of the 'Four Horsemen of Leveling': total war, violent revolution, state collapse, and pandemics. Leveling income differences has historically been hard enough to basically never happen through conscious political choice.",
+      "conditional": null,
+      "notes": "Citing Scheidel's The Great Leveler"
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "other",
+      "claim_text": "AGI is more analogous to coal or oil than to the plow, steam engine, or computer - it requires immense capital to harness and will have concentrated control in few hands",
+      "confidence": "high",
+      "quote": "But AGI looks a lot more like coal or oil than the plow, steam engine, or computer. Like those resources: It will require immense capital to discover and harness. Control will likely be concentrated in the hands of a few players",
+      "conditional": null,
+      "notes": "This framing is central to their resource curse analogy"
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "risk",
+      "claim_text": "The intelligence curse will cause powerful actors to lose their incentive to invest in people, similar to how resource-rich rentier states neglect citizens because their wealth comes from resources rather than taxing human labor",
+      "confidence": "high",
+      "quote": "This is the intelligence curse – when powerful actors create and implement general intelligence, they will lose their incentives to invest in people.",
+      "conditional": null,
+      "notes": "This is the central concept of the document"
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "causal",
+      "claim_text": "States care about citizens for two main reasons: they offer return on investment through taxes/profits, and they impact the state's ability to retain power through voting or credible threats",
+      "confidence": "high",
+      "quote": "Powerful actors don't care about you out of the goodness of their heart. They care about you for two reasons: 1. You offer a return on investment, usually through taxes or profits. 2. You impact their ability to retain power",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "causal",
+      "claim_text": "Diversified economies incentivize states to invest in education, infrastructure, courts, free speech, competitive markets, and social safety nets because these increase citizen productivity and thus tax revenue",
+      "confidence": "high",
+      "quote": "Most states in the modern world are diversified economies...They rely on taxing people and corporations to generate revenue, so they increase their revenue by increasing their citizens' productivity...To do so, they tend to: Establish good schools, research institutions, and universities; Build infrastructure like roads and public transportation",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "actor_behavior",
+      "claim_text": "States will shift their revenue base towards corporate taxes from AI companies rather than income taxes from humans, with corporate taxes becoming a much larger share of state revenue",
+      "confidence": "high",
+      "quote": "States will earn money from corporate taxes. Companies that produce advanced AI systems and companies that use them will generate large revenues. As they get bigger, states will tax them more...When state revenue breakdowns look more like these countries than the OECD average, you'll know the intelligence curse is taking hold.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "actor_behavior",
+      "claim_text": "AI labs will become new rentiers, extracting rents from all economic activity by selling AGI systems that replace workers, wielding economic power previously exclusive to states",
+      "confidence": "high",
+      "quote": "AI labs will make money by becoming the new rentiers...Once the labs have an AI system that can do it all, they'll become a horizontal layer of the economy, extracting rents from all economic activity by selling it to companies and states who use it to replace their workers.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "risk",
+      "claim_text": "With labor-replacing AI, most regular people will not be able to support themselves, will lack economic power to make demands, and at best will rely on benevolent charity from powerful actors",
+      "confidence": "high",
+      "quote": "Regular people will not be able to support themselves. The vast majority of people will not have the economic power necessary to make any demands. They won't be able to incentivize resource-controlling actors to invest in them. That means (at best) they'll rely on benevolent charity from powerful actors.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "risk",
+      "claim_text": "Without regular people in the value production loop, there is no incentive for economic spoils to go to them, and much of the economy could run in loops that avoid human consumers entirely",
+      "confidence": "medium",
+      "quote": "More fundamentally, without regular people in the value production loop, there is no incentive for spoils to go to them. As humans stop being producers, they stop earning the economic power that lets them direct the economy with their consumption choices. The economy will increasingly sideline them. In the limit, much of the economy could run in loops that avoid human consumers entirely.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "feasibility",
+      "claim_text": "There are two main ways to break the resource curse: effective governance/institutions to redistribute resources, and economic diversification to create incentives for states to care about people",
+      "confidence": "high",
+      "quote": "There are two main ways states completely break the resource curse: effective governance to redistribute resources, and economic diversification to create incentives for states to care about their people.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "feasibility",
+      "claim_text": "The path of building strong democratic institutions before resource wealth arrives is narrow and shrinking, with 2024 marking the 19th consecutive year of global freedom backsliding",
+      "confidence": "high",
+      "quote": "Few states are as democratic, functional, and low-corruption as Norway. This path is narrow and ever-shrinking; 2024 marked the 19th consecutive year of global freedom backsliding. Achieving it is hard, and achieving it quickly is even harder.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "feasibility",
+      "claim_text": "AGI is not a limited resource like oil, so the incentive for states to diversify their economies away from AI rents will be far lower than for oil states",
+      "confidence": "high",
+      "quote": "However, as discussed, AGI is not a limited resource like oil. This means the incentive to diversify will be far lower once we hit labor-replacing AI.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "feasibility",
+      "claim_text": "Democracy is likely a necessary precondition for breaking the intelligence curse, as autocracies will have far more infrastructural power with AI and can spot and suppress threats more effectively",
+      "confidence": "medium",
+      "quote": "For all these reasons, we expect autocracies with labor-replacing AI to succumb to the intelligence curse; democracy is likely a necessary precondition for breaking it.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "causal",
+      "claim_text": "Social structures and values of societies undergo fundamental changes during technological revolutions, with economic incentives being the foundational influence on social structures in the long run",
+      "confidence": "high",
+      "quote": "In Foragers, Farmers, and Fossil Fuels, historian Ian Morris argues that the social structures and the values of societies undergo changes during technological revolutions...there are strong historical reasons to think that the pull of incentives, while not absolute, has the foundational influence on social structures in the long run.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "causal",
+      "claim_text": "States are not free to pick their social structures but must pick structures that are competitive with other states, with competitive requirements changing as new technologies emerge",
+      "confidence": "high",
+      "quote": "As McInnes et. al. note in Anarchy as Architect, states are not free to pick their structure—they must pick structures that are competitive with other states. The competitive requirements change with new technologies.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "causal",
+      "claim_text": "If a new technology allows some highly competitive social structure to exist, states might be forced to adopt welfare-degrading policies in response to remain competitive",
+      "confidence": "medium",
+      "quote": "In particular, if a new technology allows some highly competitive social structure to exist, states might be forced to adopt welfare-degrading policies in response.",
+      "conditional": "IF new technology enables low-welfare, high-competitiveness societies",
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "causal",
+      "claim_text": "The great blessing of our time is that competitiveness is remarkably correlated with liberal democracy, rule of law, and human prosperity, but this correlation is not a rule of nature and may not continue",
+      "confidence": "high",
+      "quote": "The great blessing of our time is that competitiveness is remarkably correlated with what we value—liberal democracy, the rule of law, and human freedom, education, and prosperity. But it is not a rule of nature that this correlation will continue.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "feasibility",
+      "claim_text": "We should not expect AI to free us from competitive pressures through abundance alone, as neither competitive pressures nor human greed have any intrinsic stopping point",
+      "confidence": "high",
+      "quote": "AI might usher in massive levels of abundance that wash away all other issues...However, neither competitive pressures nor human greed have any intrinsic stopping point—consider how geopolitical tensions have rocketed up recently despite history's greatest level of wealth.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "timeline",
+      "claim_text": "We expect the AI balance to be more multipolar and arrive more slowly than aggressive singleton/decisive advantage scenarios predict",
+      "confidence": "medium",
+      "quote": "We expect the AI balance to be more multipolar and arrive more slowly than some of the more aggressive scenarios predict",
+      "conditional": null,
+      "notes": "Authors detail their disagreement with fast takeoff scenarios in footnote"
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "timeline",
+      "claim_text": "We will unlock the labor-replacing impacts of AI before its other transformational impacts like radical coordination technology",
+      "confidence": "high",
+      "quote": "By default, we expect to unlock the labor-replacing impacts of AI before its other transformational impacts.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "strategic",
+      "claim_text": "We can durably push society in a better direction by building different technologies through differential technological development",
+      "confidence": "high",
+      "quote": "While materialist explanations of society may sound demoralizing, they tell us something very powerful: by building different technologies, we can durably push society in a better direction.",
+      "conditional": null,
+      "notes": "This is a core thesis of the document"
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "strategic",
+      "claim_text": "To break the intelligence curse, we should avert AI catastrophes, diffuse AI to regular people, and democratize institutions",
+      "confidence": "high",
+      "quote": "To break the intelligence curse, we should chart a different path on the tech tree, building technology that lets us: 1. Avert AI catastrophes by hardening the world against them...2. Diffuse AI, to get it in the hands of regular people...3. Democratize institutions",
+      "conditional": null,
+      "notes": "This is the central strategic recommendation"
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "strategic",
+      "claim_text": "We should build technical solutions to avert AI catastrophes rather than lock down labs and centralize technology, because the latter approach is the most likely way to trigger the intelligence curse",
+      "confidence": "high",
+      "quote": "But there are two paths to averting these risks. You could lock down the labs, centralize the technology, and prevent it from proliferating. Or, you could build technical solutions to solve AI's potentially catastrophic risks. We strongly endorse the latter, because the former is the most likely way to trigger the intelligence curse.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "causal",
+      "claim_text": "Technology that removes the threat of catastrophe enables safe decentralization by removing the incentive to lock down, pause, or centralize AI",
+      "confidence": "high",
+      "quote": "Technology that removes the threat of catastrophe enables safe decentralization by removing the incentive to lock down, pause, or centralize—all of which require dramatic concentration of power into the hands of a small number of actors.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "risk",
+      "claim_text": "Centralizing proposals like global governance regimes or 'High-tech Panopticons' would create authorities that, upon achieving AGI, would have unilateral control of technological advancement and economic production",
+      "confidence": "high",
+      "quote": "Other proposals, including Aschenbrenner's proposal of locking down the labs and launching 'The Project', and similar 'put all power into the national government' policies face the same problem: they create authorities that, upon achieving and diffusing AGI, would have unilateral control of global technological advancement and would simultaneously control the means of economic production.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "actor_behavior",
+      "claim_text": "While centralizing policies are politically infeasible today, they would be unlocked following AI warning shots or catastrophes, as catastrophes historically create environments for government power grabs",
+      "confidence": "high",
+      "quote": "We expect that, while these policies are politically infeasible today, they would be unlocked following some kinds of AI warning shots. Historically, catastrophes create the environment for government power grabs, just like the ones described above.",
+      "conditional": "IF AI catastrophes or major warning shots occur",
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "strategic",
+      "claim_text": "Governments should support moonshot projects for risk-reducing technology modeled after Operation Warp Speed, including for biosecurity, cybersecurity, and AI alignment",
+      "confidence": "high",
+      "quote": "Our key policy ask is for government-supported moonshot projects for the risk-reducing tech we outline above, modeled after Operation Warp Speed.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "strategic",
+      "claim_text": "Governments should mandate KYC rules for DNA synthesis providers, fund wastewater monitoring for pathogens, and ban gain-of-function research",
+      "confidence": "high",
+      "quote": "In particular, governments should mandate KYC (know-your-customer) rules for DNA synthesis providers, fund wastewater monitoring for pathogens, and ban gain-of-function research",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "feasibility",
+      "claim_text": "UV-C lighting in HVAC systems and deployment of triethylene glycol could decisively deal with pandemic threats and might also mostly solve infectious disease as a side effect",
+      "confidence": "medium",
+      "quote": "UV-C lighting in HVAC systems to kill pathogens that are circulating in the air...Haze (triethylene glycol) is safe to breathe and kills pathogens, potentially even more effectively than UV-C...As a side-effect, decisively dealing with pandemic threats might also mostly solve infectious disease.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "strategic",
+      "claim_text": "We should build technology that augments human productivity and keeps humans in the loop of economic value production, creating a period of human-AI symbiosis as long as possible",
+      "confidence": "high",
+      "quote": "We want to align human capabilities with the needs of institutions, by uplifting humans. If humans can provide the things that powerful states and companies need, the interests of power will naturally lead to investment in humans. We should develop and diffuse AI-enabled technology that augments human productivity and keeps humans in the loop of economic value production.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "strategic",
+      "claim_text": "Diffusion of AI capabilities helps decentralize power and prevents dangerous power concentration, similar to how personal computing became a decentralizing force",
+      "confidence": "high",
+      "quote": "Second, diffusion helps to decentralize in ways that prevent dangerous power concentration...If the personal computing revolution had never taken off, computers would have continued being a centralizing tool that helps large companies and bureaucracies consolidate power. But with the personal computing revolution, computing became a decentralizing force",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "timeline",
+      "claim_text": "There is reason to believe the period of augmented humans being state-of-the-art exists and lasts years, potentially almost 7 years to reach a 1-month time horizon and almost 9 years to reach a 1-year time horizon for AI task completion",
+      "confidence": "medium",
+      "quote": "There is reason to believe that the period of augmented humans being state-of-the-art exists and lasts years...METR's work shows that AIs are getting better at solving tasks with longer and longer time horizons, but on current trends they will take almost 7 years to reach a 1-month time horizon and almost 9 years to reach a 1-year time horizon with 80% accuracy on completed tasks.",
+      "conditional": "IF current trends continue without major algorithmic breakthroughs",
+      "notes": "Authors acknowledge algorithmic breakthroughs could speed this up"
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "capability",
+      "claim_text": "Hard-to-judge, vague, context-rich tasks will take longer for AIs to automate than clearly-defined tasks because it's harder to compile datasets and build RL environments for them",
+      "confidence": "medium",
+      "quote": "True, algorithmic breakthroughs among other things are very likely to speed up progress here, but also note that METR's results are on clearly-defined software engineering tasks that don't require deep context. We expect hard-to-judge, vague, context-rich tasks to take longer for AIs to crack. It will be hard to compile the dataset, and hard to build the RL environment.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "timeline",
+      "claim_text": "We have at least a few years before AI can fully automate human work in context-rich domains",
+      "confidence": "medium",
+      "quote": "These moats will not last forever, but we believe that we have at least a few years.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "strategic",
+      "claim_text": "Extending the human-in-the-loop period for as long as possible helps decentralize AI by allowing more actors to accumulate skills, ownership, and experience in the AI-enabled economy rather than a few AI labs making a breakout run",
+      "confidence": "high",
+      "quote": "As discussed above, extending the human-in-the-loop period for as long as possible also helps decentralize AI: rather than a few AI labs making a breakout run to seize the economy, the uplift provided to AI diffuses more widely, allowing a much greater number of actors to accumulate skills, ownership, specializations, and experience in the AI-enabled economy.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "causal",
+      "claim_text": "It is possible to extend the human-in-the-loop time window through differential technological development, despite short AGI timelines",
+      "confidence": "high",
+      "quote": "Third, it is possible to extend this time window through differential technological development. A focus on short AGI timelines and the inevitability of the AGI race as the overriding brute facts of our time is likely correct, but can easily obscure that there are needles we can move.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "strategic",
+      "claim_text": "We should build technology that complements rather than substitutes human labor, including tools, world models, and information retrieval systems rather than human-like agents",
+      "confidence": "high",
+      "quote": "We should build technology that is a complement rather than a substitute to human labor...In addition to human-like agents, there are many other types of helpful intelligences: tools, world models, information retrieval, pattern completion, advisors, and collective intelligence",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "causal",
+      "claim_text": "Humans might remain in charge acting as CEOs or executive functions to teams of AIs even once AIs are superhuman at most tasks, providing value through taste, judgment, and understanding of context",
+      "confidence": "medium",
+      "quote": "Consider the CEO of a company. A CEO is an important part of a company, even if for everything the CEO does there is someone in the company better at it. Humans might remain in charge and in control, acting as a CEO or executive function to teams of AIs even once the AIs are superhuman at most tasks.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "causal",
+      "claim_text": "Distributed control remains more effective than centralization in the AI economy due to the importance of tacit and local knowledge in managing complex systems",
+      "confidence": "medium",
+      "quote": "Hayek argued for the importance of unwritten tacit and local knowledge in managing the economy, and how this makes distributed and decentralized control necessary. As we've argued before, there are good reasons to think distributed control remains more effective than centralization in the AI economy",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "strategic",
+      "claim_text": "Humanity should resist memetic forces pushing the AI agent hypetrain and differentially accelerate other branches of the tech tree that are not about creating unitary agents",
+      "confidence": "high",
+      "quote": "Humanity should resist the memetic forces pushing along the AI agent hypetrain, and differentially accelerate other branches of the tech tree.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "strategic",
+      "claim_text": "Key technologies to enable diffusion include pro-human user interfaces, brain-computer interfaces, easy finetuning, decentralized robotics, local data control, distributed training runs, local compute, and open-source AI",
+      "confidence": "high",
+      "quote": "Below we give some starting points for what technology to build to enable diffusion. Pro-human user interfaces...Brain-computer interfaces...Easy finetuning of AI models...Decentralized robotics...Helping humans own & control local data...Distributed training runs...Local compute...Cheap AI in general, especially open-source AI.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "strategic",
+      "claim_text": "Policymakers should ban AI systems from owning assets, serving as C-suite members, serving on boards, or owning shares, enshrining the principle that humans own the top of the funnel before systems are capable enough for companies to try delegating these roles",
+      "confidence": "high",
+      "quote": "Policymakers should ban AI systems from owning any assets, serving as a C-Suite member of a company, servicing on a board of directors, or owning shares. This sounds silly now, but it's important to enshrine a principle that humans own the top of the funnel now before systems are good enough for companies to try to delegate these roles.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "strategic",
+      "claim_text": "Governments should upskill humans in areas that will bottleneck the AI economy, using AI tutors for job changes and finding good techniques for AI oversight",
+      "confidence": "high",
+      "quote": "Upskilling humans in the areas which will bottleneck the AI economy. AI systems are likely to have uneven capability profiles compared to humans, excelling in tasks with easy verification, low time horizons, and a lack of interfacing with the physical world. Naturally, these will create bottlenecks which humans will be able to fill to stay relevant in the economy.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "strategic",
+      "claim_text": "Educational systems should be reformed to focus away from short-horizon, easily-gradable tasks that AI automates and toward skills that remain human advantages",
+      "confidence": "high",
+      "quote": "Educational experiments, like new types of schools and educational programs. The current education system, which focuses on short-horizon, easily-gradable tasks, teaches exactly what AI automates.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "feasibility",
+      "claim_text": "Human augmentation cannot be an infinitely durable fix, but solutions need not be permanent as we will know more, be wiser, and have incredibly intelligent AIs at our disposal in the future",
+      "confidence": "high",
+      "quote": "As mentioned, we don't pretend that human augmentation can be an infinitely durable fix. However, we also reject a strand of thinking that is only willing to consider permanent solutions. In the future, we will likely know more, be wiser, and have had at least some surprises thrown at us by the course of events and the tech tree. We might also have incredibly intelligent AIs at our disposal too.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "risk",
+      "claim_text": "AI making everything easier will likely increase income inequality with even fatter-tailed outcome distributions than today, raising the talent bar to compete in the economy",
+      "confidence": "medium",
+      "quote": "Another potential issue with technology for human augmentation is that it might further raise the returns to human talent and the talent bar to compete in the economy...We expect AI making everything easier will increase the number of people who can reach the frontier, but it will also result in outcome distributions with even fatter tails than today.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "strategic",
+      "claim_text": "Alignment to individual users is key long-term technology that could create an economy of agents each tied to one person, keeping users involved in value creation through their judgment, taste, and tacit knowledge",
+      "confidence": "medium",
+      "quote": "Alignment to the user. Most alignment work prioritizes aligning to some generic concept of human values...However, we expect that for models to successfully act on users' behalf in most functions of the economy and the world will require their high-granularity, detailed alignment to each individual user. This could create an economy of agents, each of which is directly tied to one person. The agents' activities earn that person income and rely on the user's judgment, taste, and tacit knowledge, keeping them involved in the creation of value.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "strategic",
+      "claim_text": "We should democratize institutions by making them more anchored to human desires through technology that helps align institutions with humans",
+      "confidence": "high",
+      "quote": "Third, we should democratize, by making institutions more anchored to the desires of the humans they are supposed to serve. To complement the alignment of human capabilities with institutional needs that decentralization achieves, we should also develop technology that helps align institutions with humans.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "causal",
+      "claim_text": "AI will help centralize power by making top-down control more plausible through automation of effective decision-making, surveillance, and enforcement",
+      "confidence": "high",
+      "quote": "Moreover, AI will also help centralize power, making top-down control more plausible through the automation of effective decision-making, surveillance, and enforcement. The more powerful institutions become, the more carefully we need to design and align them.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "strategic",
+      "claim_text": "Democratizing technologies should include digital advocates, large-scale feedback collection, human verification systems, AI auditors/advisers, AI tracking of government, contract negotiation tools, and distributed fact-checking",
+      "confidence": "high",
+      "quote": "There is not one single innovation that solves all these problems. However, we will list some technologies that help build stronger, more democratic institutions...Digital advocates...Large-scale feedback collection...Human verification...AI systems as trusted third-party auditors...AI systems as trusted third-party advisers...AI-powered tracking of government activities...Contract negotiation...Distributed fact-checking systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "strategic",
+      "claim_text": "Governments should take immediate action to strengthen democracies including campaign finance reform, anti-corruption laws, and strengthening bureaucratic competence, because weak democracies will crumble under the weight of AGI",
+      "confidence": "high",
+      "quote": "Alongside this, policymakers should take immediate action to strengthen democracies. Weak democracies will crumble under the weight of AGI. This would include: Passing campaign finance reform; Reforming anti-corruption laws; Strengthen bureaucratic competence while reducing bloat",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "69",
+      "claim_type": "strategic",
+      "claim_text": "Governments should make courts and legislatures faster to prevent the executive branch from becoming the sole and unchecked arbiter due to the speed difference between legislative/judicial processes and AI-enabled executive action",
+      "confidence": "high",
+      "quote": "Governments should make courts and legislatures faster. Coordination around legislatures and the processing times of court cases might be glacial compared to the speed of either AI advances, or to the speed at which an AI-enabled executive can act. This creates a threat that the executive branch can become effectively the sole and unchecked arbiter.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "70",
+      "claim_type": "strategic",
+      "claim_text": "Governments should preemptively prepare redistribution mechanisms like sovereign wealth funds with public ownership stakes in automated companies and constitutional requirements to meet basic needs",
+      "confidence": "high",
+      "quote": "Governments should preemptively prepare for a world where lots of regular people don't provide immediate economic value...This could be a sovereign wealth fund with public ownership stakes in highly automated companies, with requirements to distribute a set percentage directly to citizens. It could also look like constitutional requirements that governments meet basic needs.",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "71",
+      "claim_type": "risk",
+      "claim_text": "The direction of civilization is not fixed by AGI development alone - deliberate technological and policy choices will determine whether we achieve flourishing or disempowerment",
+      "confidence": "high",
+      "quote": "But this prophecy is not yet fulfilled; we reject the view that this path is inevitable. We see a different future on the horizon, but it will require a deliberate and concerted effort to achieve it...The direction of civilization is not fixed.",
+      "conditional": null,
+      "notes": "This is a core message of hope in the document"
+    }
+  ]
+}

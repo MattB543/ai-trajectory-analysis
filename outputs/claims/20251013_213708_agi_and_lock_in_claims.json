@@ -1,0 +1,994 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "feasibility",
+      "claim_text": "AGI will make it technologically feasible to perfectly preserve nuanced specifications of a wide variety of values or goals far into the future without losing information.",
+      "confidence": "high",
+      "quote": "AGI would make it technologically feasible to (i) perfectly preserve nuanced specifications of a wide variety of values or goals far into the future",
+      "conditional": null,
+      "notes": "Core claim of the document"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "feasibility",
+      "claim_text": "AGI-based institutions could (with high probability) competently pursue any specified values for at least millions, and plausibly trillions, of years.",
+      "confidence": "high",
+      "quote": "develop AGI-based institutions that would (with high probability) competently pursue any such values for at least millions, and plausibly trillions, of years",
+      "conditional": "IF AGI is available and sufficient investments are made",
+      "notes": "Core claim of the document"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "other",
+      "claim_text": "Some of the most important features of the future of intelligent life are currently undetermined but could become determined relatively soon (relative to trillions of years life could last).",
+      "confidence": "high",
+      "quote": "Some of the most important features of the future of intelligent life are currently undetermined but could become determined relatively soon (relative to the trillions of years life could last)",
+      "conditional": null,
+      "notes": "Meta-claim about contingency vs determination of the future"
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "capability",
+      "claim_text": "Whole-brain emulation will enable preservation of entire human minds that can be queried about their views at any level of detail.",
+      "confidence": "medium",
+      "quote": "Plausibly, whole-brain emulation (WBE) (see Sandberg & Bostrom (2007)) will be invented soon after AGI. If so, then it would be possible to preserve entire human minds, and query them about their views at any level of detail",
+      "conditional": "IF whole-brain emulation is invented",
+      "notes": null
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "capability",
+      "claim_text": "Non-WBE AGI minds can preserve nuanced value specifications by spending extensive time learning concepts and discussing edge cases with stakeholders.",
+      "confidence": "high",
+      "quote": "it would still be possible to preserve non-WBE AGI minds. If they're supposed to store some particular concept, they could spend a lot of time learning those concepts and talking with the institution's stakeholders about exactly how it should be interpreted in a wide variety of edge cases",
+      "conditional": "IF whole-brain emulation is not available",
+      "notes": null
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "feasibility",
+      "claim_text": "Using digital error correction, it would be extremely unlikely that errors would be introduced to stored values even across millions or billions of years.",
+      "confidence": "high",
+      "quote": "using digital error correction, it would be extremely unlikely that errors would be introduced even across millions or billions of years",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "feasibility",
+      "claim_text": "With redundant geographical storage, wiping out all stored values would require either a worldwide catastrophe or intentional action.",
+      "confidence": "high",
+      "quote": "Wiping them all out would require either (i) a worldwide catastrophe, or (ii) intentional action",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "feasibility",
+      "claim_text": "An adequate solution to AI alignment could be achieved given sufficient time and effort.",
+      "confidence": "medium",
+      "quote": "we suspect that an adequate solution to AI alignment could be achieved given sufficient time and effort",
+      "conditional": null,
+      "notes": "Authors acknowledge uncertainty but lean toward feasibility"
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "risk",
+      "claim_text": "If the alignment problem is not solved but capable AI systems continue to be built, this will likely lead to permanent human disempowerment rather than business-as-usual human civilization.",
+      "confidence": "high",
+      "quote": "if this particular step of the argument doesn't go through, the alternative is probably not a business-as-usual human world (without the possibility of stable institutions), but instead a future where misaligned AI systems are ruling the world",
+      "conditional": "IF alignment problem remains unsolved while AI capabilities advance",
+      "notes": null
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "feasibility",
+      "claim_text": "AGI systems could potentially be designed with goals that are cleanly separated from the rest of their cognition (e.g., as an explicit utility function), preventing learning from changing values.",
+      "confidence": "low",
+      "quote": "Perhaps it will be possible to design AGI systems with goals that are cleanly separated from the rest of their cognition (e.g. as an explicit utility function), such that learning new facts and heuristics doesn't change the systems' values",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "strategic",
+      "claim_text": "Institutions can prevent AI value drift by booting up completely-reset versions of AI systems for uncertain or high-stakes decisions, informed about the situation in multiple different ways.",
+      "confidence": "high",
+      "quote": "Whenever there's uncertainty about what to do in a novel situation, or a high-stakes decision needs to be made, the institution could boot-up a completely-reset version of an AI system (or a brain emulation) that acts according to the original values",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "strategic",
+      "claim_text": "Random value drift can be eliminated by having a large number of AI systems with slightly-different backgrounds make independent judgments and taking the majority vote.",
+      "confidence": "high",
+      "quote": "Value drift that is effectively random could be eliminated by having a large number of AI systems with slightly-different backgrounds make an independent judgment about what the right decision is, and take the majority vote",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "strategic",
+      "claim_text": "A sufficiently conservative institution could prevent AI systems from being exposed to inputs that cause systematic bad behavior or irresolvable disagreements.",
+      "confidence": "high",
+      "quote": "a sufficiently conservative institution could simply opt to prevent AI systems from being exposed to inputs like that (picking some sub-optimal but non-catastrophic resolution to any dilemmas that can't be properly considered without those inputs)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "strategic",
+      "claim_text": "An institution could prevent all reasoning that could plausibly lead to value-drift, effectively halting progress in philosophy, to maintain stability.",
+      "confidence": "high",
+      "quote": "An extreme version of this would be to prevent all reasoning that could plausibly lead to value-drift, halting progress in philosophy",
+      "conditional": null,
+      "notes": "Authors present this as a feasible but extreme option"
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "strategic",
+      "claim_text": "An institution could halt technological and societal progress entirely to avoid situations where original values can't give unambiguous judgments.",
+      "confidence": "high",
+      "quote": "A further extreme would be for the institution to also halt technological progress and societal progress in general (insofar as it had the power to do that) to avoid any situation where the original values can't give an unambiguous judgment",
+      "conditional": null,
+      "notes": "Authors present this as feasible but note it limits other capabilities"
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "feasibility",
+      "claim_text": "It is more likely than not that an institution could practically eliminate any internal sources of value drift that it wanted to eliminate.",
+      "confidence": "medium",
+      "quote": "it seems more likely than not that an institution could practically eliminate any internal sources of drift that it wanted to",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "risk",
+      "claim_text": "Natural events of civilization-threatening magnitude are rare, with main mechanisms being asteroid/comet impacts, supervolcanic eruptions, and pandemics.",
+      "confidence": "high",
+      "quote": "natural events of civilization-threatening magnitude are rare, and the main mechanism they have to pose a global threat to human civilization is that they would throw up enough dust to blot out the sun for a few years",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "capability",
+      "claim_text": "A well-prepared AI civilization could easily survive sun-blocking catastrophes by having energy sources that don't depend on the sun (such as nuclear power or stored energy).",
+      "confidence": "high",
+      "quote": "A well-prepared AI civilization could easily survive such events by having energy sources that don't depend on the sun (such as nuclear power or enough stored electrical or chemical energy to last for several years)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "strategic",
+      "claim_text": "A dominant institution with uncontested economic dominance could surveil other actors sufficiently to prevent WMD construction, competitive institutions, and unauthorized space colonization.",
+      "confidence": "high",
+      "quote": "insofar as any other actors could pose a threat, it would be economically cheap to surveil them as much as necessary to suppress that possibility. In practice, this could plausibly just involve enough surveillance to: prevent others from building weapons of mass destruction, prevent others from building a competitive institution of similar economic or military strength, and prevent others from leaving the institution's domain by colonizing uninhabited parts of space",
+      "conditional": "IF institution has uncontested economic dominance",
+      "notes": null
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "feasibility",
+      "claim_text": "Extreme stability may not require dedicated effort and could happen by default from the combination of technological maturity, human immortality, cheap alignment, and equal instrumental capability across values.",
+      "confidence": "low",
+      "quote": "Perhaps stability will only require a smaller amount of effort. Perhaps the world's values would stabilize by default given the (not very unlikely) combination of: technological maturity, human immortality (reducing drift from generational changes), the ability to cheaply and stably align AGI systems with any goal, and such AI systems being equally good at pursuing instrumental goals regardless of what terminal goals they have",
+      "conditional": "IF certain technological conditions are met",
+      "notes": "Authors note this is speculative"
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "feasibility",
+      "claim_text": "Human-level AGI is sufficient for the stability arguments; superintelligence is not necessary.",
+      "confidence": "high",
+      "quote": "Our focus is on approximately human-level intelligence, as opposed to superintelligence, since we have a better understanding of human-level intelligence, and since superintelligence doesn't seem important to the arguments",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "feasibility",
+      "claim_text": "It is especially feasible to build a civilization that is stable for millions of years on Earth, compatible with complete economic and technological stagnation.",
+      "confidence": "high",
+      "quote": "We're especially confident that it would be possible to build a civilization that was stable for millions of years on Earth, since this would be compatible with complete stagnation. If a civilization doesn't mind sacrificing things like economic growth and technological progress, then it also seems quite easy to avoid value changes",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "feasibility",
+      "claim_text": "A trillion-year stable society is more likely than not to be possible, with at least 20% subjective probability of feasibility.",
+      "confidence": "medium",
+      "quote": "we think it seems more likely than not that a trillion-year stable society is possible, and that the arguments fairly robustly point towards them being at least plausibly possible (say, that their feasibility is worth at least 20% subjective probability)",
+      "conditional": null,
+      "notes": "Excluding disruption by alien civilizations"
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "risk",
+      "claim_text": "Alien civilizations are most likely to upset otherwise locked-in scenarios, but encounters are probably billions of years away.",
+      "confidence": "medium",
+      "quote": "Out of these, alien civilizations seem most likely to upset an otherwise locked-in scenario. Except for that, we think it seems more likely than not that a trillion-year stable society is possible",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "risk",
+      "claim_text": "Locking in bad values could constitute an existential catastrophe and should be avoided.",
+      "confidence": "high",
+      "quote": "Some lock-in events could constitute existential catastrophes, e.g. locking in bad values. These are important to avoid",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "strategic",
+      "claim_text": "Some degree of stability may be necessary to permanently preclude bad values from eventually being locked-in.",
+      "confidence": "medium",
+      "quote": "some degree of stability may be necessary to permanently preclude bad values from eventually being locked-in",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "priority",
+      "claim_text": "It is plausibly good for an institution to be stable in the face of everything except endorsed sources of change, such as democratic voting or moral reflection.",
+      "confidence": "medium",
+      "quote": "it seems plausibly good for an institution to be stable in the face of everything except for a few endorsed sources of change, such as democratic voting or moral reflection",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "causal",
+      "claim_text": "If there's some fixed probability of entering a stable state every year, societies should eventually end up in one over long enough time periods.",
+      "confidence": "high",
+      "quote": "if there's some fixed probability of entering a stable state every year, then over long enough time periods, we should expect societies to eventually end up in one",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "actor_behavior",
+      "claim_text": "Some past authoritarian leaders have desired stable influence over the future.",
+      "confidence": "high",
+      "quote": "Some past authoritarian leaders seem to have desired stable influence over the future",
+      "conditional": null,
+      "notes": "Authors cite examples like Akhenaten and Nazi Germany's 'Thousand-Year Reich'"
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "causal",
+      "claim_text": "A post-AGI society could be incredibly rich, making stability a more attractive purchase for values with diminishing marginal utility to resources.",
+      "confidence": "medium",
+      "quote": "there are reasons to believe that a post-AI society could be incredibly rich (Davidson, 2021; Trammel & Korinek, 2020). This could make stability a more attractive purchase for any values that have diminishing marginal utility to resources",
+      "conditional": "IF AGI leads to economic transformation",
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "causal",
+      "claim_text": "The ability to create AI systems with arbitrary goals could provide a solution to commitment problems between actors with value disagreements.",
+      "confidence": "medium",
+      "quote": "the ability to create AI systems with arbitrary goals could provide a solution to commitment problems",
+      "conditional": null,
+      "notes": "Authors note commitment problems are one reason rational agents engage in conflict"
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "feasibility",
+      "claim_text": "An institution could gradually increase its stability over time rather than needing perfect stability from the beginning.",
+      "confidence": "high",
+      "quote": "It's also worth noting that an institution would not need to be perfectly stable from the beginning. Instead, it could gradually increase its stability over time",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "causal",
+      "claim_text": "AGI could make technological and societal change happen exceptionally quickly, with cognitive work orders of magnitude faster than humans.",
+      "confidence": "high",
+      "quote": "AGI could make technological and societal change happen exceptionally quickly: AGI could do cognitive work much faster than humans. On a pure hardware-level, transistors can send signals orders of magnitude faster than human neurons can send signals",
+      "conditional": "IF AGI is developed",
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "causal",
+      "claim_text": "If rates of power-shifts and wars were proportionally sped up by AGI, biological humans would see a lot of turmoil during a single year.",
+      "confidence": "medium",
+      "quote": "If the rate of such events were proportionally sped up, biological humans would see a lot of turmoil during a single year",
+      "conditional": "IF AGI accelerates social processes proportionally to cognition speedup",
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "causal",
+      "claim_text": "Human decision-makers might need to create significantly more stable institutions just to preserve their power and safety during their own lifetimes in a post-AGI world.",
+      "confidence": "medium",
+      "quote": "if human decision-makers wanted to preserve their power and be safe from violent conflict just during their own lifetimes, they might have to restructure things to be significantly more stable than they would be by default",
+      "conditional": "IF AGI causes rapid change",
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "feasibility",
+      "claim_text": "It is feasible to establish a world government or similarly expansive unified control, if a large enough part of the world wanted to.",
+      "confidence": "medium",
+      "quote": "For the purposes of our argument, we only need to claim that it would be feasible to establish a world government (or something similarly expansive), if a large-enough part of the world wanted to",
+      "conditional": "IF sufficient coordination exists",
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "causal",
+      "claim_text": "Foreign intervention as a source of instability would not be relevant if the world was highly unified under a world government.",
+      "confidence": "high",
+      "quote": "These effects would not be relevant if the world was highly unified, such as if a world government was formed, in the future. This seems like a real possibility",
+      "conditional": "IF world government is formed",
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "capability",
+      "claim_text": "Medical advancement precipitated by AGI could eliminate aging among humans.",
+      "confidence": "medium",
+      "quote": "Medical advancement (perhaps precipitated by AGI causing technological progress) could eliminate aging among humans",
+      "conditional": "IF AGI accelerates medical technology",
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "capability",
+      "claim_text": "AGI systems would not need to age or die, and if copied and stored redundantly, would not be vulnerable to accidents or assassinations.",
+      "confidence": "high",
+      "quote": "AGI systems themselves wouldn't need to die. They wouldn't age, and if they were copied and stored redundantly in many places, they would also not be vulnerable to accidents or assassinations",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "causal",
+      "claim_text": "Technological changes favoring new values would no longer play a role once society reaches technological maturity.",
+      "confidence": "high",
+      "quote": "Since these changes are caused by the inventions of new technologies, they would no longer play a role once society reaches technological maturity (the point at which all major technologies have been invented)",
+      "conditional": "IF technological maturity is reached",
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "causal",
+      "claim_text": "If one coalition is dominant with access to arbitrary numbers of aligned agents, no technology would give sufficient value-dependent advantage to enable a powerless faction to overpower them.",
+      "confidence": "high",
+      "quote": "if one coalition is already dominant (and has access to arbitrary numbers of aligned agents), it's implausible that any technology would give a value-dependent advantage that was large enough to enable some previously powerless faction to overpower the dominating coalition",
+      "conditional": "IF dominant coalition exists with aligned AGI",
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "causal",
+      "claim_text": "Given a solution to alignment, values would constrain AGI behavior much less than values constrain human behavior.",
+      "confidence": "medium",
+      "quote": "Given a solution to alignment, we also expect values to constrain AGI's behavior much less than values constrain human's behavior",
+      "conditional": "IF alignment is solved",
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "causal",
+      "claim_text": "If a regime's reliance on human supporters is eliminated and critical functions are automated by aligned AGI, coups by essential supporters would be eliminated.",
+      "confidence": "high",
+      "quote": "If the regime's reliance on human supporters were eliminated, and critical functions were instead automated by AGI systems aligned with the institution's goal, the first of these possibilities would be eliminated",
+      "conditional": "IF essential functions are automated by aligned AGI",
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "causal",
+      "claim_text": "Rebellion would not be plausible if there is a sufficiently large power differential between a regime and its population.",
+      "confidence": "high",
+      "quote": "The second possibility would not be plausible if there was a sufficiently large power differential between the regime and its population",
+      "conditional": "IF large power differential exists",
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "capability",
+      "claim_text": "With noisy channel theorem and error correction codes, arbitrarily small probability of error is achievable for communication/storage with just a small constant multiplicative overhead.",
+      "confidence": "high",
+      "quote": "the noisy channel theorem implies that if you're transmitting (or storing) sufficiently long messages, you can get an arbitrarily small probability of error with just a small constant multiplicative factor of additional transmission (or storage)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "capability",
+      "claim_text": "For error-correcting computation with redundancy, the number of operations scales as w log(w) compared to w for uncorrected computation, which is manageable even for huge w.",
+      "confidence": "high",
+      "quote": "the number of operations in the error-corrected version of the computation are proportional to w log(w), to be compared with w for the uncorrected version, which is manageable even for huge w",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "capability",
+      "claim_text": "Discrete computations can always simulate analog computations to arbitrary precision, so it should be possible to build digital AGI regardless of whether analog is more efficient.",
+      "confidence": "high",
+      "quote": "discrete computations can always be used to simulate analog computations to arbitrary precision, so regardless, it should be possible to build digital AGI",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "capability",
+      "claim_text": "Quantum phenomena do not play a large role in human cognition, suggesting quantum computing is not necessary for AGI.",
+      "confidence": "medium",
+      "quote": "we know of no credible reason for why AGI would necessarily need to run on quantum computers. In particular, quantum phenomena do not seem to play a large role in human cognition",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "feasibility",
+      "claim_text": "By storing information redundantly across many geographical locations, only worldwide synchronized destruction or intelligent action could destroy all copies.",
+      "confidence": "high",
+      "quote": "In order for all information to be lost, destruction would have to be synchronized across the world",
+      "conditional": "IF redundant geographical storage is implemented",
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "strategic",
+      "claim_text": "An institution with enough resources could spread all information, AI systems, and recovery resources across Earth and space, making only global catastrophes or intelligent action destructive.",
+      "confidence": "high",
+      "quote": "an institution with enough resources could have all information, all AI systems, and all resources it needs to recover spread across the Earth (and eventually, across space). Thus, the only thing that could destroy it would be either global catastrophes or intelligent action",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "capability",
+      "claim_text": "Aligned AGI would be at least as competent as exceptionally competent humans who are highly motivated to accomplish the institution's goal.",
+      "confidence": "high",
+      "quote": "They are at least as good at this as an exceptionally competent human who was highly motivated to accomplish that goal",
+      "conditional": "IF alignment is achieved",
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "capability",
+      "claim_text": "When aligned AGI acts suboptimally, actions are accidental mistakes rather than actions optimized to destabilize the institution.",
+      "confidence": "high",
+      "quote": "When they act suboptimally, their actions are accidental mistakes. In particular, this means that they never take actions that are optimized for destabilizing the institution that they are aligned with",
+      "conditional": "IF systems are aligned",
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "timeline",
+      "claim_text": "Novel AGI systems will be developed before whole-brain emulation technology.",
+      "confidence": "high",
+      "quote": "We also think that novel AGI will come earlier than brain emulations",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "feasibility",
+      "claim_text": "For enabling lock-in, only a relatively simple version of the alignment problem needs to be solved, not requiring superhuman AI alignment or competitive efficiency.",
+      "confidence": "medium",
+      "quote": "in order to enable lock-in, people would only need to solve a relatively simple version of the alignment problem. In particular: They wouldn't need to align significantly superhuman AI systems, since human-level AI seems sufficient for lock-in. The aligned AI systems wouldn't need to be competitive with unaligned AI systems",
+      "conditional": "IF dominant institution can prevent unaligned AI use",
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "feasibility",
+      "claim_text": "AI systems don't need values identical to creators' values, just similar enough, since imperfect handover to AGI may be better than many generations of imperfect human transfers.",
+      "confidence": "medium",
+      "quote": "They wouldn't necessarily need to create AI systems with values that were identical to their own, as long as they were similar enough... if some group of humans wanted to lock-in some combination of their values, handing over control to an AGI system that mostly shared their values (and that would itself never have to do an imperfect hand-over again) could be preferred",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "feasibility",
+      "claim_text": "The simpler version of the alignment problem needed for lock-in is likely solvable given enough time and investment.",
+      "confidence": "medium",
+      "quote": "We think that this simpler version of the alignment problem is likely to be solvable, given enough time and investment",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "risk",
+      "claim_text": "If alignment is not solved before AGI is widely deployed, there may not be time to solve it afterwards, likely leading to misaligned AI ruling rather than business-as-usual.",
+      "confidence": "high",
+      "quote": "if the alignment problem isn't solved before AGI is widely deployed, there may not be time to solve it afterwards... if alignment turns out to be impossible (or if it's possible but we don't solve it in time, which seems much more likely) this would probably not lead to a business-as-usual human-centric world without stable institutions. Instead, we think it's more likely that it would end with misaligned AI systems ruling the world",
+      "conditional": "IF alignment not solved before wide AGI deployment",
+      "notes": null
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "capability",
+      "claim_text": "With sufficient understanding of goal induction, AI systems could be designed to more single-mindedly optimize for intended goals than humans, who always have other desires.",
+      "confidence": "medium",
+      "quote": "With sufficient understanding of how to induce particular goals, AI systems could be designed to more single-mindedly optimize for the intended goal, whereas most humans will always have some other desires, e.g. survival, status, or sexuality",
+      "conditional": "IF sufficient understanding of goal induction is achieved",
+      "notes": null
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "capability",
+      "claim_text": "AI behavior can be thoroughly tested in numerous simulated situations, including high-stakes situations designed to elicit problematic behavior.",
+      "confidence": "high",
+      "quote": "AI behavior can be thoroughly tested in numerous simulated situations, including high-stakes situations designed to elicit problematic behavior",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "capability",
+      "claim_text": "AI systems could be designed for interpretability, allowing developers and supervisors to directly read their thoughts and understand their behavior across scenarios.",
+      "confidence": "medium",
+      "quote": "AI systems could be designed for interpretability, perhaps allowing developers and supervisors to directly read their thoughts, and to directly understand how it would behave in a wide class of scenarios",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "61",
+      "claim_type": "causal",
+      "claim_text": "If an intelligence explicitly optimizes for something extremely similar to its training goal, it's much less clear why it would ever be selected for changing its goals.",
+      "confidence": "medium",
+      "quote": "if an intelligence could be made to explicitly optimize for something extremely similar to what it's being trained to do, it's much less clear why it would ever be selected for changing its goals",
+      "conditional": "IF AI can be made to explicitly optimize for training goal",
+      "notes": null
+    },
+    {
+      "claim_id": "62",
+      "claim_type": "feasibility",
+      "claim_text": "It is hard to be confident that learning new facts and heuristics would never cause AI values to shift, if goals are not cleanly separated from other cognition.",
+      "confidence": "medium",
+      "quote": "Insofar as AI systems' goals are not cleanly separated from the rest of their cognition (just like human's values seem to be a distributed combination of many heuristics, intuitions, and patterns of thought), it is hard to be confident that such updating would not occasionally cause systems' values to shift",
+      "conditional": null,
+      "notes": "This expresses uncertainty rather than a strong claim"
+    },
+    {
+      "claim_id": "63",
+      "claim_type": "strategic",
+      "claim_text": "Institutions should use hierarchies of supervision where more reliable systems continually check that more-experienced systems aren't doing anything catastrophic.",
+      "confidence": "high",
+      "quote": "Arranging the systems into hierarchies of supervision, where more reliable systems continually check that more-experienced systems aren't doing anything catastrophic",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "64",
+      "claim_type": "strategic",
+      "claim_text": "Institutions should continuously test AI systems as they learn more to ensure they're still loyal to the institution's goal.",
+      "confidence": "high",
+      "quote": "Continuously testing systems, as they learn more, to ensure that they're still loyal to the institution's goal",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "65",
+      "claim_type": "feasibility",
+      "claim_text": "For institutions with very complex goals, centralized interpretation of goals is preferable due to resource efficiency and coordination benefits.",
+      "confidence": "medium",
+      "quote": "If an institution has a very complex goal, it (speculatively) seems like they would favor the latter of these approaches to the extent compatible with communication constraints",
+      "conditional": "IF institution has complex goals",
+      "notes": "Authors describe this as speculative"
+    },
+    {
+      "claim_id": "66",
+      "claim_type": "strategic",
+      "claim_text": "Less-informed AI systems should supervise more-informed systems to detect value drift without themselves being exposed to drift-causing information.",
+      "confidence": "high",
+      "quote": "have more-informed interpreters be supervised and tested by less-informed versions of the same systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "67",
+      "claim_type": "strategic",
+      "claim_text": "For high-stakes decisions, institutions should use many copies of original AI with different situation summaries and argument orders to reduce contingency.",
+      "confidence": "high",
+      "quote": "When making high-stakes decisions, always bring back many copies of the original AI system, and give each of them a different summary of the situation, recounting evidence and arguments in different orders",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "68",
+      "claim_type": "feasibility",
+      "claim_text": "Even if a value-system is incoherent upon philosophical reflection, it could remain stable by simply preventing philosophical progress.",
+      "confidence": "high",
+      "quote": "even if a value-system would prove to be incoherent upon philosophical reflection, it might still remain stable simply by preventing philosophical progress",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "69",
+      "claim_type": "causal",
+      "claim_text": "Purely technological progress does not seem very likely to cause value drift in AI systems.",
+      "confidence": "medium",
+      "quote": "Purely technological progress doesn't seem very likely to cause value drift",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "70",
+      "claim_type": "strategic",
+      "claim_text": "To avoid all ambiguous value judgments, institutions could halt all civilizational change including technological and societal progress.",
+      "confidence": "high",
+      "quote": "they could also halt technological progress and completely stagnate all forms of civilizational change. This would eliminate the need for interpreting the values in novel situations",
+      "conditional": null,
+      "notes": "Feasibility claim, not normative recommendation"
+    },
+    {
+      "claim_id": "71",
+      "claim_type": "strategic",
+      "claim_text": "AI systems should be thoroughly tested on expected inputs, reset to tested states often, and continuously checked through redundancy, supervision, and motivation re-testing.",
+      "confidence": "high",
+      "quote": "A basic overview of what an institution could do is to: Thoroughly test and understand how each system will behave after foreseeable inputs. Reset systems back to a thoroughly-tested state often. Continuously check that each system does its job reasonably well",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "72",
+      "claim_type": "feasibility",
+      "claim_text": "Testers can design tests where AI is genuinely unsure if being tested, since testers are at least as competent as testee and know how testee could deduce testing.",
+      "confidence": "high",
+      "quote": "Typically, the tested AI wouldn't be any more competent than the testers. Therefore, if there's any possible flaws in a test that would let the testee deduce that they were being tested, the testers would be aware of this, so that they could avoid such flaws",
+      "conditional": "IF tested AI not more competent than testers",
+      "notes": null
+    },
+    {
+      "claim_id": "73",
+      "claim_type": "strategic",
+      "claim_text": "Testing should include significantly more tests of high-stakes situations than low-stakes situations.",
+      "confidence": "high",
+      "quote": "There could be significantly more tests of high-stakes situations than low-stakes situations",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "74",
+      "claim_type": "strategic",
+      "claim_text": "Transparency tools could be used during testing to clarify why AI does what it does and to modify AI beliefs directly for testing purposes.",
+      "confidence": "medium",
+      "quote": "Transparency tools could be used during the testing-procedures above... they could clarify why an AI system does what it does in the tested cases... it could potentially be used to modify an AI system's beliefs directly",
+      "conditional": "IF transparency tools are developed",
+      "notes": null
+    },
+    {
+      "claim_id": "75",
+      "claim_type": "strategic",
+      "claim_text": "Sufficiently strong transparency tools could directly look for important beliefs, goals, or intentions in AI systems' minds.",
+      "confidence": "medium",
+      "quote": "sufficiently strong transparency tools could also directly look for important beliefs, goals, or intentions in the mind of the given AI system",
+      "conditional": "IF sufficiently strong transparency tools exist",
+      "notes": null
+    },
+    {
+      "claim_id": "76",
+      "claim_type": "strategic",
+      "claim_text": "Transparency tools could detect goal changes during supervision without supervisors being exposed to the drift-causing information.",
+      "confidence": "medium",
+      "quote": "transparency tools could be used during supervision as a way to detect big changes of goals without the supervisor being exposed to the reasons that the goals changed",
+      "conditional": "IF transparency tools exist",
+      "notes": null
+    },
+    {
+      "claim_id": "77",
+      "claim_type": "causal",
+      "claim_text": "Better AI capabilities will directly contribute to automating the process of interpretability research and analysis.",
+      "confidence": "high",
+      "quote": "we should expect better AI capabilities to directly contribute to automating the process of interpretability",
+      "conditional": "IF AI capabilities advance",
+      "notes": null
+    },
+    {
+      "claim_id": "78",
+      "claim_type": "feasibility",
+      "claim_text": "By the time AGI exists, achieving human-level understanding of neural network components may be possible by using many AGI copies to analyze them.",
+      "confidence": "medium",
+      "quote": "By the time we have AGI, achieving a human-level understanding of how each component of a large neural network works might be possible by using many copies of such AGIs to analyze them",
+      "conditional": "IF AGI is developed",
+      "notes": null
+    },
+    {
+      "claim_id": "79",
+      "claim_type": "feasibility",
+      "claim_text": "Institutions that develop systems for interpretability and pay large analysis costs could more likely than not eventually develop AGI with high transparency.",
+      "confidence": "medium",
+      "quote": "if we consider an institution that could develop and select their systems partly for being interpretable, and who were willing to pay large costs to analyze individual systems, it seems more likely than not that they could eventually develop AGI where a high degree of transparency was possible",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "80",
+      "claim_type": "risk",
+      "claim_text": "Existential risk from natural disasters (extinction or civilizational collapse without recovery) is around 1/10,000 this century.",
+      "confidence": "medium",
+      "quote": "The existential risk from natural disasters (which includes both human extinction and civilizational collapse without recovery) has been estimated to be around 1/10,000 this century (Ord, 2020)",
+      "conditional": null,
+      "notes": "Authors cite external estimate"
+    },
+    {
+      "claim_id": "81",
+      "claim_type": "risk",
+      "claim_text": "Biological pandemics are not a threat to AI civilizations because AI operates on non-biological hardware and doesn't need to rely on humans.",
+      "confidence": "high",
+      "quote": "Biological pandemics are not a threat; primarily because AI would not operate on biological hardware (and an AI civilization would not need to rely on humans for anything)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "82",
+      "claim_type": "strategic",
+      "claim_text": "Intentionally designed computer viruses could be prevented by preventing anyone from constructing them.",
+      "confidence": "high",
+      "quote": "Intentionally designed computer viruses would be an analog to engineered pandemics, but they could be prevented by preventing anyone from constructing them",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "83",
+      "claim_type": "feasibility",
+      "claim_text": "Using digital error correction, the probability of low-level copying errors that enable virus-like evolution could be driven to effectively zero.",
+      "confidence": "high",
+      "quote": "via the use of digital error correction, the probability of such low-level errors could be driven to effectively 0",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "84",
+      "claim_type": "capability",
+      "claim_text": "The largest asteroid to hit Earth in 100 million years mainly had global impact via the atmosphere, and much larger asteroids are significantly rarer.",
+      "confidence": "high",
+      "quote": "the largest asteroid to hit the Earth in the last 100 million years (the asteroid that killed the dinosaurs) mainly had global impact via the atmosphere, and asteroids much larger than that one are significantly rarer",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "85",
+      "claim_type": "capability",
+      "claim_text": "Future technologies would probably enable very effective asteroid detection and deflection.",
+      "confidence": "medium",
+      "quote": "future technologies would probably enable very effective asteroid detection and deflection",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "86",
+      "claim_type": "capability",
+      "claim_text": "AI civilizations should be much more robust than humans to natural disasters, implying a lifespan of at least millions of years.",
+      "confidence": "high",
+      "quote": "This should make AI civilizations much more robust than humans are today, implying a lifespan of at least millions of years",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "87",
+      "claim_type": "capability",
+      "claim_text": "Millions of years would be more than enough time to spread to other solar systems.",
+      "confidence": "high",
+      "quote": "millions of years would be more than enough to spread to other solar systems (Beckstead, 2014; Armstrong & Sandberg, 2014)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "88",
+      "claim_type": "feasibility",
+      "claim_text": "Space colonization across vast distances is consistent with lock-in, solvable with enough error correction and pre-specified algorithms.",
+      "confidence": "high",
+      "quote": "it seems like this would be perfectly consistent with lock-in. The distances and amounts of time are large, but that's solvable with enough error correction... there could be pre-specified (perfectly preserved) algorithms that determine how to settle any such differences",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "89",
+      "claim_type": "feasibility",
+      "claim_text": "A dominant institution would not be overthrown by non-aligned actors, since aligned AGI can perform all essential tasks and enable comprehensive surveillance.",
+      "confidence": "high",
+      "quote": "This section calls such an institution a 'dominant institution', and argues that it would not be overthrown by any non-aligned actors... For any task that the institution needs done, they can use one of their stably-aligned AI systems for it",
+      "conditional": "IF institution has uncontested dominance and aligned AGI",
+      "notes": null
+    },
+    {
+      "claim_id": "90",
+      "claim_type": "capability",
+      "claim_text": "AGI would be at least human-level at providing necessary services, which is sufficient to provide any material support at scale.",
+      "confidence": "high",
+      "quote": "By assumption, the AGIs would be at least human-level at carrying out these tasks, which seems good enough to provide any necessary service. Today, humans are certainly capable of providing large quantities of material support in a scalable fashion",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "91",
+      "claim_type": "feasibility",
+      "claim_text": "There is no fundamental barrier to administration scaling from a nation like China (1/5 world population) to a world government.",
+      "confidence": "high",
+      "quote": "today, this is not an insurmountable problem for nations as large as China (close to 1/5th of the world's population), and there seems to be no fundamental barrier to extending this to something as large as a world government",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "92",
+      "claim_type": "causal",
+      "claim_text": "By relying on stably-aligned agents for essential services, non-aligned population members could not significantly harm the institution by inaction.",
+      "confidence": "high",
+      "quote": "By relying on stably-aligned agents for essential services, non-aligned members of the population could not significantly harm the dominant institution by inaction",
+      "conditional": "IF institution relies on aligned agents for essential services",
+      "notes": null
+    },
+    {
+      "claim_id": "93",
+      "claim_type": "feasibility",
+      "claim_text": "If goals don't rely on humans, uncontested military dominance could in principle allow replacing the entire population with stably-aligned agents.",
+      "confidence": "high",
+      "quote": "insofar as the institution's goals didn't at all rely on humans (or other non-aligned agents), their uncontested military dominance could in-principle allow them to replace the entire population with stably-aligned agents",
+      "conditional": "IF institution's goals don't rely on humans",
+      "notes": "Authors note this is extreme and unnecessary"
+    },
+    {
+      "claim_id": "94",
+      "claim_type": "capability",
+      "claim_text": "One aligned AGI constantly surveilling each human would be at least as effective as one loyal human constantly watching each person.",
+      "confidence": "high",
+      "quote": "this would (by assumption) be at least as effective as having each human be constantly watched by another human, the latter of which was loyal to the dominant institution",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "95",
+      "claim_type": "strategic",
+      "claim_text": "A dominant institution might need to stay on the cutting-edge of AI technology or prohibit superior AI forms to effectively surveil more capable unaligned AI.",
+      "confidence": "medium",
+      "quote": "Thus, the dominant institution might have to be on the cutting-edge of AI technology (possibly by prohibiting all superior forms of AI)",
+      "conditional": "IF some AI systems are more capable than aligned systems",
+      "notes": null
+    },
+    {
+      "claim_id": "96",
+      "claim_type": "feasibility",
+      "claim_text": "With each action surveilled or carried out by aligned AI, it would be extremely difficult for anyone to significantly harm the dominant institution.",
+      "confidence": "high",
+      "quote": "With each action in a society either being surveilled by or being carried out by a stably-aligned AI system, it would be extremely difficult for anyone to significantly harm the dominant institution",
+      "conditional": "IF comprehensive surveillance/aligned agents exist",
+      "notes": null
+    },
+    {
+      "claim_id": "97",
+      "claim_type": "other",
+      "claim_text": "Currently, renting hardware for approximately human brain-level computation (1e15-1e16 FLOP/s) costs around $10/hour.",
+      "confidence": "high",
+      "quote": "Currently, it costs ~$10/h to rent 8 A100 GPUs (Amazon, 2022), collectively capable of 1e15-1e16 FLOP/s (Nvidia, 2022). This is probably similar to or greater than the FLOP/s used by a human brain (Carlsmith, 2020)",
+      "conditional": null,
+      "notes": "Empirical observation about current technology"
+    },
+    {
+      "claim_id": "98",
+      "claim_type": "other",
+      "claim_text": "The price of computation has historically fallen by 6-300x per decade.",
+      "confidence": "high",
+      "quote": "Technological progress has historically led the price of computation to fall by ~6-300x per decade (AI Impacts, 2015, 2017)",
+      "conditional": null,
+      "notes": "Historical trend observation"
+    },
+    {
+      "claim_id": "99",
+      "claim_type": "causal",
+      "claim_text": "AGI could both accelerate technological progress (reducing computation costs further) and massively increase wealth, making surveillance expenses more affordable.",
+      "confidence": "medium",
+      "quote": "AGI could both accelerate technological progress by a lot (leading the price of computation to fall even further) and massively increase wealth, making expenses more affordable (Davidson, 2021; Trammel, 2020)",
+      "conditional": "IF AGI is developed",
+      "notes": null
+    },
+    {
+      "claim_id": "100",
+      "claim_type": "actor_behavior",
+      "claim_text": "The default future is one where there are far more AI systems than humans.",
+      "confidence": "high",
+      "quote": "Given all of this, it seems like the default future is one where there are far more AI systems than humans",
+      "conditional": "IF AGI is developed and becomes economically viable",
+      "notes": null
+    },
+    {
+      "claim_id": "101",
+      "claim_type": "feasibility",
+      "claim_text": "Even individual constant human-level surveillance would only take a small fraction of total productive capacity in a future with abundant AI.",
+      "confidence": "high",
+      "quote": "even in the scenario where a dominant institution opted for individual, constant, human-level surveillance, such surveillance would only take up a small fraction of total productive capacity",
+      "conditional": "IF AI becomes abundant and cheap",
+      "notes": null
+    },
+    {
+      "claim_id": "102",
+      "claim_type": "feasibility",
+      "claim_text": "A dominant institution needs to control three main things: military capabilities, ability to escape institutional reach, and possibly idea spread.",
+      "confidence": "medium",
+      "quote": "There seems to be 3 things that a dominant institution would need to control: (i) access to (offensive or defensive) military capabilities, (ii) the ability to escape the reach of the dominant institution, and (iii) possibly the ability to spread some ideas",
+      "conditional": null,
+      "notes": "Authors suggest less comprehensive control may suffice"
+    },
+    {
+      "claim_id": "103",
+      "claim_type": "feasibility",
+      "claim_text": "Since a dominant institution could make itself militarily dominant with very large margin, defensive approaches against it would be very difficult and easy to detect.",
+      "confidence": "high",
+      "quote": "Since the dominant institution could make itself militarily dominant with a very large margin, the defensive approach could be very difficult, and likely easy-to-detect even without any significant degree of surveillance",
+      "conditional": "IF institution has access to aligned AGI at scale",
+      "notes": null
+    },
+    {
+      "claim_id": "104",
+      "claim_type": "feasibility",
+      "claim_text": "With redundant copies of everything spread worldwide, destructive approach to threatening institution would require truly worldwide destruction.",
+      "confidence": "high",
+      "quote": "since a dominant institution could make many redundant copies of everything important, and spread it across the world, the destructive approach would require truly worldwide destruction",
+      "conditional": "IF institution implements redundancy",
+      "notes": null
+    },
+    {
+      "claim_id": "105",
+      "claim_type": "other",
+      "claim_text": "The main uncertainty about a dominant institution's robustness is whether cybersecurity hacks could cause worldwide problems with sufficiently centralized power.",
+      "confidence": "medium",
+      "quote": "Our main uncertainty here is about cybersecurity. Perhaps there are hacks which could cause worldwide problems in a world with sufficiently centralized power, that wouldn't cause problems for a more decentralized world",
+      "conditional": null,
+      "notes": "Authors expressing their own uncertainty"
+    },
+    {
+      "claim_id": "106",
+      "claim_type": "feasibility",
+      "claim_text": "If essential supporters are truly stably aligned, there would be little reason for a dominant institution to limit idea spread among the population.",
+      "confidence": "high",
+      "quote": "if a dominant institution's essential supporters were truly stably aligned, then there would be little or no reason that a dominant institution would have to do this, since the remaining population couldn't threaten it",
+      "conditional": "IF stably aligned AGI exists",
+      "notes": null
+    },
+    {
+      "claim_id": "107",
+      "claim_type": "risk",
+      "claim_text": "Alien civilizations could have similar or greater economic and military power when first encountered, unlike Earth-based non-aligned actors.",
+      "confidence": "medium",
+      "quote": "Compared with Earth-originating civilizations, alien civilizations might have similar or greater economic and military power when we first encounter them",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "108",
+      "claim_type": "timeline",
+      "claim_text": "According to best available models, the time until first alien civilization contact is probably measured in billions of years.",
+      "confidence": "medium",
+      "quote": "According to the best models that we know of, the time until we first see another civilization is probably measured in billions of years, even given quite alien-friendly assumptions (Cook, 2022)",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "109",
+      "claim_type": "risk",
+      "claim_text": "Alien civilizations are unlikely to prevent stability over the next few million years given their probable late arrival.",
+      "confidence": "medium",
+      "quote": "So it seems unlikely that this would prevent stability over the next few million years",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "110",
+      "claim_type": "other",
+      "claim_text": "After the Era of Isolation (about 150 billion years from now), any galaxy cluster dominated by a single institution would never encounter outside interference again.",
+      "confidence": "medium",
+      "quote": "about 150 billion years into the future, an Era of Isolation has been predicted (Ord, 2021). In this era, space would have expanded so much that it would be impossible to travel to any but a few dozen of the most nearby galaxies. If at the beginning of this era, any such galaxy cluster is dominated by a single institution, it would never encounter outside interference again",
+      "conditional": "IF cosmological predictions are correct",
+      "notes": null
+    }
+  ]
+}

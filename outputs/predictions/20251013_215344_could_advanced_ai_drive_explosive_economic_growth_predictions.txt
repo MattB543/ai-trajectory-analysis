@@ -1,0 +1,172 @@
+# Extracted Predictions from "Could Advanced AI Drive Explosive Economic Growth?"
+
+```json
+{
+  "predictions": [
+    {
+      "pred_id": "pred_1",
+      "prediction_text": "Explosive economic growth (>30% annual GWP growth) will occur by 2100",
+      "timeframe": "by 2100",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "GWP growth exceeds 30% annually for a sustained period (>10 years) before 2100, measured by standard international economic statistics",
+      "conditional": null,
+      "quote": "Overall, I assign > 10% probability to explosive growth occurring this century... I'm currently at around ~30% [probability of explosive growth by 2100]"
+    },
+    {
+      "pred_id": "pred_2",
+      "prediction_text": "AI capable of replacing human workers in any task (virtual worker) will be developed by 2080",
+      "timeframe": "by 2080",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "AI systems can perform any cognitive task that a top quality human worker could do working remotely, at comparable or lower cost",
+      "conditional": null,
+      "quote": "I'm currently at around ~45% that we will develop a virtual worker by 2080"
+    },
+    {
+      "pred_id": "pred_3",
+      "prediction_text": "Frontier GDP per capita growth will be sub-exponential (slowing below current rates)",
+      "timeframe": "21st century (through 2100)",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Frontier GDP per capita growth rate declines relative to 20th century average of ~2%, measured over multi-decade periods",
+      "conditional": "IF population growth slows as projected by UN AND no transformative AI developed",
+      "quote": "Semi-endogenous growth models imply that GDP/capita growth will slow... I assign ~40% to sub-exponential growth (g < 1.5%)"
+    },
+    {
+      "pred_id": "pred_4",
+      "prediction_text": "Average annual GWP per capita growth will remain below 5% through 2100",
+      "timeframe": "through 2100",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "Average annual GWP per capita growth from present to 2100 measures less than 5%",
+      "conditional": null,
+      "quote": "All experts thought it 90% likely that the average annual GDP/capita growth out to 2100 would be below 5%"
+    },
+    {
+      "pred_id": "pred_5",
+      "prediction_text": "Explosive growth will occur if AI systems are developed that can fully substitute for human labor",
+      "timeframe": "within decades of AI development",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "GWP growth exceeds 30% annually following development of AI that can perform all human work tasks",
+      "conditional": "IF AI systems developed that can substitute for human labor in all tasks AND no unanticipated bottlenecks",
+      "quote": "would AI robots drive explosive growth, absent any unintended bottlenecks? ...I put ~80% on AI robots driving explosive growth, absent unanticipated bottlenecks... my pr(explosive growth | AI robots this century) = 0.8 × 0.75 = ~60%"
+    },
+    {
+      "pred_id": "pred_6",
+      "prediction_text": "World population growth will slow significantly, with growth rate declining from current levels",
+      "timeframe": "by 2100",
+      "prediction_type": "economic",
+      "confidence": "high",
+      "measurability": "clear",
+      "verification_criteria": "UN population projections show declining growth rates; population growth rate in 2100 is substantially lower than 2020 levels",
+      "conditional": null,
+      "quote": "The UN projects that population growth will slow significantly over the 21st century... population growth is expected to slow; semi-endogenous growth models imply that GDP/capita growth will slow as a result"
+    },
+    {
+      "pred_id": "pred_7",
+      "prediction_text": "Number of researchers must grow exponentially to sustain constant GDP per capita growth rates",
+      "timeframe": "ongoing through 21st century",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "If number of researchers stops growing exponentially, GDP per capita growth rate declines measurably",
+      "conditional": "IF semi-endogenous growth theory is correct",
+      "quote": "exponential growth in the number of researchers has been accompanied by merely constant GDP/capita growth over the last 80 years... As population growth slows over the century, number of researchers will likely grow more slowly; semi-endogenous growth models predict that GDP/capita growth will slow as a result"
+    },
+    {
+      "pred_id": "pred_8",
+      "prediction_text": "Capital's share of GDP will increase substantially if AI enables capital to substitute effectively for labor",
+      "timeframe": "within decades of advanced AI development",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Capital share of GDP rises above 0.75 (from current ~0.4) as measured by national accounts",
+      "conditional": "IF AI enables capital to substitute for labor with elasticity of substitution >1",
+      "quote": "It would be satisfied, however, if the capital share rose above 0.75 in both goods and knowledge production... At current trends, this is unlikely to happen in the next couple of decades, but could happen by the end of the century"
+    },
+    {
+      "pred_id": "pred_9",
+      "prediction_text": "Roodman's model predicts explosive growth (>30% annual) will begin by 2043",
+      "timeframe": "median: 2043, 80% CI: [2034, 2065]",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "First year of sustained >30% annual GWP growth occurs",
+      "conditional": null,
+      "quote": "Its median prediction is 2043 and the 80% confidence range is [2034, 2065]... the model assigns 50% probability to explosive growth by 2044, 10% by 2033, and 90% by 2063"
+    },
+    {
+      "pred_id": "pred_10",
+      "prediction_text": "Growth multiplier model predicts explosive growth will begin by 2093 (median)",
+      "timeframe": "median: 2093, 10th percentile: 2036, 90th percentile: never",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "clear",
+      "verification_criteria": "First year of sustained >30% annual GWP growth occurs, or does not occur by 2100+",
+      "conditional": null,
+      "quote": "With my preferred parameters, the model assigns a 50% chance of explosive growth by 2093... There is still a 10% chance of explosive growth by 2036, but also a 15% chance that explosion never happens"
+    },
+    {
+      "pred_id": "pred_11",
+      "prediction_text": "Expert forecasts predict average GWP per capita growth of 2.1% annually through 2100",
+      "timeframe": "through 2100",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "clear",
+      "verification_criteria": "Average annual GWP per capita growth from 2020 to 2100 is approximately 2.1% ± 1.1%",
+      "conditional": null,
+      "quote": "Experts' mean estimate of annual GWP/capita growth was 2.1%, with standard deviation 1.1%"
+    },
+    {
+      "pred_id": "pred_12",
+      "prediction_text": "Signs of impending explosive growth would appear in macroeconomic variables before explosive growth occurs",
+      "timeframe": "20+ years before explosive growth",
+      "prediction_type": "economic",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Macroeconomic indicators (TFP, capital share, real wages) show patterns consistent with approaching explosive growth regime",
+      "conditional": "IF explosive growth will occur",
+      "quote": "The absence of these signs in macroeconomic data is reason to doubt explosive growth will occur within the next couple of decades. Beyond this time frame, it is hard to draw conclusions"
+    },
+    {
+      "pred_id": "pred_13",
+      "prediction_text": "AI progress measured by compute requirements will make transformative AI achievable with 70% probability by 2080",
+      "timeframe": "by 2080",
+      "prediction_type": "capability",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Computing power needed to develop transformative AI becomes economically affordable and TAI is developed",
+      "conditional": null,
+      "quote": "my colleague Ajeya Cotra's draft report estimates when we'll develop human-level AI; she finds we're ~70% likely to do so by 2080 [mid estimate]"
+    },
+    {
+      "pred_id": "pred_14",
+      "prediction_text": "Automation will accelerate sufficiently to increase GDP growth rates above historical trends",
+      "timeframe": "21st century",
+      "prediction_type": "economic",
+      "confidence": "low",
+      "measurability": "moderate",
+      "verification_criteria": "Rate of task automation increases measurably above 20th century trends, corresponding with increased GDP growth rates",
+      "conditional": "IF AI drives widespread automation",
+      "quote": "explosive growth would require AI that substantially accelerates the automation of a very wide range of tasks in the production of goods and services, R&D, and the implementation of new technologies"
+    },
+    {
+      "pred_id": "pred_15",
+      "prediction_text": "Diminishing returns to R&D will not prevent explosive growth if AI enables full automation",
+      "timeframe": "21st century",
+      "prediction_type": "technical_bottleneck",
+      "confidence": "medium",
+      "measurability": "moderate",
+      "verification_criteria": "Despite continued diminishing returns to R&D (as measured by ideas per researcher), growth accelerates to >30% if AI enables automation",
+      "conditional": "IF AI systems can replace human workers in R&D",
+      "quote": "The models I have been discussing take this dynamic into account. They find that, with realistic parameter values, increasing returns to accumulable inputs is powerful enough to overcome diminishing returns to technological progress if AI systems can replace human workers"
+    }
+  ]
+}

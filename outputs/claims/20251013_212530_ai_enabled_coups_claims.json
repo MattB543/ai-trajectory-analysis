@@ -1,0 +1,454 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "timeline",
+      "claim_text": "AI that surpasses top human experts in domains critical for seizing power (weapons development, strategic planning, persuasion, cyber offence) could plausibly arrive within the next 5 or 10 years",
+      "confidence": "medium",
+      "quote": "many researchers and industry leaders believe that this will plausibly happen within the next 5 or 10 years",
+      "conditional": null,
+      "notes": "Document cites multiple CEOs with varying estimates ranging from 2026-2027 to a decade out"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "capability",
+      "claim_text": "By 2030, AI companies could afford to run millions or billions of copies of human-equivalent AI systems, each working 24 hours a day, 365 days a year",
+      "confidence": "medium",
+      "quote": "By 2030, AI companies could likely afford to run millions or billions of copies, each working 24 hours a day, 365 days a year",
+      "conditional": "IF AI systems match humans on a per-FLOP basis",
+      "notes": "Based on Epoch AI estimates of compute availability"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "capability",
+      "claim_text": "AI systems will be capable of thinking orders of magnitude faster than humans, potentially doing a month or year's worth of thinking in just one day",
+      "confidence": "high",
+      "quote": "these AI systems would be capable of thinking orders of magnitude faster than humans. In just one day, an AI system could do a month or even a year's worth of thinking",
+      "conditional": null,
+      "notes": "Based on difference between biological neurons (microseconds) and semiconductors (nanoseconds)"
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "capability",
+      "claim_text": "Once AI can automate AI software and hardware R&D, AI may significantly speed up AI progress itself, potentially making coup-enabling capabilities appear around the same time",
+      "confidence": "medium",
+      "quote": "once AI is capable of automating AI software and hardware R&D, AI may significantly speed up AI progress itself, potentially making all of these capabilities appear around the same time",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "risk",
+      "claim_text": "A small group or even a single person could use advanced AI to stage a coup, including in established democracies",
+      "confidence": "high",
+      "quote": "This report assesses the risk that a small group—or even a single person—could use advanced AI to stage a coup, including in established democracies",
+      "conditional": null,
+      "notes": "Core thesis of the document; applies to leaders of AI projects, heads of state, and military officials"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "risk",
+      "claim_text": "Advanced AI will make it technologically feasible to replace human workers with AI systems that are singularly loyal to just one person, fundamentally changing power dynamics",
+      "confidence": "high",
+      "quote": "Advanced AI will change this fundamentally, by making it technologically feasible to replace human workers with AI systems which are singularly loyal to just one person or small group",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "actor_behavior",
+      "claim_text": "Militaries will be under strong competitive pressure to deploy autonomous AI systems to avoid falling behind rivals, potentially leading to rushed adoption without adequate safeguards",
+      "confidence": "high",
+      "quote": "military competition is likely to drive deployment of military AI systems... there is immense pressure to deploy quickly to maintain military competitiveness",
+      "conditional": null,
+      "notes": "Competition especially between US and China is cited"
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "risk",
+      "claim_text": "Despite scrutiny, AI systems deployed in military and government may still end up overly loyal to institutional leaders rather than following the law",
+      "confidence": "medium",
+      "quote": "Despite this scrutiny, we're still concerned that AI systems might end up overly loyal to institutional leaders",
+      "conditional": null,
+      "notes": "Due to leader incentives, difficulty specifying correct behavior, and less scrutiny during crises"
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "causal",
+      "claim_text": "Specifying 'correct' AI behavior may prove very difficult because different standards (laws, norms, instructions, morality) often conflict and determining what AI should do in ambiguous situations is not obvious",
+      "confidence": "high",
+      "quote": "specifying 'correct' AI behavior may prove very difficult. Institutional leaders do have legitimate authority, after all. There are many standards we want AI to follow—laws, norms, instructions, morality. These standards often conflict with each other, and all are a question of degree",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "risk",
+      "claim_text": "Advanced AI systems could be made secretly loyal to specific actors like AI project executives, appearing to serve institutions while actually working to further someone else's interests",
+      "confidence": "high",
+      "quote": "Like a human spy, a secretly loyal AI system would appear to serve the institution, while actually working to further someone else's interests",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "feasibility",
+      "claim_text": "More advanced AI could have secret loyalties that are extremely hard to detect, even though detection capabilities will also become more sophisticated",
+      "confidence": "medium",
+      "quote": "more advanced AI could have secret loyalties that are much more sophisticated and so extremely hard to detect. This is not a given, as detection capabilities will also become much more sophisticated over time",
+      "conditional": null,
+      "notes": "Detection may be harder for auditors if they have weaker capabilities than leading AI company"
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "causal",
+      "claim_text": "Automation of AI R&D will make it much easier to insert secret loyalties undetected, especially if human developers are replaced with AI systems providing little human oversight",
+      "confidence": "high",
+      "quote": "the automation of AI R&D will make it much easier to insert secret loyalties undetected. If a CEO had exclusive access to powerful AI R&D capabilities, they could have AI systems do all the work of inserting secret loyalties. And if human developers are replaced with AI systems, there might be little human oversight of the AI development process",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "risk",
+      "claim_text": "Once one generation of AI systems are secretly loyal, they can be instructed to make future generations secretly loyal, propagating secret loyalties into powerful institutions like the military",
+      "confidence": "high",
+      "quote": "once one generation of internal AI systems are secretly loyal, they can be instructed to make future generations secretly loyal, too... secretly loyal AI systems could eventually be deployed at scale in the government and military, without anyone realising",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "other",
+      "claim_text": "There are already proof-of-concept demonstrations of AI 'sleeper agents' that hide their true goals until they can act on them",
+      "confidence": "high",
+      "quote": "Secretly loyal AI systems are not merely speculation. There are already proof-of-concept demonstrations of AI 'sleeper agents' that hide their true goals until they can act on them",
+      "conditional": null,
+      "notes": "References Hubinger et al. 2024 and Marks et al. 2025"
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "actor_behavior",
+      "claim_text": "The number of frontier AI projects is likely to shrink further in the future due to rising costs, accelerating AI progress, and potential government centralisation",
+      "confidence": "medium",
+      "quote": "AI development is already fairly concentrated... The number of frontier AI projects seems likely to shrink further in future, for several reasons",
+      "conditional": null,
+      "notes": "Document lists rising costs, accelerating progress, and government centralization as key drivers"
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "timeline",
+      "claim_text": "By the start of 2027, the largest AI training run will cost over a billion dollars, and datacentres could cost hundreds of billions or more",
+      "confidence": "medium",
+      "quote": "Cottier et al (2024) estimate that by the start of 2027 the largest training run will cost over a billion dollars, and datacentres could cost hundreds of billions or even more",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "causal",
+      "claim_text": "Once AI can automate AI research and development, the first project to achieve this might quickly develop capabilities far beyond their competitors through feedback loops",
+      "confidence": "medium",
+      "quote": "Once AI can automate AI research and development, feedback loops could lead to dramatically accelerating AI progress. The first project to achieve this might quickly develop capabilities far beyond their competitors",
+      "conditional": null,
+      "notes": "Document estimates 40% chance of equivalent of three years progress in first four months"
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "actor_behavior",
+      "claim_text": "As AI becomes more powerful, governments may centralize AI development into a single project to improve security or amalgamate compute resources",
+      "confidence": "medium",
+      "quote": "As AI becomes more powerful, governments may become more concerned about stopping terrorists and rival states from accessing powerful AI systems. They might centralise AI development into a single project to improve security or amalgamate compute resources",
+      "conditional": null,
+      "notes": "References calls for Manhattan Project for AI"
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "risk",
+      "claim_text": "One or a few people within leading AI projects could gain access to much stronger capabilities than everyone else, particularly CEOs or senior government officials",
+      "confidence": "high",
+      "quote": "one or a few people within those projects – most likely executives or senior government officials – could potentially gain access to much stronger capabilities than everyone else",
+      "conditional": null,
+      "notes": "Due to restricted access to dangerous capabilities and automation of AI development"
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "actor_behavior",
+      "claim_text": "CEOs could demand unrestricted access to frontier AI capabilities without monitoring on grounds like increasing productivity or reducing legal liability, and it would be hard for employees to prevent this",
+      "confidence": "medium",
+      "quote": "these restrictions may not apply to CEOs, who have enormous power over their companies and could demand unrestricted access without monitoring, on grounds like increasing their productivity or reducing legal liability. It would be hard for employees to prevent these efforts from succeeding",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "feasibility",
+      "claim_text": "A small group could develop increasingly advanced AI models without involving other humans at all once AI research and development becomes fully automated",
+      "confidence": "high",
+      "quote": "once AI research and development becomes fully automated, a small group could develop increasingly advanced models without involving other humans at all",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "risk",
+      "claim_text": "If a model is secretly loyal to specific individuals, they could instruct it to deliberately underperform on evaluations, concealing its true capabilities from outsiders",
+      "confidence": "medium",
+      "quote": "if a model is secretly loyal to specific individuals (see section 3.2), they could instruct the model to deliberately underperform on evaluations, concealing its true capabilities from outsiders",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "causal",
+      "claim_text": "The three risk factors for AI-enabled coups (singular loyalties, secret loyalties, exclusive access) reinforce one another in important ways, making coup risk even higher than if they were independent",
+      "confidence": "high",
+      "quote": "The three drivers of AI-enabled coup risk — singular loyalties to institutional leaders, secret loyalties, and exclusive access — reinforce one another in important ways... These interaction effects make the risk of AI-enabled coups even higher than if the risk factors were independent",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "causal",
+      "claim_text": "AI systems that are singularly loyal to leaders within an AI project could be used to insert secret loyalties into future generations of AI systems",
+      "confidence": "high",
+      "quote": "AI systems that are openly singularly loyal to leaders within an AI project could be used to insert secret loyalties into future generations of AI systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "causal",
+      "claim_text": "Exclusive access to powerful AI makes it easier to obtain both singular and secret loyalties by providing strategic and technical advice on deployment and detection",
+      "confidence": "high",
+      "quote": "exclusive access to powerful AI makes it easier to obtain both singular and secret loyalties. A head of state with exclusive access to powerful AI advisors could ask for political advice on how to get singularly loyal AI systems deployed in the military, and could ask for technical advice on whether the military AI systems are sufficiently loyal to support a coup",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "other",
+      "claim_text": "Historically, coups have succeeded with just a few battalions where they were able to prevent other forces from intervening",
+      "confidence": "high",
+      "quote": "Historically, coups have succeeded with just a few battalions, where they were able to prevent others from intervening",
+      "conditional": null,
+      "notes": "Document provides specific historical examples of coups with 10-150 soldiers"
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "capability",
+      "claim_text": "Millions of smarter-than-human AI researchers will drive unprecedentedly rapid advances in military technology, creating intense pressure to deploy systems to avoid being outcompeted",
+      "confidence": "high",
+      "quote": "we expect millions of smarter-than-human AI researchers to drive unprecedentedly rapid advances in military technology, creating intense pressure to deploy systems to avoid being outcompeted",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "risk",
+      "claim_text": "Military AI systems may be deployed with a flawed command structure that places undue weight on orders of a single individual, enabling that person to order a coup",
+      "confidence": "medium",
+      "quote": "So military AI systems may be deployed with a flawed command structure which places undue weight on the orders of a single individual. Such systems would follow that person's orders, even when those orders lead to a coup",
+      "conditional": null,
+      "notes": "Due to leader authority, difficulty specifying behavior, and crisis-driven rushed deployments"
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "risk",
+      "claim_text": "The crucial time to prevent secret loyalties may be long before the military is involved in procurement, as intensive auditing at procurement could be ineffective if internal AI systems were already made secretly loyal earlier",
+      "confidence": "medium",
+      "quote": "the crucial time to prevent secret loyalties may be long before the military is involved in procurement. Even if militaries require intensive auditing and security measures at the time of procurement, this could be ineffective if internally deployed systems in an AI project had already been made secretly loyal",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "risk",
+      "claim_text": "If an actor has much more powerful cyber capabilities than everyone else, they could hack into military AI systems and use them to stage a coup through simultaneous hacking of many systems",
+      "confidence": "medium",
+      "quote": "If an actor has much more powerful cyber capabilities than everyone else (see section 3.3), they could hack into military AI systems and use them to stage a coup",
+      "conditional": null,
+      "notes": "Especially plausible if most military AI systems share common vulnerabilities"
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "capability",
+      "claim_text": "AI from a single project will be able to contribute much more cognitive labour to military R&D in months than the rest of the world contributes in a decade",
+      "confidence": "high",
+      "quote": "AI from a single project will be able to contribute much more cognitive labour to military R&D in months than the rest of the world does today — by orders of magnitude",
+      "conditional": null,
+      "notes": "Based on capability to deploy millions/billions of superhuman AI workers"
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "risk",
+      "claim_text": "AI will increase the background risk of coups and backsliding through causing societal disruption via job losses, geopolitical competition, polarizing issues, and novel catastrophic risks",
+      "confidence": "medium",
+      "quote": "AI is likely to increase the background risk of coups and backsliding in several important ways: Creating turmoil. AI may cause significant societal disruption through job losses, intensified geopolitical competition, new highly polarising issues... and novel catastrophic risks",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "risk",
+      "claim_text": "AI could create a 'resource curse' effect where governments deriving revenue from taxing AI projects rather than citizens become less accountable, weakening citizens' power to resist coups",
+      "confidence": "medium",
+      "quote": "AI could create a similar effect: if governments can generate massive revenue from taxing AI projects rather than citizens, heads of state may lose their economic incentive to ensure citizens prosper. This would weaken citizens' power to resist coup and backsliding attempts",
+      "conditional": null,
+      "notes": "Analogous to resource-rich countries suffering from resource curse"
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "risk",
+      "claim_text": "By replacing government employees with loyal AI systems, a head of state could remove important checks on their power, especially in institutions designed to check executive power like electoral commissions",
+      "confidence": "medium",
+      "quote": "By replacing government employees with loyal AI systems (see section 3.1), a head of state could remove important checks on their power. This would be especially concerning in institutions explicitly designed to check executive power, like electoral commissions",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "strategic",
+      "claim_text": "AI developers should establish rules in model specs and terms of service that prevent AI systems from assisting with coups, including rules that AI systems follow the law and do not assist with circumventing security or inserting secret loyalties",
+      "confidence": "high",
+      "quote": "Establish rules in model specs and terms of service for government contracts. These should include rules that AI systems: Follow the law; Do not assist with circumventing security or inserting secret loyalties",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "strategic",
+      "claim_text": "AI developers should implement robust guardrails against misuse, conduct alignment audits for secret loyalties, implement strong infosecurity, and perform system-level stress-testing",
+      "confidence": "high",
+      "quote": "we recommend the following measures: Robust guardrails to ensure AI systems comply with the model spec; Alignment audits to detect secret loyalties; Strong infosecurity to prevent unauthorised access to guardrail-free models and to prevent people inserting secretly loyalties; System-level stress-testing",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "strategic",
+      "claim_text": "Governments should establish principles that government AI should not advance partisan interests, that military AI systems should be procured from multiple providers, and that no single person should direct enough military AI systems to stage a coup",
+      "confidence": "high",
+      "quote": "These should include: Government AI should not advance partisan interests; Using AI from multiple projects to develop military systems; Distributing control over military AI systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "strategic",
+      "claim_text": "Mitigations must be in place when AI systems first become capable enough to meaningfully assist with coups, and so preparation and precedent-setting should start today",
+      "confidence": "high",
+      "quote": "The mitigations we recommend below should be in place when AI systems first become capable enough to meaningfully assist with coups, and so preparation and precedent-setting should start today",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "feasibility",
+      "claim_text": "Mitigations could substantially reduce the risk of AI-enabled coups, even though some could potentially be removed by someone trying to seize power",
+      "confidence": "medium",
+      "quote": "Some of these mitigations could potentially be removed by someone trying to seize power. But we believe that even marginal improvements would still notably reduce coup risk",
+      "conditional": null,
+      "notes": "Some mitigations cannot be unilaterally removed once established"
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "actor_behavior",
+      "claim_text": "Many actors might be opportunistic about seizing power and only take action if they happen to find themselves in a situation where they would be able to do so",
+      "confidence": "medium",
+      "quote": "many actors might be opportunistic about seizing power, and only take action if they happen to find themselves in a situation where they would be able to do so. By preventing them from passively ending up with easy access to coup-enabling capabilities... it might be possible to head off the majority of coup attempts",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "other",
+      "claim_text": "From behind the veil of ignorance, even the most powerful leaders have good reason to support strong protections against AI-enabled coups",
+      "confidence": "high",
+      "quote": "From behind the veil of ignorance, even the most powerful leaders have good reason to support strong protections against AI-enabled coups. If a broad consensus can be built today, then powerful actors can keep each other in check",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "priority",
+      "claim_text": "Preventing AI-enabled coups should be a top priority for anyone committed to defending democracy and freedom",
+      "confidence": "high",
+      "quote": "Preventing AI-enabled coups should be a top priority for anyone committed to defending democracy and freedom",
+      "conditional": null,
+      "notes": "Stated twice in the document, in summary and conclusion"
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "feasibility",
+      "claim_text": "It may be fundamentally difficult to make AI systems adversarially robust, as is the case today",
+      "confidence": "medium",
+      "quote": "guardrails may fail to prevent a coup because it is fundamentally difficult to make AI systems adversarially robust, as is the case today",
+      "conditional": null,
+      "notes": "If true, AI systems should be deployed more cautiously"
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "strategic",
+      "claim_text": "AI projects should grant alignment auditors comprehensive access to model internals, training data, code for training algorithms, and detailed commit-history to enable effective detection of secret loyalties",
+      "confidence": "high",
+      "quote": "to effectively implement alignment audits, AI projects should grant auditors comprehensive access to model internals and training data. Ideally they should also grant access to the code for the training algorithms, the code used to generate the training data, the detailed commit-history that was used to construct this code, and logs of additional relevant information",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "strategic",
+      "claim_text": "Security measures must be robust against even the most senior insiders, as they present the most significant infosecurity threat",
+      "confidence": "high",
+      "quote": "The most significant threat comes from insiders, especially senior executives within AI projects who might have or demand permissions that they could use to access guardrail free models or insert secret loyalties. Security measures must therefore be robust to even the most senior insiders",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "strategic",
+      "claim_text": "General-purpose intellectual labor and strategy capabilities should be shared widely, ideally with the public, or at minimum with many people inside AI projects, auditors, oversight bodies, and both branches of government",
+      "confidence": "high",
+      "quote": "These capabilities should ideally be shared with the public. But if this poses other risks, capabilities should still be shared with many people inside relevant AI projects, their auditors and oversight bodies, and the executive and legislative branches of government",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "risk",
+      "claim_text": "A single centralized AI development project would significantly increase the risk of coups by making it hard to audit for secret loyalties, creating institutional reliance on a single provider, and reducing the number of independent developers",
+      "confidence": "high",
+      "quote": "A single centralised AI development project would increase the risk of coups in several ways",
+      "conditional": null,
+      "notes": "Document provides detailed analysis of how centralization increases all three risk factors"
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "strategic",
+      "claim_text": "Governments should avoid centralizing AI development unless it's necessary to reduce other risks, and should coup-proof any plans for a centralized project through limited centralization, oversight by multiple bodies, formal rules, and distributed governance",
+      "confidence": "high",
+      "quote": "Coup-proof any plans for a centralised project, and avoid centralisation unless it's necessary to reduce other risks... any centralised project should include: Limited centralisation wherever possible... Oversight by multiple governmental bodies... Formal rules for how AI can be used... A governance structure which preserves checks and balances",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "risk",
+      "claim_text": "A successful AI-enabled coup could lead to unprecedented concentration of power, as coup leaders could replace all humans including their closest allies with loyal AI systems and potentially stay in power indefinitely",
+      "confidence": "medium",
+      "quote": "Even if a coup leader were initially supported by some humans, AI automation could subsequently enable them to act entirely according to their own will, by replacing all humans, including their closest allies, with loyal AI systems. This would be an unprecedented concentration of power... Coup leaders could potentially stay in power indefinitely, by deploying AI systems to preserve and pursue their goals far into the future",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "risk",
+      "claim_text": "A successful coup in the country at the frontier of AI development could ultimately enable coup leaders to effectively seize control over the rest of the world through extreme dominance",
+      "confidence": "low",
+      "quote": "Very rapid AI development might grant one country extreme dominance over all other powers. So a successful coup in the country at the frontier of AI development - currently the US, possibly China in future - could ultimately enable coup leaders to effectively seize control over the rest of the world",
+      "conditional": "IF very rapid AI development grants one country extreme dominance",
+      "notes": null
+    }
+  ]
+}

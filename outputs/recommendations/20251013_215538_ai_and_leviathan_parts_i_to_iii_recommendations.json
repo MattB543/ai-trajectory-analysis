@@ -1,0 +1,147 @@
+{
+  "recommendations": [
+    {
+      "rec_id": "rec_1",
+      "action": "Do not pause AI development",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "master AI rather than stop it, while managing risks appropriately",
+      "conditions": "unconditional",
+      "rationale_summary": "Pausing AI is neither feasible nor desirable. The goal should be to master AI and manage its deployment safely, not prevent its development entirely.",
+      "quote": "what follows is not an argument for pausing AI development, even if we could. While I think we will need new oversight mechanisms for deploying frontier models safely as their scale and power ramps up, our goal should not be to stop AI but rather to in some sense master it."
+    },
+    {
+      "rec_id": "rec_2",
+      "action": "Establish new oversight mechanisms for deploying frontier AI models",
+      "actor": "Governments",
+      "target_timeline": "as models scale up in power",
+      "urgency": "high",
+      "goal": "ensure frontier models are deployed safely as their capabilities increase",
+      "conditions": "as scale and power of models ramps up",
+      "rationale_summary": "While not stopping AI development, oversight is needed for the most powerful frontier models to ensure safe deployment as capabilities grow.",
+      "quote": "While I think we will need new oversight mechanisms for deploying frontier models safely as their scale and power ramps up, our goal should not be to stop AI but rather to in some sense master it."
+    },
+    {
+      "rec_id": "rec_3",
+      "action": "Accelerate development of defensive AI capabilities across different modalities",
+      "actor": "AI labs",
+      "target_timeline": "immediately",
+      "urgency": "high",
+      "goal": "make mitigation and adaptation viable and prevent offensive-defensive capability imbalance",
+      "conditions": "unconditional",
+      "rationale_summary": "If offensive AI capabilities democratize faster than defensive technologies and adaptation can keep up, society could be forced into either an AI Leviathan or dangerous anarchy.",
+      "quote": "If anything, accelerating the different modalities of defensive AI may be our best hope for making the 'mitigation and adaptation' option the path of less resistance."
+    },
+    {
+      "rec_id": "rec_4",
+      "action": "Avoid creating an FDA-style licensing regime for AI models",
+      "actor": "Governments",
+      "target_timeline": "ongoing",
+      "urgency": "medium",
+      "goal": "prevent over-regulation that stifles beneficial AI innovation",
+      "conditions": "unconditional",
+      "rationale_summary": "An FDA-like approval process for AI models would be overly restrictive and slow innovation, though complete open source maximalism is also problematic.",
+      "quote": "Fortunately, there is huge middle ground between the safetyist's 'FDA for AI models' and the rapturous urge to democratize powerful new capabilities the moment the training run ends."
+    },
+    {
+      "rec_id": "rec_5",
+      "action": "Do not immediately open source powerful AI capabilities the moment training runs complete",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "prevent offensive capabilities from democratizing faster than defensive adaptation",
+      "conditions": "when capabilities have significant dual-use or negative externality potential",
+      "rationale_summary": "Open source maximalism could jeopardize freedom itself if offensive capabilities spread faster than society can adapt and defensive technologies can emerge.",
+      "quote": "If offensive capabilities democratize faster than adaptation and defensive technology can keep up, open source maximalism could even jeopardize the cause of freedom itself, accelerating the conditions for the AI Leviathan that Hotz and company fear most."
+    },
+    {
+      "rec_id": "rec_6",
+      "action": "Find and implement a middle ground approach between safety maximalism and open source maximalism",
+      "actor": "AI labs",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "balance AI safety with innovation and access",
+      "conditions": "unconditional",
+      "rationale_summary": "Both extreme positions have significant downsides. A balanced approach is needed that neither over-regulates nor recklessly democratizes dangerous capabilities.",
+      "quote": "Fortunately, there is huge middle ground between the safetyist's 'FDA for AI models' and the rapturous urge to democratize powerful new capabilities the moment the training run ends."
+    },
+    {
+      "rec_id": "rec_7",
+      "action": "Demonstrate institutional co-evolution with AI as a third way between degenerate anarchy and AI Leviathan",
+      "actor": "Liberal democracies",
+      "target_timeline": "immediately",
+      "urgency": "critical",
+      "goal": "maintain liberal democracy within the narrow corridor between despotism and state collapse",
+      "conditions": "unconditional",
+      "rationale_summary": "AI will destabilize existing institutional structures. Liberal democracies must actively co-evolve their institutions with AI to avoid sliding into either totalitarian surveillance states or fragmented anarchy.",
+      "quote": "It's up to liberal democracies to demonstrate institutional co-evolution as a third-way between degenerate anarchy and an AI Leviathan."
+    },
+    {
+      "rec_id": "rec_8",
+      "action": "Embrace AI tooling within the machinery of government",
+      "actor": "Governments",
+      "target_timeline": "starting now",
+      "urgency": "high",
+      "goal": "enable government to maintain capacity and keep pace with AI-driven societal changes",
+      "conditions": "unconditional",
+      "rationale_summary": "Without adopting AI tools, government agencies will become increasingly illegible and unable to track or regulate an AI-accelerated economy and society.",
+      "quote": "At a minimum, this will require embracing AI tooling within the machinery of government; painful concessions to the government functions that AI simply renders obsolete; and the dialectical construction of a new social contract"
+    },
+    {
+      "rec_id": "rec_9",
+      "action": "Make concessions to eliminate government functions that AI renders obsolete",
+      "actor": "Governments",
+      "target_timeline": "as AI capabilities mature",
+      "urgency": "high",
+      "goal": "maintain government efficiency, legitimacy and fiscal sustainability",
+      "conditions": "unconditional",
+      "rationale_summary": "Many government functions will become obsolete or be better performed by private AI-enabled alternatives. Governments must accept these painful concessions rather than defending anachronistic roles.",
+      "quote": "At a minimum, this will require embracing AI tooling within the machinery of government; painful concessions to the government functions that AI simply renders obsolete; and the dialectical construction of a new social contract"
+    },
+    {
+      "rec_id": "rec_10",
+      "action": "Construct a new social contract that defines AI ordered-liberty",
+      "actor": "Liberal democracies",
+      "target_timeline": "before institutional breakdown occurs",
+      "urgency": "critical",
+      "goal": "establish a new framework for liberty and governance that functions in an AI-transformed society",
+      "conditions": "unconditional",
+      "rationale_summary": "The existing social contract was built for pre-AI transaction cost structures. A new social contract is needed that balances liberty with order in high-information, low-transaction-cost environments, ideally resembling Switzerland more than Afghanistan.",
+      "quote": "At a minimum, this will require embracing AI tooling within the machinery of government; painful concessions to the government functions that AI simply renders obsolete; and the dialectical construction of a new social contract — an AI ordered-liberty — that one hopes is far more Swiss than Pashtun."
+    },
+    {
+      "rec_id": "rec_11",
+      "action": "Move with much greater speed and competence in adapting institutions to AI",
+      "actor": "US Government",
+      "target_timeline": "immediately",
+      "urgency": "critical",
+      "goal": "avoid institutional breakdown, state fragmentation, or descent into techno-feudalism",
+      "conditions": "unconditional",
+      "rationale_summary": "The default scenario where government moves with customary slowness and incompetence leads to institutional failure, either collapsing into anarchy or being displaced by private alternatives, creating a techno-feudal order.",
+      "quote": "This essay, Part III, is about exploring the default path in which our government moves with the slowness and incompetence that we've grown accustom to."
+    },
+    {
+      "rec_id": "rec_12",
+      "action": "Pay attention to the ordering and sequence of AI risks, not just final-stage x-risks",
+      "actor": "AI safety researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "preserve institutions needed to address later-stage superintelligence risks",
+      "conditions": "unconditional",
+      "rationale_summary": "Intermediate stages of AI development may not kill us directly but could destroy the institutional capacity needed to address superintelligence risks. The order in which risks emerge matters enormously.",
+      "quote": "And that is why the order of AI risks matters. Even if the intermediate stages of AI don't kill us all, they may indirectly affect x-risk by upending the very institutions we'll need during the stage that does."
+    },
+    {
+      "rec_id": "rec_13",
+      "action": "Focus on second-order institutional effects of AI, not just first-order direct impacts",
+      "actor": "AI safety researchers",
+      "target_timeline": "ongoing",
+      "urgency": "high",
+      "goal": "understand and prepare for AI's indirect effects on society and governance",
+      "conditions": "unconditional",
+      "rationale_summary": "Just as the internet's biggest impacts were second-order effects on politics and culture rather than first-order concerns like cybercrime, AI's institutional and societal disruption will likely swamp direct safety concerns.",
+      "quote": "AI safety means different things to different people, but whether the focus is job loss or the x-risk from an unaligned superintelligence, the concerns are always presented as relatively first-order. That is, AI safety is usually conceptualized in terms of what AI will do directly, rather than in terms of AI's likely indirect, second-order effects on society and the shape of our institutions. This is an enormous blind spot."
+    }
+  ]
+}

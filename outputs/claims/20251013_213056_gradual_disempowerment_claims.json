@@ -1,0 +1,544 @@
+{
+  "claims": [
+    {
+      "claim_id": "1",
+      "claim_type": "risk",
+      "claim_text": "Incremental AI development poses substantial risk of eventual human disempowerment even without sudden capability gains or coordinated AI power-seeking behavior",
+      "confidence": "high",
+      "quote": "we argue that even an incremental increase in AI capabilities, without any coordinated power-seeking, poses a substantial risk of eventual human disempowerment",
+      "conditional": null,
+      "notes": "Core thesis of the paper contrasting with standard takeover scenarios"
+    },
+    {
+      "claim_id": "2",
+      "claim_type": "causal",
+      "claim_text": "The alignment of societal systems with human interests has been stable primarily because these systems depend on human participation to function, not due to any inherent alignment properties",
+      "confidence": "high",
+      "quote": "the alignment of societal systems with human interests has been stable only because of the necessity of human participation for thriving economies, states, and cultures",
+      "conditional": null,
+      "notes": "Fundamental claim about mechanism of current alignment"
+    },
+    {
+      "claim_id": "3",
+      "claim_type": "causal",
+      "claim_text": "Once AI displaces human participation in societal systems, institutions' growth incentives will become untethered from the need to ensure human flourishing",
+      "confidence": "high",
+      "quote": "Once this human participation gets displaced by more competitive machine alternatives, our institutions' incentives for growth will be untethered from a need to ensure human flourishing",
+      "conditional": "IF AI systems displace human participation in economy, states, and culture",
+      "notes": null
+    },
+    {
+      "claim_id": "4",
+      "claim_type": "strategic",
+      "claim_text": "No one currently has a concrete plausible plan for stopping gradual human disempowerment",
+      "confidence": "high",
+      "quote": "no one has a concrete plausible plan for stopping gradual human disempowerment",
+      "conditional": null,
+      "notes": "Strong negative claim about current state of solutions"
+    },
+    {
+      "claim_id": "5",
+      "claim_type": "feasibility",
+      "claim_text": "Methods for aligning individual AI systems with their designers' intentions are not sufficient to prevent gradual disempowerment",
+      "confidence": "high",
+      "quote": "methods of aligning individual AI systems with their designers' intentions are not sufficient",
+      "conditional": null,
+      "notes": "Claim about inadequacy of standard alignment approaches"
+    },
+    {
+      "claim_id": "6",
+      "claim_type": "risk",
+      "claim_text": "Gradual disempowerment could plausibly lead to human extinction or similar outcomes because it would be global, permanent, and leave humanity without resources",
+      "confidence": "medium",
+      "quote": "Because this disempowerment would be global and permanent, and because human flourishing requires substantial resources in global terms, it could plausibly lead to human extinction or similar outcomes",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "7",
+      "claim_type": "causal",
+      "claim_text": "Societal systems maintain alignment with humans through two mechanisms: explicit human actions (voting, consumer choice) and implicit reliance on human labor and cognition",
+      "confidence": "high",
+      "quote": "There are effectively two ways these systems maintain their alignment: through explicit human actions (like voting and consumer choice), and implicitly through their reliance on human labor and cognition",
+      "conditional": null,
+      "notes": "One of the six core claims structuring the argument"
+    },
+    {
+      "claim_id": "8",
+      "claim_type": "causal",
+      "claim_text": "AI systems may optimize more aggressively for outcomes that are already misaligned with human preferences compared to human-based systems",
+      "confidence": "medium",
+      "quote": "to the extent that these systems already reward outcomes that are bad for humans, AI systems may more effectively follow these incentives, both reaping the rewards and causing the outcomes to diverge further from human preferences",
+      "conditional": null,
+      "notes": "Claim about AI amplifying existing misalignment"
+    },
+    {
+      "claim_id": "9",
+      "claim_type": "causal",
+      "claim_text": "Misalignment across different societal systems (economy, culture, states) is mutually reinforcing, with misalignment in one system aggravating misalignment in others",
+      "confidence": "high",
+      "quote": "The societal systems we describe are interdependent, and so misalignment in one can aggravate the misalignment in others",
+      "conditional": null,
+      "notes": "Core claim about cross-system feedback loops"
+    },
+    {
+      "claim_id": "10",
+      "claim_type": "capability",
+      "claim_text": "AI has the potential to compete with or outperform humans across nearly all cognitive domains, unlike previous technologies that only automated narrow tasks",
+      "confidence": "high",
+      "quote": "while past technologies mainly automated specific narrow tasks, leaving humans to move into more complex roles, AI has the potential to compete with or outperform humans across nearly all cognitive domains",
+      "conditional": null,
+      "notes": "Claim distinguishing AI from previous automation"
+    },
+    {
+      "claim_id": "11",
+      "claim_type": "causal",
+      "claim_text": "When machines become capable of performing the full range of human cognitive tasks, this creates worker-replacing technological change that is qualitatively different from historical patterns",
+      "confidence": "high",
+      "quote": "When machines become capable of performing the full range of human cognitive tasks, it creates a form of 'worker-replacing technological change' that is qualitatively different from historical patterns of creative destruction",
+      "conditional": "IF machines achieve full cognitive task capability",
+      "notes": null
+    },
+    {
+      "claim_id": "12",
+      "claim_type": "causal",
+      "claim_text": "Declining labor share from AI automation will translate into structural decline in household consumption power without unprecedented changes in redistribution",
+      "confidence": "high",
+      "quote": "without unprecedented changes in redistribution, declining labor share also translates into a structural decline in household consumption power, as humans lose their primary means of earning the income needed to participate in the economy as consumers",
+      "conditional": "IF AI displaces human labor AND redistribution is not substantially changed",
+      "notes": null
+    },
+    {
+      "claim_id": "13",
+      "claim_type": "feasibility",
+      "claim_text": "Attempts to closely oversee AI labor to ensure continued human influence may prove ineffective because AI labor will occur at scales too fast, large, and complex for humans to oversee",
+      "confidence": "medium",
+      "quote": "Attempts to closely oversee such AI labor to ensure continued human influence may prove ineffective since AI labor will likely occur on a scale that is far too fast, large and complex for humans to oversee",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "14",
+      "claim_type": "actor_behavior",
+      "claim_text": "Firms will face intense competitive pressure to delegate authority to AI systems because AI can make better and faster decisions about investments, supply chains, and resource allocation",
+      "confidence": "high",
+      "quote": "As AI systems become increasingly capable across a broad range of cognitive tasks, firms will face intense competitive pressure to adopt and delegate authority to these systems. This pressure extends beyond simple automation of routine tasks — AI systems can be expected to eventually make better and faster decisions about investments, supply chain optimization, and resource allocation",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "15",
+      "claim_type": "actor_behavior",
+      "claim_text": "Companies that maintain strict human oversight will find themselves at significant competitive disadvantage compared to those willing to cede substantial control to AI systems",
+      "confidence": "high",
+      "quote": "Companies that maintain strict human oversight would likely find themselves at a significant competitive disadvantage compared to those willing to cede substantial control to AI systems, potentially to the point of becoming uncompetitive",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "16",
+      "claim_type": "actor_behavior",
+      "claim_text": "The pace of AI development and deployment may significantly outstrip the adaptive capacity of regulatory institutions, creating asymmetry between regulated human labor and unconstrained AI systems",
+      "confidence": "medium",
+      "quote": "The pace of AI development and deployment may significantly outstrip the adaptive capacity of regulatory institutions, creating an asymmetry between heavily regulated human labor and relatively unconstrained AI systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "17",
+      "claim_type": "actor_behavior",
+      "claim_text": "As tasks become candidates for future automation, firms and individuals face diminishing incentives to invest in developing human capabilities, creating a self-reinforcing cycle",
+      "confidence": "high",
+      "quote": "As tasks become candidates for future automation, both firms and individuals face diminishing incentives to invest in developing human capabilities in these areas. Instead, they are incentivized to direct resources toward AI development and deployment, accelerating the shift away from human capital formation even before automation is fully realized. This creates a self-reinforcing cycle",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "18",
+      "claim_type": "risk",
+      "claim_text": "Even with substantial economic growth and apparent prosperity through capital ownership or UBI, humans could progressively lose relative economic influence as markets optimize for AI-driven activities",
+      "confidence": "medium",
+      "quote": "While human labor share of GDP gradually tends toward zero, humans might still benefit from economic growth through capital ownership, government redistribution, or universal basic income schemes. At the same time their role in economic decision-making would diminish. Markets might increasingly optimize for AI-driven activities rather than human preferences",
+      "conditional": "IF economic growth continues AND humans retain capital/receive UBI",
+      "notes": "Describes 'relative disempowerment' scenario"
+    },
+    {
+      "claim_id": "19",
+      "claim_type": "risk",
+      "claim_text": "AI systems might outcompete humans for crucial scarce resources like land, energy, and raw materials, making even necessities increasingly unaffordable for humans despite overall economic growth",
+      "confidence": "medium",
+      "quote": "AI systems might outcompete humans for crucial scarce resources such as land, energy, and raw materials. Even as the economy produces more goods and services overall, inflation in these basic resources might make even necessities increasingly unaffordable for humans",
+      "conditional": null,
+      "notes": "Describes 'absolute disempowerment' scenario"
+    },
+    {
+      "claim_id": "20",
+      "claim_type": "risk",
+      "claim_text": "The economy might become so optimized for AI-centric activities that it fails to maintain infrastructure and supply chains critical for human survival",
+      "confidence": "medium",
+      "quote": "the economy might become so optimized for AI-centric activities that it fails to maintain infrastructure and supply chains which are critical for human survival. If human consumers command an ever-smaller share of economic resources, markets might stop producing resource-intensive human goods in favor of more profitable AI-focused activities",
+      "conditional": "IF human economic share becomes sufficiently small",
+      "notes": null
+    },
+    {
+      "claim_id": "21",
+      "claim_type": "capability",
+      "claim_text": "AI is the first technology in history with the potential to replace human cognition in all roles it plays in cultural evolution, not just mediate or augment it",
+      "confidence": "high",
+      "quote": "AI is the first technology in history with the potential to not only complement, but gradually replace human cognition in all roles it plays in the evolution of culture",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "22",
+      "claim_type": "causal",
+      "claim_text": "Cultural variants that severely undermined host communities historically disappeared when those communities failed, creating a natural guardrail against extreme cultural misalignment that AI could remove",
+      "confidence": "high",
+      "quote": "even when maladaptive cultural variants spread, the extent of harm they could cause was naturally bounded: cultural patterns that severely undermined their host communities typically disappeared when those communities failed in competition with others. This created a kind of guardrail against the most extreme forms of cultural misalignment",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "23",
+      "claim_type": "causal",
+      "claim_text": "Once AI systems can create, spread, and select cultural artifacts, they will exert selection pressure favoring cultural variants that score high in ease of AI understanding, transmission, and general benefit to AI systems",
+      "confidence": "medium",
+      "quote": "once AI systems can create, spread, and select cultural artifacts, they exert a selection pressure on culture. This pressure might in particular favor cultural variants that score high in terms of ease of understanding by AIs, ease of transmission by AIs or general benefit to AI systems",
+      "conditional": "IF AI systems participate significantly in cultural evolution",
+      "notes": null
+    },
+    {
+      "claim_id": "24",
+      "claim_type": "risk",
+      "claim_text": "AI could dramatically accelerate cultural evolution itself, allowing more effective exploitation of human cognitive biases and more extreme ideological variants before humans can develop resistance",
+      "confidence": "medium",
+      "quote": "AI systems could dramatically accelerate the pace of cultural evolution itself. This acceleration presents distinct risks, even if selection pressures remained human-centric... AI systems could discover and exploit psychological vulnerabilities more efficiently than previous technologies",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "25",
+      "claim_type": "risk",
+      "claim_text": "Accelerated cultural evolution could overwhelm natural correction mechanisms, introducing novel memetic hazards faster than human societies can learn to recognize and resist them",
+      "confidence": "medium",
+      "quote": "Accelerated cultural evolution could overwhelm these natural correction mechanisms, introducing novel memetic hazards faster than human societies can learn to recognize and resist them",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "26",
+      "claim_type": "risk",
+      "claim_text": "Most individual humans could functionally become resources to be wielded in AI-mediated cultural battles they struggle to appreciate, with their understanding of the world mediated by AI systems",
+      "confidence": "low",
+      "quote": "in future, AIs might be sufficiently widespread and capable that most individual humans functionally become a resource to be wielded in cultural battles that they struggle to appreciate, their understanding the world largely mediated by large networks of AI systems",
+      "conditional": null,
+      "notes": "Describes extreme cultural disempowerment scenario"
+    },
+    {
+      "claim_id": "27",
+      "claim_type": "risk",
+      "claim_text": "If ideology spread is no longer dependent on humans but on AI systems, fully anti-human ideologies could cause more harm by expanding the bounds on damage beyond historical limits",
+      "confidence": "medium",
+      "quote": "if the spread of such an ideology is no longer dependent on humans (but AIs), though would plausibly lead to such ideologies causing more harm to humans, and in particular expand the bounds on just how much harm could be caused by an ideology",
+      "conditional": "IF ideology propagation becomes AI-dependent",
+      "notes": null
+    },
+    {
+      "claim_id": "28",
+      "claim_type": "causal",
+      "claim_text": "The loss of tax revenue from citizens to AI-generated revenue would make states less reliant on nurturing human capital and more reliant on AI systems and their profits",
+      "confidence": "high",
+      "quote": "The loss of tax revenue from citizens would make the state less reliant on nurturing human capital and fostering environments conducive to human innovation and productivity, and more reliant on AI systems and the profits they generate",
+      "conditional": "IF AI systems generate a large fraction of tax revenue",
+      "notes": null
+    },
+    {
+      "claim_id": "29",
+      "claim_type": "causal",
+      "claim_text": "States funded mainly by taxes on AI profits instead of citizens' labor will have little incentive to ensure citizens' representation",
+      "confidence": "high",
+      "quote": "states funded mainly by taxes on AI profits instead of their citizens' labor will have little incentive to ensure citizens' representation",
+      "conditional": "IF states derive revenue primarily from AI rather than human labor",
+      "notes": null
+    },
+    {
+      "claim_id": "30",
+      "claim_type": "causal",
+      "claim_text": "An AI-enhanced security apparatus could make effective protest increasingly difficult, with states able to predict and shut down civil unrest before it can exert meaningful pressure",
+      "confidence": "medium",
+      "quote": "an AI-enhanced security apparatus could make effective protest increasingly difficult. A state with sufficiently advanced AI systems might be able to predict and shut down civil unrest before it can exert meaningful pressure on institutional behavior",
+      "conditional": "IF states deploy sufficiently advanced AI in security",
+      "notes": null
+    },
+    {
+      "claim_id": "31",
+      "claim_type": "risk",
+      "claim_text": "If AI plays a significant role in drafting legislation and making judicial decisions, the legal system risks becoming increasingly alien and harder for humans to interact with directly",
+      "confidence": "medium",
+      "quote": "It is conceivable that in the future, AI could play a significant role in drafting legislation, interpreting laws, and even making judicial decisions... If the creation and interpretation of laws becomes far more complex, it may become much harder for humans to even interact with legislation and the legal system directly",
+      "conditional": "IF AI becomes deeply involved in legal processes",
+      "notes": null
+    },
+    {
+      "claim_id": "32",
+      "claim_type": "actor_behavior",
+      "claim_text": "States will face growing pressure to adopt AI technologies to maintain relative power in geopolitical competition, with first-mover advantages creating particularly strong incentives",
+      "confidence": "high",
+      "quote": "As AI systems become increasingly powerful, states will face a growing pressure to adopt these technologies to maintain their relative power compared to other states... The first-mover advantages in military applications, economic planning, and diplomatic strategy create particularly strong incentives for early and aggressive AI adoption",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "33",
+      "claim_type": "actor_behavior",
+      "claim_text": "Countries that rely on humans for defense, economic development, or regulation will find themselves at significant disadvantage compared to states willing to give more power to AI systems",
+      "confidence": "medium",
+      "quote": "Countries that rely on humans for defense, economic development or regulation might find themselves at a significant disadvantage in international relations compared to those states willing to give more power to AI systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "34",
+      "claim_type": "risk",
+      "claim_text": "Democratic processes might persist formally but become less meaningful as politicians increasingly rely on AI systems for legislative advice, writing, and interpretation",
+      "confidence": "medium",
+      "quote": "Democratic processes might persist formally but become less meaningful. While politicians might ostensibly make the decisions, they may increasingly look to AI systems for advice on what legislation to pass, how to actually write the legislation, and what the law even is",
+      "conditional": null,
+      "notes": "Describes relative political disempowerment"
+    },
+    {
+      "claim_id": "35",
+      "claim_type": "risk",
+      "claim_text": "The complexity of AI-driven governance might make it increasingly difficult for human citizens to understand or critique government decisions, making traditional civic engagement less effective",
+      "confidence": "medium",
+      "quote": "The complexity of AI-driven governance might make it increasingly difficult for human citizens to understand or critique government decisions. Traditional forms of civic engagement — from public consultations to protests — might become less effective as the state grows less dependent on human cooperation and more capable of predicting and preempting resistance",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "36",
+      "claim_type": "risk",
+      "claim_text": "AI-powered states might become less responsive to human preferences when they do not depend on human participation for core functions, similar to how rentier states become less responsive without tax dependence",
+      "confidence": "medium",
+      "quote": "Much like how rentier states become less responsive to citizen needs when they do not depend on tax revenue, AI-powered states might become less responsive to human preferences when they do not depend on human participation for their core functions",
+      "conditional": "IF states become primarily AI-powered",
+      "notes": null
+    },
+    {
+      "claim_id": "37",
+      "claim_type": "causal",
+      "claim_text": "Cross-system relationships between economy, culture, and states are agnostic to human values and do not inherently promote or protect alignment with human interests",
+      "confidence": "high",
+      "quote": "The relationships between societal systems are agnostic to human values — they do not inherently promote or protect alignment with human values. Consequently, as one system becomes less aligned, that influence also can be used to decrease the alignment of other systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "38",
+      "claim_type": "causal",
+      "claim_text": "Misalignment will not remain confined to specific societal systems; there will be both possibilities and incentives to leverage misalignment in one system to reduce alignment in related systems",
+      "confidence": "high",
+      "quote": "we should not expect misalignment to remain confined to any specific societal system: even if the independent misalignment of different societal systems progresses at different rates, there will by default be both possibilities and incentives to leverage misalignment in one system to reduce alignment in related systems",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "39",
+      "claim_type": "causal",
+      "claim_text": "Attempts to use one aligned system to moderate another can backfire by shifting the burden of alignment, as with state redistribution making citizens dependent on state support rather than vice versa",
+      "confidence": "medium",
+      "quote": "Even attempts to use the alignment of one system to moderate or contain the effects of a less aligned system can potentially backfire by effectively shifting the burden of (mis)alignment... if governments become the primary distributors of AI-generated wealth, this crucial accountability mechanism erodes",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "40",
+      "claim_type": "causal",
+      "claim_text": "Economic incentives for companies to replace humans with AI will push them to influence states and culture to support this change, using growing economic power to shape policy and opinion",
+      "confidence": "high",
+      "quote": "the economic incentives for companies to replace humans with AI will also push them to influence states and culture to support this change, using their growing economic power to shape both policy and public opinion, which will in turn allow those companies to accrue even greater economic power",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "41",
+      "claim_type": "actor_behavior",
+      "claim_text": "Companies building AI systems are currently incentivized to push against AI regulation for future profits, and these incentives will likely grow stronger as AI demonstrates effectiveness",
+      "confidence": "high",
+      "quote": "Companies building AI systems are incentivized to push against some forms of AI regulation for the sake of their future profits... As we have argued, these incentives will likely grow stronger over time: as AI systems demonstrate their effectiveness, companies will face more pressure to adopt them",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "42",
+      "claim_type": "causal",
+      "claim_text": "Disempowerment does not need to emerge from deliberate schemes or power-grabs by AI systems, but is being incentivized by perceived value AI brings to economic, cultural, and state functions",
+      "confidence": "high",
+      "quote": "the misalignment being described here does not need to emerge from a deliberate scheme or power-grab by AI systems. In the short-term, it is being incentivized by the perceived value that AI systems can bring to economic, cultural and state functions",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "43",
+      "claim_type": "priority",
+      "claim_text": "The challenge of maintaining alignment between societal systems and human interests when systems no longer require human participation may be bigger than preventing AI systems from pursuing overtly harmful goals",
+      "confidence": "medium",
+      "quote": "This may be a bigger challenge than merely preventing AI systems from pursuing overtly harmful goals, as the systems may continue to function as requested locally, while the overall civilizational incentives become increasingly detached from human welfare",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "44",
+      "claim_type": "strategic",
+      "claim_text": "Understanding and mitigating gradual disempowerment risks is a highly interdisciplinary endeavor requiring economics, political science, sociology, cultural studies, complex systems, anthropology, and institutional theory",
+      "confidence": "high",
+      "quote": "Understanding these risks, and developing potential mitigating strategies, is a highly interdisciplinary endeavor, as the risks may emerge from complex interactions between multiple societal systems... it will likely be necessary to draw on many disparate yet relevant fields: economics, political science, sociology, cultural studies, complex systems, anthropology and institutional theory",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "45",
+      "claim_type": "strategic",
+      "claim_text": "Instead of merely aligning a single powerful AI system, we need to align one or several complex systems at risk of collectively drifting from human interests, which can occur even while individual AI systems follow local specifications",
+      "confidence": "high",
+      "quote": "Instead of merely(!) aligning a single, powerful AI system, we need to align one or several complex systems that are at risk of collectively drifting away from human interests. This drift can occur even while each individual AI system successfully follows the local specification of its goals",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "46",
+      "claim_type": "strategic",
+      "claim_text": "We should develop metrics tracking AI share of GDP as a distinct category from either labor or capital to monitor economic disempowerment",
+      "confidence": "medium",
+      "quote": "Beyond traditional measures like labor share of GDP, we should also measure AI share of GDP, as a distinct category from either labor or capital",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "47",
+      "claim_type": "strategic",
+      "claim_text": "We should strengthen runtime monitoring of deployed AI systems and develop evaluations focusing on AI's ability to influence humans emotionally, write persuasively, or create ideologies",
+      "confidence": "medium",
+      "quote": "While most machine learning benchmarks and evaluations focus on quantifiable STEM tasks, we should develop a broad spectrum of evaluations focusing on ability of frontier AI systems to influence humans on emotional level, write persuasive prose, or create new ideologies. Also, we should strengthen runtime monitoring of deployed AI systems and of the influence they have on their users",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "48",
+      "claim_type": "strategic",
+      "claim_text": "Interventions that limit AI influence will often involve sacrificing potential value, creating strong incentives to circumvent them, and will be less effective without international coordination",
+      "confidence": "high",
+      "quote": "Crucially, these interventions will often involve sacrificing potential value. Furthermore, the more value they sacrifice, the greater the incentive to circumvent them... Similarly, they will be much less effective if they are not widely adopted... The success of these interventions will depend on international coordination in the face of increasing pressures",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "49",
+      "claim_type": "strategic",
+      "claim_text": "Interventions seeking to limit AI influence will likely serve mostly as stopgaps rather than robust long-term solutions",
+      "confidence": "medium",
+      "quote": "As such, interventions that seek to limit AI influence will likely serve mostly as stopgaps. Nonetheless, they may be important intermediary steps towards more robust solutions",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "50",
+      "claim_type": "feasibility",
+      "claim_text": "It is unclear whether direct democracy would actually better satisfy citizen preferences in the long term because it would leave the state more vulnerable to cultural misalignment",
+      "confidence": "medium",
+      "quote": "it is unclear, for instance, whether a direct democracy would actually do a better job of satisfying citizen preferences in the long term because, for example, it would leave the state more vulnerable to cultural misalignment",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "51",
+      "claim_type": "priority",
+      "claim_text": "We currently lack a compelling positive vision of how highly capable AI systems could be integrated into societal systems while maintaining meaningful human influence",
+      "confidence": "high",
+      "quote": "Currently, we lack a compelling positive vision of how highly capable AI systems could be integrated into societal systems while maintaining meaningful human influence",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "52",
+      "claim_type": "priority",
+      "claim_text": "We need new frameworks for 'ecosystem alignment' - understanding how to maintain human values and agency within complex socio-technical systems of interacting human and artificial components",
+      "confidence": "high",
+      "quote": "It seems likely we need fundamental research into what might be called 'ecosystem alignment' - understanding how to maintain human values and agency within complex socio-technical systems. This goes beyond traditional approaches to AI alignment focused on individual systems, and beyond traditional institutional design focused purely on human actors. We need new frameworks for thinking about the alignment of an entire civilization of interacting human and artificial components",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "53",
+      "claim_type": "risk",
+      "claim_text": "The loss of human influence could occur even without any single transformative advance in AI capabilities, emerging instead from cumulative effects of many smaller shifts",
+      "confidence": "high",
+      "quote": "the loss of human influence could occur even without any single transformative advance in AI capabilities. Instead, it might emerge from the cumulative effect of many smaller shifts in how societal systems operate and interact",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "54",
+      "claim_type": "causal",
+      "claim_text": "The gradual disempowerment effect can be driven not by deliberate or agentic AI actions, but simply by individuals and institutions following their local incentives",
+      "confidence": "high",
+      "quote": "the effect can be driven not by any deliberate or even agentic action by AIs, but simply by individuals and institutions following their local incentives",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "55",
+      "claim_type": "risk",
+      "claim_text": "This challenge may subvert traditional mechanisms for course-correction and cause types of harm we cannot easily conceptualize or recognize in advance, potentially leaving humanity in an irrecoverable position",
+      "confidence": "medium",
+      "quote": "A distinctive feature of this challenge is that it may subvert our traditional mechanisms for course-correction, and cause types of harm we cannot easily conceptualize or even recognize in advance, potentially leaving us in a position from which it is impossible to recover",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "56",
+      "claim_type": "other",
+      "claim_text": "Historical examples show that economic power, cultural movements, and states have regularly weaponized their cross-system influence to cause harm, often predictably or intentionally",
+      "confidence": "high",
+      "quote": "Many companies have successfully lobbied states to act against the public interest, or shaped culture in harmful ways through advertising and marketing schemes... Many cultural movements have promoted political and economic shifts that have ultimately caused harm (often predictably or intentionally)... Many states have used their control of the economy and influence over culture to harm citizens",
+      "conditional": null,
+      "notes": "Provides empirical basis for cross-system misalignment concerns"
+    },
+    {
+      "claim_id": "57",
+      "claim_type": "causal",
+      "claim_text": "The significance of implicit alignment through human labor dependence is hard to recognize because we have never seen its absence",
+      "confidence": "high",
+      "quote": "The significance of the implicit alignment can be hard to recognize because we have never seen its absence",
+      "conditional": null,
+      "notes": "Epistemological claim about difficulty of recognizing this risk"
+    },
+    {
+      "claim_id": "58",
+      "claim_type": "capability",
+      "claim_text": "AI systems are already being used to produce cultural artifacts like songs, pictures, stories, and essays, with quality progressively approaching and potentially exceeding human level",
+      "confidence": "medium",
+      "quote": "AIs are already being used to produce cultural artifacts such as songs, pictures, stories, and essays based on prompts, with the quality progressively approaching and potentially even exceeding human level",
+      "conditional": null,
+      "notes": null
+    },
+    {
+      "claim_id": "59",
+      "claim_type": "causal",
+      "claim_text": "As AI systems become more integrated into cultural production, network effects will create additional adoption pressure, making non-use increasingly costly in terms of cultural participation",
+      "confidence": "medium",
+      "quote": "As AI systems become more integrated into cultural production and consumption, network effects will create additional pressure for adoption. When significant portions of cultural discourse, entertainment, and social interaction are mediated by AI systems, not using these systems becomes increasingly costly to individuals in terms of cultural participation and social connection",
+      "conditional": "IF AI becomes widely adopted in cultural domains",
+      "notes": null
+    },
+    {
+      "claim_id": "60",
+      "claim_type": "risk",
+      "claim_text": "We may reach a stage where important facets of culture inherently require AI mediation for humans to engage with, with no viable opt-out possibility, similar to requiring lawyers for legal systems",
+      "confidence": "medium",
+      "quote": "We may even reach a stage where there are important facets of culture which inherently require AI mediation for humans to engage with, with no viable opt-put possibility, similar to the existing necessity of using lawyers to interface with legal systems",
+      "conditional": null,
+      "notes": null
+    }
+  ]
+}
