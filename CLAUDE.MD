@@ -1,0 +1,5 @@
+- Always name output files with the datetime and with very specific long names and put them in specific folders named the same as the script that created the outputs within the "outputs" folder
+- GPT-5-mini was just launched by OpenAI (use an agent to web search and tell you how to use the API to use it)
+- We're on a Windows computer, don't use emojis in console logs, use tags like [OK] and [ERROR]
+- At the top of each new file, write a comment explaining why the file was created and if it was a direct request from a user, or if you decided to create it on your own (for testing, analysis, etc.)
+- If you need to create a small test script or a migration script or something scoped, create an agent to do that for you so you don't clog up your own context

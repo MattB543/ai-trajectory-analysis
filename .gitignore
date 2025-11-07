@@ -1,0 +1,83 @@
+# Merged .gitignore from V1 and V2
+# Created: 2025-11-07 16:08:19
+
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+.env
+*.cfg
+*.config
+*.cover
+*.log
+*.tmp
+.cache
+.claude/
+.coverage
+.coverage.*
+.dmypy.json
+.env.*.local
+.env.local
+.hypothesis/
+.ipynb_checkpoints
+.mypy_cache/
+.nox/
+.pyre/
+.pytest_cache/
+.ropeproject
+.ruff_cache/
+.spyderproject
+.spyderworkspace
+.tox/
+.venv/
+Desktop.ini
+coverage.xml
+ehthumbs.db
+env.bak/
+extraction_log.txt
+htmlcov/
+image_to_doc_mapping.json
+input/
+node_modules/
+nosetests.xml
+outputs/
+pip-delete-this-directory.txt
+pip-log.txt
+venv.bak/
